@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="intro">
+{{ .Content }}
+</section>
+
+{{ $people := .Site.Data.members }}
+
+
+{{ partial "people.html" $people.timotheepoisot }}
+
+<h2>Current group members</h2>
+
+{{ range sort $people "start" "desc" }}
+   {{ if or (not (isset . "end")) (.end.After now) }}
+      {{ if (not (eq .name "Timothée Poisot")) }}
+         {{ partial "people.html" . }}
+      {{ end }}
+   {{ end }}
+{{ end }}
+
+
+<h2>Former group members</h2>
+
+{{ range sort $people "start" "desc" }}
+   {{ if and (isset . "end") (not (.end.After now)) }}
+      {{ if (not (eq .name "Timothée Poisot")) }}
+         {{ partial "people.html" . }}
+      {{ end }}
+   {{ end }}
+{{ end }}
+
+{{ end }}

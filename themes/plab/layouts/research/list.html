@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+
+{{ range where .Site.RegularPages "Section" .Section }}
+<div class="topic">
+  <img src="/topics/{{ .Params.image }}" />
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Summary }}</p>
+</div>
+{{ end }}
+
+
+{{ end }}

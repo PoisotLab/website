@@ -1,0 +1,36 @@
+baseURL = "http://poisotlab.io/"
+languageCode = "en-ca"
+preserveTaxonomyNames = true
+theme = "plab"
+
+[params]
+  title = "the<b>poisot</b>lab"
+  subtitle = "computational ecology"
+  email = "timothee.poisot@umontreal.ca"
+
+[menu]
+  [[menu.main]]
+    name = "People"
+    url = "/people/"
+    weight = 1
+  [[menu.main]]
+    name = "Values"
+    url = "/values/"
+    weight = 2
+  [[menu.main]]
+    name = "Papers"
+    url = "/papers/"
+    weight = 4
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+  [[menu.main]]
+    name = "Intensive course"
+    url = "/ddes/"
+    weight = 5
+  [[menu.main]]
+    name = "Software"
+    target = "_blank"
+    url = "https://github.com/PoisotLab/"
+    weight = 6

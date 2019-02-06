@@ -1,0 +1,9 @@
+<img class="logo" src="/logo.png" />
+<h1><a href="/">{{ .Site.Params.title | markdownify }}</a></h1>
+<h2><a href="/">{{ .Site.Params.subtitle | markdownify }}</a></h2>
+<nav>
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.Section (lower .Name) ) }} active{{end}}" href="{{ .URL }}" {{ if (eq .Name "Software") }}target="_blank"{{ end }} title="{{ .Title }}">{{ .Name }}</a>
+  {{ end }}
+</nav>

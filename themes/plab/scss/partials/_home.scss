@@ -1,0 +1,33 @@
+#homepage {
+  .background-image {
+    background-color: white;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url("/backgrounds/8.jpg");
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: -1;
+  }
+  position: absolute;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  z-index: -1;
+  .welcome {
+    background-color: #222222ee;
+    color: white;
+    font-family: $title !important;
+    position: fixed;
+    padding: 2em;
+    width: 60vw;
+    max-width: 600px;
+    font-size: 18px;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

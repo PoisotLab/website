@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/tpoisot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://poisotlab.io
+  * I am tpoisot (https://keybase.io/tpoisot) on keybase.
+  * I have a public key with fingerprint D90A DF66 2A2A A838 1F2F  C254 377F 66BB A067 F62C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d90adf662a2aa8381f2fc254377f66bba067f62c",
+            "host": "keybase.io",
+            "key_id": "377f66bba067f62c",
+            "kid": "010187b3af02b964680a36993562276f3b7a74c92f73f6a7e16cbe2bb10dcfbe5dfa0a",
+            "uid": "16c848fdfa5da624826a732f0c41dc00",
+            "username": "tpoisot"
+        },
+        "revoke": {
+            "sig_ids": [
+                "12e76d0da892954ea61d58c77783fa6d689bf4e6b5ea18ae06becce474ccb5030f"
+            ]
+        },
+        "service": {
+            "hostname": "poisotlab.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424192954,
+    "expire_in": 157680000,
+    "prev": "335823629e756468db80c13e0354598ba6ab3975e503607ad08acff67fcda7e6",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.4
+Comment: https://keybase.io/crypto
+
+yMJSAnicbVJbaBQxFN1tfdCKqF+KD8SgpeiimcxMMjMiWgUVHwWlatVqTTLJ7lC7
+s+7MrpbSD20FBZVaEHy/UH98gyKoH/WJUusTVOoDSxFUUESKRRE1s+qf+Uly77nn
+npybm4OLY6XxHWdelq/eR+vjHdf252JVPbnLjYD5bgNwGkGdKGzSSydFNpP10iFw
+gGtD6kqMEUWUWrqlSSQ5Mg2dEBVljEKsDoiDBEj5QVShaBgNxGTPVzF1qfVcFf0P
+vq6QgBrULMJ0KiFiNjawBamObVs3MUIES50RSgxuI0l0iSkRGuZMIMY06HLJhOlK
+CqmiyxXoVNYyLKmCpksxMiykanQkITc0l0MYAQORTdN6odBhxvcCPwRNCZAVeb9O
+RAYEXlJpDoCzEmhIEOxCl1o2sk1DUKy5psUJIZYuKXaxZTNpCMxMQTWLCoiZ4FwY
+SjBnJtShBKsUt2qY93iBPDLpb/M/vddS9seqTNYPfe6vVZlUGGacSFTYkImQ6wWr
+/ctRy7y0qyakCvIiG3h+GjiaQvLQi0g1AxlaQWsCiA0ZLytqvQhhEuWrWlEbkY/m
+oZsW0jGyBTEj011mQa7pAuqmYdoWo5gy3SamUK/AkFAXWpRLqYbHXTUEDKJXrUv7
+iltTOmlScSrj0jTMZQVout5e0y8WL40N6F8UfbJYacnQf19v3JSBv+jdvuu3Th3q
+GWvEX33O9876uu9gUVOz8/Lomq6K+JFlW+pzNyr3fypZWP7hyYENty+2maXBsI69
+77pxy+jyssPHq3esrun43rAo7BpZ09w55Ozc4UELGr/zYGPftBOd84LW3hlVHx8I
+dkPu6dx0Ze+KmUnnS2sJqVxzp1/xbvC2eFyi+8WDN6+re7cP3vVpTk9r1dNL3RXf
+h8cY6quZsDh/4PFE+9mxzulfyhPPZ1+4n28eNPVb49D3G0fp2wa+OkyPJk6LrUvG
+nHSuFpVUXymrSH1cf2juUrln/L0FbamuEWUtRbEfy1dufdS+edPZh6lKJzl/4TnW
+vqqtQns7yTwy5PGz8z+v/gaunERi
+=SEBF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tpoisot
+
+==================================================================
