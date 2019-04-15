@@ -162,7 +162,7 @@
 
 [charlescusson]
   name = "Charles Cusson"
-  mugshot = "generic.png"
+  mugshot = "ccusson.jpeg"
   blurb = "Development of a better, more responsive interface for the [mangal.io](http://www.mangal.io) database."
   role = "Informatics staff"
   start = 2016-03-01
