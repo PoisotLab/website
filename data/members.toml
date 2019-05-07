@@ -22,7 +22,7 @@
   blurb = "Training of a neural network for mammals recognition in Québec."
   info = "Advisor: Andrew MacDonald"
   start = 2019-01-01
-  end = 2019-05-01
+  end = 2019-05-31
 
 [milenaaragon]
   name = "Miléna Aragon"
@@ -47,6 +47,7 @@
   mugshot = "sandrine.jpg"
   blurb = "Development of indicators based on eBird data to survey urban biodiversity changes in Montréal."
   start = 2019-01-01
+  end = 2019-05-31
 
 [andrewmacdonald]
   name = "Andrew MacDonald"
