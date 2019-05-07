@@ -6,6 +6,15 @@
   info = ""
   start = 2015-01-05
 
+[gabrieldansereau]
+  name = "Gabriel Dansereau"
+  mugshot = "gabrieldansereau.jpg"
+  role = "Quant/Comp Biology MSc candidate"
+  blurb = "Spatially continuous identification of β-diversity hotspots using SDMs."
+  info = ""
+  start = 2019-01-01
+  end = 2019-05-01
+
 [faresdhane]
   name = "Fares Dhane"
   mugshot = "fares.jpg"
