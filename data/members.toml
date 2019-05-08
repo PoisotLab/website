@@ -6,6 +6,15 @@
   info = ""
   start = 2015-01-05
 
+[graciellehigino]
+  name = "Gracielle Higino"
+  mugshot = "gracielle.png"
+  blurb = "Relationships between biological interactions, environmental variables, and biogeographical species distributions."
+  role = "Visiting PhD candidate"
+  info = ""
+  start = 2019-08-01
+  end = 2020-09-01
+
 [gabrieldansereau]
   name = "Gabriel Dansereau"
   mugshot = "gabrieldansereau.jpg"
