@@ -15,6 +15,15 @@
   start = 2019-08-01
   end = 2020-09-01
 
+[kiristern]
+  name = "Kiri Stern"
+  mugshot = "kiristern.png"
+  blurb = "Prey use of generalist predators across their range."
+  role = "Quant/Comp Biology MSc candidate"
+  info = ""
+  start = 2019-05-01
+  end = 2019-09-01
+
 [gabrieldansereau]
   name = "Gabriel Dansereau"
   mugshot = "gabrieldansereau.jpg"
