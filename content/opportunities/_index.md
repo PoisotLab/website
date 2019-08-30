@@ -103,3 +103,46 @@ achievements, future research plans, and any relevant information
 ## MSc fellowship
 
 To be announced in 2020
+
+# Fully funded positions for Colombian PhD students
+
+As part of the program outlined above, we are happy to announce a number of
+fully funded positions for graduate students registered in a Colombian
+university, working on a topic related to Colombian or tropical biodiversity or
+conservation, and willing to address this problem using data science, machine
+learning, or artificial intelligence; project on large scale data curation and
+deposition are also of particular interest.
+
+All of the candidates for this branch of the program will benefit from access to
+computing resources and training, a full salary (minimum 20000 $ per annum) for
+the duration of their stay, and money for travel for both the student and their
+advisor. All candidates will get access to an intensive class in data management
+and data synthesis, and to an intensive class in artificial intelligence for
+biodiversity research, at no cost.
+
+To apply or inquire about these opportunities, please email
+`timothee.poisot@umontreal.ca` with a brief description of your research
+project, and the type of computational skills you would like to acquire.
+
+## Two-years PhD exchange
+
+**Starting date:** Sept. 2020   
+
+This two-years internship is aimed at a debuting PhD candidate, wanting to
+acquire a solid foundation in computational techniques.
+
+## One-year PhD exchange (× 2)
+
+**Starting date:** Sept. 2022, Sept. 2023
+
+These one-year internships are aimed at PhD students seeking to acquire specific
+skills or expertise. Details for the applications will be announced during the
+summer of 2020.
+
+## Fully funded 5 years PhD fellowship
+
+**Starting date:** Sept. 2021
+
+This five years fellowship is aimed at a student who will be registered both in
+Colombia and at the Université de Montréal. Details for the applications will be
+announced early in 2020.
