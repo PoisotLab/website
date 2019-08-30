@@ -51,7 +51,7 @@ are filled. Applicants, especially for the PhD fellowships, who do not have
 published articles, can instead write a short summary of the most exciting
 research project.
 
-## Post-doctoral scientist (disease ecology)
+## Post-doctoral scientist (machine learning / disease ecology)
 
 **Appointment:** 3 years   
 **Starting date:** as soon as possible   
@@ -68,7 +68,7 @@ achievements, future research plans, and any relevant information
 1. A copy of the most representative publication (preprints accepted), alongside a 300 words explanation of why it is *exciting*
 1. Name and email for up to three references, which will be contacted after a short interview
 
-## PhD fellowship (machine learning)
+## PhD fellowship (disease ecology / machine learning)
 
 **Appointment:** 4 years   
 **Starting date:** as soon as possible   
@@ -103,4 +103,3 @@ achievements, future research plans, and any relevant information
 ## MSc fellowship
 
 To be announced in 2020
-
