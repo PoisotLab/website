@@ -51,6 +51,8 @@ are filled. Applicants, especially for the PhD fellowships, who do not have
 published articles, can instead write a short summary of the most exciting
 research project.
 
+All positions will be at the Department of Biological Sciences, Université de Montréal.
+
 ## Post-doctoral scientist (machine learning / disease ecology)
 
 **Appointment:** 3 years   
@@ -123,6 +125,8 @@ biodiversity research, at no cost.
 To apply or inquire about these opportunities, please email
 `timothee.poisot@umontreal.ca` with a brief description of your research
 project, and the type of computational skills you would like to acquire.
+
+All positions will be at the Department of Biological Sciences, Université de Montréal.
 
 ## Two-years PhD exchange
 
