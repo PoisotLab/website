@@ -23,7 +23,7 @@ effort will focus on (i) public health concerns related to disease emergence
 and re-emergence, and (ii) changes in species distributions under climate
 change and the subsequent re-wiring of species interaction networks.
 
-All positions are fully funded, and come with yearly support for travel,
+All positions are fully funded, and come with yearly support for travel to workshops and conferences,
 open access publication, and computer equipment. All positions also come with
 free access to [Compute Canada](https://www.computecanada.ca/) infrastructure,
 including a GPU cluster, and training sessions on advanced research computing.
@@ -55,25 +55,12 @@ All positions will be at the Department of Biological Sciences, Université de M
 
 ## Post-doctoral scientist (machine learning / disease ecology)
 
-**Appointment:** 3 years   
-**Starting date:** as soon as possible   
-**Annual salary:** 60000 $ including benefits   
-**Preferred background of qualifications:** disease ecology; global change ecology; machine learning
-
-Applications material must include:
-
-1. A letter of presentation (up to 1200 words), outlining past research
-achievements, future research plans, and any relevant information
-1. A statement on Equity, Diversity, and Inclusiveness in academia, of up to 600 words
-1. A statement of mentoring philosophy of up to 600 words
-1. A statement on Open Science of up to 600 words, if possible including quantified or qualified statements about previous or ongoing open practices, or a statement of open philosophy for applicants who have not received the opportunity of working openly
-1. A copy of the most representative publication (preprints accepted), alongside a 300 words explanation of why it is *exciting*
-1. Name and email for up to three references, which will be contacted after a short interview
+*This position has been filled*
 
 ## PhD fellowship (disease ecology / machine learning)
 
 **Appointment:** 4 years   
-**Starting date:** as soon as possible   
+**Starting date:** fall 2019 or fall 2020   
 **Annual grant:** 20000 $ plus benefits   
 **Preferred background or qualifications:** artificial intelligence; machine learning; symbolic regression; disease ecology; public health
 
@@ -86,10 +73,10 @@ achievements, future research plans, and any relevant information
 1. A copy of the most representative publication (preprints accepted), alongside a 300 words explanation of why it is *exciting*
 1. Name and email for up to three references, which will be contacted after a short interview
 
-## PhD fellowship (species distributions)
+## PhD fellowship (species distributions / species interactions / machine learning)
 
 **Appointment:** 4 years   
-**Starting date:** summer/fall 2020   
+**Starting date:** fall 2019 or fall 2020     
 **Annual grant:** 20000 $ plus benefits   
 **Preferred background or qualifications:** global change ecology; macroecology; species distribution modeling; graph theory
 
