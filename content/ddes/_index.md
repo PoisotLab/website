@@ -60,17 +60,19 @@ The summer school will be led by Timothée Poisot and Andrew MacDonald
 ecologists. One or two teaching assistants will be here to facilitate the
 training.
 
-Timothée is an assistant professor in Quantitative and Computational Ecology. He
-is a certified Software Carpentry and Data Carpentry instructor, serves on the
-editorial board of Methods in Ecology & Evolution and PLOS Computational
-Biology, and on the scientific board of Calcul Québec. His research focuses on
-the spatio-temporal dynamics of species interactions, and the applications of
-graph theory to a variety of ecological questions.
+Timothée is a researcher at the Québec Center for Biodiversity Sciences and an
+assistant professor in Quantitative and Computational Ecology at the Université
+de Montréal. He is a certified Software Carpentry and Data Carpentry instructor,
+serves on the editorial board of Ecology Letters, Methods in Ecology & Evolution
+and PLOS Computational Biology, and on the scientific board of Calcul Québec and
+the Canadian Institute for Ecology & Evolution. His research focuses on the
+spatio-temporal dynamics of species interactions, and the applications of graph
+theory to a variety of ecological questions.
 
-Andrew is a postdoctoral researcher at Université de Montreal. He is also a certified
-Carpentry instructor, and is passionate about building a community of practice around 
-scientific programming in ecology. He's currenlty interested in building predictive 
-models for ecological communities.
+Andrew is a postdoctoral researcher at Université de Montreal. He is also a
+certified Carpentry instructor, and is passionate about building a community of
+practice around scientific programming in ecology. He's currenlty interested in
+building predictive models for ecological communities.
 
 ## Venue
 
