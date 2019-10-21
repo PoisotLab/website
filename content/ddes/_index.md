@@ -77,13 +77,10 @@ emblematic Canadian biome, sitting at the transition zone between the urbanized
 Greater Montréal area and the Canadian shield. It is known to have the best food
 of all field stations in Canada.
 
-## Dates
+## Dates & transportation
 
-The exact dates will be confirmed in the coming weeks; the two possible weeks
-are April 27 to May 3, and May 4 to May 10. Selected applicants will be notified
-by the second week of February at the latest.
-
-## Transport
+The intensive class will run from April 27 to May 3. Selected applicants will be
+notified by the second week of February at the latest.
 
 We will take care of the transportation from the Université de Montréal to the
 field station on the morning on the first day, and from the field station to the
