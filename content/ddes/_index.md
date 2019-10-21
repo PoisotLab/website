@@ -67,6 +67,11 @@ Biology, and on the scientific board of Calcul Québec. His research focuses on
 the spatio-temporal dynamics of species interactions, and the applications of
 graph theory to a variety of ecological questions.
 
+Andrew is a postdoctoral researcher at Université de Montreal. He is also a certified
+Carpentry instructor, and is passionate about building a community of practice around 
+scientific programming in ecology. He's currenlty interested in building predictive 
+models for ecological communities.
+
 ## Venue
 
 The summer school will take place at the [*Station de Biologie des
