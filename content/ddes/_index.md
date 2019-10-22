@@ -11,6 +11,8 @@ ecological synthesis, with support from the NSERC BIOS² CREATE program. You can
 students. The class will run from in the first week of May 2020, at the
 Laurentians Field Station, just outside of Montréal.
 
+**Application deadline is Dec. 31, 2019**
+
 # Goals and target audience
 
 This week-long intensive class will give early-career ecologists the tools and
