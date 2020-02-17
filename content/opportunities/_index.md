@@ -55,14 +55,6 @@ research project.
 All positions will be at the Department of Biological Sciences, Université de
 Montréal.
 
-## Post-doctoral scientist (machine learning / disease ecology)
-
-*This position has been filled*
-
-## PhD fellowship (disease ecology / machine learning)
-
-*This position has already been filled*
-
 ## PhD fellowship (Cartesian Genetic programming for biodiversity detection)
 
 **Appointment:** 4 years   
@@ -84,3 +76,11 @@ achievements, future research plans, and any relevant information
 ## MSc fellowship
 
 To be announced in 2020
+
+## Post-doctoral scientist (machine learning / disease ecology)
+
+*This position has been filled*
+
+## PhD fellowship (disease ecology / machine learning)
+
+*This position has already been filled*
