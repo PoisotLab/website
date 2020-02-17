@@ -63,7 +63,7 @@ Montréal.
 
 *This position has already been filled*
 
-## PhD fellowship (Cartesian Genetic programming / camera traps)
+## PhD fellowship (Cartesian Genetic programming for biodiversity detection)
 
 **Appointment:** 4 years   
 **Starting date:** fall 2020       
