@@ -70,7 +70,7 @@ Montréal.
 **Annual grant:** 20000 $ plus benefits   
 **Preferred background or qualifications:** programming; biodiversity monitoring; image analysis
 
-See [full description here (PDF)](files/phd_cartesian.pdf).
+See [full description here (PDF)](./files/phd_cartesian.pdf).
 
 Applications material must include:
 
