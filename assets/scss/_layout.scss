@@ -3,8 +3,8 @@
 }
 
 html {
-  line-height: 1.15; /* 1 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
 }
 
 html, body {
@@ -12,24 +12,45 @@ html, body {
     padding: 0 0;
 }
 
-header {
-    width: 100%;
-    line-height: 40px;
-    background-color: #f5f5f5;
-}
-
-nav {
-    line-height: 20px;
+nav#main {
+    overflow: hidden;
+    position: relative;
+    line-height: 30px;
+    background-color: white;  
+    box-shadow: 0px 0px 4px 0px #555;      
     a {
+        color: #000;
         text-decoration: none;
-        font-weight: 400;
-        width: 100%;
         display: block;
-        clear: table;
-        padding: 4px;
-        background-color: #fbfbfb;
-        &.active {
-            background-color: #f7f7f7;
+        padding: 10px;
+        &.icon {
+            opacity: 0.5;
+            display: block;
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        &.menu {
+            color: #444;
+            font-weight: 300;
+            &:hover {
+                background-color: #eee !important;
+            }
+            &.active {
+                color: #000;
+                font-weight: 400;
+            }
         }
     }
+    nav#menu {
+        display: none;
+    }
+}
+
+header {
+    background-image: url("/backgrounds/nb.gif");
+    line-height: 3em;
+    padding: 1em;
+    color: white;
+    font-weight: 900;
 }

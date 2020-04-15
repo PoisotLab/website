@@ -5,9 +5,13 @@
     <meta name="description" content="{{ .Description }}">
     <base href="{{ .Site.BaseURL }}">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     {{ $sass := resources.Get "scss/theme.scss" }}
     {{ $style := $sass | resources.ToCSS }}
     <link rel="stylesheet" href="{{ $style.Permalink | absURL }}" integrity="{{ $style.Data.Integrity }}">
+
+    <script src="/ui/main.js"></script>
 
     <link rel="canonical" href="{{ .Permalink }}">
 </head>
