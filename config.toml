@@ -1,7 +1,6 @@
 baseURL = "http://poisotlab.io/"
 languageCode = "en-ca"
 preserveTaxonomyNames = true
-theme = "plab"
 
 [params]
   title = "the<b>poisot</b>lab"

@@ -1,0 +1,12 @@
+<header>
+    <section class="title">
+        {{ .Site.Params.title | markdownify }}
+    </section>
+    <nav class="main">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.Section (lower .Name) ) }} active{{end}}"
+        href="{{ .URL }}" {{ if (eq .Name "Software") }}target="_blank" {{ end }} title="{{ .Title }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
+</header>

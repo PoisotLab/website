@@ -1,0 +1,13 @@
+<head>
+    <title> {{.Title}} </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ .Description }}">
+    <base href="{{ .Site.BaseURL }}">
+
+    {{ $sass := resources.Get "scss/theme.scss" }}
+    {{ $style := $sass | resources.ToCSS }}
+    <link rel="stylesheet" href="{{ $style.Permalink | absURL }}" integrity="{{ $style.Data.Integrity }}">
+
+    <link rel="canonical" href="{{ .Permalink }}">
+</head>

@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+html, body {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+header {
+    width: 100%;
+    line-height: 40px;
+    background-color: #f5f5f5;
+}
+
+nav {
+    line-height: 20px;
+    a {
+        text-decoration: none;
+        font-weight: 400;
+        width: 100%;
+        display: block;
+        clear: table;
+        padding: 4px;
+        background-color: #fbfbfb;
+        &.active {
+            background-color: #f7f7f7;
+        }
+    }
+}
