@@ -1,17 +1,15 @@
-[milenaaragon]
-  name = "Miléna Aragon"
-  role = "Sustainable dev. MSc candidate"
-  mugshot = "mugshots/milena.jpg"
-  blurb = "Overview of urban biodiversity initiatives in the greater Montréal area."
-  start = 2019-01-01
-  end = 2019-07-01
-
+[stephanieprefontaine]
+  name = "Stéphanie Préfontaine"
+  mugshot = "mugshots/stephanieprefontaine.jpg"
+  text = ["2017-2020, MSc Candidate. Impacts of temperature on the metabolic rates of ecological communities. Advisor: Dominique Gravel."]
+  
 [stevevissault]
   name = "Steve Vissault"
   mugshot = "mugshots/svissault.jpg"
-  blurb = "Automated aggregation, synthesis, and forecasting of unstructured biodiversity data."
-  role = "PhD candidate"
-  start = 2019-01-01
+  text = [
+    "2019-2020, PhD Candidate. Automated aggregation, synthesis, and forecasting of unstructured biodiversity data.",
+    "2018-2019, Staff scientist. Improvements on the [mangal.io](http://mangal.io) database backend and frontend."
+  ]
 
 [sandrinesoeharjono]
   name = "Sandrine Soeharjono"

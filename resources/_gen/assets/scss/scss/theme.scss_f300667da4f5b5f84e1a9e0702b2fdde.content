@@ -201,3 +201,26 @@ section.container {
     font-weight: 300; }
   .paper .badge a {
     border-bottom: 0px solid white; }
+
+.mugshot {
+  filter: grayscale(60%); }
+
+.item:hover .mugshot {
+  filter: grayscale(0%); }
+
+.item .summary span {
+  display: inline-block; }
+  .item .summary span a {
+    display: inline;
+    color: #1c9264;
+    background: none;
+    padding: 0 0;
+    border-radius: 0;
+    font-weight: inherit; }
+    .item .summary span a:hover {
+      color: #1c9c6b; }
+
+.item .social a {
+  color: #1c9264;
+  background: none !important;
+  border-bottom: none; }
