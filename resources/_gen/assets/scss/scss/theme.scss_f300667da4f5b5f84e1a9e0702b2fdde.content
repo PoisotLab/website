@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600;1,800&display=swap");
 * {
+  font-family: 'Public Sans', sans-serif; }
+
+* {
   box-sizing: border-box; }
 
 html {
@@ -17,9 +20,9 @@ html, body {
   min-height: 100vh; }
 
 html {
-  background-image: url("/backgrounds/bg.png");
-  background-attachment: scroll;
-  background-position: center top;
+  background-image: url("/backgrounds/15.jpg");
+  background-attachment: fixed;
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat; }
 
@@ -34,9 +37,13 @@ nav#topbar {
   nav#topbar.scrolled {
     box-shadow: 0px 0px 4px 0px #555;
     background-color: white;
-    transition: 0.8s; }
+    transition: 0.8s;
+    z-index: 100; }
     nav#topbar.scrolled a {
       color: black; }
+      nav#topbar.scrolled a b {
+        color: #1c9264;
+        font-weight: 400; }
     nav#topbar.scrolled nav#menu a.menu {
       color: #444; }
   nav#topbar a {
@@ -113,9 +120,6 @@ section.container {
     #splash section h1 {
       font-weight: 300;
       text-transform: uppercase; }
-
-* {
-  font-family: 'Public Sans', sans-serif; }
 
 .container a {
   color: #1c9264;

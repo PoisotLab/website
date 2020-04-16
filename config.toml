@@ -28,8 +28,8 @@ preserveTaxonomyNames = true
     url = "/research/"
     weight = 3
   [[menu.main]]
-    name = "Intensive course"
-    url = "/ddes/"
+    name = "Join us!"
+    url = "/opportunities/"
     weight = 5
   [[menu.main]]
     name = "Software"

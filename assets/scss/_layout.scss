@@ -17,9 +17,9 @@ html, body {
 }
 
 html {
-    background-image: url("/backgrounds/bg.png");
-    background-attachment: scroll;
-    background-position: center top;
+    background-image: url("/backgrounds/15.jpg");
+    background-attachment: fixed;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -36,8 +36,13 @@ nav#topbar {
         box-shadow: 0px 0px 4px 0px #555;      
         background-color: white;
         transition: 0.8s;
+        z-index: 100;
         a {
             color: black;
+            b {
+                color: $link-color;
+                font-weight: 400;
+            }
         }
         nav#menu {
             a.menu {

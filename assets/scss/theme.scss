@@ -1,14 +1,14 @@
-@import "_layout";
-@import "_index";
-
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600;1,800&display=swap');
-
-$link-color: hsl(157, 68%, 34%);
-$link-color-hover: hsl(157, 70%, 36%);
 
 * {
     font-family: 'Public Sans', sans-serif;
 }
+
+$link-color: hsl(157, 68%, 34%);
+$link-color-hover: hsl(157, 70%, 36%);
+
+@import "_layout";
+@import "_index";
 
 .container {
     a {
