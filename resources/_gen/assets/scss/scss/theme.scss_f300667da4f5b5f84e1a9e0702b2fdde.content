@@ -93,6 +93,9 @@ section.container {
   section.container ul, section.container li {
     list-style: none; }
 
+#homepage footer {
+  display: none; }
+
 #splash {
   width: 100vw;
   height: 100vh;
@@ -228,3 +231,9 @@ section.container {
   color: #1c9264;
   background: none !important;
   border-bottom: none; }
+
+footer {
+  padding-top: 4em;
+  background-color: #f3f3f3;
+  color: #aeaeae;
+  font-weight: 300; }
