@@ -7,6 +7,9 @@ preserveTaxonomyNames = true
   subtitle = "quantitative & computational ecology"
   email = "timothee.poisot@umontreal.ca"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [menu]
   [[menu.main]]
     name = "People"

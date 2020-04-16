@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600;1,800&display=swap");
 * {
   box-sizing: border-box; }
 
@@ -24,6 +24,8 @@ html {
   background-repeat: no-repeat; }
 
 nav#topbar {
+  text-transform: lowercase;
+  font-variant: small-caps;
   overflow: hidden;
   position: fixed;
   top: 0;
@@ -61,21 +63,21 @@ nav#topbar {
         color: #000; }
       nav#topbar a.menu.active {
         color: #000;
-        font-weight: 400; }
+        font-weight: 600; }
   nav#topbar nav#menu {
     display: none; }
 
 header {
   line-height: 3em;
   color: white;
-  font-weight: 900;
+  font-weight: 800;
   padding-top: 80px;
   position: relative;
   top: 0;
   z-index: -1; }
 
 main#content {
-  background-color: white; }
+  background-color: #fdfdfd; }
 
 section.container {
   padding: 1.75em;
@@ -113,12 +115,14 @@ section.container {
       text-transform: uppercase; }
 
 * {
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Public Sans', sans-serif; }
 
 .container a {
   color: #1c9264;
   text-decoration: none;
-  background-color: #eee; }
+  border-bottom: 1px solid #eee; }
+  .container a:hover {
+    color: #1c9c6b; }
 
 .listing {
   text-align: center;
@@ -134,12 +138,13 @@ section.container {
   .item a {
     background-color: #1c9264;
     color: white;
-    font-weight: 700;
+    font-weight: 800;
     vertical-align: bottom;
     padding: 0.8em;
     border-radius: 1.2em; }
     .item a:hover {
-      background-color: #0aa369; }
+      color: white;
+      background-color: #1c9c6b; }
   .item h2 {
     font-weight: 300;
     font-size: 120%;
@@ -162,13 +167,15 @@ section.container {
     height: 12.5em; }
 
 @media only screen and (min-width: 768px) {
-  * {
-    color: red; }
   .container {
     max-width: 950px;
     margin: 0px auto; }
+    .container p {
+      line-height: 1.8; }
+  .item .summary {
+    height: 17em; }
   header {
-    padding-top: 120px;
+    padding-top: 180px;
     transition: 0.5s; }
     header .container {
       font-size: 140%; }
@@ -185,3 +192,12 @@ section.container {
       display: inline-block;
       background: none !important;
       color: white; } }
+
+.paper {
+  margin-bottom: 1.4em; }
+  .paper .title {
+    font-weight: 600; }
+  .paper .authors {
+    font-weight: 300; }
+  .paper .badge a {
+    border-bottom: 0px solid white; }

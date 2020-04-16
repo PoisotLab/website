@@ -1,0 +1,34 @@
+{{ define "main" }}
+<main id="content">
+    <section class="container">
+        {{ .Content }}
+        
+        
+        {{ $publications := .Site.Data.papers }}
+        
+        {{ $idyear := newScratch }}
+        {{ range $publication := $publications }}
+        {{ $year := index $publication.issued "date-parts" 0 0 | int }}
+        {{ $month := index $publication.issued "date-parts" 0 1 | int }}
+        {{ $day := index $publication.issued "date-parts" 0 1 | int }}
+        {{ $fyear := printf "%04d" (sub $year 3000)}}
+        {{ $fmonth := printf "%02d" $month }}
+        {{ $fday := printf "%02d" $day }}
+        {{ $date := print $fyear "-" $fmonth "-" $fday "-" $publication.id | string}}
+        {{ $idyear.SetInMap "date" $date $publication.id }}
+        {{ end }}
+        
+        
+        {{ range $DateSort, $id := ($idyear.Get "date") }}
+        {{ range $pub := $publications }}
+        {{ if eq $pub.id $id }}
+        {{ $year := index $pub.issued "date-parts" 0 0 | string }}
+        {{ partial "article.html" $pub }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+        
+    </section>
+</main>
+
+{{ end }}

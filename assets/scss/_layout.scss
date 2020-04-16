@@ -25,6 +25,8 @@ html {
 }
 
 nav#topbar {
+    text-transform: lowercase;
+    font-variant: small-caps;
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -71,7 +73,7 @@ nav#topbar {
             }
             &.active {
                 color: #000;
-                font-weight: 400;
+                font-weight: 600;
             }
         }
     }
@@ -83,7 +85,7 @@ nav#topbar {
 header {
     line-height: 3em;
     color: white;
-    font-weight: 900;
+    font-weight: 800;
     padding-top: 80px;
     position: relative;
     top: 0;
@@ -91,7 +93,7 @@ header {
 }
 
 main#content {
-    background-color: white;
+    background-color: #fdfdfd;
 }
 
 section.container {

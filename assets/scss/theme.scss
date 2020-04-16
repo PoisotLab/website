@@ -1,17 +1,23 @@
 @import "_layout";
 @import "_index";
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600;1,800&display=swap');
+
+$link-color: hsl(157, 68%, 34%);
+$link-color-hover: hsl(157, 70%, 36%);
 
 * {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Public Sans', sans-serif;
 }
 
 .container {
     a {
-        color: hsl(157, 68%, 34%);
+        color: $link-color;
         text-decoration: none;
-        background-color: #eee;
+        border-bottom: 1px solid #eee;
+        &:hover {
+            color: $link-color-hover;
+        }
     }
 }
 
@@ -28,14 +34,15 @@
     max-width: 295px;
     vertical-align: top;
     a{
-        background-color: hsl(157, 68%, 34%);
+        background-color: $link-color;
         color: white;
-        font-weight: 700;
+        font-weight: 800;
         vertical-align: bottom;
         padding: 0.8em;
         border-radius: 1.2em;
         &:hover {
-            background-color: hsl(157, 88%, 34%);
+            color: white;
+            background-color: $link-color-hover;
         }
     }
     h2 {
@@ -64,15 +71,20 @@
 }
 
 @media only screen and (min-width: 768px) {
-    * {
-        color: red;
-    }
     .container {
         max-width: 950px;
         margin: 0px auto;
+        p {
+            line-height: 1.8;
+        }
+    }
+    .item {
+        .summary {
+            height: 17em;
+        }
     }
     header {
-        padding-top: 120px;
+        padding-top: 180px;
         transition: 0.5s;
         .container {
             font-size: 140%;
@@ -98,3 +110,18 @@
         }
     }
 } 
+
+.paper {
+    margin-bottom: 1.4em;
+    .title {
+        font-weight: 600;
+    }
+    .authors {
+        font-weight: 300;
+    }
+    .badge {
+        a {
+            border-bottom: 0px solid white;
+        }
+    }
+}
