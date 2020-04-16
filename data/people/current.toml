@@ -1,0 +1,60 @@
+[timotheepoisot]
+  name = "Timothée Poisot"
+  mugshot = "mugshots/tim.png"
+  blurb = "Loves ecology; loves being inside more. Teaches data analysis, ecological modelling, and synthesis."
+  role = "Assistant professor"
+  rank = 0
+  start = 2015-01-05
+
+[graciellehigino]
+  name = "Gracielle Higino"
+  mugshot = "mugshots/gracielle.png"
+  blurb = "Biological interactions, environmental variables, and biogeographical species distributions."
+  role = "Visiting PhD candidate"
+  start = 2019-08-01
+  end = 2020-09-01
+
+[kiristern]
+  name = "Kiri Stern"
+  mugshot = "mugshots/kiristern.png"
+  blurb = "Prey use of generalist predators across their range."
+  role = "Quant/Comp Biology MSc candidate"
+  start = 2019-05-01
+  end = 2019-09-01
+
+[gabrieldansereau]
+  name = "Gabriel Dansereau"
+  mugshot = "mugshots/gabrieldansereau.jpg"
+  role = "Quant/Comp Biology MSc candidate"
+  blurb = "Spatially continuous identification of β-diversity hotspots using SDMs."
+  start = 2019-05-01
+  end = 2019-09-01
+
+[andrewmacdonald]
+  name = "Andrew MacDonald"
+  mugshot = "mugshots/amcdonald.jpg"
+  blurb = "Automated image recognition for biodiversity monitoring."
+  role = "Post-doctoral scientist"
+  start = 2018-09-01
+
+[mathildebesson]
+  name = "Mathilde Besson"
+  mugshot = "mugshots/mathildebesson.jpg"
+  blurb = "Co-evolution and local adaptation in microbial host-parasite systems."
+  role = "PhD candidate"
+  start = 2016-01-01
+
+[evadelmas]
+  name = "Eva Delmas"
+  mugshot = "mugshots/evadelmas.jpg"
+  blurb = "Ecosystem functions and food web structure."
+  role = "PhD candidate"
+  start = 2015-10-01
+
+[philippedesjardinsproulx]
+  name = "Philippe Desjardins-Proulx"
+  mugshot = "mugshots/philippedesjardinsproulx.jpg"
+  blurb = "Applying machine learning and deep transfer knowledge to solve complicated ecological problems of all sorts."
+  role = "PhD candidate"
+  start = 2013-09-01
+  end = 2018-09-01

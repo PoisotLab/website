@@ -1,116 +1,44 @@
-[timotheepoisot]
-  name = "Timothée Poisot"
-  mugshot = "tim.png"
-  blurb = "Loves ecology; loves being inside more. Teaches data analysis, ecological modelling, and synthesis."
-  role = "Assistant professor"
-  info = ""
-  start = 2015-01-05
-
-[graciellehigino]
-  name = "Gracielle Higino"
-  mugshot = "gracielle.png"
-  blurb = "Biological interactions, environmental variables, and biogeographical species distributions."
-  role = "Visiting PhD candidate"
-  info = ""
-  start = 2019-08-01
-  end = 2020-09-01
-
-[kiristern]
-  name = "Kiri Stern"
-  mugshot = "kiristern.png"
-  blurb = "Prey use of generalist predators across their range."
-  role = "Quant/Comp Biology MSc candidate"
-  info = ""
-  start = 2019-05-01
-  end = 2019-09-01
-
-[gabrieldansereau]
-  name = "Gabriel Dansereau"
-  mugshot = "gabrieldansereau.jpg"
-  role = "Quant/Comp Biology MSc candidate"
-  blurb = "Spatially continuous identification of β-diversity hotspots using SDMs."
-  info = ""
-  start = 2019-05-01
-  end = 2019-09-01
-
-[faresdhane]
-  name = "Fares Dhane"
-  mugshot = "fares.jpg"
-  role = "Quant/Comp Biology MSc candidate"
-  blurb = "Training of a neural network for mammals recognition in Québec."
-  info = "Advisor: Andrew MacDonald"
-  start = 2019-01-01
-  end = 2019-05-31
-
 [milenaaragon]
   name = "Miléna Aragon"
   role = "Sustainable dev. MSc candidate"
-  mugshot = "milena.jpg"
+  mugshot = "mugshots/milena.jpg"
   blurb = "Overview of urban biodiversity initiatives in the greater Montréal area."
-  info = "WWF Canada intern"
   start = 2019-01-01
   end = 2019-07-01
 
 [stevevissault]
   name = "Steve Vissault"
-  mugshot = "svissault.jpg"
+  mugshot = "mugshots/svissault.jpg"
   blurb = "Automated aggregation, synthesis, and forecasting of unstructured biodiversity data."
   role = "PhD candidate"
-  info = "BIOS² CREATE fellow; advisor: Dominique Gravel"
   start = 2019-01-01
 
 [sandrinesoeharjono]
   name = "Sandrine Soeharjono"
   role = "Quant/Comp Biology MSc candidate"
-  mugshot = "sandrine.jpg"
+  mugshot = "mugshots/sandrine.jpg"
   blurb = "Development of indicators based on eBird data to survey urban biodiversity changes in Montréal."
   start = 2019-01-01
   end = 2019-05-31
 
-[andrewmacdonald]
-  name = "Andrew MacDonald"
-  mugshot = "amcdonald.jpg"
-  blurb = "Automated image recognition for biodiversity monitoring."
-  role = "Post-doctoral scientist"
-  info = "BIOS² CREATE teaching coordinator"
-  start = 2018-09-01
-
 [zacharybelisle]
   name = "Zachary Bélisle"
   id = "zac"
-  mugshot = "zacharybelisle.jpg"
+  mugshot = "mugshots/zacharybelisle.jpg"
   blurb = "Variation in the composition of insect communities in forest fragments."
   role = "MSc candidate"
-  info = "BIOS² CREATE external fellow; Advisor: Colin Favret"
   start = 2018-09-01
 
 [daphneelecourstessier]
   name = "Daphnée Lecours-Tessier"
-  mugshot = "daphneelecourstessier.jpg"
+  mugshot = "mugshots/daphneelecourstessier.jpg"
   blurb = "Data-driven estimation of wildland conservation value at various scales."
   role = "MSc candidate"
-  info = "BIOS² CREATE fellow; Co-advisor: Roxane Maranger"
   start = 2017-09-01
-
-[mathildebesson]
-  name = "Mathilde Besson"
-  mugshot = "mathildebesson.jpg"
-  blurb = "Co-evolution and local adaptation in microbial host-parasite systems."
-  role = "PhD candidate"
-  info = "Co-advisor: Dominique Gravel"
-  start = 2016-01-01
-
-[evadelmas]
-  name = "Eva Delmas"
-  mugshot = "evadelmas.jpg"
-  blurb = "Ecosystem functions and food web structure."
-  role = "PhD candidate"
-  info = "Co-advisor: Daniel Stouffer"
-  start = 2015-10-01
 
 [piotrszefer]
   name = "Piotr Szefer"
-  mugshot = "piotrszefer.jpg"
+  mugshot = "mugshots/piotrszefer.jpg"
   blurb = "Ecosystem functions and food web structure."
   role = "Visiting PhD candidate"
   start = 2018-10-01
@@ -118,7 +46,7 @@
 
 [michielstock]
   name = "Michiel Stock"
-  mugshot = "michielstock.jpg"
+  mugshot = "mugshots/michielstock.jpg"
   blurb = "Pairwise learning to predict the structure of ecological networks."
   role = "Visiting post-doctoral scientist"
   start = 2017-10-01
@@ -126,7 +54,7 @@
 
 [alexandrinefrappier]
   name = "Alexandrine Frappier"
-  mugshot = "alexandrinefrappier.jpg"
+  mugshot = "mugshots/alexandrinefrappier.jpg"
   blurb = "Review of best practices to use image recognition software on wildlife cameras."
   role = "Undergraduate researcher"
   start = 2018-09-01
@@ -134,7 +62,7 @@
 
 [cynthiagueveneuxjulien]
   name = "Cynthia Guéveneux-Julien"
-  mugshot = "cynthiagueveneuxjulien.png"
+  mugshot = "mugshots/cynthiagueveneuxjulien.png"
   blurb = "Planification, management, and restoration of landscape connectivity in the Laurentians."
   role = "Honors student"
   start = 2015-06-01
@@ -142,7 +70,7 @@
 
 [christophebenjamin]
   name = "Christophe Benjamin"
-  mugshot = "christophebenjamin.png"
+  mugshot = "mugshots/christophebenjamin.png"
   blurb = "Automated extraction of phylogenetic data from species interaction networks."
   role = "Undergraduate researcher"
   start = 2017-01-01
@@ -150,7 +78,7 @@
 
 [emilievinet]
   name = "Émilie Vinet"
-  mugshot = "emilievinet.jpg"
+  mugshot = "mugshots/emilievinet.jpg"
   blurb = "Machine learning techniques to produce dynamics maps of land use from digitized and numeric maps."
   role = "Undergraduate researcher"
   start = 2018-01-01
@@ -158,7 +86,7 @@
 
 [gregoirebonenfant]
   name = "Grégoire Bonenfant"
-  mugshot = "gregoirebonenfant.jpg"
+  mugshot = "mugshots/gregoirebonenfant.jpg"
   blurb = "Measures of species complementarity in quantitative networks."
   role = "Undergraduate researcher"
   start = 2017-09-01
@@ -166,23 +94,15 @@
 
 [dominiquecaron]
   name = "Dominique Caron"
-  mugshot = "dominiquecaron.jpg"
+  mugshot = "mugshots/dominiquecaron.jpg"
   blurb = "Inventory of open biodiversity data in Quebec, and creation of decision-helping tools."
   role = "Quant/Comp Biology MSc candidate"
   start = 2017-01-01
   end = 2017-12-30
 
-[philippedesjardinsproulx]
-  name = "Philippe Desjardins-Proulx"
-  mugshot = "philippedesjardinsproulx.jpg"
-  blurb = "Applying machine learning and deep transfer knowledge to solve complicated ecological problems of all sorts."
-  role = "PhD candidate"
-  start = 2013-09-01
-  end = 2018-09-01
-
 [renaudmckinnon]
   name = "Renaud McKinnon"
-  mugshot = "renaudmckinnon.png"
+  mugshot = "mugshots/renaudmckinnon.png"
   blurb = "Interactions between trees from experimental plantations and their microbial ectosymbionts."
   role = "MSc Candidate"
   start = 2013-09-01
@@ -190,7 +110,7 @@
 
 [charlescusson]
   name = "Charles Cusson"
-  mugshot = "ccusson.jpeg"
+  mugshot = "mugshots/ccusson.jpeg"
   blurb = "Development of a better, more responsive interface for the [mangal.io](http://www.mangal.io) database."
   role = "Informatics staff"
   start = 2016-03-01
@@ -198,8 +118,16 @@
 
 [ameliemuller]
   name = "Amélie Muller"
-  mugshot = "ameliemuller.jpg"
+  mugshot = "mugshots/ameliemuller.jpg"
   blurb = "Understanding how management programs could gain from studying the variability of plant-pollinator interactions."
   role = "MSc candidate"
   start = 2015-02-01
   end = 2015-07-01
+
+[faresdhane]
+  name = "Fares Dhane"
+  mugshot = "mugshots/fares.jpg"
+  role = "Quant/Comp Biology MSc candidate"
+  blurb = "Training of a neural network for mammals recognition in Québec."
+  start = 2019-01-01
+  end = 2019-05-31
