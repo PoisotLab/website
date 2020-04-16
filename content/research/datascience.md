@@ -1,6 +1,6 @@
 ---
 title: Data science for biodiversity research
-image: synthetic.jpg
+image: topics/synthetic.jpg
 weight: 2
 papers:
   - PoisGrav16

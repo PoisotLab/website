@@ -10,31 +10,55 @@ html {
 html, body {
     margin: 0 0;
     padding: 0 0;
+    width: 100vw;
+    max-width: 100%;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+html {
+    background-image: url("/backgrounds/bg.png");
+    background-attachment: scroll;
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 nav#main {
     overflow: hidden;
-    position: relative;
+    position: fixed;
+    top: 0;
     line-height: 30px;
-    background-color: white;  
-    box-shadow: 0px 0px 4px 0px #555;      
+    width: 100vw;
+    &.scrolled {
+        box-shadow: 0px 0px 4px 0px #555;      
+        background-color: white;
+    }
     a {
-        color: #000;
+        color: white;
         text-decoration: none;
         display: block;
         padding: 10px;
         &.icon {
             opacity: 0.5;
             display: block;
-            position: absolute;
+            position: fixed;
             right: 0;
             top: 0;
         }
         &.menu {
+            &:nth-child(odd) {
+                background-color: #f8f8f8;
+            }
+            &:nth-child(even) {
+                background-color: #f3f3f3;
+            }
+            background-color: white;
             color: #444;
             font-weight: 300;
             &:hover {
                 background-color: #eee !important;
+                color: #000;
             }
             &.active {
                 color: #000;
@@ -48,9 +72,24 @@ nav#main {
 }
 
 header {
-    background-image: url("/backgrounds/nb.gif");
     line-height: 3em;
-    padding: 1em;
     color: white;
     font-weight: 900;
+    padding-top: 80px;
+    position: relative;
+    top: 0;
+    z-index: -1;
+}
+
+main#content {
+    background-color: white;
+}
+
+section.container {
+    padding: 1.75em;
+    width: 100vw;
+    line-height: 1.4;
+    ul, li {
+        list-style: none;
+    }
 }

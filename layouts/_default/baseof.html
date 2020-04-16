@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-
-<html lang="en">
+<html lang="en"{{if (eq .Title "")}} id="homepage"{{end}}>
     {{- partial "head.html" . -}}
 
     {{- partial "navigation.html" . -}}

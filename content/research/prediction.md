@@ -1,6 +1,6 @@
 ---
 title: Prediction of species interactions
-image: predict.jpg
+image: topics/predict.jpg
 weight: 6
 papers:
   - StocPois17

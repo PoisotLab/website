@@ -6,3 +6,50 @@
 * {
     font-family: 'Lato', sans-serif;
 }
+
+.container {
+    a {
+        color: hsl(157, 68%, 34%);
+        text-decoration: none;
+        background-color: #eee;
+    }
+}
+
+.listing {
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.item {
+    display: inline-block;
+    padding: .5em;
+    margin-bottom: 5em;
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 300px;
+    vertical-align: top;
+    h2 {
+        font-weight: 300;
+        font-size: 120%;
+        font-variant: small-caps;
+        color: black;
+        padding-top: 1em;
+        margin-bottom: 0em;
+        height: 5em;
+        text-align: center;
+    }
+    img.header {
+        width: 200px;
+        height: 200px;
+        border-radius: 100px;
+        text-align: center;
+        margin: 0px auto;
+        display: block;
+    }
+    .summary {
+        color: #555;
+        font-weight: 400;
+        height: 12.5em;
+    }
+}

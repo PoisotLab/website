@@ -1,6 +1,6 @@
 ---
-title: Connectivity and ecosystem integrity assesment
-image: landscape.jpg
+title: Connectivity and ecosystem integrity assessment
+image: topics/landscape.jpg
 weight: 3
 ---
 

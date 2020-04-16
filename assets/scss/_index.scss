@@ -1,17 +1,22 @@
 #splash {
     width: 100vw;
     height: 100vh;
-    background-image: url("/backgrounds/nb.gif");
     position: absolute;
     top: 0;
     left: 0;
     z-index: -1000;
     section {
-        background-color: rgba(220, 220, 220, 0.5);
+        background-color: rgba(10, 10, 10, 0.7);
+        color: white;
+        border-radius: 2px;
         position: absolute;
         bottom: 0;
         left: 0;
         padding: 1.5em;
         margin: 1.5em;
+        h1 {
+            font-weight: 300;
+            text-transform: uppercase;
+        }
     }
 }

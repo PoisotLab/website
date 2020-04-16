@@ -1,6 +1,6 @@
 ---
 title: Functional consequences of network structure
-image: func.jpg
+image: topics/func.jpg
 weight: 4
 ---
 
