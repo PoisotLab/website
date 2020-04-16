@@ -23,41 +23,46 @@ html {
   background-size: cover;
   background-repeat: no-repeat; }
 
-nav#main {
+nav#topbar {
   overflow: hidden;
   position: fixed;
   top: 0;
   line-height: 30px;
   width: 100vw; }
-  nav#main.scrolled {
+  nav#topbar.scrolled {
     box-shadow: 0px 0px 4px 0px #555;
-    background-color: white; }
-  nav#main a {
+    background-color: white;
+    transition: 0.8s; }
+    nav#topbar.scrolled a {
+      color: black; }
+    nav#topbar.scrolled nav#menu a.menu {
+      color: #444; }
+  nav#topbar a {
     color: white;
     text-decoration: none;
     display: block;
     padding: 10px; }
-    nav#main a.icon {
+    nav#topbar a.icon {
       opacity: 0.5;
       display: block;
       position: fixed;
       right: 0;
       top: 0; }
-    nav#main a.menu {
+    nav#topbar a.menu {
       background-color: white;
       color: #444;
       font-weight: 300; }
-      nav#main a.menu:nth-child(odd) {
+      nav#topbar a.menu:nth-child(odd) {
         background-color: #f8f8f8; }
-      nav#main a.menu:nth-child(even) {
+      nav#topbar a.menu:nth-child(even) {
         background-color: #f3f3f3; }
-      nav#main a.menu:hover {
+      nav#topbar a.menu:hover {
         background-color: #eee !important;
         color: #000; }
-      nav#main a.menu.active {
+      nav#topbar a.menu.active {
         color: #000;
         font-weight: 400; }
-  nav#main nav#menu {
+  nav#topbar nav#menu {
     display: none; }
 
 header {
@@ -87,14 +92,22 @@ section.container {
   left: 0;
   z-index: -1000; }
   #splash section {
+    display: block;
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 0);
+    margin: 0 auto;
     background-color: rgba(10, 10, 10, 0.7);
     color: white;
-    border-radius: 2px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    padding: 1.5em;
-    margin: 1.5em; }
+    width: 100vw;
+    text-align: center;
+    padding: 1.5em; }
+    #splash section div {
+      margin: 0px auto;
+      display: block;
+      text-align: left;
+      max-width: 750px; }
     #splash section h1 {
       font-weight: 300;
       text-transform: uppercase; }
@@ -116,10 +129,17 @@ section.container {
   display: inline-block;
   padding: .5em;
   margin-bottom: 5em;
-  margin-left: 10px;
-  margin-right: 10px;
-  max-width: 300px;
+  max-width: 295px;
   vertical-align: top; }
+  .item a {
+    background-color: #1c9264;
+    color: white;
+    font-weight: 700;
+    vertical-align: bottom;
+    padding: 0.8em;
+    border-radius: 1.2em; }
+    .item a:hover {
+      background-color: #0aa369; }
   .item h2 {
     font-weight: 300;
     font-size: 120%;
@@ -140,3 +160,28 @@ section.container {
     color: #555;
     font-weight: 400;
     height: 12.5em; }
+
+@media only screen and (min-width: 768px) {
+  * {
+    color: red; }
+  .container {
+    max-width: 950px;
+    margin: 0px auto; }
+  header {
+    padding-top: 120px;
+    transition: 0.5s; }
+    header .container {
+      font-size: 140%; }
+  nav#topbar a {
+    display: inline-block; }
+  nav#topbar a.icon {
+    display: none; }
+  nav#topbar nav#menu {
+    position: fixed;
+    right: 0;
+    top: 0;
+    display: inline-block; }
+    nav#topbar nav#menu a.menu {
+      display: inline-block;
+      background: none !important;
+      color: white; } }

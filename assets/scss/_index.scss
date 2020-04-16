@@ -6,14 +6,23 @@
     left: 0;
     z-index: -1000;
     section {
+        display: block;
+        position: fixed;
+        left: 50%;
+        bottom: 0;
+        transform: translate(-50%, 0);
+        margin: 0 auto;
         background-color: rgba(10, 10, 10, 0.7);
         color: white;
-        border-radius: 2px;
-        position: absolute;
-        bottom: 0;
-        left: 0;
+        width: 100vw;
+        text-align: center;
+        div {
+            margin: 0px auto;
+            display: block;
+            text-align: left;
+            max-width: 750px;
+        }
         padding: 1.5em;
-        margin: 1.5em;
         h1 {
             font-weight: 300;
             text-transform: uppercase;

@@ -25,10 +25,19 @@
     display: inline-block;
     padding: .5em;
     margin-bottom: 5em;
-    margin-left: 10px;
-    margin-right: 10px;
-    max-width: 300px;
+    max-width: 295px;
     vertical-align: top;
+    a{
+        background-color: hsl(157, 68%, 34%);
+        color: white;
+        font-weight: 700;
+        vertical-align: bottom;
+        padding: 0.8em;
+        border-radius: 1.2em;
+        &:hover {
+            background-color: hsl(157, 88%, 34%);
+        }
+    }
     h2 {
         font-weight: 300;
         font-size: 120%;
@@ -53,3 +62,39 @@
         height: 12.5em;
     }
 }
+
+@media only screen and (min-width: 768px) {
+    * {
+        color: red;
+    }
+    .container {
+        max-width: 950px;
+        margin: 0px auto;
+    }
+    header {
+        padding-top: 120px;
+        transition: 0.5s;
+        .container {
+            font-size: 140%;
+        }
+    }
+    nav#topbar{
+        a{ 
+            display: inline-block;
+        }
+        a.icon {
+            display: none;
+        }
+        nav#menu {
+            position: fixed;
+            right: 0;
+            top: 0;
+            display: inline-block;
+            a.menu {
+                display: inline-block;
+                background: none !important;
+                color: white;
+            }
+        }
+    }
+} 

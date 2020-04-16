@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main id="content">
+    <section class="container">
+        {{ .Content }}
+        <div class="listing">
+            {{ range .Paginator.Pages }}
+            <div class="item">
+                <img class="header" src="{{.Page.Params.image}}" alt="" />
+                <h2>{{.Title}}</h2>
+                <div class="summary">
+                    {{.Summary}}
+                </div>
+                <a href="{{ .URL }}">Read more</a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+</main>
+{{ end }}

@@ -24,7 +24,7 @@ html {
     background-repeat: no-repeat;
 }
 
-nav#main {
+nav#topbar {
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -33,6 +33,15 @@ nav#main {
     &.scrolled {
         box-shadow: 0px 0px 4px 0px #555;      
         background-color: white;
+        transition: 0.8s;
+        a {
+            color: black;
+        }
+        nav#menu {
+            a.menu {
+                color: #444;
+            }
+        }
     }
     a {
         color: white;
