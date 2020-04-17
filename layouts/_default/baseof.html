@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en"{{if (eq .Title "")}} id="homepage"{{end}}>
-    <div class="backdrop"></div>
     {{- partial "head.html" . -}}
-
-    {{- partial "navigation.html" . -}}
-    {{- partial "header.html" . -}}
-    {{- block "main" . }}{{- end }}
-    {{- partial "footer.html" . -}}
+    
+    <body>
+        <div class="backdrop"></div>
+        
+        {{- partial "navigation.html" . -}}
+        {{- partial "header.html" . -}}
+        {{- block "main" . }}{{- end }}
+        {{- partial "footer.html" . -}}
+    </body>
 
 </html>

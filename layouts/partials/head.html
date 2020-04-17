@@ -9,7 +9,7 @@
 
     {{ $sass := resources.Get "scss/theme.scss" }}
     {{ $style := $sass | resources.ToCSS }}
-    <link rel="stylesheet" href="{{ $style.Permalink | absURL }}" integrity="{{ $style.Data.Integrity }}">
+    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | absURL }}" integrity="{{ $style.Data.Integrity }}">
 
     <script src="/ui/main.js"></script>
 
