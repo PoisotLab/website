@@ -1,0 +1,102 @@
+[stephanieprefontaine]
+  name = "Stéphanie Préfontaine"
+  mugshot = "mugshots/stephanieprefontaine.jpg"
+  text = ["2017-2020, MSc. Impacts of temperature on the metabolic rates of ecological communities. Advisor: Dominique Gravel."]
+  
+[stevevissault]
+  name = "Steve Vissault"
+  mugshot = "mugshots/svissault.jpg"
+  text = [
+    "2019-2020, PhD. Automated aggregation, synthesis, and forecasting of unstructured biodiversity data.",
+    "2018-2019, Staff scientist. Improvements on the [mangal.io](http://mangal.io) database backend and frontend."
+  ]
+
+[sandrinesoeharjono]
+  name = "Sandrine Soeharjono"
+  role = "Quant/Comp Biology MSc"
+  mugshot = "mugshots/sandrine.jpg"
+  text = ["2019, MSc. Development of indicators based on eBird data to survey urban biodiversity changes in Montréal."]
+
+[zacharybelisle]
+  name = "Zachary Bélisle"
+  mugshot = "mugshots/zacharybelisle.jpg"
+  text = [
+    "2018, MSc. Variation in the composition of insect communities in forest fragments. Advisor: Colin Favret.",
+    "2017-2018, BSc Hons. Robustness of permutation tests for the analysis of ecological network structure."
+  ]
+
+[daphneelecourstessier]
+  name = "Daphnée Lecours-Tessier"
+  mugshot = "mugshots/daphneelecourstessier.jpg"
+  text = [
+    "2018-2020, MSc. Blue-green connectivity and ecosystem integrity in the Laurentians. Co-advisor: Roxane Maranger.",
+    "2017-2018, BSc research assistant. Best practices for the development and implementation of ecological corridors. Co-advisor: Roxane Maranger."
+  ]
+  
+
+[piotrszefer]
+  name = "Piotr Szefer"
+  mugshot = "mugshots/piotrszefer.jpg"
+  text = [
+    "2018, visiting PhD. Implementation of structural models of food web structure."
+  ]
+
+[michielstock]
+  name = "Michiel Stock"
+  mugshot = "mugshots/michielstock.jpg"
+  text = [
+    "2017-2018, visting post-doctoral researcher. Pairwise learning to predict the structure of ecological networks."
+  ]
+
+[alexandrinefrappier]
+  name = "Alexandrine Frappier"
+  mugshot = "mugshots/alexandrinefrappier.jpg"
+  text = ["2018, BSc research assistant. Review of best practices to use image recognition software on wildlife cameras."]
+
+[cynthiagueveneuxjulien]
+  name = "Cynthia Guéveneux-Julien"
+  mugshot = "mugshots/cynthiagueveneuxjulien.png"
+  text = [
+    "2015-2016, BSc Hons. Planification, management, and restoration of landscape connectivity in the Laurentians.",
+    "2015, BSc research assisant. Environmental drivers of host-parasite interaction variability."
+  ]
+  
+[christophebenjamin]
+  name = "Christophe Benjamin"
+  mugshot = "mugshots/christophebenjamin.png"
+  text = ["2017, BSc research assistant. Automated extraction of phylogenetic data from species interaction networks."]
+
+[emilievinet]
+  name = "Émilie Vinet"
+  mugshot = "mugshots/emilievinet.jpg"
+  text = ["2018, BSc research assistant. Machine learning techniques to produce dynamics maps of land use from digitized and numeric maps."]
+
+[gregoirebonenfant]
+  name = "Grégoire Bonenfant"
+  mugshot = "mugshots/gregoirebonenfant.jpg"
+  text = ["2017, BSc research assistant. Measures of species complementarity in quantitative networks."]
+
+[dominiquecaron]
+  name = "Dominique Caron"
+  mugshot = "mugshots/dominiquecaron.jpg"
+  text = ["2017, MSc. Inventory of open biodiversity data in Quebec, and creation of decision-helping tools."]
+
+[renaudmckinnon]
+  name = "Renaud McKinnon"
+  mugshot = "mugshots/renaudmckinnon.png"
+  text = ["2013-2016, MSc. Interactions between trees from experimental plantations and their microbial ectosymbionts."]
+
+[charlescusson]
+  name = "Charles Cusson"
+  mugshot = "mugshots/ccusson.jpeg"
+  text = ["2016, IT. Development of a responsive interface for the [mangal.io](http://www.mangal.io) database."]
+
+[ameliemuller]
+  name = "Amélie Muller"
+  mugshot = "mugshots/ameliemuller.jpg"
+  text = ["2015, MSc. Understanding how management programs could gain from studying the variability of plant-pollinator interactions."]
+
+[faresdhane]
+  name = "Fares Dhane"
+  mugshot = "mugshots/fares.jpg"
+  text = ["2019, MSc. Training of a neural network for mammals recognition in Québec. Advisor: Andrew MacDonald."]

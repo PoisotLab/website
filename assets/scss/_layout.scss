@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+html, body {
+    margin: 0 0;
+    padding: 0 0;
+    width: 100vw;
+    max-width: 100%;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+html {
+    background-image: url("/backgrounds/16.jpg");
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav#topbar {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    line-height: 30px;
+    width: 100vw;
+    &.scrolled {
+        box-shadow: 0px 0px 4px 0px #555;      
+        background-color: white;
+        transition: 0.8s;
+        z-index: 100;
+        a {
+            color: black;
+            b {
+                color: $link-color;
+                font-weight: 400;
+            }
+        }
+        nav#menu {
+            a.menu {
+                color: #444;
+            }
+        }
+    }
+    a {
+        color: white;
+        text-decoration: none;
+        display: block;
+        padding: 10px;
+        &.icon {
+            opacity: 0.5;
+            display: block;
+            position: fixed;
+            right: 0;
+            top: 0;
+        }
+        &.menu {
+            &:nth-child(odd) {
+                background-color: #f8f8f8;
+            }
+            &:nth-child(even) {
+                background-color: #f3f3f3;
+            }
+            background-color: white;
+            color: #444;
+            font-weight: 300;
+            &:hover {
+                background-color: #eee !important;
+                color: #000;
+            }
+            &.active {
+                color: #000;
+                font-weight: 600;
+            }
+        }
+    }
+    nav#menu {
+        display: none;
+    }
+}
+
+header {
+    line-height: 3em;
+    color: white;
+    font-weight: 600;
+    padding-top: 80px;
+    position: relative;
+    top: 0;
+    z-index: -1;
+    font-size: 1.3rem;
+}
+
+main#content {
+    background-color: #fdfdfd;
+    padding-bottom: 5em;
+}
+
+section.container {
+    padding: 1.75em;
+    width: 100vw;
+    line-height: 1.4;
+    ul, li {
+        list-style: none;
+    }
+}

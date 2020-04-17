@@ -1,9 +1,0 @@
-<div class="people">
-  <img class="mugshot" src="/mugshots/{{ .mugshot }}" />
-  <div class="name">{{ .name | markdownify }} <span class="role badge">{{ .role }}</span></div>
-  <div class="blurb">{{ .blurb | markdownify }}</div>
-  <div class="info metadata">
-    <span class="time">Joined {{ .start.Format "Jan. 2006" }}{{ if and (isset . "end") (not (.end.After now)) }} &mdash; left {{ .end.Format "Jan., 2006" }}{{end}}</span>
-    <span class="info">{{ .info | markdownify }}</span>
-  </div>
- </div>

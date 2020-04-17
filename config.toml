@@ -1,12 +1,14 @@
 baseURL = "http://poisotlab.io/"
 languageCode = "en-ca"
 preserveTaxonomyNames = true
-theme = "plab"
 
 [params]
   title = "the<b>poisot</b>lab"
-  subtitle = "computational ecology"
+  subtitle = "quantitative & computational ecology"
   email = "timothee.poisot@umontreal.ca"
+
+[markup.goldmark.renderer]
+  unsafe= true
 
 [menu]
   [[menu.main]]
@@ -26,8 +28,8 @@ theme = "plab"
     url = "/research/"
     weight = 3
   [[menu.main]]
-    name = "Intensive course"
-    url = "/ddes/"
+    name = "Join us!"
+    url = "/opportunities/"
     weight = 5
   [[menu.main]]
     name = "Software"

@@ -1,6 +1,6 @@
 ---
 title: Spatial ecology of species interactions
-image: spatial.jpg
+image: topics/spatial.jpg
 weight: 1
 papers:
   - PoisCana12a

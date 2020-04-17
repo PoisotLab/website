@@ -1,0 +1,14 @@
+<div class="item">
+    <img class="header mugshot" src="{{.mugshot}}" alt="" />
+    <h2>{{.name}}</h2>
+    <div class="summary">
+        {{range .text }}
+            <span>{{ . | markdownify }}</span>
+        {{ end }}
+    </div>
+    <div class="social">
+        {{ if .social.twitter }}<a href="http://twitter.com/{{ .social.twitter }}"><i class="fab fa-twitter"></i></a>{{ end }}
+        {{ if .social.github }}<a href="http://github.com/{{ .social.github }}"><i class="fab fa-github"></i></a>{{ end }}
+        {{ if .social.email }}<a href="mailto:{{ .social.email }}"><i class="fas fa-at"></i></a>{{ end }}
+    </div>
+</div>

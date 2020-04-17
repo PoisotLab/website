@@ -1,0 +1,34 @@
+<div class="paper">
+    {{ $year := index .issued "date-parts" 0 0 | string }}
+    <div class="title">
+        {{ title .title }}
+    </div>
+    <div class="authors">
+        {{ range $author := .author }}
+        <span class="family">{{ $author.family }}</span>,
+        <span class="given">{{ range $names := split $author.given " " }}
+            {{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}
+            {{ end }}</span>
+        {{ end }}
+    </div>
+    <div class="metadata">
+        <span class="year">
+            {{ $year }}
+        </span>
+        {{ if isset . "DOI" }}
+        <span class="doi link badge">
+            <a href="http://dx.doi.org/{{ .DOI}}" target="_blank" title="Text through DOI"><i
+                    class="far fa-fw fa-file-alt"></i></a>
+        </span>
+        {{ else }}
+        <span class="url link badge">
+            <a href="{{ .URL}}" target="_blank" title="Text through URL"><i class="far fa-fw fa-file-alt"></i></a>
+        </span>
+        {{ end }}
+        <span class="url link badge">
+            <a href="https://scholar.google.com/scholar?q={{.title}}" title="Find on google scholar" target="_blank">
+                <i class="fas fa-fw fa-graduation-cap"></i>
+            </a>
+        </span>
+    </div>
+</div>

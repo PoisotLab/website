@@ -1,6 +1,6 @@
 ---
 title: Numerical tools for network analysis
-image: tools.jpg
+image: topics/tools.jpg
 weight: 5
 ---
 
