@@ -27,7 +27,7 @@
   name = "Gracielle Higino"
   mugshot = "mugshots/gracielle.png"
   text = ["2019-2020, visiting PhD. Biological interactions, environmental variables, and biogeographical species distributions."]
-  
+
 
 [kiristern]
   name = "Kiri Stern"
@@ -43,6 +43,10 @@
   text = [
     "2019-, MSc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
   ]
+  [gabrieldansereau.social]
+    email = "gabriel.dansereau@umontreal.ca"
+    twitter = "gabdansereau"
+    github = "gabrieldansereau"
 
 [andrewmacdonald]
   name = "Andrew MacDonald"
