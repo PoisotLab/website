@@ -1,14 +1,34 @@
-@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300;1,400;1,600;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;0,800;1,200;1,300;1,400;1,600;1,800&display=swap');
 
 * {
     font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
 }
 
-$link-color: hsl(157, 68%, 34%);
-$link-color-hover: hsl(157, 70%, 36%);
+b, strong {
+    font-weight: 600;
+}
+
+em, i {
+    font-weight: inherit;
+}
+
+$link-color: #127560;
+$link-color-hover: lighten(saturate($link-color, 20), 5);
 
 @import "_layout";
 @import "_index";
+
+.backdrop {
+    width: 100vw;
+    height: 100vw;
+    background-color: transparentize(darken($link-color, 5), 0.95);
+    background-blend-mode: hue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -2;
+}
 
 .container {
     a {
@@ -59,6 +79,7 @@ $link-color-hover: hsl(157, 70%, 36%);
         width: 160px;
         height: 160px;
         border-radius: 80px;
+        border: 2px solid $link-color-hover;
         text-align: center;
         margin: 0px auto;
         display: block;
@@ -81,6 +102,7 @@ $link-color-hover: hsl(157, 70%, 36%);
     .item {
         .summary {
             height: 17em;
+            line-height: 1.8;
         }
     }
     header {

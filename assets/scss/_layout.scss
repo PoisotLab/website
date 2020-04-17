@@ -90,15 +90,17 @@ nav#topbar {
 header {
     line-height: 3em;
     color: white;
-    font-weight: 800;
+    font-weight: 600;
     padding-top: 80px;
     position: relative;
     top: 0;
     z-index: -1;
+    font-size: 1.3rem;
 }
 
 main#content {
     background-color: #fdfdfd;
+    padding-bottom: 5em;
 }
 
 section.container {

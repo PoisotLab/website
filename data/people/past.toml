@@ -1,131 +1,102 @@
 [stephanieprefontaine]
   name = "Stéphanie Préfontaine"
   mugshot = "mugshots/stephanieprefontaine.jpg"
-  text = ["2017-2020, MSc Candidate. Impacts of temperature on the metabolic rates of ecological communities. Advisor: Dominique Gravel."]
+  text = ["2017-2020, MSc. Impacts of temperature on the metabolic rates of ecological communities. Advisor: Dominique Gravel."]
   
 [stevevissault]
   name = "Steve Vissault"
   mugshot = "mugshots/svissault.jpg"
   text = [
-    "2019-2020, PhD Candidate. Automated aggregation, synthesis, and forecasting of unstructured biodiversity data.",
+    "2019-2020, PhD. Automated aggregation, synthesis, and forecasting of unstructured biodiversity data.",
     "2018-2019, Staff scientist. Improvements on the [mangal.io](http://mangal.io) database backend and frontend."
   ]
 
 [sandrinesoeharjono]
   name = "Sandrine Soeharjono"
-  role = "Quant/Comp Biology MSc candidate"
+  role = "Quant/Comp Biology MSc"
   mugshot = "mugshots/sandrine.jpg"
-  blurb = "Development of indicators based on eBird data to survey urban biodiversity changes in Montréal."
-  start = 2019-01-01
-  end = 2019-05-31
+  text = ["2019, MSc. Development of indicators based on eBird data to survey urban biodiversity changes in Montréal."]
 
 [zacharybelisle]
   name = "Zachary Bélisle"
-  id = "zac"
   mugshot = "mugshots/zacharybelisle.jpg"
-  blurb = "Variation in the composition of insect communities in forest fragments."
-  role = "MSc candidate"
-  start = 2018-09-01
+  text = [
+    "2018, MSc. Variation in the composition of insect communities in forest fragments. Advisor: Colin Favret.",
+    "2017-2018, BSc Hons. Robustness of permutation tests for the analysis of ecological network structure."
+  ]
 
 [daphneelecourstessier]
   name = "Daphnée Lecours-Tessier"
   mugshot = "mugshots/daphneelecourstessier.jpg"
-  blurb = "Data-driven estimation of wildland conservation value at various scales."
-  role = "MSc candidate"
-  start = 2017-09-01
+  text = [
+    "2018-2020, MSc. Blue-green connectivity and ecosystem integrity in the Laurentians. Co-advisor: Roxane Maranger.",
+    "2017-2018, BSc research assistant. Best practices for the development and implementation of ecological corridors. Co-advisor: Roxane Maranger."
+  ]
+  
 
 [piotrszefer]
   name = "Piotr Szefer"
   mugshot = "mugshots/piotrszefer.jpg"
-  blurb = "Ecosystem functions and food web structure."
-  role = "Visiting PhD candidate"
-  start = 2018-10-01
-  end = 2018-12-20
+  text = [
+    "2018, visiting PhD. Implementation of structural models of food web structure."
+  ]
 
 [michielstock]
   name = "Michiel Stock"
   mugshot = "mugshots/michielstock.jpg"
-  blurb = "Pairwise learning to predict the structure of ecological networks."
-  role = "Visiting post-doctoral scientist"
-  start = 2017-10-01
-  end = 2018-02-01
+  text = [
+    "2017-2018, visting post-doctoral researcher. Pairwise learning to predict the structure of ecological networks."
+  ]
 
 [alexandrinefrappier]
   name = "Alexandrine Frappier"
   mugshot = "mugshots/alexandrinefrappier.jpg"
-  blurb = "Review of best practices to use image recognition software on wildlife cameras."
-  role = "Undergraduate researcher"
-  start = 2018-09-01
-  end = 2018-12-20
+  text = ["2018, BSc research assistant. Review of best practices to use image recognition software on wildlife cameras."]
 
 [cynthiagueveneuxjulien]
   name = "Cynthia Guéveneux-Julien"
   mugshot = "mugshots/cynthiagueveneuxjulien.png"
-  blurb = "Planification, management, and restoration of landscape connectivity in the Laurentians."
-  role = "Honors student"
-  start = 2015-06-01
-  end = 2016-04-30
-
+  text = [
+    "2015-2016, BSc Hons. Planification, management, and restoration of landscape connectivity in the Laurentians.",
+    "2015, BSc research assisant. Environmental drivers of host-parasite interaction variability."
+  ]
+  
 [christophebenjamin]
   name = "Christophe Benjamin"
   mugshot = "mugshots/christophebenjamin.png"
-  blurb = "Automated extraction of phylogenetic data from species interaction networks."
-  role = "Undergraduate researcher"
-  start = 2017-01-01
-  end = 2017-04-30
+  text = ["2017, BSc research assistant. Automated extraction of phylogenetic data from species interaction networks."]
 
 [emilievinet]
   name = "Émilie Vinet"
   mugshot = "mugshots/emilievinet.jpg"
-  blurb = "Machine learning techniques to produce dynamics maps of land use from digitized and numeric maps."
-  role = "Undergraduate researcher"
-  start = 2018-01-01
-  end = 2018-04-30
+  text = ["2018, BSc research assistant. Machine learning techniques to produce dynamics maps of land use from digitized and numeric maps."]
 
 [gregoirebonenfant]
   name = "Grégoire Bonenfant"
   mugshot = "mugshots/gregoirebonenfant.jpg"
-  blurb = "Measures of species complementarity in quantitative networks."
-  role = "Undergraduate researcher"
-  start = 2017-09-01
-  end = 2017-12-30
+  text = ["2017, BSc research assistant. Measures of species complementarity in quantitative networks."]
 
 [dominiquecaron]
   name = "Dominique Caron"
   mugshot = "mugshots/dominiquecaron.jpg"
-  blurb = "Inventory of open biodiversity data in Quebec, and creation of decision-helping tools."
-  role = "Quant/Comp Biology MSc candidate"
-  start = 2017-01-01
-  end = 2017-12-30
+  text = ["2017, MSc. Inventory of open biodiversity data in Quebec, and creation of decision-helping tools."]
 
 [renaudmckinnon]
   name = "Renaud McKinnon"
   mugshot = "mugshots/renaudmckinnon.png"
-  blurb = "Interactions between trees from experimental plantations and their microbial ectosymbionts."
-  role = "MSc Candidate"
-  start = 2013-09-01
-  end = 2016-01-01
+  text = ["2013-2016, MSc. Interactions between trees from experimental plantations and their microbial ectosymbionts."]
 
 [charlescusson]
   name = "Charles Cusson"
   mugshot = "mugshots/ccusson.jpeg"
-  blurb = "Development of a better, more responsive interface for the [mangal.io](http://www.mangal.io) database."
-  role = "Informatics staff"
-  start = 2016-03-01
-  end = 2016-06-01
+  text = ["2016, IT. Development of a responsive interface for the [mangal.io](http://www.mangal.io) database."]
 
 [ameliemuller]
   name = "Amélie Muller"
   mugshot = "mugshots/ameliemuller.jpg"
-  blurb = "Understanding how management programs could gain from studying the variability of plant-pollinator interactions."
-  role = "MSc candidate"
-  start = 2015-02-01
-  end = 2015-07-01
+  text = ["2015, MSc. Understanding how management programs could gain from studying the variability of plant-pollinator interactions."]
 
 [faresdhane]
   name = "Fares Dhane"
   mugshot = "mugshots/fares.jpg"
-  role = "Quant/Comp Biology MSc candidate"
-  blurb = "Training of a neural network for mammals recognition in Québec."
-  start = 2019-01-01
-  end = 2019-05-31
+  text = ["2019, MSc. Training of a neural network for mammals recognition in Québec. Advisor: Andrew MacDonald."]

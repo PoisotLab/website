@@ -1,7 +1,10 @@
 [timotheepoisot]
   name = "Timothée Poisot"
   mugshot = "mugshots/timotheepoisot.jpg"
-  text = ["Loves ecology; loves being inside more. Teaches data analysis, ecological modelling, and synthesis."]
+  text = [
+    "Ecologist. Teaches data analysis, ecological modelling, and responsible use of data.",
+    "*Professeur adjoint*, [Department of Biological Sciences](http://bio.umontreal.ca), Université de Montréal"
+  ]
   role = "Assistant professor"
   [timotheepoisot.social]
     email = "timothee.poisot@umontreal.ca"
@@ -11,33 +14,33 @@
 [normaforero]
   name = "Norma Forero"
   mugshot = "mugshots/normaforero.jpg"
-  text = ["2020-, PhD Candidate. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
-  role = "PhD candidate"
+  text = ["2020-, PhD. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
+  role = "PhD"
 
 [francisbanville]
   name = "Francis Banville"
   mugshot = "mugshots/francisbanville.jpg"
-  text = ["2020-, PhD Candidate. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
+  text = ["2020-, PhD. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
 
 [graciellehigino]
   name = "Gracielle Higino"
   mugshot = "mugshots/gracielle.png"
-  text = ["2019-2020, visiting PhD candidate. Biological interactions, environmental variables, and biogeographical species distributions."]
+  text = ["2019-2020, visiting PhD. Biological interactions, environmental variables, and biogeographical species distributions."]
   
 
 [kiristern]
   name = "Kiri Stern"
   mugshot = "mugshots/kiristern.png"
   text = [
-    "2020, MSc candidate. Neural networks for rapid connectivity analyses.",
-    "2019, MSc candidate. Prey use of generalist predators across their range."
+    "2020, MSc. Neural networks for rapid connectivity analyses.",
+    "2019, MSc. Prey use of generalist predators across their range."
   ]
 
 [gabrieldansereau]
   name = "Gabriel Dansereau"
   mugshot = "mugshots/gabrieldansereau.jpg"
   text = [
-    "2019-, MSc candidate. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
+    "2019-, MSc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
   ]
 
 [andrewmacdonald]
@@ -51,17 +54,24 @@
 [mathildebesson]
   name = "Mathilde Besson"
   mugshot = "mugshots/mathildebesson.jpg"
-  text = ["2016-, PhD Candidate. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
+  text = ["2016-, PhD. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
 
 [evadelmas]
   name = "Eva Delmas"
   mugshot = "mugshots/evadelmas.jpg"
-  text = ["2015-, PhD Candidate. Causes and consequences in the relationships between food web structure and ecosystem functioning. Co-advisor: Daniel B. Stouffer."]
+  text = ["2015-, PhD. Causes and consequences in the relationships between food web structure and ecosystem functioning. Co-advisor: Daniel B. Stouffer."]
 
 [philippedesjardinsproulx]
   name = "Philippe Desjardins-Proulx"
   mugshot = "mugshots/philippedesjardinsproulx.jpg"
   text = [
     "2019-, Post-doctoral researcher. Cartesian Genetic Programming for theory building in ecology.",
-    "2014-2018, PhD Candidate. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
+    "2014-2018, PhD. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
+  ]
+
+[andreannedupont]
+  name = "Andréanne Dupont"
+  mugshot = "mugshots/andreannedupont.jpg"
+  text = [
+    "2019-, MSc. Biogeography of lakes ecosystem services. Advisor: Roxane Maranger."
   ]
