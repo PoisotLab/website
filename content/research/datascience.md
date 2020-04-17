@@ -3,8 +3,11 @@ title: Data science for biodiversity research
 image: topics/synthetic.jpg
 weight: 3
 papers:
+  - DallCarl20
+  - MacDBanv20
+  - PoisBrun19
+  - DesjPois19
   - PoisGrav16
-  - DesjPois17
 ---
 
 We believe that open data are a treasure trove of knowledge that has
