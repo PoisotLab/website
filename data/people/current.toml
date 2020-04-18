@@ -22,12 +22,17 @@
   name = "Francis Banville"
   mugshot = "mugshots/francisbanville.jpg"
   text = ["2020-, PhD. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
+  role = "PhD student"
+  [francisbanville.social]
+    email = "francis.banville@umontreal.ca"
+    twitter = "FrancisBanville"
+    github = "FrancisBanville"
 
 [graciellehigino]
   name = "Gracielle Higino"
   mugshot = "mugshots/gracielle.png"
   text = ["2019-2020, visiting PhD. Biological interactions, environmental variables, and biogeographical species distributions."]
-  
+
 
 [kiristern]
   name = "Kiri Stern"
