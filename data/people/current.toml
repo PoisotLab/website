@@ -86,6 +86,7 @@
     email = "philippe.desjardins.proulx@umontreal.ca"
     twitter = "phdpqc"
     github = "PhDP"
+    www = "https://phdp.github.io/"
 
 [andreannedupont]
   name = "Andréanne Dupont"
