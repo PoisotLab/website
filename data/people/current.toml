@@ -32,6 +32,12 @@
   name = "Gracielle Higino"
   mugshot = "mugshots/gracielle.png"
   text = ["2019-2020, visiting PhD. Biological interactions, environmental variables, and biogeographical species distributions."]
+  [graciellehigino.social]
+    email = "gracielle.teixeira.higino@umontreal.ca"
+    twitter = "graciellehigino"
+    github = "graciellehigino"
+    www = "https://graciellehigino.github.io/"
+
 
 
 [kiristern]
