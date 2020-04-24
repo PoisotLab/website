@@ -85,9 +85,14 @@
   name = "Philippe Desjardins-Proulx"
   mugshot = "mugshots/philippedesjardinsproulx.jpg"
   text = [
-    "2019-, Post-doctoral researcher. Cartesian Genetic Programming for theory building in ecology.",
+    "2019-, Post-doctoral researcher. Type theory and higher-order probabilistic programming for ecological synthesis.",
     "2014-2018, PhD. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
   ]
+  [philippedesjardinsproulx.social]
+    email = "philippe.desjardins.proulx@umontreal.ca"
+    twitter = "phdpqc"
+    github = "PhDP"
+    www = "https://phdp.github.io/"
 
 [andreannedupont]
   name = "Andréanne Dupont"
