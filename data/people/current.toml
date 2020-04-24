@@ -88,3 +88,10 @@
   text = [
     "2020, BSc research assistant. Structural analysis of the host-sharing network of coronaviruses."
   ]
+
+[luisanovara]
+  name = "Luisa Novara"
+  mugshot = "mugshots/luisanovara.jpg"
+  text = [
+    "2020, Research assistant. Preparation of data for the forecasting of coronaviruses epidemic risk."
+  ]
