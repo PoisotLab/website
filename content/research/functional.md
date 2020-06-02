@@ -5,7 +5,8 @@ weight: 4
 ---
 
 We are interested in turning the structure of networks into a predictive
-variable for community ecology; we are particularly interested in the role of trophic interactions in ecosystem functioning.
+variable for community ecology; we are particularly interested in the role of
+trophic interactions in ecosystem functioning.
 
 <!--more-->
 

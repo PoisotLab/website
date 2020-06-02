@@ -10,8 +10,10 @@ papers:
   - PoisGrav16
 ---
 
-We believe that open data are a treasure trove of knowledge that has
-not been entirely used yet, and require ecologists to get curious about tools and practices from the field of data science. We explore applications of machine learning and deep learning to biodiversity.
+We believe that open data are a treasure trove of knowledge that has not been
+entirely used yet, and require ecologists to get curious about tools and
+practices from the field of data science. We explore applications of machine
+learning and deep learning to biodiversity.
 
 <!--more-->
 

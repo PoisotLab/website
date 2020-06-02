@@ -38,8 +38,6 @@
     github = "graciellehigino"
     www = "https://graciellehigino.github.io/"
 
-
-
 [kiristern]
   name = "Kiri Stern"
   mugshot = "mugshots/kiristern.png"
@@ -114,3 +112,8 @@
   text = [
     "2020, Research assistant. Preparation of data for the forecasting of coronaviruses epidemic risk."
   ]
+
+[imansicot]
+  name = "Iman Sicot"
+  mugshot = "mugshots/imansicot.jpg"
+  text = ["2020, BSc research assistant. Survey of data on food webs in North America."]
