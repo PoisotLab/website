@@ -56,7 +56,7 @@ development opportunities both at McGill and UdeM for the duration of the
 contract but will be on McGill University payroll.
 
 Applicants should submit a CV, statement of relevant experience and training,
-and short (300 words) statements on EDI and Open Science, as well as the names
+and short statements on EDI and Open Science (300 words *each*), as well as the names
 and contact information (including phone and e-mail) of up to three references
 to Laura Pollock (`laura.pollock@mcgill.ca`) and Timothée Poisot
 (`timothee.poisot@umontreal.ca`), with the subject line “LivingData post-doc”.
