@@ -100,3 +100,20 @@
   name = "Fares Dhane"
   mugshot = "mugshots/fares.jpg"
   text = ["2019, MSc. Training of a neural network for mammals recognition in Québec. Advisor: Andrew MacDonald."]
+
+[kiristern]
+  name = "Kiri Stern"
+  mugshot = "mugshots/kiristern.png"
+  text = [
+    "2020, MSc. Neural networks for rapid connectivity analyses.",
+    "2019, MSc. Prey use of generalist predators across their range."
+  ]
+  [kiristern.social]
+    email = "kiri.stern@umontreal.ca"
+    twitter = "_kastern"
+    github = "kiristern"
+
+[imansicot]
+  name = "Iman Sicot"
+  mugshot = "mugshots/imansicot.jpg"
+  text = ["2020, BSc research assistant. Survey of data on food webs in North America."]

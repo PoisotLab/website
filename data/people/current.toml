@@ -38,18 +38,6 @@
     github = "graciellehigino"
     www = "https://graciellehigino.github.io/"
 
-[kiristern]
-  name = "Kiri Stern"
-  mugshot = "mugshots/kiristern.png"
-  text = [
-    "2020, MSc. Neural networks for rapid connectivity analyses.",
-    "2019, MSc. Prey use of generalist predators across their range."
-  ]
-  [kiristern.social]
-    email = "kiri.stern@umontreal.ca"
-    twitter = "_kastern"
-    github = "kiristern"
-
 [gabrieldansereau]
   name = "Gabriel Dansereau"
   mugshot = "mugshots/gabrieldansereau.jpg"
@@ -113,7 +101,3 @@
     "2020, Research assistant. Preparation of data for the forecasting of coronaviruses epidemic risk."
   ]
 
-[imansicot]
-  name = "Iman Sicot"
-  mugshot = "mugshots/imansicot.jpg"
-  text = ["2020, BSc research assistant. Survey of data on food webs in North America."]
