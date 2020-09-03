@@ -1,3 +1,15 @@
+[luisanovara]
+  name = "Luisa Novara"
+  mugshot = "mugshots/luisanovara.jpg"
+  text = [
+    "2020, Research assistant. Preparation of data for the forecasting of coronaviruses epidemic risk."
+  ]
+
+[evadelmas]
+  name = "Eva Delmas"
+  mugshot = "mugshots/evadelmas.jpg"
+  text = ["2015-2020, PhD. Causes and consequences in the relationships between food web structure and ecosystem functioning. Co-advisor: Daniel B. Stouffer."]
+
 [stephanieprefontaine]
   name = "Stéphanie Préfontaine"
   mugshot = "mugshots/stephanieprefontaine.jpg"

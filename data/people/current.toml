@@ -12,11 +12,20 @@
     github = "tpoisot"
     www = "http://armchairecology.blog/"
 
+[tanyastrydom]
+  name = "Tanya Strydom"
+  mugshot = "mugshots/tanyastrydom.jpg"
+  text = ["2020-, PhD. Common properties of species interactions networks across space."]
+
+[marieandreeouellet]
+  name = "Marie-Andrée Ouellet"
+  mugshot = "mugshots/marieandreeouellet.jpg"
+  text = ["2020. MSc research intern. Singular Value Decomposition as an imputation method for host-virus detection."]
+
 [normaforero]
   name = "Norma Forero"
   mugshot = "mugshots/normaforero.jpg"
   text = ["2020-, PhD. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
-  role = "PhD"
 
 [francisbanville]
   name = "Francis Banville"
@@ -62,11 +71,6 @@
   mugshot = "mugshots/mathildebesson.jpg"
   text = ["2016-, PhD. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
 
-[evadelmas]
-  name = "Eva Delmas"
-  mugshot = "mugshots/evadelmas.jpg"
-  text = ["2015-, PhD. Causes and consequences in the relationships between food web structure and ecosystem functioning. Co-advisor: Daniel B. Stouffer."]
-
 [philippedesjardinsproulx]
   name = "Philippe Desjardins-Proulx"
   mugshot = "mugshots/philippedesjardinsproulx.jpg"
@@ -92,12 +96,5 @@
   mugshot = "mugshots/valentinevolz.png"
   text = [
     "2020, BSc research assistant. Structural analysis of the host-sharing network of coronaviruses."
-  ]
-
-[luisanovara]
-  name = "Luisa Novara"
-  mugshot = "mugshots/luisanovara.jpg"
-  text = [
-    "2020, Research assistant. Preparation of data for the forecasting of coronaviruses epidemic risk."
   ]
 
