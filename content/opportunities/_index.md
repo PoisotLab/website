@@ -20,8 +20,7 @@ ca. 50 000 CAD (an additional grant is available for applicants targeted by
 EDI programs or members of URM), including benefits and membership in UdeM
 research personnel union (SÉRUM).
 
-
-## The selected candidate will (in no particular order)
+### Tasks, responsibilities, and opportunities
 
 - work in close collaboration with partners from the AI and digital sustainability communities, including Future Earth, Microsoft Research AI for Earth, IVADO (U. de Montréal data science institute), Element AI, Calcul Québec, and the MILA, and stakeholders from the provincial government
 - contribute to and develop research projects relying on the use of data science tools, with a specific focus on forecasting methods, including but not limited to data synthesis, probabilistic programming, deep learning, image recognition, and other predictive methods
@@ -39,7 +38,7 @@ of autonomy and will be encouraged to carve out new partnerships and research
 collaborations. Remote work is expected for the first months of the position
 and is appropriate for its entire duration.
 
-## Desired skills and qualifications for this position include
+### Desired skills and qualifications for this position include
 
 - excellent programming abilities, with multiple programming languages preferred
 - experience in data management and synthesis
@@ -53,7 +52,7 @@ and is appropriate for its entire duration.
 We recognize that this is a broad list of requirements, and we do not expect
 applicants to excel in all of these areas.
 
-## Application materials
+### Application materials
 
 Applicants must submit, as a single PDF file, an application package containing:
 
@@ -64,9 +63,9 @@ Applicants must submit, as a single PDF file, an application package containing:
 - the applicant must not submit information related to grades, awards, prizes, etc, at this point in the process, nor mention altmetrics or impact factor
 
 The application document must be sent by email to
-`timothee.poisot@umontreal.ca`, with the subject line “AI/ML QCBS post-doc”
-- the applications will be reviewed in real-time, and the selected candidates
-will be invited for a remote interview, for a discussion with Timothée Poisot
-(UdeM), Pierre-Luc Chagnon (UdeM/QCBS rep.), and Andy Gonzalez (QCBS director
-/ GEO BON co-chair elect).
+`timothee.poisot@umontreal.ca`, with the subject line “AI/ML QCBS
+post-doc”; applications will be reviewed in real-time, and the selected
+candidates will be invited for a remote interview, for a discussion with
+Timothée Poisot (UdeM), Pierre-Luc Chagnon (UdeM/QCBS rep.), and Andy Gonzalez
+(QCBS director / GEO BON co-chair elect).
 

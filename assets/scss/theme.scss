@@ -189,3 +189,13 @@ footer {
     color: #aeaeae;
     font-weight: 300;
 }
+
+#content {
+    ul, li {
+        list-style-type: circle;
+        line-height: 150%;
+    }
+    li {
+        margin-bottom: 1em;
+    }
+}

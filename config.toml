@@ -28,10 +28,6 @@ preserveTaxonomyNames = true
     url = "/research/"
     weight = 3
   [[menu.main]]
-    name = "Intensive class"
-    url = "/ddes/"
-    weight = 5
-  [[menu.main]]
     name = "Software"
     target = "_blank"
     url = "https://github.com/PoisotLab/"

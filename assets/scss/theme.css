@@ -39,6 +39,7 @@ nav#topbar {
   position: fixed;
   top: 0;
   line-height: 60px;
+  font-size: 80%;
   width: 100vw; }
   nav#topbar.scrolled {
     box-shadow: 0px 0px 4px 0px #555;
@@ -69,7 +70,7 @@ nav#topbar {
     nav#topbar a.menu {
       background-color: white;
       color: #444;
-      font-weight: 300; }
+      font-weight: 400; }
       nav#topbar a.menu:nth-child(odd) {
         background-color: #f8f8f8; }
       nav#topbar a.menu:nth-child(even) {
@@ -262,5 +263,11 @@ footer {
   background-color: #f3f3f3;
   color: #aeaeae;
   font-weight: 300; }
+
+#content ul, #content li {
+  list-style-type: circle;
+  line-height: 150%; }
+#content li {
+  margin-bottom: 1em; }
 
 /*# sourceMappingURL=theme.css.map */

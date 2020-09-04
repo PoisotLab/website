@@ -30,6 +30,7 @@ nav#topbar {
     position: fixed;
     top: 0;
     line-height: 60px;
+    font-size: 80%;
     width: 100vw;
     &.scrolled {
         box-shadow: 0px 0px 4px 0px #555;      
@@ -74,7 +75,7 @@ nav#topbar {
             }
             background-color: white;
             color: #444;
-            font-weight: 300;
+            font-weight: 400;
             &:hover {
                 background-color: #eee !important;
                 color: #000;
