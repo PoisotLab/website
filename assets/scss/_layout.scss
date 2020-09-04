@@ -25,12 +25,11 @@ html {
 }
 
 nav#topbar {
-    text-transform: lowercase;
-    font-variant: small-caps;
+    text-transform: uppercase;
     overflow: hidden;
     position: fixed;
     top: 0;
-    line-height: 30px;
+    line-height: 60px;
     width: 100vw;
     &.scrolled {
         box-shadow: 0px 0px 4px 0px #555;      
@@ -55,6 +54,10 @@ nav#topbar {
         text-decoration: none;
         display: block;
         padding: 10px;
+        img.logo {
+            margin: -10px 0px;
+            height: 40px;
+        }
         &.icon {
             opacity: 0.5;
             display: block;

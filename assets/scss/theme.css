@@ -203,14 +203,17 @@ section.container {
     margin: 0px auto; }
     .container p {
       line-height: 1.8; }
+
   .item .summary {
     height: 17em;
     line-height: 1.8; }
+
   header {
     padding-top: 180px;
     transition: 0.5s; }
     header .container {
       font-size: 140%; }
+
   nav#topbar a {
     display: inline-block; }
   nav#topbar a.icon {
@@ -224,7 +227,6 @@ section.container {
       display: inline-block;
       background: none !important;
       color: white; } }
-
 .paper {
   margin-bottom: 1.4em; }
   .paper .title {
@@ -239,7 +241,6 @@ section.container {
 
 .item:hover .mugshot {
   filter: grayscale(0%); }
-
 .item .summary span {
   display: inline-block; }
   .item .summary span a {
@@ -251,7 +252,6 @@ section.container {
     font-weight: inherit; }
     .item .summary span a:hover {
       color: #096e76; }
-
 .item .social a {
   color: #114f54;
   background: none !important;
@@ -262,3 +262,5 @@ footer {
   background-color: #f3f3f3;
   color: #aeaeae;
   font-weight: 300; }
+
+/*# sourceMappingURL=theme.css.map */
