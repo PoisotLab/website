@@ -17,6 +17,15 @@
   mugshot = "mugshots/tanyastrydom.jpg"
   text = ["2020-, PhD. Common properties of species interactions networks across space."]
 
+[joeyburant]
+  name = "Joseph B. Burant"
+  mugshot = "mugshots/joeyburant.jpg"
+  text = ["2020-, Post-doctoral fellow with the Living Data Project."]
+  [joyeburant.social]
+    twitter = "jbburant"
+    github = "jbburant"
+    www = "http://jbburant.wordpress.com/"
+
 [marieandreeouellet]
   name = "Marie-Andrée Ouellet"
   mugshot = "mugshots/marieandreeouellet.jpg"
