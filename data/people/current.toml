@@ -21,7 +21,7 @@
   name = "Joseph B. Burant"
   mugshot = "mugshots/joeyburant.jpg"
   text = ["2020-, Post-doctoral fellow with the Living Data Project."]
-  [joyeburant.social]
+  [joeyburant.social]
     twitter = "jbburant"
     github = "jbburant"
     www = "http://jbburant.wordpress.com/"
@@ -29,7 +29,7 @@
 [marieandreeouellet]
   name = "Marie-Andrée Ouellet"
   mugshot = "mugshots/marieandreeouellet.jpg"
-  text = ["2020. MSc research intern. Singular Value Decomposition as an imputation method for host-virus detection."]
+  text = ["2020, MSc research intern. Singular Value Decomposition as an imputation method for host-virus detection."]
 
 [normaforero]
   name = "Norma Forero"
