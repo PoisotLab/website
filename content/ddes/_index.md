@@ -30,7 +30,7 @@ of the six weeks.
 [VERENA]: https://www.viralemergence.org/
 
 The application deadline is Dec. 31, 2019 - please apply on-line using
-this link.
+[this link](https://forms.gle/j1XVAtUkLwAc467e9).
 
 ## Goals and target audience
 
