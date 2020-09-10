@@ -8,7 +8,7 @@ aliases:
 We are organizing the sixth edition of our intensive class in data-driven
 ecological synthesis, with support from the NSERC BIOS² CREATE program and
 the Fondation Courtois. Enrolment is limited to 30 students. The course will
-run online only from the first week of May 2020, for six weeks, with three
+run online only from the first week of May 2021, for six weeks, with three
 meetings every week.
 
 The class is free for students registered at a Québec university, and
@@ -32,7 +32,7 @@ of the six weeks.
 
 [VERENA]: https://www.viralemergence.org/
 
-The application deadline is Dec. 31, 2019 - please apply on-line using
+The application deadline is Dec. 31, 2020 - please apply on-line using
 [this link](https://forms.gle/j1XVAtUkLwAc467e9).
 
 ## Goals and target audience
