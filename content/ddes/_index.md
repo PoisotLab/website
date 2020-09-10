@@ -14,8 +14,11 @@ meetings every week.
 The class is free for students registered at a Québec university, and
 the registration fees are (approx.) 800 CAD for other attendees. We will
 automatically award a no-questions-asked grant equal to this amount to
-attendees from under-represented minorities in STEM; we will also award several
-grants for the same amount to attendees who can justify the need for it.
+attendees from under-represented minorities in STEM, members of Canada's
+"designated groups" for EDI initiatives (women, people with disabilities,
+Aboriginal peoples, and visible minorities), as well as members of the LGBTQIA+
+community; we will also award several grants for the same amount to attendees
+who can justify the need for it.
 
 In a departure from the usual format of this course, this year’s cohort will
 work collaboratively on a single project: predicting interactions between
