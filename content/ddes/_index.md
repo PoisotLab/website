@@ -37,7 +37,7 @@ The application deadline is Dec. 31, 2020 - please apply on-line using
 
 ## Goals and target audience
 
-This week-long intensive class will give early-career biologists the tools and
+This intensive class will give early-career biologists the tools and
 skills needed to interact with, manage, clean, and analyze data. We will put
 a great deal of emphasis on the transparency and reproducibility of the data
 transformation pipeline. We will specifically do so by working on leveraging
