@@ -15,7 +15,7 @@
 [tanyastrydom]
   name = "Tanya Strydom"
   mugshot = "mugshots/tanyastrydom.jpg"
-  text = ["2020-, PhD. Common properties of species interactions networks across space."]
+  text = ["2020-, Ph.D. Common properties of species interactions networks across space."]
 
 [joeyburant]
   name = "Joseph B. Burant"
@@ -26,20 +26,15 @@
     github = "jbburant"
     www = "http://jbburant.wordpress.com/"
 
-[marieandreeouellet]
-  name = "Marie-Andrée Ouellet"
-  mugshot = "mugshots/marieandreeouellet.jpg"
-  text = ["2020, MSc research intern. Singular Value Decomposition as an imputation method for host-virus detection."]
-
 [normaforero]
   name = "Norma Forero"
   mugshot = "mugshots/normaforero.jpg"
-  text = ["2020-, PhD. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
+  text = ["2020-, Ph.D. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
 
 [francisbanville]
   name = "Francis Banville"
   mugshot = "mugshots/francisbanville.jpg"
-  text = ["2020-, PhD. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
+  text = ["2020-, Ph.D. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
   role = "PhD student"
   [francisbanville.social]
     email = "francis.banville@umontreal.ca"
@@ -49,7 +44,7 @@
 [graciellehigino]
   name = "Gracielle Higino"
   mugshot = "mugshots/gracielle.png"
-  text = ["2019-2020, visiting PhD. Biological interactions, environmental variables, and biogeographical species distributions."]
+  text = ["2019-2020, visiting Ph.D. Biological interactions, environmental variables, and biogeographical species distributions."]
   [graciellehigino.social]
     email = "gracielle.teixeira.higino@umontreal.ca"
     twitter = "graciellehigino"
@@ -60,7 +55,7 @@
   name = "Gabriel Dansereau"
   mugshot = "mugshots/gabrieldansereau.jpg"
   text = [
-    "2019-, MSc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
+    "2019-, M.Sc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
   ]
   [gabrieldansereau.social]
     email = "gabriel.dansereau@umontreal.ca"
@@ -78,14 +73,14 @@
 [mathildebesson]
   name = "Mathilde Besson"
   mugshot = "mugshots/mathildebesson.jpg"
-  text = ["2016-, PhD. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
+  text = ["2016-, Ph.D. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
 
 [philippedesjardinsproulx]
   name = "Philippe Desjardins-Proulx"
   mugshot = "mugshots/philippedesjardinsproulx.jpg"
   text = [
     "2019-, Post-doctoral researcher. Type theory and higher-order probabilistic programming for ecological synthesis.",
-    "2014-2018, PhD. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
+    "2014-2018, Ph.D. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
   ]
   [philippedesjardinsproulx.social]
     email = "philippe.desjardins.proulx@umontreal.ca"
@@ -97,13 +92,20 @@
   name = "Andréanne Dupont"
   mugshot = "mugshots/andreannedupont.jpg"
   text = [
-    "2019-, MSc. Biogeography of lakes ecosystem services. Advisor: Roxane Maranger."
+    "2019-, M.Sc. Biogeography of lakes ecosystem services. Advisor: Roxane Maranger."
   ]
 
 [valentinevolz]
   name = "Valentine Volz"
   mugshot = "mugshots/valentinevolz.png"
   text = [
-    "2020, BSc research assistant. Structural analysis of the host-sharing network of coronaviruses."
+    "2020, B.Sc. research assistant. Structural analysis of the host-sharing network of coronaviruses.",
+    "2021-, M.Sc. Spatial structure of ecological networks over large gradients."
   ]
 
+[salomebouskila]
+  name = "Salomé Bouskila"
+  mugshot = "mugshots/salomebouskila.jpg"
+  text = [
+    "2021, M.Sc. research intern. Pathogen sharing in the global virome."
+  ]
