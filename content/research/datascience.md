@@ -9,6 +9,7 @@ papers:
   - Desjardins-Proulx2019ArtInt
   - Makiola2019KeyQue
   - Strydom2020SvdEnt
+  - Stern2020NovApp
 ---
 
 We believe that open data are a treasure trove of knowledge that has not been

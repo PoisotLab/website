@@ -8,6 +8,7 @@ papers:
     - Gray2015TemTro
     - Hobaiter2014SocNet
     - Poisot2013TroCom
+    - Lecours-Tessier2020OmnOmn
 ---
 
 We are interested in turning the structure of networks into a predictive
