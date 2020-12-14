@@ -3,11 +3,11 @@ title: Spatial ecology of species interactions
 image: topics/spatial.jpg
 weight: 1
 papers:
-  - PoisCana12a
-  - PoisStou15
-  - PoisGuev17
-  - DallPois17
-  - GravBais18
+  - Higino2020BetPhy
+  - Poisot2012DisSpe
+  - Poisot2017HosPar
+  - Dallas2017ComTur
+  - Gravel2018BriElt
 ---
 
 Why is there variation in the way species interact over space or time? We

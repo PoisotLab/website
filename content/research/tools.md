@@ -3,10 +3,10 @@ title: Data and software tools
 image: topics/tools.jpg
 weight: 5
 papers:
- - PoisBeli19
- - DelmBros17
- - HutcCagu17
- - PoisBais16
+ - Poisot2019EcoJl
+ - Delmas2017SimBio
+ - Hutchinson2017PacImp
+ - Poisot2016ManMak
 ---
 
 Addressing new questions often requires to develop new tools. We develop

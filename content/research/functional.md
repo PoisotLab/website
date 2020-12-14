@@ -2,6 +2,12 @@
 title: Functional consequences of network structure
 image: topics/func.jpg
 weight: 4
+papers:
+    - Delmas2020FooWeb
+    - Gravel2014UsiNeu
+    - Gray2015TemTro
+    - Hobaiter2014SocNet
+    - Poisot2013TroCom
 ---
 
 We are interested in turning the structure of networks into a predictive

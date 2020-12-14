@@ -3,9 +3,9 @@ title: Ecology of viral pathogens
 image: topics/verena.jpg
 weight: 4
 papers:
-  - BecAlbSjo20
-  - DalCarPoi20
-  - PoiNunMor14
+  - Dallas2020TesPre
+  - Becker2020PreWil
+  - Poisot2014OngWor
 ---
 
 Can we use ecological information to make predictions about emerging viral

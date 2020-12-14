@@ -3,11 +3,11 @@ title: Prediction of species interactions
 image: topics/predict.jpg
 weight: 2
 papers:
-  - MacDBanv20
-  - AlboArch19
-  - PomeThom18
-  - StocPois17
-  - GravPois13
+  - Pomeranz2018InfPre
+  - Desjardins-Proulx2017EcoInt
+  - Albouy2019MarFis
+  - Poisot2015SpeWhy
+  - Stock2017LinFil
 ---
 
 Can we predict inter-specific interactions? We are interested in developing
