@@ -1,3 +1,11 @@
+[andrewmacdonald]
+  name = "Andrew MacDonald"
+  mugshot = "mugshots/amcdonald.jpg"
+  text = [
+    "2019-2020, Post-doctoral researcher. Development of biodiversity indicators for the governmental monitoring of biodiversity.",
+    "2018-2019, Post-doctoral researcher. High-throughput processing of camera-trap data.",
+  ]
+
 [luisanovara]
   name = "Luisa Novara"
   mugshot = "mugshots/luisanovara.jpg"

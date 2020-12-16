@@ -62,14 +62,6 @@
     twitter = "gabdansereau"
     github = "gabrieldansereau"
 
-[andrewmacdonald]
-  name = "Andrew MacDonald"
-  mugshot = "mugshots/amcdonald.jpg"
-  text = [
-    "2019-, Post-doctoral researcher. Development of biodiversity indicators for the governmental monitoring of biodiversity.",
-    "2018-2019, Post-doctoral researcher. High-throughput processing of camera-trap data.",
-  ]
-
 [mathildebesson]
   name = "Mathilde Besson"
   mugshot = "mugshots/mathildebesson.jpg"
