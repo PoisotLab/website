@@ -3,6 +3,7 @@ title: Ecology of viral pathogens
 image: topics/verena.jpg
 weight: 4
 papers:
+  - Gibb2021DatPro
   - Dallas2020TesPre
   - Becker2020PreWil
   - Poisot2014OngWor
