@@ -8,6 +8,7 @@ papers:
   - Albouy2019MarFis
   - Poisot2015SpeWhy
   - Stock2017LinFil
+  - Strydom2021PriPre
 ---
 
 Can we predict inter-specific interactions? We are interested in developing

@@ -9,6 +9,7 @@ papers:
     - Hobaiter2014SocNet
     - Poisot2013TroCom
     - Lecours-Tessier2020OmnOmn
+    - Stock2021OptTra
 ---
 
 We are interested in turning the structure of networks into a predictive

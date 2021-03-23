@@ -6,6 +6,16 @@
     "2018-2019, Post-doctoral researcher. High-throughput processing of camera-trap data.",
   ]
 
+[graciellehigino]
+  name = "Gracielle Higino"
+  mugshot = "mugshots/gracielle.png"
+  text = ["2019-2020, visiting Ph.D. Biological interactions, environmental variables, and biogeographical species distributions."]
+  [graciellehigino.social]
+    email = "gracielle.teixeira.higino@umontreal.ca"
+    twitter = "graciellehigino"
+    github = "graciellehigino"
+    www = "https://graciellehigino.github.io/"
+
 [luisanovara]
   name = "Luisa Novara"
   mugshot = "mugshots/luisanovara.jpg"
