@@ -24,7 +24,7 @@ desirable skills as a very broad recommendation. First and foremost, a Ph.D. is
 a *training* experience, and willingness to acquire specific skills is a trait
 we highly value in lab members. "Programming" does not refer to a specific
 language, but the lab uses [Julia](https://julialang.org/), and it is expected
-to be the language used for the overwheling majority of research projects.
+to be the language used for the overwhelming majority of research projects.
 
 Applicants must submit, as a single PDF file, an application package containing:
 
