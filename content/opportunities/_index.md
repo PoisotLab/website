@@ -60,7 +60,7 @@ and notably to contribute to the work of the Viral Emergence Research Initiative
 efforts to predict host-virus associations.
 
 **Desirable skills:** ecological networks; applied mathematics; machine
-learning; advanced research computing; community ecology
+learning; advanced research computing; community or diease ecology
 
 ## Development of Essential Biodiversity Variables for ecological networks
 
