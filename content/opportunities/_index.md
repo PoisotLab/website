@@ -62,7 +62,9 @@ and notably to contribute to the work of the Viral Emergence Research Initiative
 efforts to predict host-virus associations.
 
 **Desirable skills:** ecological networks; applied mathematics; machine
-learning; advanced research computing; community or diease ecology
+learning; advanced research computing; community or disease ecology
+
+**Suggested starting date:** Jan. 2022
 
 ## Development of Essential Biodiversity Variables for ecological networks
 
@@ -82,3 +84,5 @@ of EBVs and biodiversity observation networks.
 
 **Desirable skills:** ecological networks; data management; programming; GIS;
 conservation biology
+
+**Suggested starting date:** Sept. 2021
