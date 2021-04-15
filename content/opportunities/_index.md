@@ -7,7 +7,9 @@ and Jan. 2022 (descriptions below; dates flexible). Each position comes with a
 guaranteed annual amount of 22500 CAD. Tuition will be paid in full. All lab
 members get access to the lab's computing resources, both on-site and managed by
 Compute Québec, and get the opportunity to apply to additional funding through
-NSERC CREATE programs, as well as teach in a variety of classes.
+NSERC CREATE programs, as well as teach in a variety of classes. Both positions
+will be based at the Department of Biological Sciences, at Université de
+Montréal.
 
 All prospective applicants **must** familiarize themselves with our
 [values](https://poisotlab.io/values/) and code of conduct. The research group
