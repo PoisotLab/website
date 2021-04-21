@@ -112,5 +112,12 @@
   name = "Emma Glennon"
   mugshot = "mugshots/emmaglennon.jpg"
   text = [
-    "2021, associate post-doctoral fellow. Epidemic dynamics."
+    "2021, associate post-doctoral fellow. Machine-learning assisted inference of epidemic dynamics."
+  ]
+
+[samuelprovenchertardiff]
+  name = "Samuel Provencher-Tardiff"
+  mugshot = "mugshots/samuelprovenchertardiff.jpg"
+  text = [
+    "2021, M.Sc. research intern. Meta-models for inference and forecasting of biodiversity uniqueness."
   ]
