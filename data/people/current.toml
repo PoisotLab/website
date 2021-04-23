@@ -39,6 +39,11 @@
   name = "Norma Forero"
   mugshot = "mugshots/normaforero.jpg"
   text = ["2020-, Ph.D. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
+  role = "PhD student"
+  [normaforero.social]
+    email = "norma.rocio.forero.munoz@umontreal.ca"
+    twitter = "norma_forero"
+    github = "Norma-Forero"
 
 [francisbanville]
   name = "Francis Banville"
