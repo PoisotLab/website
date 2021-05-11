@@ -52,8 +52,9 @@
   role = "PhD student"
   [francisbanville.social]
     email = "francis.banville@umontreal.ca"
-    twitter = "FrancisBanville"
+    twitter = "francisbanv"
     github = "FrancisBanville"
+    www = "https://francisbanville.netlify.app/"
 
 [gabrieldansereau]
   name = "Gabriel Dansereau"
