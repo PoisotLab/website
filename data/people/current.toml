@@ -60,7 +60,8 @@
   name = "Gabriel Dansereau"
   mugshot = "mugshots/gabrieldansereau.jpg"
   text = [
-    "2019-, M.Sc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
+    "2021-, Ph.D. Quantification of the structural originality of food webs over continuous spatial scales.",
+    "2019-2021, M.Sc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
   ]
   [gabrieldansereau.social]
     email = "gabriel.dansereau@umontreal.ca"
