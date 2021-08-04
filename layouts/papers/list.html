@@ -12,8 +12,8 @@
         {{ $month := index $publication.issued "date-parts" 0 1 | int }}
         {{ $day := index $publication.issued "date-parts" 0 1 | int }}
         {{ $fyear := printf "%04d" (sub $year 3000)}}
-        {{ $fmonth := printf "%02d" $month }}
-        {{ $fday := printf "%02d" $day }}
+        {{ $fmonth := printf "%02d" (sub $month 12) }}
+        {{ $fday := printf "%02d" (sub $day 31) }}
         {{ $date := print $fyear "-" $fmonth "-" $fday "-" $publication.id | string}}
         {{ $idyear.SetInMap "date" $date $publication.id }}
         {{ end }}

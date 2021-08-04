@@ -49,9 +49,9 @@ $link-color-hover: lighten(saturate($link-color, 20), 5);
 
 .item {
     display: inline-block;
-    padding: .5em;
+    padding: 1.2em;
     margin-bottom: 5em;
-    max-width: 295px;
+    max-width: 300px;
     vertical-align: top;
     a{
         background-color: $link-color;
@@ -93,7 +93,7 @@ $link-color-hover: lighten(saturate($link-color, 20), 5);
 
 @media only screen and (min-width: 768px) {
     .container {
-        max-width: 950px;
+        max-width: 1000px;
         margin: 0px auto;
         p {
             line-height: 1.8;
@@ -134,22 +134,43 @@ $link-color-hover: lighten(saturate($link-color, 20), 5);
 } 
 
 .paper {
-    margin-bottom: 1.4em;
+    margin-bottom: 1.7em;
     .title {
         font-weight: 600;
+        .year {
+            color: #777;
+            &::before{
+                content: "("
+            }
+            &::after{
+                content: ")"
+            }
+        }
     }
     .authors {
         font-weight: 300;
     }
+    .metadata {
+        padding-top: 0.7em;
+    }
     .badge {
         a {
-            border-bottom: 0px solid white;
+            border: 1px solid $link-color;
+            color: $link-color;
+            font-size: 80%;
+            padding: 0.2em 0.4em;
+            text-transform: uppercase;
+            border-radius: 4px;
+            &:hover {
+                color: white;
+                background-color: $link-color-hover;
+            }
         }
     }
 }
 
 .mugshot {
-    filter: grayscale(60%);
+    filter: grayscale(70%);
 }
 
 .item {
@@ -197,5 +218,15 @@ footer {
     }
     li {
         margin-bottom: 1em;
+    }
+}
+
+.person {
+    h2{
+        margin-bottom: -2em;
+    }
+    .social{
+        margin-bottom: 1.2em;
+        height: 0.5em;
     }
 }
