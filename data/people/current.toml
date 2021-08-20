@@ -93,16 +93,6 @@
     "2019-, M.Sc. Biogeography of lakes ecosystem services. Advisor: Roxane Maranger."
   ]
 
-[karolineceron]
-  name = "Karoline Ceron"
-  mugshot = "mugshots/karolineceron.jpg"
-  text = [
-    "2021-, Post-doctoral fellow. Development of Essential Biodiversity Variables for species interactions."
-  ]
-  [karolineceron.social]
-    twitter = "ceronkarol"
-    github = "karolceron"
-
 [mariaisabelarceplata]
   name = "Maria Isabel Arce Plata"
   mugshot = "mugshots/mariaisabelarceplata.jpg"
