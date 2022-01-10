@@ -152,3 +152,10 @@
   name = "Iman Sicot"
   mugshot = "mugshots/imansicot.jpg"
   text = ["2020, BSc research assistant. Survey of data on food webs in North America."]
+
+[emmaglennon]
+  name = "Emma Glennon"
+  mugshot = "mugshots/emmaglennon.jpg"
+  text = [
+    "2021, associate post-doctoral fellow. Machine-learning assisted inference of epidemic dynamics."
+  ]

@@ -118,13 +118,6 @@
     "2021, M.Sc. research intern. Pathogen sharing in the global virome."
   ]
 
-[emmaglennon]
-  name = "Emma Glennon"
-  mugshot = "mugshots/emmaglennon.jpg"
-  text = [
-    "2021, associate post-doctoral fellow. Machine-learning assisted inference of epidemic dynamics."
-  ]
-
 [samuelprovenchertardiff]
   name = "Samuel Provencher-Tardif"
   mugshot = "mugshots/samuelprovenchertardiff.jpg"
