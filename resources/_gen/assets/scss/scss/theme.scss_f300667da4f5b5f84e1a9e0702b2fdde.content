@@ -27,7 +27,7 @@ html, body {
   min-height: 100vh; }
 
 html {
-  background-image: url("/backgrounds/17.jpg");
+  background-image: url("/backgrounds/18.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
