@@ -1,15 +1,7 @@
 ---
-title: Data science for biodiversity research
+title: Computational ecology
 image: topics/synthetic.jpg
 weight: 3
-papers:
-  - Dallas2020TesPre
-  - MacDonald2020RevLin
-  - Poisot2019EcoDat
-  - Desjardins-Proulx2019ArtInt
-  - Makiola2019KeyQue
-  - Strydom2020SvdEnt
-  - Stern2020NovApp
 ---
 
 We believe that open data are a treasure trove of knowledge that has not been
@@ -27,3 +19,16 @@ abilities of various stakeholders. One of our key question related to this topic
 at the moment is to examine the "suitability" of existing data to address a
 given question. We work on measures to identify areas in which information is
 low, which should be sampled with a higher priority.
+
+Addressing new questions often requires to develop new tools. We develop
+statistical and mathematical approaches, implement them, and release them as
+free and open-source software to make analyses reproducible and reliable. A lot
+of our work uses [Julia](https://julialang.org/), a high-performance language
+for numerical computing. We are developing a few of our own packages, and
+contribute to the [EcoJulia](https://github.com/EcoJulia/) project on GitHub.
+
+We lead the development of the [mangal.io](http://mangal.io) project, an open
+database of species interactions and associated packages. We think a lot about
+what the best practices for scientific software should be, and do a lot of
+training. We sincerely believe that good science requires good tools, and we
+want to help everyone build and use them.

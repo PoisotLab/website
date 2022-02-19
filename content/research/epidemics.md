@@ -1,18 +1,13 @@
 ---
 title: Ecology of viral pathogens
 image: topics/verena.jpg
-weight: 4
-papers:
-  - Gibb2021DatPro
-  - Dallas2020TesPre
-  - Becker2020PreWil
-  - Poisot2014OngWor
+weight: 2
 ---
 
-Can we use ecological information to make predictions about emerging viral
-pathogens? We apply biotic interaction inference techniques, network analysis,
-and secies distributions models, to provide mapping of the risk posed by various
-groups of pathogens.
+Can we use ecological information to make predictions about emerging
+viral pathogens? We apply biotic interaction inference techniques,
+network analysis, and secies distributions models, to provide mapping
+of the risk posed by various groups of pathogens.
 
 <!--more-->
 
