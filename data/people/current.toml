@@ -59,11 +59,6 @@
     twitter = "gabdansereau"
     github = "gabrieldansereau"
 
-[mathildebesson]
-  name = "Mathilde Besson"
-  mugshot = "mugshots/mathildebesson.jpg"
-  text = ["2016-, Ph.D. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
-
 [philippedesjardinsproulx]
   name = "Philippe Desjardins-Proulx"
   mugshot = "mugshots/philippedesjardinsproulx.jpg"
