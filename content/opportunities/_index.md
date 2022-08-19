@@ -93,11 +93,11 @@ The desired qualifications, listed in no specific order, are:
 
 ## Summary of the position and required qualifications
 
-The second position is a **two years** appointment, starting as early as
-September 2022. Because post-doctoral positions are limited to 5 years
-post-*Ph.D.*, applicants who are less than three years post-*Ph.D.* will have an
-advantage, and we are specifically aiming to hire a *junior* post-doc (*i.e.*
-immediately after *Ph.D.*).
+The position is a **two years** appointment, starting as early as September
+2022. Because post-doctoral positions are limited to 5 years post-*Ph.D.*,
+applicants who are less than three years post-*Ph.D.* will have an advantage,
+and we are specifically aiming to hire a *junior* post-doc (*i.e.* immediately
+after *Ph.D.*).
 
 Required qualifications:
 
