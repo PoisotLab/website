@@ -106,8 +106,12 @@
   ]
 
 [alicedoucetbeaupre]
-  name = "Alice Doucet-Beaupré"
+  name = "Alice Doucet Beaupré"
   mugshot = "mugshots/alicedoucetbeaupre.jpg"
   text = [
     "2022-, Post-doctoral researcher. Unsupervised learning and uncertainty quantification for network prediction."
   ]
+  [alicedoucetbeaupre.social]
+    email = "alice.doucet.beaupre@gmail.com"
+    github = "alicedb2"
+    www = "https://www.mathema.ca"
