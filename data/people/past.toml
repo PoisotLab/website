@@ -1,3 +1,19 @@
+[valentinevolz]
+  name = "Valentine Volz"
+  mugshot = "mugshots/valentinevolz.png"
+  text = [
+    "2020, B.Sc. research assistant. Structural analysis of the host-sharing network of coronaviruses.",
+    "2021-2022, M.Sc. Spatial structure of ecological networks over large gradients."
+  ]
+
+[samuelprovenchertardiff]
+  name = "Samuel Provencher-Tardif"
+  mugshot = "mugshots/samuelprovenchertardiff.jpg"
+  text = [
+    "2021, M.Sc. research intern. Meta-models for inference and forecasting of biodiversity uniqueness.",
+    "2022, M.Sc. research intern. Ethical implications of the use of UAVs for biodiversity research."
+  ]
+
 [salomebouskila]
   name = "Salomé Bouskila"
   mugshot = "mugshots/salomebouskila.jpg"
