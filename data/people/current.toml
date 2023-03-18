@@ -59,19 +59,6 @@
     twitter = "gabdansereau"
     github = "gabrieldansereau"
 
-[philippedesjardinsproulx]
-  name = "Philippe Desjardins-Proulx"
-  mugshot = "mugshots/philippedesjardinsproulx.jpg"
-  text = [
-    "2019-, Post-doctoral researcher. Type theory and higher-order probabilistic programming for ecological synthesis.",
-    "2014-2018, Ph.D. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
-  ]
-  [philippedesjardinsproulx.social]
-    email = "philippe.desjardins.proulx@umontreal.ca"
-    twitter = "phdpqc"
-    github = "PhDP"
-    www = "https://phdp.github.io/"
-
 [mariaisabelarceplata]
   name = "Maria Isabel Arce Plata"
   mugshot = "mugshots/mariaisabelarceplata.jpg"
@@ -100,3 +87,17 @@
     email = "alice.doucet.beaupre@gmail.com"
     github = "alicedb2"
     www = "https://www.mathema.ca"
+
+[ethanlamy]
+  name = "Ethan Lamy"
+  mugshot = "mugshots/ethanlamy.jpg"
+  text = [
+    "2023, B.Sc. research assistant. Trophic regulation of biting vector by omnivorous bats."
+  ]
+
+[cristiancruzrodriguez]
+  name = "Christian Cruz Rodriguez"
+  mugshot = "mugshots/cristiancruzrodriguez.jpg"
+  text = [
+    "2023-, Ph.D. Large-scale modeling of land-use change to support conservation policy-making."
+  ]

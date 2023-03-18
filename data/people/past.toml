@@ -1,3 +1,16 @@
+[philippedesjardinsproulx]
+  name = "Philippe Desjardins-Proulx"
+  mugshot = "mugshots/philippedesjardinsproulx.jpg"
+  text = [
+    "2019-, Post-doctoral researcher. Type theory and higher-order probabilistic programming for ecological synthesis.",
+    "2014-2018, Ph.D. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
+  ]
+  [philippedesjardinsproulx.social]
+    email = "philippe.desjardins.proulx@umontreal.ca"
+    twitter = "phdpqc"
+    github = "PhDP"
+    www = "https://phdp.github.io/"
+
 [valentinevolz]
   name = "Valentine Volz"
   mugshot = "mugshots/valentinevolz.png"
