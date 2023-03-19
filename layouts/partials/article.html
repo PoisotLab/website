@@ -1,33 +1,41 @@
 <div class="paper">
-    {{ $year := index .issued "date-parts" 0 0 | string }}
-    <div class="title">
-        <span class="year">{{ $year }}</span> {{ title .title }}
+    <div class="inner">
+        {{ $year := index .issued "date-parts" 0 0 | string }}
+        <div class="title">
+            <span class="year">{{ $year }}</span> {{ title .title }}
+        </div>
+        <div class="authors">
+            {{ range $author := .author }}
+            <span class="family">{{ $author.family }}</span>,
+            <span class="given">{{ range $names := split $author.given " " }}
+                {{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}
+                {{ end }}</span>
+            {{ end }}
+        </div>
+        <div class="metadata">
+            {{ if isset . "DOI" }}
+            <span class="doi link badge">
+                <a href="http://dx.doi.org/{{ .DOI}}" target="_blank" title="Text through DOI"><i
+                        class="far fa-fw fa-file-alt"></i> Find with DOI</a>
+            </span>
+            {{ else }}
+            <span class="url link badge">
+                <a href="{{ .URL}}" target="_blank" title="Text through URL"><i class="far fa-fw fa-file-alt"></i></a>
+            </span>
+            {{ end }}
+            <span class="url link badge">
+                <a href="https://scholar.google.com/scholar?q={{.title}}" title="Find on google scholar"
+                    target="_blank">
+                    <i class="fas fa-fw fa-graduation-cap"></i> Find on Google Scholar
+                </a>
+            </span>
+        </div>
     </div>
-    <div class="authors">
-        {{ range $author := .author }}
-        <span class="family">{{ $author.family }}</span>,
-        <span class="given">{{ range $names := split $author.given " " }}
-            {{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}
-            {{ end }}</span>
-        {{ end }}
-    </div>
-    <div class="metadata">
-        {{ if isset . "DOI" }}
-        <span class="doi link badge">
-            <a href="http://dx.doi.org/{{ .DOI}}" target="_blank" title="Text through DOI"><i
-                    class="far fa-fw fa-file-alt"></i> Find with DOI</a>
-        </span>
-        {{ else }}
-        <span class="url link badge">
-            <a href="{{ .URL}}" target="_blank" title="Text through URL"><i class="far fa-fw fa-file-alt"></i></a>
-        </span>
-        {{ end }}
-        <span class="url link badge">
-            <a href="https://scholar.google.com/scholar?q={{.title}}" title="Find on google scholar" target="_blank">
-                <i class="fas fa-fw fa-graduation-cap"></i> Find on Google Scholar
-            </a>
-        </span>
-    </div>
+    <span class="badges">
+        <div data-badge-popover="right" data-badge-type="donut" data-doi="{{ .DOI }}" data-condensed="true"
+            data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
+            <p />
+        <span class="__dimensions_badge_embed__" data-doi="{{ .DOI }}" data-style="small_circle"
+            data-hide-zero-citations="true"></span>
+    </span>
 </div>
-<div data-badge-popover="right" data-badge-type="donut" data-doi="{{ .DOI }}" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="20" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="{{ .DOI }}" data-style="small_circle" data-hide-zero-citations="true"></span>

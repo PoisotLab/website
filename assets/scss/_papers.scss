@@ -1,0 +1,29 @@
+.paper {
+    border: 1px solid $grey-medium;
+    border-radius: 4px;
+    position: relative;
+    min-height: 160px;
+    .inner {
+        padding: 1em;
+        width: calc(100% - 74px);
+    }
+    .badges {
+        background-color: $grey-light;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        min-width: 74px;
+        max-width: 74px;
+        padding: 6px;
+        height: 100%;
+        min-height: 160px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        a, img {
+            text-decoration: none !important;
+            border-style: none;
+        }
+    }
+}
