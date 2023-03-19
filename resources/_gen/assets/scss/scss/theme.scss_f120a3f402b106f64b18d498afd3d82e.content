@@ -1,13 +1,66 @@
-@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;0,800;1,200;1,300;1,400;1,600;1,800&display=swap");
-* {
-  font-family: 'Public Sans', sans-serif;
+/* SCSS RGB */
+@import url("https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@300;400;500;600&display=swap");
+h1 {
+  color: #114f54; }
+
+h2 {
+  color: #1d8265; }
+
+html {
+  font-size: 18px; }
+
+body {
+  font-family: 'Hepta Slab', serif;
   font-weight: 400; }
 
 b, strong {
-  font-weight: 600; }
+  font-weight: 500; }
 
 em, i {
   font-weight: inherit; }
+
+nav#topbar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  line-height: 80px;
+  width: 100vw; }
+  nav#topbar.scrolled {
+    box-shadow: 0px 0px 4px 0px #e7e5df;
+    background-color: white;
+    transition: 0.4s;
+    z-index: 100; }
+    nav#topbar.scrolled a {
+      color: black; }
+      nav#topbar.scrolled a b {
+        color: #2e5385;
+        font-weight: 400; }
+    nav#topbar.scrolled nav#menu a.menu {
+      color: #2e5385; }
+  nav#topbar a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px; }
+    nav#topbar a img.logo {
+      margin: -15px 0px;
+      height: 50px; }
+    nav#topbar a.menu {
+      background-color: white;
+      color: #444;
+      font-weight: 400; }
+      nav#topbar a.menu:nth-child(odd) {
+        background-color: #f8f8f8; }
+      nav#topbar a.menu:nth-child(even) {
+        background-color: #f3f3f3; }
+      nav#topbar a.menu:hover {
+        background-color: #eee !important;
+        color: #000; }
+      nav#topbar a.menu.active {
+        color: #000;
+        font-weight: 600; }
+  nav#topbar nav#menu {
+    display: none; }
 
 * {
   box-sizing: border-box; }
@@ -32,57 +85,6 @@ html {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat; }
-
-nav#topbar {
-  text-transform: uppercase;
-  overflow: hidden;
-  position: fixed;
-  top: 0;
-  line-height: 60px;
-  font-size: 80%;
-  width: 100vw; }
-  nav#topbar.scrolled {
-    box-shadow: 0px 0px 4px 0px #555;
-    background-color: white;
-    transition: 0.8s;
-    z-index: 100; }
-    nav#topbar.scrolled a {
-      color: black; }
-      nav#topbar.scrolled a b {
-        color: #114f54;
-        font-weight: 400; }
-    nav#topbar.scrolled nav#menu a.menu {
-      color: #444; }
-  nav#topbar a {
-    color: white;
-    text-decoration: none;
-    display: block;
-    padding: 10px; }
-    nav#topbar a img.logo {
-      margin: -10px 0px;
-      height: 40px; }
-    nav#topbar a.icon {
-      opacity: 0.5;
-      display: block;
-      position: fixed;
-      right: 0;
-      top: 0; }
-    nav#topbar a.menu {
-      background-color: white;
-      color: #444;
-      font-weight: 400; }
-      nav#topbar a.menu:nth-child(odd) {
-        background-color: #f8f8f8; }
-      nav#topbar a.menu:nth-child(even) {
-        background-color: #f3f3f3; }
-      nav#topbar a.menu:hover {
-        background-color: #eee !important;
-        color: #000; }
-      nav#topbar a.menu.active {
-        color: #000;
-        font-weight: 600; }
-  nav#topbar nav#menu {
-    display: none; }
 
 header {
   line-height: 3em;
@@ -118,30 +120,34 @@ section.container {
   #splash section {
     display: block;
     position: fixed;
-    left: 50%;
+    left: 0%;
+    width: 50vw;
+    height: 100vh;
     bottom: 0;
-    transform: translate(-50%, 0);
     margin: 0 auto;
-    background-color: #1d8265;
+    background-color: #e7e5df;
     color: white;
-    width: 100vw;
     text-align: center;
-    padding: 3.5em;
-    font-size: 1.1rem; }
+    padding: 3.5em; }
     #splash section div {
-      margin: 0px auto;
-      display: block;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      padding: 3rem;
       text-align: left;
-      max-width: 750px; }
+      max-width: 750px;
+      vertical-align: bottom;
+      color: #1d8265; }
     #splash section h1 {
       font-weight: 300;
       font-size: 1.8rem;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      color: #114f54; }
 
 .backdrop {
   width: 100vw;
   height: 100vw;
-  background-color: rgba(13, 59, 63, 0.05);
+  background-color: rgba(39, 71, 114, 0.05);
   background-blend-mode: hue;
   position: fixed;
   top: 0;
@@ -149,11 +155,11 @@ section.container {
   z-index: -2; }
 
 .container a {
-  color: #114f54;
+  color: #2e5385;
   text-decoration: none;
   border-bottom: 1px solid #eee; }
   .container a:hover {
-    color: #096e76; }
+    color: #205cac; }
 
 .listing {
   text-align: center;
@@ -167,7 +173,7 @@ section.container {
   max-width: 300px;
   vertical-align: top; }
   .item a {
-    background-color: #114f54;
+    background-color: #2e5385;
     color: white;
     font-weight: 800;
     vertical-align: bottom;
@@ -175,7 +181,7 @@ section.container {
     border-radius: 1.2em; }
     .item a:hover {
       color: white;
-      background-color: #096e76; }
+      background-color: #205cac; }
   .item h2 {
     font-weight: 300;
     font-size: 120%;
@@ -189,7 +195,7 @@ section.container {
     width: 160px;
     height: 160px;
     border-radius: 80px;
-    border: 2px solid #096e76;
+    border: 2px solid #205cac;
     text-align: center;
     margin: 0px auto;
     display: block; }
@@ -241,15 +247,15 @@ section.container {
   .paper .metadata {
     padding-top: 0.7em; }
   .paper .badge a {
-    border: 1px solid #114f54;
-    color: #114f54;
+    border: 1px solid #2e5385;
+    color: #2e5385;
     font-size: 80%;
     padding: 0.2em 0.4em;
     text-transform: uppercase;
     border-radius: 4px; }
     .paper .badge a:hover {
       color: white;
-      background-color: #096e76; }
+      background-color: #205cac; }
 
 .mugshot {
   filter: grayscale(70%); }
@@ -261,16 +267,16 @@ section.container {
   display: inline-block; }
   .item .summary span a {
     display: inline;
-    color: #114f54;
+    color: #2e5385;
     background: none;
     padding: 0 0;
     border-radius: 0;
     font-weight: inherit; }
     .item .summary span a:hover {
-      color: #096e76; }
+      color: #205cac; }
 
 .item .social a {
-  color: #114f54;
+  color: #2e5385;
   background: none !important;
   border-bottom: none; }
 

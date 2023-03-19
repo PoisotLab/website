@@ -1,21 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;0,800;1,200;1,300;1,400;1,600;1,800&display=swap');
-
-* {
-    font-family: 'Public Sans', sans-serif;
-    font-weight: 400;
-}
-
-b, strong {
-    font-weight: 600;
-}
-
-em, i {
-    font-weight: inherit;
-}
-
-$link-color: #114f54;
-$link-color-hover: lighten(saturate($link-color, 20), 5);
-
+@import "_palette";
+@import "_type";
+@import "_navbar";
 @import "_layout";
 @import "_index";
 
