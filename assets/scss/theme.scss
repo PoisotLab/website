@@ -8,7 +8,7 @@
 .backdrop {
     width: 100vw;
     height: 100vw;
-    background-color: transparentize(darken($link-color, 5), 0.95);
+    //background-color: transparentize(darken($link-color, 5), 0.95);
     background-blend-mode: hue;
     position: fixed;
     top: 0;

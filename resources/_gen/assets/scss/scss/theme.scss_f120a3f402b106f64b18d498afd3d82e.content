@@ -27,7 +27,10 @@ nav#topbar {
   overflow: hidden;
   position: fixed;
   top: 0;
-  line-height: 80px;
+  margin: 0px 0px;
+  padding: 20px 20px;
+  line-height: 40px;
+  height: 80px;
   width: 100vw; }
   nav#topbar.scrolled {
     box-shadow: 0px 0px 4px 0px #e7e5df;
@@ -41,18 +44,19 @@ nav#topbar {
         font-weight: 400; }
     nav#topbar.scrolled nav#menu a.menu {
       color: #2e5385; }
+  nav#topbar img.logo {
+    margin: 0px 0px;
+    height: 40px; }
   nav#topbar a {
     color: white;
     text-decoration: none;
     display: block;
-    padding: 10px; }
-    nav#topbar a img.logo {
-      margin: -15px 0px;
-      height: 50px; }
+    padding: 0px; }
     nav#topbar a.menu {
       background-color: white;
       color: #444;
-      font-weight: 400; }
+      font-weight: 400;
+      padding: 20px 20px; }
       nav#topbar a.menu:nth-child(odd) {
         background-color: #f8f8f8; }
       nav#topbar a.menu:nth-child(even) {
@@ -84,7 +88,7 @@ html, body {
   min-height: 100vh; }
 
 html {
-  background-image: url("/backgrounds/18.jpg");
+  background-image: url("/backgrounds/17.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
@@ -177,7 +181,6 @@ section.container {
 .backdrop {
   width: 100vw;
   height: 100vw;
-  background-color: rgba(39, 71, 114, 0.05);
   background-blend-mode: hue;
   position: fixed;
   top: 0;

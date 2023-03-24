@@ -4,7 +4,7 @@ preserveTaxonomyNames = true
 
 [params]
   title = "the<b>poisot</b>lab"
-  subtitle = "quantitative & computational ecology research group"
+  subtitle = "the computational ecology research group"
   email = "timothee.poisot@umontreal.ca"
 
 [markup.goldmark.renderer]
