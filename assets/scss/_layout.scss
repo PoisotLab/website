@@ -27,17 +27,18 @@ body {
 header {
     line-height: 3em;
     color: white;
-    font-weight: 600;
-    padding-top: 80px;
+    font-weight: 500;
     position: relative;
     top: 0;
     z-index: -1;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
+    background-color: rgba(255, 255, 255, 0.7);
     .container {
         margin: 0 auto;
-        text-align: right;
-        margin-bottom: 2em;
-        text-shadow: 0px 0px 4px black;
+        padding-bottom: 3em !important;
+        padding-left: 1em !important;
+        padding-top: calc(3em + 80px) !important;
+        color: $lab-blue;
     }
 }
 

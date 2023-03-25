@@ -116,17 +116,18 @@ body {
 header {
   line-height: 3em;
   color: white;
-  font-weight: 600;
-  padding-top: 80px;
+  font-weight: 500;
   position: relative;
   top: 0;
   z-index: -1;
-  font-size: 1.3rem; }
+  font-size: 1.6rem;
+  background-color: rgba(255, 255, 255, 0.7); }
   header .container {
     margin: 0 auto;
-    text-align: right;
-    margin-bottom: 2em;
-    text-shadow: 0px 0px 4px black; }
+    padding-bottom: 3em !important;
+    padding-left: 1em !important;
+    padding-top: calc(3em + 80px) !important;
+    color: #2e5385; }
 
 main#content {
   background-color: #fdfdfd;
@@ -214,7 +215,8 @@ section.container {
     border-radius: 140px;
     box-shadow: 0px 0px 4px 0px #d3d0cb;
     border: 1px solid #e7e5df;
-    float: left; }
+    float: left;
+    z-index: -6; }
   .item h2 {
     padding: 0 0;
     margin: 0 0; }
@@ -240,7 +242,7 @@ section.container {
     font-size: 120%;
     color: #2e5385; }
 
-#homepage footer {
+#homepage footer, #homepage header {
   display: none; }
 
 #splash {
@@ -311,7 +313,6 @@ section.container {
     .container p {
       line-height: 1.8; }
   header {
-    padding-top: 180px;
     transition: 0.5s; }
     header .container {
       font-size: 140%; }
