@@ -107,9 +107,10 @@
         }
         nav#menu {
             position: fixed;
-            right: 0;
-            top: 0;
-            display: inline-block;
+            right: 0px;
+            top: 0px;
+            display: block !important;
+            text-align: right;
             a.menu {
                 display: inline-block;
                 background: none !important;

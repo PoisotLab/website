@@ -57,5 +57,21 @@ nav#topbar {
     }
     nav#menu {
         display: none;
+        position: fixed;
+        z-index: 1000;
+        right: 0px;
+        top: 80px;
+        width: 100vw;
+        text-align: center;
+    }
+    a.icon {
+        font-size: 40px;
+        position: fixed;
+        right: 20px;
+        top: 20px;
+        color: $lab-green-light;
+        &:hover {
+            color: $lab-green-dark;
+        }
     }
 }

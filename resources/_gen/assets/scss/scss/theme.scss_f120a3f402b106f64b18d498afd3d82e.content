@@ -68,7 +68,21 @@ nav#topbar {
         color: #000;
         font-weight: 600; }
   nav#topbar nav#menu {
-    display: none; }
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    right: 0px;
+    top: 80px;
+    width: 100vw;
+    text-align: center; }
+  nav#topbar a.icon {
+    font-size: 40px;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    color: #1d8265; }
+    nav#topbar a.icon:hover {
+      color: #114f54; }
 
 * {
   box-sizing: border-box; }
@@ -293,9 +307,10 @@ section.container {
     display: none; }
   nav#topbar nav#menu {
     position: fixed;
-    right: 0;
-    top: 0;
-    display: inline-block; }
+    right: 0px;
+    top: 0px;
+    display: block !important;
+    text-align: right; }
     nav#topbar nav#menu a.menu {
       display: inline-block;
       background: none !important;
