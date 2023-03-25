@@ -42,8 +42,10 @@ nav#topbar {
       nav#topbar.scrolled a b {
         color: #2e5385;
         font-weight: 400; }
-    nav#topbar.scrolled nav#menu a.menu {
-      color: #2e5385; }
+    nav#topbar.scrolled nav#menu {
+      z-index: 100; }
+      nav#topbar.scrolled nav#menu a.menu {
+        color: #2e5385; }
   nav#topbar img.logo {
     margin: 0px 0px;
     height: 40px; }

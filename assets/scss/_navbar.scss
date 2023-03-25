@@ -20,6 +20,7 @@ nav#topbar {
             }
         }
         nav#menu {
+            z-index: 100;
             a.menu {
                 color: $lab-blue;
             }
