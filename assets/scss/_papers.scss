@@ -1,59 +1,39 @@
 
 .paper {
-    margin-bottom: 1.7em;
+    margin-bottom: 2.8em;
     .title {
-        font-weight: 600;
-        .year {
-            color: #777;
-            &::before{
-                content: "("
-            }
-            &::after{
-                content: ")"
-            }
-        }
+        font-weight: 500;
     }
     .authors {
-        font-weight: 300;
+        font-weight: 400;
     }
-    .metadata {
-        padding-top: 0.7em;
-    }
-    .badge {
-        a {
-            border: 1px solid $link-color;
-            color: $link-color;
-            font-size: 80%;
-            padding: 0.2em 0.4em;
-            text-transform: uppercase;
-            border-radius: 4px;
-            &:hover {
-                color: white;
-                background-color: $link-color-hover;
-            }
-        }
+    .link {
+        padding-right: 1em;
     }
 }
 
+.papercounter {
+    color: #777;
+    float: left;
+    &:after{
+        content: ".";
+        padding-right: 0.4em;
+    }
+}
 
 .paper {
-    border: 1px solid $grey-medium;
-    border-radius: 4px;
     position: relative;
     min-height: 160px;
     .inner {
-        padding: 1em;
-        width: calc(100% - 74px);
+        width: calc(100% - 100px);
     }
     .badges {
-        background-color: $grey-light;
-        display: flex;
-        flex-wrap: wrap;
+        display: block;
         align-items: center;
         justify-content: center;
-        min-width: 74px;
-        max-width: 74px;
-        padding: 6px;
+        min-width: 64px;
+        max-width: 64px;
+        padding: 0px;
         height: 100%;
         min-height: 160px;
         position: absolute;

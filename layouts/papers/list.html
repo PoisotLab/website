@@ -18,12 +18,18 @@
         {{ $idyear.SetInMap "date" $date $publication.id }}
         {{ end }}
         
-        
+        {{ $.Scratch.Set "index" (len $publications) }}
         {{ range $DateSort, $id := ($idyear.Get "date") }}
         {{ range $pub := $publications }}
         {{ if eq $pub.id $id }}
         {{ $year := index $pub.issued "date-parts" 0 0 | string }}
+        
+        <div class="paper">
+        <span class="papercounter">{{ $.Scratch.Get "index" }}</span>
         {{ partial "article.html" $pub }}
+        </div>
+        {{ $.Scratch.Set "index" (sub ($.Scratch.Get "index") 1) }}
+        
         {{ end }}
         {{ end }}
         {{ end }}

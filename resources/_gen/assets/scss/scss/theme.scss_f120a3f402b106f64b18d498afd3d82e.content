@@ -125,7 +125,8 @@ header {
   header .container {
     margin: 0 auto;
     text-align: right;
-    margin-bottom: 2em; }
+    margin-bottom: 2em;
+    text-shadow: 0px 0px 4px black; }
 
 main#content {
   background-color: #fdfdfd;
@@ -188,47 +189,33 @@ section.container {
       margin: 0px auto; } }
 
 .paper {
-  margin-bottom: 1.7em; }
+  margin-bottom: 2.8em; }
   .paper .title {
-    font-weight: 600; }
-    .paper .title .year {
-      color: #777; }
-      .paper .title .year::before {
-        content: "("; }
-      .paper .title .year::after {
-        content: ")"; }
+    font-weight: 500; }
   .paper .authors {
-    font-weight: 300; }
-  .paper .metadata {
-    padding-top: 0.7em; }
-  .paper .badge a {
-    border: 1px solid #2e5385;
-    color: #2e5385;
-    font-size: 80%;
-    padding: 0.2em 0.4em;
-    text-transform: uppercase;
-    border-radius: 4px; }
-    .paper .badge a:hover {
-      color: white;
-      background-color: #205cac; }
+    font-weight: 400; }
+  .paper .link {
+    padding-right: 1em; }
+
+.papercounter {
+  color: #777;
+  float: left; }
+  .papercounter:after {
+    content: ".";
+    padding-right: 0.4em; }
 
 .paper {
-  border: 1px solid #d3d0cb;
-  border-radius: 4px;
   position: relative;
   min-height: 160px; }
   .paper .inner {
-    padding: 1em;
-    width: calc(100% - 74px); }
+    width: calc(100% - 100px); }
   .paper .badges {
-    background-color: #e7e5df;
-    display: flex;
-    flex-wrap: wrap;
+    display: block;
     align-items: center;
     justify-content: center;
-    min-width: 74px;
-    max-width: 74px;
-    padding: 6px;
+    min-width: 64px;
+    max-width: 64px;
+    padding: 0px;
     height: 100%;
     min-height: 160px;
     position: absolute;
@@ -268,8 +255,9 @@ section.container {
   padding-bottom: 4em;
   padding-top: 4em; }
   .item img.header {
-    width: 140px;
-    height: 140px;
+    margin-top: 10px;
+    width: 120px;
+    height: 120px;
     border-radius: 140px;
     box-shadow: 0px 0px 4px 0px #d3d0cb;
     border: 1px solid #e7e5df;
@@ -283,7 +271,7 @@ section.container {
       padding-bottom: 0.5em; }
   .item h2, .item .summary, .item .social {
     right: 0px;
-    width: calc(100% - 180px);
+    width: calc(100% - 160px);
     float: right; }
   .item a {
     background-color: #2e5385;

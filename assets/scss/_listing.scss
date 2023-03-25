@@ -42,8 +42,9 @@
     padding-bottom: 4em;
     padding-top: 4em;
     img.header {
-        width: 140px;
-        height: 140px;
+        margin-top: 10px;
+        width: 120px;
+        height: 120px;
         border-radius: 140px;
         box-shadow: 0px 0px 4px 0px $grey-medium;
         border: 1px solid $grey-light;
@@ -61,7 +62,7 @@
     }
     h2, .summary, .social {
         right: 0px;
-        width: calc(100% - 180px);
+        width: calc(100% - 160px);
         float: right;
     }
     a{
