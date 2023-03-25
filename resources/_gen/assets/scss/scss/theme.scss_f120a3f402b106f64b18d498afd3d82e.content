@@ -75,6 +75,11 @@ nav#topbar {
     top: 80px;
     width: 100vw;
     text-align: center; }
+    nav#topbar nav#menu i.menuicon {
+      color: #1d8265;
+      position: relative;
+      bottom: -2px;
+      padding-right: 8px; }
   nav#topbar a.icon {
     font-size: 40px;
     position: fixed;
@@ -101,8 +106,8 @@ html, body {
   overflow-x: hidden;
   min-height: 100vh; }
 
-html {
-  background-image: url("/backgrounds/19.jpg");
+body {
+  background-image: url("/backgrounds/1.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
@@ -117,10 +122,15 @@ header {
   top: 0;
   z-index: -1;
   font-size: 1.3rem; }
+  header .container {
+    margin: 0 auto;
+    text-align: right;
+    margin-bottom: 2em; }
 
 main#content {
   background-color: #fdfdfd;
-  padding-bottom: 5em; }
+  padding-bottom: 5em;
+  padding-top: 2em; }
 
 section.container {
   padding: 1.75em;
@@ -166,7 +176,7 @@ section.container {
       text-transform: uppercase;
       color: #114f54; }
 
-@media only screen and (max-width: 1120px) {
+@media only screen and (max-width: 1420px) {
   #splash section {
     display: block;
     position: fixed;
@@ -228,6 +238,44 @@ section.container {
       text-decoration: none !important;
       border-style: none; }
 
+.item {
+  padding: 0.0em;
+  display: table;
+  clear: both;
+  padding-bottom: 4em;
+  padding-top: 4em; }
+  .item img.header {
+    width: 140px;
+    height: 140px;
+    border-radius: 140px;
+    box-shadow: 0px 4px 4px 0px #e7e5df;
+    float: left; }
+  .item h2 {
+    padding: 0 0;
+    margin: 0 0; }
+  .item .summary {
+    padding-top: 1em; }
+    .item .summary span {
+      padding-bottom: 0.5em; }
+  .item h2, .item .summary, .item .social {
+    right: 0px;
+    width: calc(100% - 180px);
+    float: right; }
+  .item a {
+    background-color: #2e5385;
+    color: white;
+    font-weight: 800;
+    vertical-align: bottom;
+    padding: 0.8em;
+    border-radius: 1.2em; }
+    .item a:hover {
+      color: white;
+      background-color: #205cac; }
+  .item h2 {
+    font-weight: 500;
+    font-size: 120%;
+    color: #2e5385; }
+
 .backdrop {
   width: 100vw;
   height: 100vw;
@@ -244,58 +292,12 @@ section.container {
   .container a:hover {
     color: #205cac; }
 
-.listing {
-  text-align: center;
-  margin-top: 5em;
-  margin-bottom: 5em; }
-
-.item {
-  display: inline-block;
-  padding: 1.2em;
-  margin-bottom: 5em;
-  max-width: 300px;
-  vertical-align: top; }
-  .item a {
-    background-color: #2e5385;
-    color: white;
-    font-weight: 800;
-    vertical-align: bottom;
-    padding: 0.8em;
-    border-radius: 1.2em; }
-    .item a:hover {
-      color: white;
-      background-color: #205cac; }
-  .item h2 {
-    font-weight: 300;
-    font-size: 120%;
-    font-variant: small-caps;
-    color: black;
-    padding-top: 1em;
-    margin-bottom: 0em;
-    height: 5em;
-    text-align: center; }
-  .item img.header {
-    width: 160px;
-    height: 160px;
-    border-radius: 80px;
-    border: 2px solid #205cac;
-    text-align: center;
-    margin: 0px auto;
-    display: block; }
-  .item .summary {
-    color: #555;
-    font-weight: 400;
-    height: 12.5em; }
-
 @media only screen and (min-width: 768px) {
   .container {
     max-width: 1000px;
     margin: 0px auto; }
     .container p {
       line-height: 1.8; }
-  .item .summary {
-    height: 17em;
-    line-height: 1.8; }
   header {
     padding-top: 180px;
     transition: 0.5s; }
@@ -351,10 +353,3 @@ footer {
 
 #content li {
   margin-bottom: 1em; }
-
-.person h2 {
-  margin-bottom: -2em; }
-
-.person .social {
-  margin-bottom: 1.2em;
-  height: 0.5em; }

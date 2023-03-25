@@ -63,6 +63,12 @@ nav#topbar {
         top: 80px;
         width: 100vw;
         text-align: center;
+        i.menuicon {
+            color: $lab-green-light;
+            position: relative;
+            bottom: -2px;
+            padding-right: 8px;
+        }
     }
     a.icon {
         font-size: 40px;

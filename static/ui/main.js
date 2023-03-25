@@ -20,3 +20,10 @@ window.onscroll = function () {
         document.getElementById("logo-navbar").src="logo/colour-black.png";
     }
 } 
+
+function changeSplashImage() {
+    var nImages = 5;
+    var num = Math.ceil( Math.random() * nImages );
+    var img = 'backgrounds/'+num+'.jpg';
+    document.body.style.backgroundImage = "url('" + img + "')";
+}

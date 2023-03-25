@@ -3,9 +3,12 @@
     <nav id="menu">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
+        {{- $icon := printf "<i class=\"menuicon ri-lg %s\"></i>" .Pre -}}
         <a class="menu {{if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.Section (lower .Name) ) }} active{{end}}"
             href="{{ .URL }}" {{ if (eq .Name "Software") }}target="_blank" {{ end }}
-            title="{{ .Title }}">{{ .Name }}</a>
+            title="{{ .Title }}">
+            {{ $icon | safeHTML }} {{ .Name }}
+        </a>
         {{ end }}
     </nav>
     <a href="javascript:void(0);" class="icon" onmouseover="toggleMainMenu()" onclick="toggleMainMenu()">

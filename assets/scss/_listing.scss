@@ -1,0 +1,48 @@
+.listing {}
+
+.item {
+    padding: 0.0em;
+    display: table;
+    clear: both;
+    padding-bottom: 4em;
+    padding-top: 4em;
+    img.header {
+        width: 140px;
+        height: 140px;
+        border-radius: 140px;
+        box-shadow: 0px 4px 4px 0px $grey-light;
+        float: left;
+    }
+    h2 {
+        padding: 0 0;
+        margin: 0 0;
+    }
+    .summary {
+        padding-top: 1em;
+        span {
+            padding-bottom: 0.5em;
+        }
+    }
+    h2, .summary, .social {
+        right: 0px;
+        width: calc(100% - 180px);
+        float: right;
+    }
+    a{
+        background-color: $link-color;
+        color: white;
+        font-weight: 800;
+        vertical-align: bottom;
+        padding: 0.8em;
+        border-radius: 1.2em;
+        &:hover {
+            color: white;
+            background-color: $link-color-hover;
+        }
+    }
+    h2 {
+        font-weight: 500;
+        font-size: 120%;
+        color: $lab-blue;
+    }
+}

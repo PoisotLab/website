@@ -16,8 +16,8 @@ html, body {
     min-height: 100vh;
 }
 
-html {
-    background-image: url("/backgrounds/19.jpg");
+body {
+    background-image: url("/backgrounds/1.jpg");
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
@@ -33,11 +33,17 @@ header {
     top: 0;
     z-index: -1;
     font-size: 1.3rem;
+    .container {
+        margin: 0 auto;
+        text-align: right;
+        margin-bottom: 2em;
+    }
 }
 
 main#content {
     background-color: #fdfdfd;
     padding-bottom: 5em;
+    padding-top: 2em;
 }
 
 section.container {

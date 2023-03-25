@@ -2,14 +2,17 @@
 title: Values
 ---
 
-Welcome to the [Poisot Lab of Quantitative and Computational
-Ecology](http://poisotlab.io/)! In this lab, we study a variety of habitats,
-taxa and processes, with the core elements of using data, math and computational
-techniques to gain better understanding of ecological systems. We are committed
-to applying what we learn to making the world a better place- by supporting
-sustainability and productivity in working ecosystems, by making the work we do
-accessible to the broader community, and by drawing in diverse viewpoints to
-enhance mutual understanding of science, scientists, and the needs of the world.
+# Who we are
+
+Welcome to the [Computational Ecology Research Group](http://poisotlab.io/)!
+
+In this lab, we study a variety of habitats, taxa and processes, with the core
+elements of using data, math and computational techniques to gain better
+understanding of ecological systems. We are committed to applying what we learn
+to making the world a better place &mdash; by supporting sustainability and
+productivity in working ecosystems, by making the work we do accessible to the
+broader community, and by drawing in diverse viewpoints to enhance mutual
+understanding of science, scientists, and the needs of the world.
 
 # Open philosophy
 
