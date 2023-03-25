@@ -1,14 +1,17 @@
 <nav id="topbar">
-    <a href=""><img class="logo" id="logo-navbar" src="logo/colour-white.png" /></a>
+    <a href="https://poisotlab.io/"><img class="logo" id="logo-navbar" src="logo/colour-black.png" /></a>
     <nav id="menu">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
+        {{- $icon := printf "<i class=\"menuicon ri-lg %s\"></i>" .Pre -}}
         <a class="menu {{if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.Section (lower .Name) ) }} active{{end}}"
             href="{{ .URL }}" {{ if (eq .Name "Software") }}target="_blank" {{ end }}
-            title="{{ .Title }}">{{ .Name }}</a>
+            title="{{ .Title }}">
+            {{ $icon | safeHTML }} {{ .Name }}
+        </a>
         {{ end }}
     </nav>
-    <a href="javascript:void(0);" class="icon" onclick="toggleMainMenu()">
-        <i class="fa fa-bars"></i>
+    <a href="javascript:void(0);" class="icon" onmouseover="toggleMainMenu()" onclick="toggleMainMenu()">
+        <i class="ri-apps-fill"></i>
     </a>
 </nav>

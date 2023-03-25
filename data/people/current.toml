@@ -8,9 +8,9 @@
   role = "Assistant professor"
   [timotheepoisot.social]
     email = "timothee.poisot@umontreal.ca"
-    twitter = "tpoi"
     github = "tpoisot"
     www = "http://armchairecology.blog/"
+    mastodon = "https://ecoevo.social/@tpoisot"
 
 [camillerondeau]
   name = "Camille Rondeau Saint-Jean"

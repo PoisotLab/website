@@ -1,0 +1,47 @@
+
+.paper {
+    margin-bottom: 2.8em;
+    .title {
+        font-weight: 500;
+    }
+    .authors {
+        font-weight: 400;
+    }
+    .link {
+        padding-right: 1em;
+    }
+}
+
+.papercounter {
+    color: #777;
+    float: left;
+    &:after{
+        content: ".";
+        padding-right: 0.4em;
+    }
+}
+
+.paper {
+    position: relative;
+    min-height: 160px;
+    .inner {
+        width: calc(100% - 100px);
+    }
+    .badges {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        min-width: 64px;
+        max-width: 64px;
+        padding: 0px;
+        height: 100%;
+        min-height: 160px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        a, img {
+            text-decoration: none !important;
+            border-style: none;
+        }
+    }
+}

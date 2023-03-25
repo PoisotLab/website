@@ -4,7 +4,7 @@ preserveTaxonomyNames = true
 
 [params]
   title = "the<b>poisot</b>lab"
-  subtitle = "quantitative & computational ecology"
+  subtitle = "the computational ecology research group"
   email = "timothee.poisot@umontreal.ca"
 
 [markup.goldmark.renderer]
@@ -13,22 +13,27 @@ preserveTaxonomyNames = true
 [menu]
   [[menu.main]]
     name = "People"
+    pre = "ri-group-line"
     url = "/people/"
     weight = 1
   [[menu.main]]
     name = "Values"
+    pre = "ri-service-line"
     url = "/values/"
     weight = 2
   [[menu.main]]
     name = "Papers"
+    pre = "ri-article-line"
     url = "/papers/"
     weight = 4
   [[menu.main]]
     name = "Research"
+    pre = "ri-microscope-line"
     url = "/research/"
     weight = 3
   [[menu.main]]
     name = "Software"
+    pre = "ri-code-s-slash-fill"
     target = "_blank"
     url = "https://github.com/PoisotLab/"
     weight = 6

@@ -1,28 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;0,800;1,200;1,300;1,400;1,600;1,800&display=swap');
-
-* {
-    font-family: 'Public Sans', sans-serif;
-    font-weight: 400;
-}
-
-b, strong {
-    font-weight: 600;
-}
-
-em, i {
-    font-weight: inherit;
-}
-
-$link-color: #114f54;
-$link-color-hover: lighten(saturate($link-color, 20), 5);
-
+@import "_palette";
+@import "_type";
+@import "_navbar";
 @import "_layout";
+@import "_papers";
+@import "_listing";
 @import "_index";
 
 .backdrop {
     width: 100vw;
     height: 100vw;
-    background-color: transparentize(darken($link-color, 5), 0.95);
     background-blend-mode: hue;
     position: fixed;
     top: 0;
@@ -41,67 +27,11 @@ $link-color-hover: lighten(saturate($link-color, 20), 5);
     }
 }
 
-.listing {
-    text-align: center;
-    margin-top: 5em;
-    margin-bottom: 5em;
-}
-
-.item {
-    display: inline-block;
-    padding: 1.2em;
-    margin-bottom: 5em;
-    max-width: 300px;
-    vertical-align: top;
-    a{
-        background-color: $link-color;
-        color: white;
-        font-weight: 800;
-        vertical-align: bottom;
-        padding: 0.8em;
-        border-radius: 1.2em;
-        &:hover {
-            color: white;
-            background-color: $link-color-hover;
-        }
-    }
-    h2 {
-        font-weight: 300;
-        font-size: 120%;
-        font-variant: small-caps;
-        color: black;
-        padding-top: 1em;
-        margin-bottom: 0em;
-        height: 5em;
-        text-align: center;
-    }
-    img.header {
-        width: 160px;
-        height: 160px;
-        border-radius: 80px;
-        border: 2px solid $link-color-hover;
-        text-align: center;
-        margin: 0px auto;
-        display: block;
-    }
-    .summary {
-        color: #555;
-        font-weight: 400;
-        height: 12.5em;
-    }
-}
-
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 850px) {
     .container {
         max-width: 1000px;
         margin: 0px auto;
         p {
-            line-height: 1.8;
-        }
-    }
-    .item {
-        .summary {
-            height: 17em;
             line-height: 1.8;
         }
     }
@@ -121,87 +51,21 @@ $link-color-hover: lighten(saturate($link-color, 20), 5);
         }
         nav#menu {
             position: fixed;
-            right: 0;
-            top: 0;
-            display: inline-block;
+            right: 0px;
+            top: 0px;
+            display: block !important;
+            text-align: right;
             a.menu {
                 display: inline-block;
                 background: none !important;
-                color: white;
+                color: $lab-blue;
             }
         }
     }
 } 
 
-.paper {
-    margin-bottom: 1.7em;
-    .title {
-        font-weight: 600;
-        .year {
-            color: #777;
-            &::before{
-                content: "("
-            }
-            &::after{
-                content: ")"
-            }
-        }
-    }
-    .authors {
-        font-weight: 300;
-    }
-    .metadata {
-        padding-top: 0.7em;
-    }
-    .badge {
-        a {
-            border: 1px solid $link-color;
-            color: $link-color;
-            font-size: 80%;
-            padding: 0.2em 0.4em;
-            text-transform: uppercase;
-            border-radius: 4px;
-            &:hover {
-                color: white;
-                background-color: $link-color-hover;
-            }
-        }
-    }
-}
-
 .mugshot {
-    filter: grayscale(70%);
-}
-
-.item {
-    &:hover {
-        .mugshot {
-            filter: grayscale(0%);
-        }
-    }
-    .summary {
-        span {
-            display: inline-block;
-            a {
-                display: inline;
-                color: $link-color;
-                background: none;
-                padding: 0 0;
-                border-radius: 0;
-                font-weight: inherit;
-                &:hover {
-                    color: $link-color-hover;
-                }
-            }
-        }
-    }
-    .social {
-        a {
-            color: $link-color;
-            background: none !important;
-            border-bottom: none;
-        }
-    }
+    filter: grayscale(100%);
 }
 
 footer {
@@ -218,15 +82,5 @@ footer {
     }
     li {
         margin-bottom: 1em;
-    }
-}
-
-.person {
-    h2{
-        margin-bottom: -2em;
-    }
-    .social{
-        margin-bottom: 1.2em;
-        height: 0.5em;
     }
 }

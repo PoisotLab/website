@@ -1,0 +1,17 @@
+/* SCSS RGB */
+$lab-green-dark: rgba(17, 79, 84, 1);
+$lab-green-light: rgba(29, 130, 101, 1);
+$lab-blue: rgba(46, 83, 133, 1);
+$grey-medium: rgba(211, 208, 203, 1);
+$grey-light: rgba(231, 229, 223, 1);
+
+$link-color: $lab-blue;
+$link-color-hover: lighten(saturate($link-color, 20), 5);
+
+h1 {
+    color: $lab-green-dark;
+}
+
+h2 {
+    color: $lab-green-light;
+}

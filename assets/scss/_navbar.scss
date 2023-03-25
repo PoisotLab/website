@@ -1,0 +1,83 @@
+nav#topbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    margin: 0px 0px;
+    padding: 20px 20px;
+    line-height: 40px;
+    height: 80px;
+    width: 100vw;
+    &.scrolled {
+        box-shadow: 0px 0px 4px 0px $grey-light;
+        background-color: white;
+        transition: 0.4s;
+        z-index: 100;
+        a {
+            color: black;
+            b {
+                color: $link-color;
+                font-weight: 400;
+            }
+        }
+        nav#menu {
+            a.menu {
+                color: $lab-blue;
+            }
+        }
+    }
+    img.logo {
+        margin: 0px 0px;
+        height: 40px;
+    }
+    a {
+        color: $lab-blue;
+        text-decoration: none;
+        display: block;
+        padding: 0px;
+        &.menu {
+            &:nth-child(odd) {
+                background-color: #f8f8f8;
+            }
+            &:nth-child(even) {
+                background-color: #f3f3f3;
+            }
+            background-color: white;
+            color: #444;
+            font-weight: 400;
+            padding: 20px 20px;
+            &:hover {
+                background-color: #eee !important;
+                color: #000;
+            }
+            &.active {
+                color: #000;
+                font-weight: 600;
+            }
+        }
+    }
+    nav#menu {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        right: 0px;
+        top: 80px;
+        width: 100vw;
+        text-align: center;
+        i.menuicon {
+            color: $lab-green-light;
+            position: relative;
+            bottom: -2px;
+            padding-right: 8px;
+        }
+    }
+    a.icon {
+        font-size: 40px;
+        position: fixed;
+        right: 20px;
+        top: 20px;
+        color: $lab-green-light;
+        &:hover {
+            color: $lab-green-dark;
+        }
+    }
+}

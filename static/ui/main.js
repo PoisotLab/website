@@ -14,9 +14,16 @@ window.onscroll = function () {
     var currentScrollPos = window.pageYOffset;
     if (currentScrollPos == 0) {
         document.getElementById("topbar").classList.remove("scrolled");
-        document.getElementById("logo-navbar").src="logo/colour-white.png";
+        document.getElementById("logo-navbar").src="logo/colour-black.png";
     } else {
         document.getElementById("topbar").classList.add("scrolled");
         document.getElementById("logo-navbar").src="logo/colour-black.png";
     }
 } 
+
+function changeSplashImage() {
+    var nImages = 5;
+    var num = Math.ceil( Math.random() * nImages );
+    var img = 'backgrounds/'+num+'.jpg';
+    document.body.style.backgroundImage = "url('" + img + "')";
+}

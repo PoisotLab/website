@@ -14,26 +14,46 @@
     section {
         display: block;
         position: fixed;
-        left: 50%;
+        left: 0%;
+        width: 50vw;
+        height: 100vh;
         bottom: 0;
-        transform: translate(-50%, 0);
         margin: 0 auto;
-        background-color: #1d8265;
+        background-color: $grey-light;
         color: white;
-        width: 100vw;
         text-align: center;
         div {
-            margin: 0px auto;
-            display: block;
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            padding: 3rem;
             text-align: left;
             max-width: 750px;
+            vertical-align: bottom;
+            color: $lab-green-light;
         }
         padding: 3.5em;
-        font-size: 1.1rem;
         h1 {
             font-weight: 300;
             font-size: 1.8rem;
             text-transform: uppercase;
+            color: $lab-green-dark;
+        }
+    }
+}
+
+@media only screen and (max-width: 1420px) {
+    #splash {
+        section {
+            display: block;
+            position: fixed;
+            left: 0%;
+            width: 100vw;
+            height: 100vh;
+            div {
+                max-width: 750px;
+                margin: 0px auto;
+            }
         }
     }
 }
