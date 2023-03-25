@@ -2,6 +2,11 @@
     footer {
         display: none;
     }
+    nav#menu {
+        a.menu {
+            color: black !important;
+        }
+    }
 }
 
 #splash {

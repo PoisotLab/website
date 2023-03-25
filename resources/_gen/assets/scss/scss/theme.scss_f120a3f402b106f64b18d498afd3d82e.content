@@ -140,54 +140,6 @@ section.container {
   section.container ul, section.container li {
     list-style: none; }
 
-#homepage footer {
-  display: none; }
-
-#splash {
-  width: 100vw;
-  height: 100vh;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1000; }
-  #splash section {
-    display: block;
-    position: fixed;
-    left: 0%;
-    width: 50vw;
-    height: 100vh;
-    bottom: 0;
-    margin: 0 auto;
-    background-color: #e7e5df;
-    color: white;
-    text-align: center;
-    padding: 3.5em; }
-    #splash section div {
-      position: absolute;
-      bottom: 0;
-      right: 0;
-      padding: 3rem;
-      text-align: left;
-      max-width: 750px;
-      vertical-align: bottom;
-      color: #1d8265; }
-    #splash section h1 {
-      font-weight: 300;
-      font-size: 1.8rem;
-      text-transform: uppercase;
-      color: #114f54; }
-
-@media only screen and (max-width: 1420px) {
-  #splash section {
-    display: block;
-    position: fixed;
-    left: 0%;
-    width: 100vw;
-    height: 100vh; }
-    #splash section div {
-      max-width: 750px;
-      margin: 0px auto; } }
-
 .paper {
   margin-bottom: 2.8em; }
   .paper .title {
@@ -241,12 +193,13 @@ section.container {
       color: #114f54; }
 
 .item .social {
-  padding-top: 1em;
-  text-align: center; }
+  padding-top: 1em; }
   .item .social a {
-    color: #2e5385;
+    color: #1d8265;
     background: none !important;
     border-bottom: none; }
+    .item .social a:hover {
+      color: #114f54; }
 
 .item {
   padding: 0.0em;
@@ -278,8 +231,7 @@ section.container {
     color: white;
     font-weight: 800;
     vertical-align: bottom;
-    padding: 0.8em;
-    border-radius: 1.2em; }
+    padding: 0.1em; }
     .item a:hover {
       color: white;
       background-color: #205cac; }
@@ -287,6 +239,57 @@ section.container {
     font-weight: 500;
     font-size: 120%;
     color: #2e5385; }
+
+#homepage footer {
+  display: none; }
+
+#homepage nav#menu a.menu {
+  color: black !important; }
+
+#splash {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1000; }
+  #splash section {
+    display: block;
+    position: fixed;
+    left: 0%;
+    width: 50vw;
+    height: 100vh;
+    bottom: 0;
+    margin: 0 auto;
+    background-color: #e7e5df;
+    color: white;
+    text-align: center;
+    padding: 3.5em; }
+    #splash section div {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      padding: 3rem;
+      text-align: left;
+      max-width: 750px;
+      vertical-align: bottom;
+      color: #1d8265; }
+    #splash section h1 {
+      font-weight: 300;
+      font-size: 1.8rem;
+      text-transform: uppercase;
+      color: #114f54; }
+
+@media only screen and (max-width: 1420px) {
+  #splash section {
+    display: block;
+    position: fixed;
+    left: 0%;
+    width: 100vw;
+    height: 100vh; }
+    #splash section div {
+      max-width: 750px;
+      margin: 0px auto; } }
 
 .backdrop {
   width: 100vw;
@@ -304,7 +307,7 @@ section.container {
   .container a:hover {
     color: #205cac; }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 850px) {
   .container {
     max-width: 1000px;
     margin: 0px auto; }

@@ -25,9 +25,12 @@
     }
     .social {
         padding-top: 1em;
-        text-align: center;
+        //text-align: center;
         a {
-            color: $link-color;
+            color: $lab-green-light;
+            &:hover {
+                color: $lab-green-dark;
+            }
             background: none !important;
             border-bottom: none;
         }
@@ -70,8 +73,7 @@
         color: white;
         font-weight: 800;
         vertical-align: bottom;
-        padding: 0.8em;
-        border-radius: 1.2em;
+        padding: 0.1em;
         &:hover {
             color: white;
             background-color: $link-color-hover;

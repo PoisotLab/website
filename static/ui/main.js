@@ -22,7 +22,7 @@ window.onscroll = function () {
 } 
 
 function changeSplashImage() {
-    var nImages = 5;
+    var nImages = 9;
     var num = Math.ceil( Math.random() * nImages );
     var img = 'backgrounds/'+num+'.jpg';
     document.body.style.backgroundImage = "url('" + img + "')";
