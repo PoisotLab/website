@@ -48,7 +48,7 @@ nav#topbar {
     margin: 0px 0px;
     height: 40px; }
   nav#topbar a {
-    color: white;
+    color: #2e5385;
     text-decoration: none;
     display: block;
     padding: 0px; }
@@ -243,9 +243,6 @@ section.container {
 #homepage footer {
   display: none; }
 
-#homepage nav#menu a.menu {
-  color: black !important; }
-
 #splash {
   width: 100vw;
   height: 100vh;
@@ -331,7 +328,7 @@ section.container {
     nav#topbar nav#menu a.menu {
       display: inline-block;
       background: none !important;
-      color: white; } }
+      color: #2e5385; } }
 
 .mugshot {
   filter: grayscale(100%); }
