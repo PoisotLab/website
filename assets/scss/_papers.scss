@@ -1,3 +1,41 @@
+
+.paper {
+    margin-bottom: 1.7em;
+    .title {
+        font-weight: 600;
+        .year {
+            color: #777;
+            &::before{
+                content: "("
+            }
+            &::after{
+                content: ")"
+            }
+        }
+    }
+    .authors {
+        font-weight: 300;
+    }
+    .metadata {
+        padding-top: 0.7em;
+    }
+    .badge {
+        a {
+            border: 1px solid $link-color;
+            color: $link-color;
+            font-size: 80%;
+            padding: 0.2em 0.4em;
+            text-transform: uppercase;
+            border-radius: 4px;
+            &:hover {
+                color: white;
+                background-color: $link-color-hover;
+            }
+        }
+    }
+}
+
+
 .paper {
     border: 1px solid $grey-medium;
     border-radius: 4px;

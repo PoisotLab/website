@@ -41,3 +41,20 @@
         }
     }
 }
+
+
+@media only screen and (max-width: 1120px) {
+    #splash {
+        section {
+            display: block;
+            position: fixed;
+            left: 0%;
+            width: 100vw;
+            height: 100vh;
+            div {
+                max-width: 750px;
+                margin: 0px auto;
+            }
+        }
+    }
+}
