@@ -65,38 +65,7 @@
 } 
 
 .mugshot {
-    filter: grayscale(70%);
-}
-
-.item {
-    &:hover {
-        .mugshot {
-            filter: grayscale(0%);
-        }
-    }
-    .summary {
-        span {
-            display: inline-block;
-            a {
-                display: inline;
-                color: $link-color;
-                background: none;
-                padding: 0 0;
-                border-radius: 0;
-                font-weight: inherit;
-                &:hover {
-                    color: $link-color-hover;
-                }
-            }
-        }
-    }
-    .social {
-        a {
-            color: $link-color;
-            background: none !important;
-            border-bottom: none;
-        }
-    }
+    filter: grayscale(100%);
 }
 
 footer {

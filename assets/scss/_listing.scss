@@ -1,5 +1,40 @@
 .listing {}
 
+
+.item {
+    &:hover {
+        .mugshot {
+            filter: grayscale(0%);
+        }
+    }
+    .summary {
+        span {
+            display: inline-block;
+            a {
+                display: inline;
+                color: $lab-green-light;
+                background: none;
+                padding: 0 0;
+                border-radius: 0;
+                font-weight: inherit;
+                &:hover {
+                    color: $lab-green-dark;
+                }
+            }
+        }
+    }
+    .social {
+        padding-top: 1em;
+        text-align: center;
+        a {
+            color: $link-color;
+            background: none !important;
+            border-bottom: none;
+        }
+    }
+}
+
+
 .item {
     padding: 0.0em;
     display: table;
@@ -10,7 +45,8 @@
         width: 140px;
         height: 140px;
         border-radius: 140px;
-        box-shadow: 0px 4px 4px 0px $grey-light;
+        box-shadow: 0px 0px 4px 0px $grey-medium;
+        border: 1px solid $grey-light;
         float: left;
     }
     h2 {
