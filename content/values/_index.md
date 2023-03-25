@@ -2,7 +2,7 @@
 title: Values
 ---
 
-# Who we are
+# Hi!
 
 Welcome to the [Computational Ecology Research Group](http://poisotlab.io/)!
 
