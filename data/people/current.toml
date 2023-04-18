@@ -95,6 +95,13 @@
     "2023, B.Sc. research assistant. Trophic regulation of biting vector by omnivorous bats."
   ]
 
+[mathisgheno]
+  name = "Mathis Gheno"
+  mugshot = "mugshots/mathisgheno.jpg"
+  text = [
+    "2023, M.Sc. international visitor. Identification of structurally important interactions in network data."
+  ]
+
 [cristiancruzrodriguez]
   name = "Christian Cruz Rodriguez"
   mugshot = "mugshots/cristiancruzrodriguez.jpg"
