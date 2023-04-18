@@ -62,7 +62,7 @@ Québec.
 Strong quantitative/statistical background in disease ecology, and particularly
 on spatial analyses
 
-*Ph.D.* in disease ecology *or* wildlife epidemiology, *or* *DMV* with evidence
+*Ph.D.* in disease ecology *or* wildlife epidemiology, *or* *DVM* with evidence
 of quantitative skills (ideally completed at the time of application, or within
 a few months of completion)
 
