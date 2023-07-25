@@ -1,3 +1,17 @@
+[karinorman]
+  name = "Kari Norman"
+  mugshot = "mugshots/karinorman.jpg"
+  text = [
+    "2022-2023, Post-doctoral researcher. Development of multi-criteria monitoring and biosurveillance networks."
+  ]
+
+[ethanlamy]
+  name = "Ethan Lamy"
+  mugshot = "mugshots/ethanlamy.jpg"
+  text = [
+    "2023, B.Sc. research assistant. Trophic regulation of biting vector by omnivorous bats."
+  ]
+
 [philippedesjardinsproulx]
   name = "Philippe Desjardins-Proulx"
   mugshot = "mugshots/philippedesjardinsproulx.jpg"

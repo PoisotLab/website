@@ -70,13 +70,6 @@
     twitter = "Hik4ri"
     github = "MaIsAp"
 
-[karinorman]
-  name = "Kari Norman"
-  mugshot = "mugshots/karinorman.jpg"
-  text = [
-    "2022-, Post-doctoral researcher. Development of multi-criteria monitoring and biosurveillance networks."
-  ]
-
 [alicedoucetbeaupre]
   name = "Alice Doucet Beaupré"
   mugshot = "mugshots/alicedoucetbeaupre.jpg"
@@ -87,13 +80,6 @@
     email = "alice.doucet.beaupre@gmail.com"
     github = "alicedb2"
     www = "https://www.mathema.ca"
-
-[ethanlamy]
-  name = "Ethan Lamy"
-  mugshot = "mugshots/ethanlamy.jpg"
-  text = [
-    "2023, B.Sc. research assistant. Trophic regulation of biting vector by omnivorous bats."
-  ]
 
 [mathisgheno]
   name = "Mathis Gheno"
@@ -108,3 +94,12 @@
   text = [
     "2023-, Ph.D. Large-scale modeling of land-use change to support conservation policy-making."
   ]
+
+[emilybeasley]
+  name = "Emily Beasley"
+  mugshot = "mugshots/emilybeasley.jpg"
+  text = [
+    "2023-, Post-doctoral researcher. Optimized spatial sampling of epidemic processes."
+  ]
+  [emilybeasley.social]
+    www = "https://beasley015.github.io"
