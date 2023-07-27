@@ -81,13 +81,6 @@
     github = "alicedb2"
     www = "https://www.mathema.ca"
 
-[mathisgheno]
-  name = "Mathis Gheno"
-  mugshot = "mugshots/mathisgheno.jpg"
-  text = [
-    "2023, M.Sc. international visitor. Identification of structurally important interactions in network data."
-  ]
-
 [cristiancruzrodriguez]
   name = "Christian Cruz Rodriguez"
   mugshot = "mugshots/cristiancruzrodriguez.jpg"

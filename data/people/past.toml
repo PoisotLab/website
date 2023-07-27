@@ -1,3 +1,10 @@
+[mathisgheno]
+  name = "Mathis Gheno"
+  mugshot = "mugshots/mathisgheno.jpg"
+  text = [
+    "2023, M.Sc. international visitor. Identification of structurally important interactions in network data."
+  ]
+
 [karinorman]
   name = "Kari Norman"
   mugshot = "mugshots/karinorman.jpg"
