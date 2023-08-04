@@ -96,3 +96,23 @@
   ]
   [emilybeasley.social]
     www = "https://beasley015.github.io"
+
+[nereamontesperez]
+  name = "Nerea Montes Perez"
+  mugshot = "mugshots/nereamontesperez.jpeg"
+  text = ["2023-, visiting Ph.D. Spatial structure of plant-pollination networks in Europe."]
+
+[auderebattet]
+  name = "Aude Rebattet"
+  mugshot = "mugshots/generic.png"
+  text = ["2023-, B.Sc. research assistant. Temporal dynamics of landcape connectivity and zoonotic risk."]
+
+[stephanieshousha]
+  name = "Stéphanie Shousha"
+  mugshot = "mugshots/stephanieshousha.jpg"
+  text = [
+    "2023-, Post-doctoral researcher. Natural and human influences on coupled carbon, nitrogen and phosphorus dynamics in watersheds."
+  ]
+  [stephanieshousha.social]
+    www = "http://marangerlab.weebly.com/stephanie.html"
+    email = "stephanie.shousha@umontreal.ca"
