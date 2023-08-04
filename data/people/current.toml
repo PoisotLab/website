@@ -100,7 +100,7 @@
 [nereamontesperez]
   name = "Nerea Montes Perez"
   mugshot = "mugshots/nereamontesperez.jpeg"
-  text = ["2023-, visiting Ph.D. Spatial structure of plant-pollination networks in Europe."]
+  text = ["2023-, visiting Ph.D. Spatial structure of plant-pollination networks in Europe. Advisor: Ignasi Bartomeus."]
 
 [auderebattet]
   name = "Aude Rebattet"
@@ -111,7 +111,7 @@
   name = "Stéphanie Shousha"
   mugshot = "mugshots/stephanieshousha.jpg"
   text = [
-    "2023-, Post-doctoral researcher. Natural and human influences on coupled carbon, nitrogen and phosphorus dynamics in watersheds."
+    "2023-, Post-doctoral researcher. Natural and human influences on coupled carbon, nitrogen and phosphorus dynamics in watersheds. Advisor: Roxane Maranger."
   ]
   [stephanieshousha.social]
     www = "http://marangerlab.weebly.com/stephanie.html"
