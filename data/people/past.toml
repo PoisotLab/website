@@ -104,7 +104,7 @@
 [marieandreeouellet]
   name = "Marie-Andrée Ouellet"
   mugshot = "mugshots/marieandreeouellet.jpg"
-  text = ["2020, MSc research intern. Singular Value Decomposition as an imputation method for host-virus detection."]
+  text = ["2020, M.Sc. research intern. Singular Value Decomposition as an imputation method for host-virus detection."]
 
 [evadelmas]
   name = "Eva Delmas"
@@ -143,7 +143,7 @@
   mugshot = "mugshots/daphneelecourstessier.jpg"
   text = [
     "2018-2020, M.Sc. Blue-green connectivity and ecosystem integrity in the Laurentians. Co-advisor: Roxane Maranger.",
-    "2017-2018, BSc research assistant. Best practices for the development and implementation of ecological corridors. Co-advisor: Roxane Maranger."
+    "2017-2018, B.Sc. research assistant. Best practices for the development and implementation of ecological corridors. Co-advisor: Roxane Maranger."
   ]
   
 
