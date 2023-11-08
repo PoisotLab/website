@@ -116,3 +116,10 @@
   [stephanieshousha.social]
     www = "http://marangerlab.weebly.com/stephanie.html"
     email = "stephanie.shousha@umontreal.ca"
+
+[sarahdghynlouissaint]
+  name = "Sarahdghyn Louissaint"
+  mugshot = "mugshots/sarahdghynlouissaint.jpg"
+  text = [
+    "2024, M.Sc. research intern. Meta-analysis of surveillance strategies for the Racoon rabies virus in Eastern Canada/United States."
+  ]
