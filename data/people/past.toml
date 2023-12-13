@@ -1,3 +1,9 @@
+[camillerondeau]
+  name = "Camille Rondeau Saint-Jean"
+  mugshot = "mugshots/camillerondeau.jpg"
+  text = ["2021-, M.Sc. Deep-learning for the bioacousting monitoring of bird communities."]
+
+
 [mathisgheno]
   name = "Mathis Gheno"
   mugshot = "mugshots/mathisgheno.jpg"
