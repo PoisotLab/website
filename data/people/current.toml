@@ -95,7 +95,7 @@
 [nereamontesperez]
   name = "Nerea Montes Perez"
   mugshot = "mugshots/nereamontesperez.jpeg"
-  text = ["2023-, visiting Ph.D. Spatial structure of plant-pollination networks in Europe. Advisor: Ignasi Bartomeus."]
+  text = ["2023, visiting Ph.D. Spatial structure of plant-pollination networks in Europe. Advisor: Ignasi Bartomeus."]
 
 [auderebattet]
   name = "Aude Rebattet"
@@ -117,4 +117,11 @@
   mugshot = "mugshots/sarahdghynlouissaint.jpg"
   text = [
     "2024, M.Sc. research intern. Meta-analysis of surveillance strategies for the Racoon rabies virus in Eastern Canada/United States."
+  ]
+
+[colebrookson]
+  name = "Cole Brookson"
+  mugshot = "mugshots/colebrookson.jpg"
+  text = [
+    "2024, visiting Ph.D. Quantifying predictability of environmental change and disease dynamics."
   ]
