@@ -8,6 +8,11 @@
   mugshot = "mugshots/auderebattet.jpeg"
   text = ["2023-, B.Sc. research assistant. Temporal dynamics of landcape connectivity and zoonotic risk."]
 
+[camillerondeau]
+  name = "Camille Rondeau Saint-Jean"
+  mugshot = "mugshots/camillerondeau.jpg"
+  text = ["2021-, M.Sc. Deep-learning for the bioacousting monitoring of bird communities."]
+
 [mathisgheno]
   name = "Mathis Gheno"
   mugshot = "mugshots/mathisgheno.jpg"

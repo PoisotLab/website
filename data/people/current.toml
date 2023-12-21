@@ -12,11 +12,6 @@
     www = "http://armchairecology.blog/"
     mastodon = "https://ecoevo.social/@tpoisot"
 
-[camillerondeau]
-  name = "Camille Rondeau Saint-Jean"
-  mugshot = "mugshots/camillerondeau.jpg"
-  text = ["2021-, M.Sc. Deep-learning for the bioacousting monitoring of bird communities."]
-
 [tanyastrydom]
   name = "Tanya Strydom"
   mugshot = "mugshots/tanyastrydom.jpg"
@@ -45,7 +40,7 @@
     email = "francis.banville@umontreal.ca"
     twitter = "francisbanv"
     github = "FrancisBanville"
-    www = "https://francisbanville.netlify.app/"
+    www = "https://francisbanville.github.io/"
 
 [gabrieldansereau]
   name = "Gabriel Dansereau"
@@ -112,4 +107,11 @@
   mugshot = "mugshots/sarahdghynlouissaint.jpg"
   text = [
     "2024, M.Sc. research intern. Meta-analysis of surveillance strategies for the Racoon rabies virus in Eastern Canada/United States."
+  ]
+
+[colebrookson]
+  name = "Cole Brookson"
+  mugshot = "mugshots/colebrookson.jpg"
+  text = [
+    "2024, visiting Ph.D. Quantifying predictability of environmental change and disease dynamics."
   ]
