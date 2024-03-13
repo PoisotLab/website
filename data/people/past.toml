@@ -252,3 +252,12 @@
   text = [
     "2020, M.Sc. research assistant. Development of indicators for the communication of urban biodiversity trends."
   ]
+
+[tanyastrydom]
+  name = "Tanya Strydom"
+  mugshot = "mugshots/tanyastrydom.jpg"
+  text = ["2020-, Ph.D. Common properties of species interactions networks across space."]
+  [tanyastrydom.social]
+    email = "tanya.strydom@umontreal.ca"
+    twitter = "TanyaS_08"
+    github = "TanyaS08"

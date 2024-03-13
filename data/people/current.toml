@@ -9,17 +9,7 @@
   [timotheepoisot.social]
     email = "timothee.poisot@umontreal.ca"
     github = "tpoisot"
-    www = "http://armchairecology.blog/"
-    mastodon = "https://ecoevo.social/@tpoisot"
-
-[tanyastrydom]
-  name = "Tanya Strydom"
-  mugshot = "mugshots/tanyastrydom.jpg"
-  text = ["2020-, Ph.D. Common properties of species interactions networks across space."]
-  [tanyastrydom.social]
-    email = "tanya.strydom@umontreal.ca"
-    twitter = "TanyaS_08"
-    github = "TanyaS08"
+    www = "https://buttondown.email/ctrl-alt-tim/archive/"
 
 [normaforero]
   name = "Norma Forero"
