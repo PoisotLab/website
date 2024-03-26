@@ -256,8 +256,8 @@
 [tanyastrydom]
   name = "Tanya Strydom"
   mugshot = "mugshots/tanyastrydom.jpg"
-  text = ["2020-, Ph.D. Common properties of species interactions networks across space."]
+  text = ["2020-2024, Ph.D. Common properties of species interactions networks across space."]
   [tanyastrydom.social]
-    email = "tanya.strydom@umontreal.ca"
-    twitter = "TanyaS_08"
+    email = "tanya.strydom@icloud.com"
     github = "TanyaS08"
+    www = "https://tanyadoesscience.com"
