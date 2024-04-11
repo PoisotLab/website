@@ -112,3 +112,10 @@
   text = [
     "2024, B.Sc. research assistant. Sero-prevalence of Canine Distemper Virus over an urbanisation gradient."
   ]
+
+[michaelcatchen]
+  name = "Michael D. Catchen"
+  mugshot = "mugshots/michaelcatchen.jpg"
+  text = [
+    "2024-, Post-doctoral researcher. Computer vision tools for ecological niche modeling."
+  ]
