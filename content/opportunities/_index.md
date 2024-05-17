@@ -10,8 +10,8 @@ and under climate change scenarios.
 By working closely with the [GEO BON](https://geobon.org/) secretariat, and the
 [viral emergence research initiative](https://www.viralemergence.org/), this
 work will **support the development of a methodology to provide information on
-the optimal Essential Biodiversity Variables (EBV)**, with a specific focus on
-the monitoring of the host-virus system.
+optimal Essential Biodiversity Variables (EBV)** for disease monitoring, with a specific focus on
+the monitoring of host-virus systems.
 
 Ultimately, this project will result in an **assessment of the feasibility of
 multi-purpose spatial networks of locations that can inform on statuses and
@@ -36,7 +36,7 @@ The position is a **one year** (renewable) appointment, with a starting date to
 be discussed (ideally July/August). We are specifically aiming to hire a
 *junior* post-doc (*i.e.* within a year of defending their *Ph.D.*). Because of
 the deadlines of this specific grant, priority will be given to applicants that
-are already eligible to work in Canada, and have already defended their *Ph.D.*.
+are already eligible to work in Canada (including US citizens who can apply for a work permit rapidly), and have already defended their *Ph.D.*.
 
 ### Required qualifications
 
