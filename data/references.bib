@@ -60,6 +60,35 @@
                   particle Gibbs and the proposed variants.}
 }
 
+@ARTICLE{Devlin2018p,
+  title        = {{BERT}: Pre-training of deep bidirectional Transformers for
+                  language understanding},
+  author       = {Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and
+                  Toutanova, Kristina},
+  journaltitle = {arXiv [cs.CL]},
+  date         = {2018-10-10},
+  eprintclass  = {cs.CL},
+  abstract     = {We introduce a new language representation model called BERT,
+                  which stands for Bidirectional Encoder Representations from
+                  Transformers. Unlike recent language representation models,
+                  BERT is designed to pre-train deep bidirectional
+                  representations from unlabeled text by jointly conditioning on
+                  both left and right context in all layers. As a result, the
+                  pre-trained BERT model can be fine-tuned with just one
+                  additional output layer to create state-of-the-art models for
+                  a wide range of tasks, such as question answering and language
+                  inference, without substantial task-specific architecture
+                  modifications. BERT is conceptually simple and empirically
+                  powerful. It obtains new state-of-the-art results on eleven
+                  natural language processing tasks, including pushing the GLUE
+                  score to 80.5\% (7.7\% point absolute improvement), MultiNLI
+                  accuracy to 86.7\% (4.6\% absolute improvement), SQuAD v1.1
+                  question answering Test F1 to 93.2 (1.5 point absolute
+                  improvement) and SQuAD v2.0 Test F1 to 83.1 (5.1 point
+                  absolute improvement).},
+  urldate      = {2023-11-29}
+}
+
 @ARTICLE{Aas2019k,
   title        = {Explaining individual predictions when features are dependent:
                   More accurate approximations to Shapley values},
@@ -269,6 +298,183 @@
                   on a real-data example; the notebooks can be accessed and
                   easily run using our codebase.},
   urldate      = {2024-04-08}
+}
+
+@ARTICLE{Bai2022e,
+  title        = {Training a helpful and harmless assistant with reinforcement
+                  learning from human feedback},
+  author       = {Bai, Yuntao and Jones, Andy and Ndousse, Kamal and Askell,
+                  Amanda and Chen, Anna and DasSarma, Nova and Drain, Dawn and
+                  Fort, Stanislav and Ganguli, Deep and Henighan, Tom and
+                  Joseph, Nicholas and Kadavath, Saurav and Kernion, Jackson and
+                  Conerly, Tom and El-Showk, Sheer and Elhage, Nelson and
+                  Hatfield-Dodds, Zac and Hernandez, Danny and Hume, Tristan and
+                  Johnston, Scott and Kravec, Shauna and Lovitt, Liane and
+                  Nanda, Neel and Olsson, Catherine and Amodei, Dario and Brown,
+                  Tom and Clark, Jack and McCandlish, Sam and Olah, Chris and
+                  Mann, Ben and Kaplan, Jared},
+  journaltitle = {arXiv [cs.CL]},
+  date         = {2022-04-12},
+  eprintclass  = {cs.CL},
+  abstract     = {We apply preference modeling and reinforcement learning from
+                  human feedback (RLHF) to finetune language models to act as
+                  helpful and harmless assistants. We find this alignment
+                  training improves performance on almost all NLP evaluations,
+                  and is fully compatible with training for specialized skills
+                  such as python coding and summarization. We explore an
+                  iterated online mode of training, where preference models and
+                  RL policies are updated on a weekly cadence with fresh human
+                  feedback data, efficiently improving our datasets and models.
+                  Finally, we investigate the robustness of RLHF training, and
+                  identify a roughly linear relation between the RL reward and
+                  the square root of the KL divergence between the policy and
+                  its initialization. Alongside our main results, we perform
+                  peripheral analyses on calibration, competing objectives, and
+                  the use of OOD detection, compare our models with human
+                  writers, and provide samples from our models using prompts
+                  appearing in recent related work.},
+  urldate      = {2023-11-29}
+}
+
+@ARTICLE{Hataya2022f,
+  title    = {Will Large-scale Generative Models Corrupt Future Datasets?},
+  author   = {Hataya, Ryuichiro and Bao, Han and Arai, Hiromi},
+  date     = {2022-11-15},
+  abstract = {Recently proposed large-scale text-to-image generative models such
+              as DALL$\cdot$E 2, Midjourney, and StableDiffusion can generate
+              high-quality and realistic images from users' prompts. Not limited
+              to the research community, ordinary Internet users enjoy these
+              generative models, and consequently, a tremendous amount of
+              generated images have been shared on the Internet. Meanwhile,
+              today's success of deep learning in the computer vision field owes
+              a lot to images collected from the Internet. These trends lead us
+              to a research question: "\textbf{will such generated images impact
+              the quality of future datasets and the performance of computer
+              vision models positively or negatively?}" This paper empirically
+              answers this question by simulating contamination. Namely, we
+              generate ImageNet-scale and COCO-scale datasets using a
+              state-of-the-art generative model and evaluate models trained with
+              "contaminated" datasets on various tasks, including image
+              classification and image generation. Throughout experiments, we
+              conclude that generated images negatively affect downstream
+              performance, while the significance depends on tasks and the
+              amount of generated images. The generated datasets and the codes
+              for experiments will be publicly released for future research.
+              Generated datasets and source codes are available from
+              \url{https://github.com/moskomule/dataset-contamination}.},
+  urldate  = {2023-11-29}
+}
+
+@ARTICLE{Mahowald2023f,
+  title        = {Dissociating language and thought in large language models},
+  author       = {Mahowald, Kyle and Ivanova, Anna A and Blank, Idan A and
+                  Kanwisher, Nancy and Tenenbaum, Joshua B and Fedorenko,
+                  Evelina},
+  journaltitle = {arXiv [cs.CL]},
+  date         = {2023-01-16},
+  eprintclass  = {cs.CL},
+  abstract     = {Large language models (LLMs) have come closest among all
+                  models to date to mastering human language, yet opinions about
+                  their linguistic and cognitive capabilities remain split.
+                  Here, we evaluate LLMs using a distinction between formal
+                  linguistic competence--knowledge of linguistic rules and
+                  patterns--and functional linguistic competence--understanding
+                  and using language in the world. We ground this distinction in
+                  human neuroscience, showing that formal and functional
+                  competence rely on different neural mechanisms. Although LLMs
+                  are surprisingly good at formal competence, their performance
+                  on functional competence tasks remains spotty and often
+                  requires specialized fine-tuning and/or coupling with external
+                  modules. In short, LLMs are good models of language but
+                  incomplete models of human thought.},
+  urldate      = {2023-11-29}
+}
+
+@ARTICLE{Hacker2023v,
+  title        = {Regulating {ChatGPT} and other Large Generative {AI} Models},
+  author       = {Hacker, Philipp and Engel, Andreas and Mauer, Marco},
+  journaltitle = {arXiv [cs.CY]},
+  date         = {2023-02-05},
+  eprintclass  = {cs.CY},
+  abstract     = {Large generative AI models (LGAIMs), such as ChatGPT, GPT-4 or
+                  Stable Diffusion, are rapidly transforming the way we
+                  communicate, illustrate, and create. However, AI regulation,
+                  in the EU and beyond, has primarily focused on conventional AI
+                  models, not LGAIMs. This paper will situate these new
+                  generative models in the current debate on trustworthy AI
+                  regulation, and ask how the law can be tailored to their
+                  capabilities. After laying technical foundations, the legal
+                  part of the paper proceeds in four steps, covering (1) direct
+                  regulation, (2) data protection, (3) content moderation, and
+                  (4) policy proposals. It suggests a novel terminology to
+                  capture the AI value chain in LGAIM settings by
+                  differentiating between LGAIM developers, deployers,
+                  professional and non-professional users, as well as recipients
+                  of LGAIM output. We tailor regulatory duties to these
+                  different actors along the value chain and suggest strategies
+                  to ensure that LGAIMs are trustworthy and deployed for the
+                  benefit of society at large. Rules in the AI Act and other
+                  direct regulation must match the specificities of pre-trained
+                  models. The paper argues for three layers of obligations
+                  concerning LGAIMs (minimum standards for all LGAIMs; high-risk
+                  obligations for high-risk use cases; collaborations along the
+                  AI value chain). In general, regulation should focus on
+                  concrete high-risk applications, and not the pre-trained model
+                  itself, and should include (i) obligations regarding
+                  transparency and (ii) risk management. Non-discrimination
+                  provisions (iii) may, however, apply to LGAIM developers.
+                  Lastly, (iv) the core of the DSA content moderation rules
+                  should be expanded to cover LGAIMs. This includes notice and
+                  action mechanisms, and trusted flaggers. In all areas,
+                  regulators and lawmakers need to act fast to keep track with
+                  the dynamics of ChatGPT et al.},
+  urldate      = {2023-11-29}
+}
+
+@ARTICLE{Caufield2023s,
+  title        = {Structured prompt interrogation and recursive extraction of
+                  semantics ({SPIRES}): A method for populating knowledge bases
+                  using zero-shot learning},
+  author       = {Caufield, J Harry and Hegde, Harshad and Emonet, Vincent and
+                  Harris, Nomi L and Joachimiak, Marcin P and Matentzoglu,
+                  Nicolas and Kim, Hyeongsik and Moxon, Sierra A T and Reese,
+                  Justin T and Haendel, Melissa A and Robinson, Peter N and
+                  Mungall, Christopher J},
+  journaltitle = {arXiv [cs.AI]},
+  date         = {2023-04-05},
+  eprintclass  = {cs.AI},
+  abstract     = {Creating knowledge bases and ontologies is a time consuming
+                  task that relies on a manual curation. AI/NLP approaches can
+                  assist expert curators in populating these knowledge bases,
+                  but current approaches rely on extensive training data, and
+                  are not able to populate arbitrary complex nested knowledge
+                  schemas. Here we present Structured Prompt Interrogation and
+                  Recursive Extraction of Semantics (SPIRES), a Knowledge
+                  Extraction approach that relies on the ability of Large
+                  Language Models (LLMs) to perform zero-shot learning (ZSL) and
+                  general-purpose query answering from flexible prompts and
+                  return information conforming to a specified schema. Given a
+                  detailed, user-defined knowledge schema and an input text,
+                  SPIRES recursively performs prompt interrogation against
+                  GPT-3+ to obtain a set of responses matching the provided
+                  schema. SPIRES uses existing ontologies and vocabularies to
+                  provide identifiers for all matched elements. We present
+                  examples of use of SPIRES in different domains, including
+                  extraction of food recipes, multi-species cellular signaling
+                  pathways, disease treatments, multi-step drug mechanisms, and
+                  chemical to disease causation graphs. Current SPIRES accuracy
+                  is comparable to the mid-range of existing Relation Extraction
+                  (RE) methods, but has the advantage of easy customization,
+                  flexibility, and, crucially, the ability to perform new tasks
+                  in the absence of any training data. This method supports a
+                  general strategy of leveraging the language interpreting
+                  capabilities of LLMs to assemble knowledge bases, assisting
+                  manual knowledge curation and acquisition while supporting
+                  validation with publicly-available databases and ontologies
+                  external to the LLM. SPIRES is available as part of the open
+                  source OntoGPT package: https://github.com/
+                  monarch-initiative/ontogpt.},
+  urldate      = {2023-12-12}
 }
 
 @ARTICLE{Penn2023a,
@@ -717,6 +923,57 @@
   urldate   = {2024-04-27},
   keywords  = {BART; machine Learning; boosting; XBART; DART; big data; sparcity},
   language  = {en}
+}
+
+@ARTICLE{ReyhaniHaghighi2023w,
+  title        = {Artificial intelligence in ecology: A commentary on a
+                  chatbot's perspective},
+  author       = {Reyhani Haghighi, Sajjad and Pasandideh Saqalaksari, Mikaeel
+                  and Johnson, Scott N},
+  journaltitle = {Bulletin of the Ecological Society of America},
+  publisher    = {Wiley},
+  volume       = {104},
+  issue        = {4},
+  pages        = {e2097},
+  date         = {2023-10-01},
+  abstract     = {AbstractThe potential of artificial intelligence (AI) to shape
+                  research and education is a highly topical issue. The recent
+                  release of ChatGPT (Chat Generative Pre‐trained Transformer)
+                  by OpenAI on November 30, 2022 has opened up new possibilities
+                  for the use of chatbot services in ecological research and
+                  education. In this perspective article, we address associated
+                  contemporary topics including the use of chatbot services in
+                  ecology education and academic writing, the application of AI
+                  in ecology, the potential environmental impact, and ethical
+                  considerations of using such services. Several logistical,
+                  ethical and environmental factors were identified that should
+                  be considered in the context of ecological research. We argue
+                  that ChatGPT can help reduce the workload of researchers,
+                  generate new insights and ideas, and serve as a personal
+                  instructor and assistant for students. While we show how AI
+                  chatbots have the potential to be useful assets for
+                  ecologists, several challenges arose. AI in ecological
+                  research includes the limited ability of AI algorithms to
+                  capture complexity and nuance, the dependence of AI models on
+                  data quality, and ethical concerns about the use of AI in
+                  research. The construction and operation of such services also
+                  have potential environmental impacts but may also provide
+                  environmental benefits in comparison with other conventional
+                  approaches, all of which should be evaluated. Despite these
+                  limitations and challenges, we consider that the use of AI can
+                  be a valuable tool in ecological research and could enhance
+                  the speed and efficiency of research by automating certain
+                  tasks (e.g. data collection and management) and analyzing
+                  large amounts of data. However, we emphasize the importance of
+                  taking a responsible, sustainable and transparent approach to
+                  using chatbot services and AI in ecological research and
+                  education, while remaining mindful of the potential impact on
+                  the environment, society, and ethical concerns.},
+  urldate      = {2023-11-29},
+  keywords     = {AI environmental impact; artificial intelligence; carbon
+                  footprint; ChatGPT; ecological modeling; ecological research;
+                  machine learning; scientific communication},
+  language     = {en}
 }
 
 @ARTICLE{Goncalves-Souza2023-yp,
@@ -1245,6 +1502,112 @@
   language     = {en}
 }
 
+@ARTICLE{Halpern2023q,
+  title        = {Priorities for synthesis research in ecology and environmental
+                  science},
+  author       = {Halpern, Benjamin S and Boettiger, Carl and Dietze, Michael C
+                  and Gephart, Jessica A and Gonzalez, Patrick and Grimm, Nancy
+                  B and Groffman, Peter M and Gurevitch, Jessica and Hobbie,
+                  Sarah E and Komatsu, Kimberly J and Kroeker, Kristy J and
+                  Lahr, Heather J and Lodge, David M and Lortie, Christopher J
+                  and Lowndes, Julie S S and Micheli, Fiorenza and Possingham,
+                  Hugh P and Ruckelshaus, Mary H and Scarborough, Courtney and
+                  Wood, Chelsea L and Wu, Grace C and Aoyama, Lina and Arroyo,
+                  Eva E and Bahlai, Christie A and Beller, Erin E and Blake,
+                  Rachael E and Bork, Karrigan S and Branch, Trevor A and Brown,
+                  Norah E M and Brun, Julien and Bruna, Emilio M and Buckley,
+                  Lauren B and Burnett, Jessica L and Castorani, Max C N and
+                  Cheng, Samantha H and Cohen, Sarah C and Couture, Jessica L
+                  and Crowder, Larry B and Dee, Laura E and Dias, Arildo S and
+                  Diaz-Maroto, Ignacio J and Downs, Martha R and Dudney, Joan C
+                  and Ellis, Erle C and Emery, Kyle A and Eurich, Jacob G and
+                  Ferriss, Bridget E and Fredston, Alexa and Furukawa, Hikaru
+                  and Gagné, Sara A and Garlick, Sarah R and Garroway, Colin J
+                  and Gaynor, Kaitlyn M and González, Angélica L and Grames,
+                  Eliza M and Guy-Haim, Tamar and Hackett, Ed and Hallett,
+                  Lauren M and Harms, Tamara K and Haulsee, Danielle E and
+                  Haynes, Kyle J and Hazen, Elliott L and Jarvis, Rebecca M and
+                  Jones, Kristal and Kandlikar, Gaurav S and Kincaid, Dustin W
+                  and Knope, Matthew L and Koirala, Anil and Kolasa, Jurek and
+                  Kominoski, John S and Koricheva, Julia and Lancaster, Lesley T
+                  and Lawlor, Jake A and Lowman, Heili E and Muller-Karger,
+                  Frank E and Norman, Kari E A and Nourn, Nan and O'Hara, Casey
+                  C and Ou, Suzanne X and Padilla-Gamino, Jacqueline L and
+                  Pappalardo, Paula and Peek, Ryan A and Pelletier, Dominique
+                  and Plont, Stephen and Ponisio, Lauren C and Portales-Reyes,
+                  Cristina and Provete, Diogo B and Raes, Eric J and
+                  Ramirez-Reyes, Carlos and Ramos, Irene and Record, Sydne and
+                  Richardson, Anthony J and Salguero-Gómez, Roberto and
+                  Satterthwaite, Erin V and Schmidt, Chloé and Schwartz, Aaron J
+                  and See, Craig R and Shea, Brendan D and Smith, Rachel S and
+                  Sokol, Eric R and Solomon, Christopher T and Spanbauer, Trisha
+                  and Stefanoudis, Paris V and Sterner, Beckett W and Sudbrack,
+                  Vitor and Tonkin, Jonathan D and Townes, Ashley R and Valle,
+                  Mireia and Walter, Jonathan A and Wheeler, Kathryn I and
+                  Wieder, William R and Williams, David R and Winter, Marten and
+                  Winterova, Barbora and Woodall, Lucy C and Wymore, Adam S and
+                  Youngflesh, Casey},
+  journaltitle = {Ecosphere (Washington, D.C)},
+  publisher    = {Wiley},
+  volume       = {14},
+  issue        = {1},
+  pages        = {e4342},
+  date         = {2023-01-01},
+  abstract     = {Synthesis research in ecology and environmental science
+                  improves understanding, advances theory, identifies research
+                  priorities, and supports management strategies by linking
+                  data, ideas, and tools. ...},
+  urldate      = {2023-11-29},
+  keywords     = {complexity; coupled systems; diversity; ecological scale;
+                  justice; predictability; use-inspired science},
+  language     = {en}
+}
+
+@ARTICLE{Dietze2023-ny,
+  title        = {A community convention for ecological forecasting: Output
+                  files and metadata version 1.0},
+  author       = {Dietze, Michael C and Thomas, R Quinn and Peters, Jody and
+                  Boettiger, Carl and Koren, Gerbrand and Shiklomanov, Alexey N
+                  and Ashander, Jaime},
+  journaltitle = {Ecosphere},
+  publisher    = {Wiley},
+  volume       = {14},
+  issue        = {11},
+  date         = {2023-11},
+  abstract     = {AbstractThis paper summarizes the open community conventions
+                  developed by the Ecological Forecasting Initiative (EFI) for
+                  the common formatting and archiving of ecological forecasts
+                  and the metadata associated with these forecasts. Such open
+                  standards are intended to promote interoperability and
+                  facilitate forecast communication, distribution, validation,
+                  and synthesis. For output files, we first describe the
+                  convention conceptually in terms of global attributes,
+                  forecast dimensions, forecasted variables, and ancillary
+                  indicator variables. We then illustrate the application of
+                  this convention to the two file formats that are currently
+                  preferred by the EFI, netCDF (network common data form), and
+                  comma‐separated values (CSV), but note that the convention is
+                  extensible to future formats. For metadata, EFI's convention
+                  identifies a subset of conventional metadata variables that
+                  are required (e.g., temporal resolution and output variables)
+                  but focuses on developing a framework for storing information
+                  about forecast uncertainty propagation, data assimilation, and
+                  model complexity, which aims to facilitate cross‐forecast
+                  synthesis. The initial application of this convention expands
+                  upon the Ecological Metadata Language (EML), a commonly used
+                  metadata standard in ecology. To facilitate community
+                  adoption, we also provide a Github repository containing a
+                  metadata validator tool and several vignettes in R and Python
+                  on how to both write and read in the EFI standard. Lastly, we
+                  provide guidance on forecast archiving, making an important
+                  distinction between short‐term dissemination and long‐term
+                  forecast archiving, while also touching on the archiving of
+                  code and workflows. Overall, the EFI convention is a living
+                  document that can continue to evolve over time through an open
+                  community process.},
+  language     = {en}
+}
+
 @ARTICLE{TenCaten2023l,
   title        = {Thinning occurrence points does not improve species
                   distribution model performance},
@@ -1532,6 +1895,104 @@
   language     = {en}
 }
 
+@ARTICLE{Antonelli2023j,
+  title        = {Integrating machine learning, remote sensing and citizen
+                  science to create an early warning system for biodiversity},
+  author       = {Antonelli, Alexandre and Dhanjal-Adams, Kiran L and Silvestro,
+                  Daniele},
+  journaltitle = {Plants, people, planet},
+  publisher    = {Wiley},
+  volume       = {5},
+  issue        = {3},
+  pages        = {307--316},
+  date         = {2023-05-01},
+  abstract     = {Societal Impact StatementThe development and implementation of
+                  conservation actions that address urgent threats to
+                  biodiversity across the globe require large amounts of
+                  historic and current data. Machine learning approaches offer
+                  the tools to process, analyse and interpret large data sets,
+                  giving insights into trends and guiding evidence‐based
+                  allocation of limited resources to maximise positive
+                  biodiversity outcomes. Here we describe how data acquired from
+                  remote sensing, citizen science and other monitoring
+                  approaches could feed in near‐real time into an early warning
+                  system for biodiversity that integrates automated red‐listing
+                  of species with the identification of priority areas for
+                  conservation.SummaryApplication of machine learning approaches
+                  is aiding biodiversity conservation and research at a time of
+                  rapid global change. Two emerging topics and their data
+                  requirements are presented. First, to identify areas of
+                  priority protection for preventing biodiversity loss,
+                  reinforcement learning is used by training models that take
+                  into account human disturbance and climate change under
+                  recurrent monitoring schemes. Second, neural networks are used
+                  to approximate classification of species into Red List
+                  categories of the International Union for Conservation of
+                  Nature, offering the possibility of real‐time
+                  re‐classification after events such as widespread fires and
+                  deforestation. We discuss how the identification of areas and
+                  species most at risk could be integrated into an ‘early
+                  warning system’ based on climatic monitoring, remotely sensed
+                  land‐use changes and near‐real time biological and threat data
+                  from citizen science initiatives. Such system would help guide
+                  actions to prevent biodiversity loss at the speed required for
+                  effective conservation.},
+  urldate      = {2023-12-11},
+  keywords     = {artificial intelligence; citizen science; climate change;
+                  conservation biology; machine learning; modelling; neural
+                  network; warning system},
+  language     = {en}
+}
+
+@ARTICLE{Antonelli2023r,
+  title        = {Integrating machine learning, remote sensing and citizen
+                  science to create an early warning system for biodiversity},
+  author       = {Antonelli, Alexandre and Dhanjal-Adams, Kiran L and Silvestro,
+                  Daniele},
+  journaltitle = {Plants, people, planet},
+  publisher    = {Wiley},
+  volume       = {5},
+  issue        = {3},
+  pages        = {307--316},
+  date         = {2023-05-01},
+  abstract     = {Societal Impact StatementThe development and implementation of
+                  conservation actions that address urgent threats to
+                  biodiversity across the globe require large amounts of
+                  historic and current data. Machine learning approaches offer
+                  the tools to process, analyse and interpret large data sets,
+                  giving insights into trends and guiding evidence‐based
+                  allocation of limited resources to maximise positive
+                  biodiversity outcomes. Here we describe how data acquired from
+                  remote sensing, citizen science and other monitoring
+                  approaches could feed in near‐real time into an early warning
+                  system for biodiversity that integrates automated red‐listing
+                  of species with the identification of priority areas for
+                  conservation.SummaryApplication of machine learning approaches
+                  is aiding biodiversity conservation and research at a time of
+                  rapid global change. Two emerging topics and their data
+                  requirements are presented. First, to identify areas of
+                  priority protection for preventing biodiversity loss,
+                  reinforcement learning is used by training models that take
+                  into account human disturbance and climate change under
+                  recurrent monitoring schemes. Second, neural networks are used
+                  to approximate classification of species into Red List
+                  categories of the International Union for Conservation of
+                  Nature, offering the possibility of real‐time
+                  re‐classification after events such as widespread fires and
+                  deforestation. We discuss how the identification of areas and
+                  species most at risk could be integrated into an ‘early
+                  warning system’ based on climatic monitoring, remotely sensed
+                  land‐use changes and near‐real time biological and threat data
+                  from citizen science initiatives. Such system would help guide
+                  actions to prevent biodiversity loss at the speed required for
+                  effective conservation.},
+  urldate      = {2023-12-11},
+  keywords     = {artificial intelligence; citizen science; climate change;
+                  conservation biology; machine learning; modelling; neural
+                  network; warning system},
+  language     = {en}
+}
+
 @ARTICLE{Mabry2024j,
   title        = {Building an inclusive botany: The “radicle” dream},
   author       = {Mabry, Makenzie E and Caomhanach, Nuala and Abrahams, R Shawn
@@ -1799,6 +2260,45 @@
                recommendations for teaching effective collaboration.}
 }
 
+@INBOOK{Elwakil2023q,
+  title     = {Impact of climate change on viral disease burden in Africa},
+  author    = {Elwakil, Reda and Esmat, Gamal and Fouad, Yasser and Bassam,
+               Mohamed},
+  booktitle = {Impact of Climate Change on Health in Africa},
+  publisher = {Springer International Publishing},
+  location  = {Cham},
+  pages     = {97--117},
+  date      = {2023},
+  abstract  = {The rate of global warming is accelerating reaching the highest
+               recorded temperature in history, and this is disrupting the usual
+               balance of nature. The impacts of climate change on mammalian
+               viral sharing patterns are likely to cascade in future emergence
+               of zoonotic viruses. Among the thousands of expected viral
+               sharing events, some of the highest risk zoonoses or potential
+               zoonoses are likely to find new hosts. This may eventually pose a
+               threat to human health. According to a new study, climate change
+               will result in the emergence of new infectious diseases, through
+               the spread of many new viruses among animal species that might be
+               transmitted later on to humans. This phenomenon is expected to
+               occur mainly in Africa and Asia, as both the continents have been
+               historically renowned as hot spots for deadly disease spread from
+               humans to animals or vice versa, including influenza, human
+               immunodeficiency virus (HIV), Ebola and severe acute respiratory
+               syndrome-coronavirus 2 (SARS-CoV2) over the past decades. Virus
+               modification may be affected through different aspects of climate
+               changes such as sudden temperature changes and more frequent
+               extreme weather events such as floods, hurricanes, and droughts.
+               This created a favorable breeding medium for viruses that aid in
+               their resistance and emergence of infectious diseases. The aim of
+               this chapter is to discuss the impact of climate change on viral
+               diseases in Africa. The role of different climate components will
+               be discussed on the viruses and the vectors/hosts, and then,
+               examples for the impact of climate change on specific viruses
+               will be presented.},
+  urldate   = {2023-12-09},
+  language  = {en}
+}
+
 @INBOOK{Liaqat2024-tf,
   title     = {Entry of the microplastics in food chain and food web},
   author    = {Liaqat, Somia and Hussain, Mubashar and Riaz, Jaweria},
@@ -1994,6 +2494,34 @@
                   viewpoints from within and outside science into policy advice
                   thus contributing to discussions about normative issues
                   concerning evidence and expertise in policy-making.},
+  language     = {en}
+}
+
+@ARTICLE{Desai2022p,
+  title        = {The epistemological foundations of data science: a critical
+                  review},
+  author       = {Desai, Jules and Watson, David and Wang, Vincent and Taddeo,
+                  Mariarosaria and Floridi, Luciano},
+  journaltitle = {Synthese},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {200},
+  issue        = {6},
+  pages        = {1--27},
+  date         = {2022-11-06},
+  abstract     = {AbstractThe modern abundance and prominence of data have led
+                  to the development of “data science” as a new field of
+                  enquiry, along with a body of epistemological reflections upon
+                  its foundations, methods, and consequences. This article
+                  provides a systematic analysis and critical review of
+                  significant open problems and debates in the epistemology of
+                  data science. We propose a partition of the epistemology of
+                  data science into the following five domains: (i) the
+                  constitution of data science; (ii) the kind of enquiry that it
+                  identifies; (iii) the kinds of knowledge that data science
+                  generates; (iv) the nature and epistemological significance of
+                  “black box” problems; and (v) the relationship between data
+                  science and the philosophy of science more generally.},
+  urldate      = {2023-12-08},
   language     = {en}
 }
 
@@ -2533,6 +3061,23 @@
   urldate   = {2024-04-23}
 }
 
+@ARTICLE{Sales2021b,
+  title        = {What do you mean by “niche”? Modern ecological theories are
+                  not coherent on rhetoric about the niche concept},
+  author       = {Sales, Lilian P and Hayward, Matt W and Loyola, Rafael},
+  journaltitle = {Acta oecologica (Montrouge, France)},
+  publisher    = {Elsevier BV},
+  volume       = {110},
+  issue        = {103701},
+  pages        = {103701},
+  date         = {2021-05-01},
+  abstract     = {Ecologists have long had a “love-hate” relationship with the
+                  niche concept. Sometimes referred to as a term best left
+                  undefined, the niche concept non…},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Tibbetts2014n,
   title        = {The challenge hypothesis across taxa: social modulation of
                   hormone titres in vertebrates and insects},
@@ -2878,6 +3423,18 @@
   language     = {en}
 }
 
+@ARTICLE{Edwards2022i,
+  title        = {Identifying wildlife observations on twitter},
+  author       = {Edwards, Thomas and Jones, Christopher B and Corcoran, Padraig},
+  journaltitle = {Ecological informatics},
+  publisher    = {Elsevier BV},
+  volume       = {67},
+  issue        = {101500},
+  pages        = {101500},
+  date         = {2022-03},
+  language     = {en}
+}
+
 @ARTICLE{Midway2022-ix,
   title        = {Asking nicely: Best practices for requesting data},
   author       = {Midway, Stephen R and Sievert, Nicholas A and Lynch, Abigail J
@@ -2888,6 +3445,24 @@
   issue        = {101729},
   pages        = {101729},
   date         = {2022-09},
+  language     = {en}
+}
+
+@ARTICLE{Hunter2023n,
+  title        = {Using hierarchical text classification to investigate the
+                  utility of machine learning in automating online analyses of
+                  wildlife exploitation},
+  author       = {Hunter, Sara Bronwen and Mathews, Fiona and Weeds, Julie},
+  journaltitle = {Ecological informatics},
+  publisher    = {Elsevier BV},
+  volume       = {75},
+  issue        = {102076},
+  pages        = {102076},
+  date         = {2023-07-01},
+  abstract     = {Expanding digital data sources, including social media, online
+                  news articles and blogs, provide an opportunity to understand
+                  better the context and in…},
+  urldate      = {2023-11-29},
   language     = {en}
 }
 
@@ -3037,6 +3612,56 @@
                   effects of imbalanced training data on the performance of
                   machine-learning based predictiv…},
   urldate      = {2024-04-17},
+  language     = {en}
+}
+
+@ARTICLE{Potschin-Young2018m,
+  title        = {Understanding the role of conceptual frameworks: Reading the
+                  ecosystem service cascade},
+  author       = {Potschin-Young, M and Haines-Young, R and Görg, C and Heink, U
+                  and Jax, K and Schleyer, C},
+  journaltitle = {Ecosystem services},
+  publisher    = {Elsevier},
+  volume       = {29},
+  issue        = {Pt C},
+  pages        = {428--440},
+  date         = {2018-02-01},
+  abstract     = {The aim of this paper is to identify the role of conceptual
+                  frameworks in operationalising and mainstreaming the idea of
+                  ecosystem services. It builds on some initial discussions from
+                  IPBES, which suggested that conceptual frameworks could be
+                  used to: 'simplify thinking', 'structure work', 'clarify
+                  issues', and 'provide a common reference point'. The analysis
+                  uses the cascade model as a focus and looks at the way it has
+                  been used in recent published material and across a set of
+                  case studies from the EU-funded OpenNESS Project as a device
+                  for conceptual framing. It found that there are examples in
+                  the literature that show the cascade model indeed being used
+                  as an 'organising framework', a tool for 're-framing'
+                  perspectives, an 'analytical template', and as an 'application
+                  framework'. Although the published materials on the cascade
+                  are rich, these accounts lack insights into the process by
+                  which the different versions of the model were created, and so
+                  we turned to the set of OpenNESS case studies to examine how
+                  they read the cascade. We found that the cascade was able to
+                  provide a common reference for a diverse set of studies, and
+                  that it was sufficiently flexible for it to be developed and
+                  elaborated in ways that were meaningful for the different
+                  place-based studies. The case studies showed that generalised
+                  models like the cascade can have an important
+                  'awareness-raising' role. However, we found that using models
+                  of this kind it was more difficult for case studies to link
+                  their work to broader societal issues such as human
+                  well-being, sustainable ecosystem management, governance, and
+                  competitiveness, than to their own concerns. We therefore
+                  conclude that to be used effectively, conceptual models like
+                  the cascade may need to be supported by other materials that
+                  help users read it in different, outward looking ways. We also
+                  need to find mechanisms for capturing this experience so that
+                  it can be shared with others.},
+  urldate      = {2023-11-29},
+  keywords     = {Cascade model; Conceptual frameworks; Ecosystem services;
+                  Mainstreaming; Operationalisation},
   language     = {en}
 }
 
@@ -3270,6 +3895,54 @@
   language     = {en}
 }
 
+@ARTICLE{Pal2023-nb,
+  title        = {A next-generation dynamic programming {languageJulia}: its
+                  features and applications in biological science},
+  author       = {Pal, Soumen and Bhattacharya, Manojit and Dash, Snehasish and
+                  Lee, Sang-Soo and Chakraborty, Chiranjib},
+  journaltitle = {Journal of advertising research},
+  publisher    = {Elsevier BV},
+  date         = {2023-11-21},
+  abstract     = {Background The advent of Julia as a sophisticated and dynamic
+                  programming language in 2012 represented a significant
+                  milestone in computational programming, mathematical analysis,
+                  and statistical modeling. Having reached its stable release in
+                  version 1.9.0 on May 7, 2023, Julia has developed into a
+                  powerful and versatile instrument. Despite its potential and
+                  widespread adoption across various scientific and technical
+                  domains, it can be utilized within biological sciences. The
+                  Aim of Review This comprehensive review aims to address this
+                  particular knowledge gap and offer a thorough examination of
+                  Julia's fundamental characteristics and its applications in
+                  biology. Key scientific concepts of the review The review
+                  focuses on a research gap in the biological science. The
+                  review aims to equip researchers with knowledge and tools to
+                  utilize Julia's capabilities in biological science effectively
+                  and to demonstrate the gap. It paves the way for innovative
+                  solutions and discoveries in this rapidly evolving field. It
+                  encompasses an analysis of Julia's characteristics, packages,
+                  and performance compared to the programming languages in this
+                  field. The initial part of this review discusses the key
+                  features of Julia, such as its dynamic and interactive nature,
+                  fast processing speed, ease of expression manipulation,
+                  user-friendly syntax, code readability, strong support for
+                  multiple dispatch, and advanced type system. It also explores
+                  Julia's capabilities in data analysis, visualization, machine
+                  learning, and algorithms, making it suitable for scientific
+                  applications. The next section emphasizes the importance of
+                  using Julia in biological research, highlighting its seamless
+                  integration with biological studies for data analysis,
+                  computational biology, and bioinformatics. It also compares
+                  Julia with other programming languages commonly used in
+                  biological research through benchmarking and performance
+                  analysis. Additionally, it provides insights into future
+                  directions and potential challenges in Julia's applications in
+                  biology.},
+  keywords     = {Julia; programming language; biological science; computational
+                  biology},
+  language     = {en}
+}
+
 @ARTICLE{Grellet2022x,
   title        = {Replication of the coronavirus genome: A paradox among
                   positive-strand {RNA} viruses},
@@ -3407,6 +4080,44 @@
   urldate      = {2024-05-06},
   keywords     = {Behavior; Food web; Indirect effects; Trait-mediated indirect
                   interaction; Trophic cascade},
+  language     = {en}
+}
+
+@ARTICLE{Monti2007y,
+  title        = {Functional neuroanatomy of deductive inference: a
+                  language-independent distributed network},
+  author       = {Monti, Martin M and Osherson, Daniel N and Martinez, Michael J
+                  and Parsons, Lawrence M},
+  journaltitle = {NeuroImage},
+  publisher    = {Elsevier BV},
+  volume       = {37},
+  issue        = {3},
+  pages        = {1005--1016},
+  date         = {2007-09-01},
+  abstract     = {Studies of brain areas supporting deductive reasoning show
+                  inconsistent results, possibly because of the variety of tasks
+                  and baselines used. In two event-related functional magnetic
+                  imaging studies we employed a cognitive load paradigm to
+                  isolate the neural correlates of deductive reasoning and
+                  address the role (if any) of language in deduction. Healthy
+                  participants evaluated the logical status of arguments varying
+                  in deductive complexity but matched in linguistic complexity.
+                  Arguments also varied in lexical content, involving blocks and
+                  pseudo-words in Experiment I and faces and houses in
+                  Experiment II. For each experiment, subtraction of simple from
+                  complex arguments (collapsing across contents) revealed a
+                  network of activations disjoint from regions traditionally
+                  associated with linguistic processing and also disjoint from
+                  regions recruited by mere reading. We speculate that this
+                  network is divided into "core" and "support" regions. The
+                  latter include left frontal (BA 6, 47) and parietal (BA 7, 40)
+                  cortices, which maintain the formal structure of arguments.
+                  Core regions, in the left rostral (BA 10p) and bilateral
+                  medial (BA 8) prefrontal cortex, perform deductive operations.
+                  Finally, restricting the complex-simple subtraction to each
+                  lexical content uncovered additional activations which may
+                  reflect the binding of logical variables to lexical items.},
+  urldate      = {2023-11-29},
   language     = {en}
 }
 
@@ -3975,6 +4686,33 @@
   language     = {en}
 }
 
+@ARTICLE{Chadwick2023t,
+  title        = {{LIES} of omission: complex observation processes in ecology},
+  author       = {Chadwick, Fergus J and Haydon, Daniel T and Husmeier, Dirk and
+                  Ovaskainen, Otso and Matthiopoulos, Jason},
+  journaltitle = {Trends in ecology \& evolution},
+  publisher    = {Elsevier BV},
+  date         = {2023-11-08},
+  abstract     = {Advances in statistics mean that it is now possible to tackle
+                  increasingly sophisticated observation processes. The
+                  intricacies and ambitious scale of modern data collection
+                  techniques mean that this is now essential. Methodological
+                  research to make inference about the biological process while
+                  accounting for the observation process has expanded
+                  dramatically, but solutions are often presented in
+                  field-specific terms, limiting our ability to identify
+                  commonalities between methods. We suggest a typology of
+                  observation processes that could improve translation between
+                  fields and aid methodological synthesis. We propose the LIES
+                  framework (defining observation processes in terms of issues
+                  of Latency, Identifiability, Effort and Scale) and illustrate
+                  its use with both simple examples and more complex case
+                  studies.},
+  urldate      = {2023-11-26},
+  keywords     = {effort; identifiability; latency; non-transferability; scale},
+  language     = {en}
+}
+
 @ARTICLE{Martins2024-bj,
   title        = {The propagation of disturbances in ecological networks},
   author       = {Martins, Lucas P and Garcia-Callejas, David and Lai, Hao Ran
@@ -4039,6 +4777,42 @@
   journaltitle = {The Lancet},
   publisher    = {Elsevier BV},
   date         = {2024-04},
+  language     = {en}
+}
+
+@ARTICLE{Elith2002v,
+  title        = {Mapping epistemic uncertainties and vague concepts in
+                  predictions of species distribution},
+  author       = {Elith, Jane and Burgman, Mark A and Regan, Helen M},
+  journaltitle = {Ecological modelling},
+  publisher    = {Elsevier BV},
+  volume       = {157},
+  issue        = {2-3},
+  pages        = {313--329},
+  date         = {2002-11-30},
+  abstract     = {Most habitat maps are presented as if they were a certain
+                  fact, with no indication of uncertainties. In many cases,
+                  researchers faced with the task of constructing such maps are
+                  aware of problems with the modelling data and of decisions
+                  that they make within the modelling process that are likely to
+                  affect the output, but they find it difficult to quantify this
+                  information. In some cases they attempt to evaluate the
+                  modelled predictions against independent data, but the summary
+                  statistics have no spatial component and do not address errors
+                  in the predictions. It is proposed that maps of uncertainty
+                  would help in the interpretation of these summaries, and to
+                  emphasize patterns in uncertainty such as spatial clustering
+                  or links with particular covariates. This paper reviews the
+                  aspects of uncertainty that are relevant to habitat maps
+                  developed with logistic regression, and suggests methods for
+                  investigating and communicating these uncertainties. It
+                  addresses the problems of subjective judgement, model
+                  uncertainty and vague concepts along with the more commonly
+                  considered uncertainties of random and systematic error.
+                  Methods for developing realistic confidence intervals are
+                  presented along with suggestions on how to visualize the
+                  information for use by decision-makers.},
+  urldate      = {2023-11-29},
   language     = {en}
 }
 
@@ -4161,6 +4935,39 @@
   keywords     = {Beta-diversity; biogeography; ecological networks;
                   phylogenetic diversity},
   language     = {en}
+}
+
+@BOOK{Lakatos1978p,
+  title     = {The methodology of scientific research programmes: Volume 1:
+               Philosophical papers},
+  author    = {Lakatos, Imre},
+  editor    = {Worrall, John},
+  editora   = {Worral, John and Currie, Gregory},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {1978-05-18},
+  pagetotal = {250},
+  abstract  = {Imre Lakatos' philosophical and scientific papers are published
+               here in two volumes. Volume I brings together his very
+               influential but scattered papers on the philosophy of the
+               physical sciences, and includes one important unpublished essay
+               on the effect of Newton's scientific achievement. Volume II
+               presents his work on the philosophy of mathematics (much of it
+               unpublished), together with some critical essays on contemporary
+               philosophers of science and some famous polemical writings on
+               political and educational issues. Imre Lakatos had an influence
+               out of all proportion to the length of his philosophical career.
+               This collection exhibits and confirms the originality, range and
+               the essential unity of his work. It demonstrates too the force
+               and spirit he brought to every issue with which he engaged, from
+               his most abstract mathematical work to his passionate 'Letter to
+               the director of the LSE'. Lakatos' ideas are now the focus of
+               widespread and increasing interest, and these volumes should make
+               possible for the first time their study as a whole and their
+               proper assessment.},
+  series    = {Philosophical papers},
+  urldate   = {2023-11-29},
+  language  = {en}
 }
 
 @INBOOK{Poisot2015r,
@@ -4290,6 +5097,53 @@
   language     = {en}
 }
 
+@ARTICLE{Ford2001e,
+  title        = {The method of synthesis in ecology},
+  author       = {Ford, E David and Ishii, Hiroaki},
+  journaltitle = {Oikos (Copenhagen, Denmark)},
+  publisher    = {Wiley},
+  volume       = {93},
+  issue        = {1},
+  pages        = {153--160},
+  date         = {2001-04-01},
+  abstract     = {Synthesis of results from different investigations is an
+                  important activity for ecologists but when compared with
+                  analysis the method of synthesis has received little
+                  attention. Ecologists usually proceed intuitively and this can
+                  lead to a problem in defining differences between the
+                  syntheses made by different scientists. It also leads to
+                  criticism from scientists favoring analytical approaches that
+                  the construction of general theory is an activity that does
+                  not follow the scientific method. We outline a methodology for
+                  scientific inference about integrative concepts and the
+                  syntheses made in constructing them and illustrate how this
+                  can be applied in the development of general theory from
+                  investigations into particular ecological systems. The
+                  objective is to construct a causal scientific explanation.
+                  This has four characteristics. (1) It defines causal and/or
+                  organizational processes that describe how systems function.
+                  (2) These processes are consistent – under the same conditions
+                  they will produce the same effect. (3) A causal scientific
+                  explanation provides general information about events of a
+                  similar kind. (4) When experiments are possible then a
+                  designed manipulation will produce a predictable response. The
+                  essential characteristic of making synthesis to construct a
+                  causal scientific explanation is that it is progressive and we
+                  judge progress made by assessing the coherence of the
+                  explanation using six criteria: acceptability of individual
+                  propositions including that they have been tested with data,
+                  consistency of concept definitions, consistency in the type of
+                  concepts used in making the explanation, that ad hoc
+                  propositions are not used, that there is economy in the number
+                  of propositions used, that the explanation applies to broad
+                  questions. We illustrate development of a causal scientific
+                  explanation for the concept of long-lived pioneer tree
+                  species, show how the coherence of this explanation can be
+                  assessed, and how it could be improved.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{McCann2007v,
   title        = {Protecting biostructure},
   author       = {McCann, Kevin},
@@ -4357,6 +5211,22 @@
   pages        = {37},
   date         = {2014-11-06},
   urldate      = {2024-05-10},
+  language     = {en}
+}
+
+@ARTICLE{Casadevall2014-km,
+  title        = {Microbiology: Ditch the term pathogen},
+  author       = {Casadevall, Arturo and Pirofski, Liise-Anne},
+  journaltitle = {Nature},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {516},
+  issue        = {7530},
+  pages        = {165--166},
+  date         = {2014-12-10},
+  abstract     = {Disease is as much about the host as it is the infectious
+                  agent — the focus on microbes is hindering research into
+                  treatments, say Arturo Casadevall and Liise-anne Pirofski.},
+  urldate      = {2023-11-26},
   language     = {en}
 }
 
@@ -5469,6 +6339,27 @@
   language     = {en}
 }
 
+@ARTICLE{Merow2023v,
+  title        = {{AI} chatbots can boost scientific coding},
+  author       = {Merow, Cory and Serra-Diaz, Josep M and Enquist, Brian J and
+                  Wilson, Adam M},
+  journaltitle = {Nature ecology \& evolution},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {7},
+  issue        = {7},
+  pages        = {960--962},
+  date         = {2023-07-26},
+  abstract     = {Chatbots powered by artificial intelligence, such as ChatGPT,
+                  are ready to speed up monotonous coding tasks and teach you
+                  new skills. We highlight, with worked examples, some
+                  advantages and limitations of using generative artificial
+                  intelligence for scientific coding and argue that if you are
+                  willing to debug, you can get a head start on more challenging
+                  tasks.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Rolland2023w,
   title        = {Conceptual and empirical bridges between micro- and
                   macroevolution},
@@ -5548,6 +6439,83 @@
   issue        = {12},
   pages        = {1947--1952},
   date         = {2023-12},
+  language     = {en}
+}
+
+@ARTICLE{Payne2023-yy,
+  title        = {Decoupling speciation and extinction reveals both abiotic and
+                  biotic drivers shaped 250 million years of diversity in
+                  crocodile-line archosaurs},
+  author       = {Payne, Alexander R D and Mannion, Philip D and Lloyd, Graeme T
+                  and Davis, Katie E},
+  journaltitle = {Nature ecology \& evolution},
+  publisher    = {Springer Science and Business Media LLC},
+  pages        = {1--12},
+  date         = {2023-12-04},
+  abstract     = {AbstractWhereas living representatives of Pseudosuchia,
+                  crocodylians, number fewer than 30 species, more than 700
+                  pseudosuchian species are known from their 250-million-year
+                  fossil record, displaying far greater ecomorphological
+                  diversity than their extant counterparts. With a new
+                  time-calibrated tree of >500 species, we use a phylogenetic
+                  framework to reveal that pseudosuchian evolutionary history
+                  and diversification dynamics were directly shaped by the
+                  interplay of abiotic and biotic processes over hundreds of
+                  millions of years, supported by information theory analyses.
+                  Speciation, but not extinction, is correlated with higher
+                  temperatures in terrestrial and marine lineages, with high sea
+                  level associated with heightened extinction in non-marine
+                  taxa. Low lineage diversity and increased speciation in
+                  non-marine species is consistent with opportunities for
+                  niche-filling, whereas increased competition may have led to
+                  elevated extinction rates. In marine lineages, competition via
+                  increased lineage diversity appears to have driven both
+                  speciation and extinction. Decoupling speciation and
+                  extinction, in combination with ecological partitioning,
+                  reveals a more complex picture of pseudosuchian evolution than
+                  previously understood. As the number of species threatened
+                  with extinction by anthropogenic climate change continues to
+                  rise, the fossil record provides a unique window into the
+                  drivers that led to clade success and those that may
+                  ultimately lead to extinction.},
+  urldate      = {2023-12-07},
+  language     = {en}
+}
+
+@ARTICLE{Galiana2023-uc,
+  title        = {Power laws in species’ biotic interaction networks can be
+                  inferred from co-occurrence data},
+  author       = {Galiana, Nuria and Arnoldi, Jean-François and Mestre,
+                  Frederico and Rozenfeld, Alejandro and Araújo, Miguel B},
+  journaltitle = {Nature ecology \& evolution},
+  publisher    = {Springer Science and Business Media LLC},
+  pages        = {1--9},
+  date         = {2023-11-27},
+  abstract     = {Inferring biotic interactions from species co-occurrence
+                  patterns has long intrigued ecologists. Yet recent research
+                  revealed that co-occurrences may not reliably represent
+                  pairwise biotic interactions. We propose that examining
+                  network-level co-occurrence patterns can provide valuable
+                  insights into community structure and assembly. Analysing ten
+                  bipartite networks of empirically sampled biotic interactions
+                  and associated species spatial distribution, we find that
+                  approximately 20\% of co-occurrences correspond to actual
+                  interactions. Moreover, the degree distribution shifts from
+                  exponential in co-occurrence networks to power laws in
+                  networks of biotic interactions. This shift results from a
+                  strong interplay between species’ biotic (their interacting
+                  partners) and abiotic (their environmental requirements)
+                  niches, and is accurately predicted by considering
+                  co-occurrence frequencies. Our work offers a mechanistic
+                  understanding of the assembly of ecological communities and
+                  suggests simple ways to infer fundamental biotic interaction
+                  network characteristics from co-occurrence data. Analysing ten
+                  bipartite networks of empirically sampled biotic interactions
+                  and the associated species’ spatial distribution, the authors
+                  model how network degree distributions can be predicted by
+                  accounting for the frequency of co-occurrences between
+                  species.},
+  urldate      = {2023-11-28},
   language     = {en}
 }
 
@@ -6458,6 +7426,42 @@
   language     = {en}
 }
 
+@ARTICLE{Barker2022o,
+  title        = {Introducing the {FAIR} Principles for research software},
+  author       = {Barker, Michelle and Chue Hong, Neil P and Katz, Daniel S and
+                  Lamprecht, Anna-Lena and Martinez-Ortiz, Carlos and
+                  Psomopoulos, Fotis and Harrow, Jennifer and Castro, Leyla Jael
+                  and Gruenpeter, Morane and Martinez, Paula Andrea and
+                  Honeyman, Tom},
+  journaltitle = {Scientific data},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {9},
+  issue        = {1},
+  pages        = {622},
+  date         = {2022-10-14},
+  abstract     = {Research software is a fundamental and vital part of research,
+                  yet significant challenges to discoverability, productivity,
+                  quality, reproducibility, and sustainability exist. Improving
+                  the practice of scholarship is a common goal of the open
+                  science, open source, and FAIR (Findable, Accessible,
+                  Interoperable and Reusable) communities and research software
+                  is now being understood as a type of digital object to which
+                  FAIR should be applied. This emergence reflects a maturation
+                  of the research community to better understand the crucial
+                  role of FAIR research software in maximising research value.
+                  The FAIR for Research Software (FAIR4RS) Working Group has
+                  adapted the FAIR Guiding Principles to create the FAIR
+                  Principles for Research Software (FAIR4RS Principles). The
+                  contents and context of the FAIR4RS Principles are summarised
+                  here to provide the basis for discussion of their adoption.
+                  Examples of implementation by organisations are provided to
+                  share information on how to maximise the value of research
+                  outputs, and to encourage others to amplify the importance and
+                  impact of this work.},
+  urldate      = {2023-12-01},
+  language     = {en}
+}
+
 @ARTICLE{Cheng2024n,
   title        = {A General Primer for Data Harmonization},
   author       = {Cheng, Cindy and Messerschmidt, Luca and Bravo, Isaac and
@@ -6642,6 +7646,44 @@
   language     = {en}
 }
 
+@ARTICLE{Zvereva2021o,
+  title        = {Biases in ecological research: attitudes of scientists and
+                  ways of control},
+  author       = {Zvereva, Elena L and Kozlov, Mikhail V},
+  journaltitle = {Scientific reports},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {11},
+  issue        = {1},
+  pages        = {226},
+  date         = {2021-01-08},
+  abstract     = {The properties of the human mind affect the quality of
+                  scientific knowledge through the insertion of unconscious
+                  biases during the research process. These biases frequently
+                  cause overestimation of the effects under study, thereby
+                  violating the reproducibility of the research and potentially
+                  leading to incorrect conclusions in subsequent research
+                  syntheses. We explored the level of knowledge about biases and
+                  attitudes to this problem by analysing 308 responses of
+                  ecology scientists to a specifically developed survey. We show
+                  that knowledge about biases and attitude towards biases depend
+                  on the scientist's career stage, gender and affiliation
+                  country. Early career scientists are more concerned about
+                  biases, know more about measures to avoid biases, and twice
+                  more frequently have learned about biases from their
+                  university courses when compared with senior scientists. The
+                  respondents believe that their own studies are less prone to
+                  biases than are studies by other scientists, which hampers the
+                  control of biases in one's own research. We conclude that
+                  education about biases is necessary, but not yet sufficient,
+                  to avoid biases because the unconscious origin of biases
+                  necessitates external intervention to combat them. Obligatory
+                  reporting of measures taken against biases in all relevant
+                  manuscripts will likely enhance the reproducibility of
+                  scientific results.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Ma2021c,
   title        = {Linking climate and infectious disease trends in the
                   Northern/Arctic Region},
@@ -6749,6 +7791,36 @@
                   indicating that machine learning methods are an excellent tool
                   for the prediction of host expansion events.},
   urldate      = {2024-04-30},
+  language     = {en}
+}
+
+@ARTICLE{Bol2023c,
+  title        = {Gender inequality in cum laude distinctions for {PhD} students},
+  author       = {Bol, Thijs},
+  journaltitle = {Scientific reports},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {13},
+  issue        = {1},
+  pages        = {1--9},
+  date         = {2023-11-29},
+  abstract     = {AbstractResource allocation in academia is highly skewed, and
+                  peer evaluation is the main method used to distribute scarce
+                  resources. A large literature documents gender inequality in
+                  evaluation, and the explanation for this inequality is
+                  homophily: male evaluators give more favorable ratings to male
+                  candidates. We investigate this by focusing on cum laude
+                  distinctions for PhD students in the Netherlands, a
+                  distinction that is only awarded to 5 percent of all
+                  dissertations and has as its sole goal to distinguish the top
+                  from the rest. Using data from over 5000 PhD recipients of a
+                  large Dutch university for the period 2011–2021, we find that
+                  female PhD students were almost two times less likely to get a
+                  cum laude distinction than their male counterparts, even when
+                  they had the same doctoral advisor. This gender gap is largest
+                  when dissertations are evaluated by all-male committees and
+                  decreases as evaluation committees include more female
+                  members.},
+  urldate      = {2023-12-04},
   language     = {en}
 }
 
@@ -7334,6 +8406,53 @@
   language     = {en}
 }
 
+@ARTICLE{Wilkinson2016i,
+  title        = {The {FAIR} Guiding Principles for scientific data management
+                  and stewardship},
+  author       = {Wilkinson, Mark D and Dumontier, Michel and Aalbersberg, I
+                  Jsbrand Jan and Appleton, Gabrielle and Axton, Myles and Baak,
+                  Arie and Blomberg, Niklas and Boiten, Jan-Willem and da Silva
+                  Santos, Luiz Bonino and Bourne, Philip E and Bouwman, Jildau
+                  and Brookes, Anthony J and Clark, Tim and Crosas, Mercè and
+                  Dillo, Ingrid and Dumon, Olivier and Edmunds, Scott and Evelo,
+                  Chris T and Finkers, Richard and Gonzalez-Beltran, Alejandra
+                  and Gray, Alasdair J G and Groth, Paul and Goble, Carole and
+                  Grethe, Jeffrey S and Heringa, Jaap and 't Hoen, Peter A C and
+                  Hooft, Rob and Kuhn, Tobias and Kok, Ruben and Kok, Joost and
+                  Lusher, Scott J and Martone, Maryann E and Mons, Albert and
+                  Packer, Abel L and Persson, Bengt and Rocca-Serra, Philippe
+                  and Roos, Marco and van Schaik, Rene and Sansone,
+                  Susanna-Assunta and Schultes, Erik and Sengstag, Thierry and
+                  Slater, Ted and Strawn, George and Swertz, Morris A and
+                  Thompson, Mark and van der Lei, Johan and van Mulligen, Erik
+                  and Velterop, Jan and Waagmeester, Andra and Wittenburg, Peter
+                  and Wolstencroft, Katherine and Zhao, Jun and Mons, Barend},
+  journaltitle = {Scientific data},
+  publisher    = {Nature Publishing Group},
+  volume       = {3},
+  issue        = {1},
+  pages        = {160018},
+  date         = {2016-03-15},
+  abstract     = {There is an urgent need to improve the infrastructure
+                  supporting the reuse of scholarly data. A diverse set of
+                  stakeholders-representing academia, industry, funding
+                  agencies, and scholarly publishers-have come together to
+                  design and jointly endorse a concise and measureable set of
+                  principles that we refer to as the FAIR Data Principles. The
+                  intent is that these may act as a guideline for those wishing
+                  to enhance the reusability of their data holdings. Distinct
+                  from peer initiatives that focus on the human scholar, the
+                  FAIR Principles put specific emphasis on enhancing the ability
+                  of machines to automatically find and use the data, in
+                  addition to supporting its reuse by individuals. This Comment
+                  is the first formal publication of the FAIR Principles, and
+                  includes the rationale behind them, and some exemplar
+                  implementations in the community.},
+  urldate      = {2023-12-01},
+  note         = {},
+  language     = {en}
+}
+
 @ARTICLE{Stock2017x,
   title        = {Linear filtering reveals false negatives in species
                   interaction data},
@@ -7845,6 +8964,43 @@
   urldate      = {2024-03-24},
   keywords     = {cultural evolution; demography; gene-culture coevolution;
                   mathematical models; niche construction},
+  language     = {en}
+}
+
+@ARTICLE{Bar-On2018s,
+  title        = {The biomass distribution on Earth},
+  author       = {Bar-On, Yinon M and Phillips, Rob and Milo, Ron},
+  journaltitle = {Proceedings of the National Academy of Sciences of the United
+                  States of America},
+  publisher    = {National Academy of Sciences},
+  volume       = {115},
+  issue        = {25},
+  pages        = {6506--6511},
+  date         = {2018-06-19},
+  abstract     = {A census of the biomass on Earth is key for understanding the
+                  structure and dynamics of the biosphere. However, a global,
+                  quantitative view of how the biomass of different taxa compare
+                  with one another is still lacking. Here, we assemble the
+                  overall biomass composition of the biosphere, establishing a
+                  census of the ≈550 gigatons of carbon (Gt C) of biomass
+                  distributed among all of the kingdoms of life. We find that
+                  the kingdoms of life concentrate at different locations on the
+                  planet; plants (≈450 Gt C, the dominant kingdom) are primarily
+                  terrestrial, whereas animals (≈2 Gt C) are mainly marine, and
+                  bacteria (≈70 Gt C) and archaea (≈7 Gt C) are predominantly
+                  located in deep subsurface environments. We show that
+                  terrestrial biomass is about two orders of magnitude higher
+                  than marine biomass and estimate a total of ≈6 Gt C of marine
+                  biota, doubling the previous estimated quantity. Our analysis
+                  reveals that the global marine biomass pyramid contains more
+                  consumers than producers, thus increasing the scope of
+                  previous observations on inverse food pyramids. Finally, we
+                  highlight that the mass of humans is an order of magnitude
+                  higher than that of all wild mammals combined and report the
+                  historical impact of humanity on the global biomass of
+                  prominent taxa, including mammals, fish, and plants.},
+  urldate      = {2023-12-03},
+  keywords     = {biomass; biosphere; ecology; quantitative biology},
   language     = {en}
 }
 
@@ -8553,6 +9709,32 @@
   language     = {en}
 }
 
+@ARTICLE{Linquist2015x,
+  title        = {Against Lawton’s contingency thesis; Or, why the reported
+                  demise of community ecology is greatly exaggerated},
+  author       = {Linquist, Stefan},
+  journaltitle = {Philosophy of science},
+  publisher    = {Cambridge University Press (CUP)},
+  volume       = {82},
+  issue        = {5},
+  pages        = {1104--1115},
+  date         = {2015-12},
+  abstract     = {Lawton’s contingency thesis (CT) states that there are no
+                  useful generalizations (“laws”) at the level of ecological
+                  communities because these systems are especially prone to
+                  contingent historical events. I argue that this influential
+                  thesis has been grounded on the wrong kind of evidence. CT is
+                  best understood in Woodward’s terms as a claim about the
+                  instability of certain causal dependencies across different
+                  background conditions. A recent distinction between evolution
+                  and ecology reveals what an adequate test of Lawton’s thesis
+                  would look like. To date, CT remains untested. But
+                  developments in genome-level ecology and molecular ecology
+                  point in promising directions.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Thompson2016-yv,
   title        = {Expert judgment for climate change adaptation},
   author       = {Thompson, Erica and Frigg, Roman and Helgeson, Casey},
@@ -8677,6 +9859,60 @@
                   overall magnitude of health risks later this century and to
                   expand current adaptation efforts to protect populations now.},
   urldate      = {2024-02-28},
+  language     = {en}
+}
+
+@ARTICLE{Halpern2020d,
+  title        = {Ecological synthesis and its role in advancing knowledge},
+  author       = {Halpern, Benjamin S and Berlow, Eric and Williams, Rich and
+                  Borer, Elizabeth T and Davis, Frank W and Dobson, Andy and
+                  Enquist, Brian J and Froehlich, Halley E and Gerber, Leah R
+                  and Lortie, Christopher J and O'connor, Mary I and Regan,
+                  Helen and Vázquez, Diego P and Willard, Geoff},
+  journaltitle = {Bioscience},
+  publisher    = {Oxford University Press (OUP)},
+  volume       = {70},
+  issue        = {11},
+  pages        = {1005--1014},
+  date         = {2020-09-30},
+  abstract     = {Abstract Synthesis has become ubiquitous in ecology. Despite
+                  its widespread application to a broad range of research
+                  topics, it remains unclear how synthesis has affected the
+                  discipline. Using a case study of publications (n = 2304) from
+                  the National Center for Ecological Analysis and Synthesis
+                  compared with papers with similar keywords from the Web of
+                  Science (n = 320,000), we address several questions about the
+                  comparative impact of synthesis, the role of synthesis in
+                  driving key research themes, and whether synthesis is focused
+                  on different topics than is the broader ecological literature.
+                  We found much higher citation rates for synthesis papers
+                  overall (fivefold more) and within eleven key topic themes
+                  (e.g., species richness, biodiversity, climate change, global
+                  change). Synthesis papers often played key roles in driving,
+                  redirecting, or resolving core questions and exhibited much
+                  greater cross-theme connectivity. Together, these results
+                  indicate that synthesis in science has played a crucial role
+                  in accelerating and advancing ecological knowledge.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
+@ARTICLE{Malaterre2021s,
+  title        = {Corrigendum: Functional Diversity: An Epistemic Roadmap},
+  author       = {Malaterre, Christophe and Dussault, Antoine C and Mermans, Ely
+                  and Barker, Gillian and Beisner, Beatrix E and Bouchard,
+                  Frédéric and Desjardins, Eric and Handa, I Tanya and Kembel,
+                  Steven W and Lajoie, Geneviève and Maris, Virginie and Munson,
+                  Alison D and Odenbaugh, Jay and Poisot, Timothée and Shapiro,
+                  B Jesse and Suttle, Curtis A},
+  journaltitle = {BioScience},
+  publisher    = {Oxford Academic},
+  volume       = {71},
+  issue        = {9},
+  pages        = {996--996},
+  date         = {2021-07-13},
+  abstract     = {A change has been made to the author list.},
+  urldate      = {2023-11-29},
   language     = {en}
 }
 
@@ -8835,6 +10071,75 @@
   language     = {en}
 }
 
+@ARTICLE{Culumber2019c,
+  title        = {Widespread biases in ecological and evolutionary studies},
+  author       = {Culumber, Zachary W and Anaya-Rojas, Jaime M and Booker,
+                  William W and Hooks, Alexandra P and Lange, Elizabeth C and
+                  Pluer, Benjamin and Ramírez-Bullón, Natali and Travis, Joseph},
+  journaltitle = {Bioscience},
+  publisher    = {Oxford University Press (OUP)},
+  volume       = {69},
+  issue        = {8},
+  pages        = {631--640},
+  date         = {2019-08-01},
+  abstract     = {Abstract There has been widespread discussion of biases in the
+                  sciences. The extent of most forms of bias has scarcely been
+                  confronted with rigorous data. In the present article, we
+                  evaluated the potential for geographic, taxonomic, and
+                  citation biases in publications between temperate and tropical
+                  systems for nine broad topics in ecology and evolutionary
+                  biology. Across 1,800 papers sampled from 60,000
+                  peer-reviewed, empirical studies, we found consistent patterns
+                  of bias in the form of increased numbers of studies in
+                  temperate systems. Tropical studies were nearly absent from
+                  some topics. Furthermore, there were strong taxonomic biases
+                  across topics and geographic regions, as well as evidence for
+                  citation biases in many topics. Our results indicate a strong
+                  geographic imbalance in publishing patterns and among
+                  different taxonomic groups across a wide range of topics. The
+                  task ahead is to address what these biases mean and how they
+                  influence the state of our knowledge in ecology and evolution.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
+@ARTICLE{Malaterre2019m,
+  title        = {Functional diversity: An epistemic roadmap},
+  author       = {Malaterre, Christophe and Dussault, Antoine C and Mermans, Ely
+                  and Barker, Gillian and Beisner, Beatrix E and Bouchard,
+                  Frédéric and Desjardins, Eric and Handa, I Tanya and Kembel,
+                  Steven W and Lajoie, Geneviève and Maris, Virginie and Munson,
+                  Alison D and Odenbaugh, Jay and Poisot, Timothée and Shapiro,
+                  B Jesse and Suttle, Curtis A},
+  journaltitle = {Bioscience},
+  publisher    = {Oxford University Press (OUP)},
+  volume       = {69},
+  issue        = {10},
+  pages        = {800--811},
+  date         = {2019-10-01},
+  abstract     = {Abstract Functional diversity holds the promise of
+                  understanding ecosystems in ways unattainable by taxonomic
+                  diversity studies. Underlying this promise is the intuition
+                  that investigating the diversity of what organisms actually do
+                  (i.e., their functional traits) within ecosystems will
+                  generate more reliable insights into the ways these ecosystems
+                  behave, compared to considering only species diversity. But
+                  this promise also rests on several conceptual and
+                  methodological (i.e., epistemic) assumptions that cut across
+                  various theories and domains of ecology. These assumptions
+                  should be clearly addressed, notably for the sake of an
+                  effective comparison and integration across domains, and for
+                  assessing whether or not to use functional diversity
+                  approaches for developing ecological management strategies.
+                  The objective of this contribution is to identify and
+                  critically analyze the most salient of these assumptions. To
+                  this aim, we provide an epistemic roadmap that pinpoints these
+                  assumptions along a set of historical, conceptual, empirical,
+                  theoretical, and normative dimensions.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Malaterre2019v,
   title        = {Functional diversity: An epistemic roadmap},
   author       = {Malaterre, Christophe and Dussault, Antoine C and Mermans, Ely
@@ -8868,6 +10173,26 @@
                   this aim, we provide an epistemic roadmap that pinpoints these
                   assumptions along a set of historical, conceptual, empirical,
                   theoretical, and normative dimensions.},
+  language     = {en}
+}
+
+@ARTICLE{Ellwood2020r,
+  title        = {Biodiversity science and the twenty-first century workforce},
+  author       = {Ellwood, Elizabeth R and Sessa, Jocelyn Anne and Abraham, Joel
+                  K and Budden, Amber E and Douglas, Natalie and Guralnick,
+                  Robert and Krimmel, Erica and Langen, Tom and Linton, Debra
+                  and Phillips, Molly and Soltis, Pamela S and Studer, Marie and
+                  White, Lisa D and Williams, Jason and Monfils, Anna K},
+  journaltitle = {Bioscience},
+  publisher    = {Oxford University Press (OUP)},
+  volume       = {70},
+  issue        = {2},
+  pages        = {119--121},
+  date         = {2020-02-01},
+  abstract     = {Amid growing global concern about biodiversity loss (IPBES
+                  2019), scientists are conducting research to inventory life on
+                  Earth, develop new conservation and ma},
+  urldate      = {2023-12-08},
   language     = {en}
 }
 
@@ -9810,6 +11135,46 @@
   language     = {en}
 }
 
+@ARTICLE{Cribb2023-sq,
+  title        = {Contrasting terrestrial and marine ecospace dynamics after the
+                  end-Triassic mass extinction event},
+  author       = {Cribb, Alison T and Formoso, Kiersten K and Woolley, C Henrik
+                  and Beech, James and Brophy, Shannon and Byrne, Paul and
+                  Cassady, Victoria C and Godbold, Amanda L and Larina,
+                  Ekaterina and Maxeiner, Philip-Peter and Wu, Yun-Hsin and
+                  Corsetti, Frank A and Bottjer, David J},
+  journaltitle = {Proceedings. Biological sciences / The Royal Society},
+  publisher    = {The Royal Society},
+  volume       = {290},
+  issue        = {2012},
+  date         = {2023-12-06},
+  abstract     = {Mass extinctions have fundamentally altered the structure of
+                  the biosphere throughout Earth's history. The ecological
+                  severity of mass extinctions is well studied in marine
+                  ecosystems by categorizing marine taxa into functional groups
+                  based on ‘ecospace’ approaches, but the ecological response of
+                  terrestrial ecosystems to mass extinctions is less well
+                  understood due to the lack of a comparable methodology. Here,
+                  we present a new terrestrial ecospace framework that
+                  categorizes fauna into functional groups as defined by
+                  tiering, motility and feeding traits. We applied the new
+                  terrestrial and traditional marine ecospace analyses to data
+                  from the Paleobiology Database across the end-Triassic mass
+                  extinction—a time of catastrophic global warming—to compare
+                  changes between the marine and terrestrial biospheres. We
+                  found that terrestrial functional groups experienced higher
+                  extinction severity, that taxonomic and functional richness
+                  are more tightly coupled in the terrestrial, and that the
+                  terrestrial realm continued to experience high ecological
+                  dissimilarity in the wake of the extinction. Although signals
+                  of extinction severity and ecological turnover are sensitive
+                  to the quality of the terrestrial fossil record, our findings
+                  suggest greater ecological pressure from the end-Triassic mass
+                  extinction on terrestrial ecosystems than marine ecosystems,
+                  contributing to more prolonged terrestrial ecological flux.},
+  language     = {en}
+}
+
 @ARTICLE{Neyman1937p,
   title        = {Outline of a theory of statistical estimation based on the
                   classical theory of probability},
@@ -9874,6 +11239,53 @@
                   part of the Theo Murphy meeting issue ‘Geodiversity for
                   science and society’.},
   urldate      = {2024-02-27},
+  language     = {en}
+}
+
+@ARTICLE{Romanuk2009o,
+  title        = {Predicting invasion success in complex ecological networks},
+  author       = {Romanuk, Tamara N and Zhou, Yun and Brose, Ulrich and Berlow,
+                  Eric L and Williams, Richard J and Martinez, Neo D},
+  journaltitle = {Philosophical transactions of the Royal Society of London.
+                  Series B, Biological sciences},
+  publisher    = {The Royal Society},
+  volume       = {364},
+  issue        = {1524},
+  pages        = {1743--1754},
+  date         = {2009-06-27},
+  abstract     = {A central and perhaps insurmountable challenge of invasion
+                  ecology is to predict which combinations of species and
+                  habitats most effectively promote and prevent biological
+                  invasions. Here, we integrate models of network structure and
+                  nonlinear population dynamics to search for potential
+                  generalities among trophic factors that may drive invasion
+                  success and failure. We simulate invasions where 100 different
+                  species attempt to invade 150 different food webs with 15-26
+                  species and a wide range (0.06-0.32) of connectance. These
+                  simulations yield 11 438 invasion attempts by non-basal
+                  species, 47 per cent of which are successful. At the time of
+                  introduction, whether or not the invader is a generalist best
+                  predicts final invasion success; however, once the invader
+                  establishes itself, it is best distinguished from unsuccessful
+                  invaders by occupying a lower trophic position and being
+                  relatively invulnerable to predation. In general, variables
+                  that reflect the interaction between an invading species and
+                  its new community, such as generality and trophic position,
+                  best predict invasion success; however, for some trophic
+                  categories of invaders, fundamental species traits, such as
+                  having the centre of the feeding range low on the theoretical
+                  niche axis (for non-omnivorous and omnivorous herbivores), or
+                  the topology of the food web (for tertiary carnivores), best
+                  predict invasion success. Across all invasion scenarios, a
+                  discriminant analysis model predicted successful and failed
+                  invasions with 76.5 per cent accuracy for properties at the
+                  time of introduction or 100 per cent accuracy for properties
+                  at the time of establishment. More generally, our results
+                  suggest that tackling the challenge of predicting the
+                  properties of species and habitats that promote or inhibit
+                  invasions from food web perspective may aid ecologists in
+                  identifying rules that govern invasions in natural ecosystems.},
+  urldate      = {2023-12-12},
   language     = {en}
 }
 
@@ -10365,6 +11777,33 @@
                   and surveillance efforts.}
 }
 
+@ARTICLE{Shinn2023-fr,
+  title        = {Phantom oscillations in principal component analysis},
+  author       = {Shinn, Maxwell},
+  journaltitle = {bioRxiv},
+  pages        = {2023.06.20.545619},
+  date         = {2023-06-23},
+  abstract     = {AbstractPrincipal component analysis (PCA) is a dimensionality
+                  reduction technique that is known for being simple and easy to
+                  interpret. Principal components are often interpreted as
+                  low-dimensional patterns in high-dimensional data. However,
+                  this simple interpretation of PCA relies on several unstated
+                  assumptions that are difficult to satisfy. When these
+                  assumptions are violated, non-oscillatory data may have
+                  oscillatory principal components. Here, we show that two
+                  common properties of data violate these assumptions and cause
+                  oscillatory principal components: smooth-ness, and shifts in
+                  time or space. These two properties implicate almost all
+                  neuroscience data. We show how the oscillations that they
+                  produce, which we call “phantom oscillations”, impact data
+                  analysis. We also show that traditional cross-validation does
+                  not detect phantom oscillations, so we suggest procedures that
+                  do. Our findings are supported by a collection of mathematical
+                  proofs. Collectively, our work demonstrates that patterns
+                  which emerge from high-dimensional data analysis may not
+                  faithfully represent the underlying data.}
+}
+
 @ARTICLE{Carlson2023x,
   title        = {The historical fingerprint and future impact of climate change
                   on childhood malaria in Africa},
@@ -10406,6 +11845,57 @@
                   global warming, and provides a template for future work
                   measuring the true global burden of climate change.},
   urldate      = {2024-02-22},
+  language     = {en}
+}
+
+@ARTICLE{Gaborieau2023d,
+  title        = {Predicting phage-bacteria interactions at the strain level
+                  from genomes},
+  author       = {Gaborieau, Baptiste and Vaysset, Hugo and Tesson, Florian and
+                  Charachon, Ines and Dib, Nicolas and Bernier, Juliette and
+                  Dequidt, Tanguy and Georjon, Heloise and Clermont, Olivier and
+                  Hersen, Pascal and Debarbieux, Laurent and Ricard, Jean-Damien
+                  and Denamur, Erick and Bernheim, Aude},
+  journaltitle = {bioRxiv},
+  pages        = {2023.11.22.567924},
+  date         = {2023-11-22},
+  abstract     = {Predicting how phages can selectively infect specific
+                  bacterial strains holds promise for developing novel
+                  approaches to combat bacterial infections and better
+                  understanding microbial ecology. Experimental studies on
+                  phage-bacteria interactions have been mostly focusing on a few
+                  model organisms to understand the molecular mechanisms which
+                  makes a particular bacterial strain susceptible to a given
+                  phage. However, both bacteria and phages are extremely diverse
+                  in natural contexts. How well the concepts learned from
+                  well-established experimental models generalize to a broad
+                  diversity of what is encountered in the wild is currently
+                  unknown. Recent advances in genomics allow to identify traits
+                  involved in phage-host specificity, implying that these traits
+                  could be utilized for the prediction of such interactions.
+                  Here, we show that we could predict outcomes of most
+                  phage-bacteria interactions at the strain level in Escherichia
+                  natural isolates based solely on genomic data. First, we
+                  established a dataset of experimental outcomes of
+                  phage-bacteria interactions of 403 natural, phylogenetically
+                  diverse, Escherichia strains to 96 bacteriophages matched with
+                  fully sequenced and genomically characterized strains and
+                  phages. To predict these interactions, we set out to define
+                  genomic traits with predictive power. We show that most
+                  interactions in our dataset can be explained by adsorption
+                  factors as opposed to antiphage systems which play a marginal
+                  role. We then trained predictive algorithms to pinpoint which
+                  interactions could be accurately predicted and where future
+                  research should focus on. Finally, we show the application of
+                  such predictions by establishing a pipeline to recommend
+                  tailored phage cocktails to target pathogenic strains from
+                  their genomes only and show higher efficiency of tailored
+                  cocktails on a collection of 100 pathogenic E. coli isolates.
+                  Altogether, this work provides quantitative insights into
+                  understanding phage-host specificity at the strain level and
+                  paves the way for the use of predictive algorithms in phage
+                  therapy.},
+  urldate      = {2023-11-23},
   language     = {en}
 }
 
@@ -10892,6 +12382,58 @@
   date       = {2021-09}
 }
 
+@ARTICLE{Bartomeus2016w,
+  title        = {A common framework for identifying linkage rules across
+                  different types of interactions},
+  author       = {Bartomeus, Ignasi and Gravel, Dominique and Tylianakis, Jason
+                  M and Aizen, Marcelo A and Dickie, Ian A and Bernard-Verdier,
+                  Maud},
+  journaltitle = {Functional ecology},
+  publisher    = {Wiley},
+  volume       = {30},
+  issue        = {12},
+  pages        = {1894--1903},
+  date         = {2016-12-01},
+  abstract     = {Summary Species interactions, ranging from antagonisms to
+                  mutualisms, form the architecture of biodiversity and
+                  determine ecosystem functioning. Understanding the rules
+                  responsible for who interacts with whom, as well as the
+                  functional consequences of these interspecific interactions,
+                  is central to predict community dynamics and stability.
+                  Species traits sensu lato may affect different ecological
+                  processes by determining species interactions through a
+                  two‐step process. First, ecological and life‐history traits
+                  govern species distributions and abundance, and hence
+                  determine species co‐occurrence and the potential for species
+                  to interact. Secondly, morphological or physiological traits
+                  between co‐occurring potential interaction partners should
+                  match for the realization of an interaction. Here, we review
+                  recent advances on predicting interactions from species
+                  co‐occurrence and develop a probabilistic model for inferring
+                  trait matching. The models proposed here integrate both
+                  neutral and trait‐matching constraints, while using only
+                  information about known interactions, thereby overcoming
+                  problems originating from undersampling of rare interactions
+                  (i.e. missing links). They can easily accommodate qualitative
+                  or quantitative data and can incorporate trait variation
+                  within species, such as values that vary along developmental
+                  stages or environmental gradients. We use three case studies
+                  to show that the proposed models can detect strong trait
+                  matching (e.g. predator–prey system), relaxed trait matching
+                  (e.g. herbivore–plant system) and barrier trait matching (e.g.
+                  plant–pollinator systems). Only by elucidating which species
+                  traits are important in each process (i.e. in determining
+                  interaction establishment and frequency), we can advance in
+                  explaining how species interact and the consequences of these
+                  interactions for ecosystem functioning. A lay summary is
+                  available for this article.},
+  urldate      = {2023-12-08},
+  keywords     = {functional traits; herbivory; interaction networks;
+                  mutualisms; parasitism; pollination; predation; trait
+                  matching; trophic interactions},
+  language     = {en}
+}
+
 @ARTICLE{Jordano2016m,
   title        = {Sampling networks of ecological interactions},
   author       = {Jordano, Pedro},
@@ -11186,6 +12728,58 @@
   issue        = {2},
   pages        = {232--257},
   date         = {2021-03},
+  language     = {en}
+}
+
+@ARTICLE{Nunez-Mir2016d,
+  title        = {Automated content analysis: addressing the big literature
+                  challenge in ecology and evolution},
+  author       = {Nunez-Mir, Gabriela C and Iannone, Basil V and Pijanowski,
+                  Bryan C and Kong, Ningning and Fei, Songlin},
+  journaltitle = {Methods in Ecology and Evolution},
+  publisher    = {John Wiley \& Sons, Ltd},
+  volume       = {7},
+  issue        = {11},
+  pages        = {1262--1272},
+  date         = {2016-11-01},
+  abstract     = {1.The exponential growth of scientific literature—which we
+                  call the “big literature” phenomenon—has created great
+                  challenges in literature comprehension and synthesis. The
+                  traditional manual literature synthesis processes are often
+                  unable to take advantage of big literature due to human
+                  limitations in time and cognition, creating the need for new
+                  literature synthesis methods to address this challenge. 2.In
+                  this paper, we discuss a highly useful literature synthesis
+                  approach, Automated Content Analysis (ACA), which has not yet
+                  been widely adopted in the fields of ecological and
+                  evolutionary biology. ACA is a suite of machine-learning tools
+                  for the qualitative and quantitative synthesis of big
+                  literature commonly used in the social sciences and in medical
+                  research. 3.Our goal is to introduce ecologists and
+                  evolutionary biologists to ACA and illustrate its capacity to
+                  synthesize overwhelming volumes of literature. First, we
+                  provide a brief history of the ACA method and summarize the
+                  fundamental process of ACA. Next, we present two ACA studies
+                  to illustrate the utility and versatility of ACA in
+                  synthesizing ecological and evolutionary literature. Finally,
+                  we discuss how to maximize the utility and contributions of
+                  ACA, as well as potential research directions that may help to
+                  advance the use of ACA in future ecological and evolutionary
+                  research. 4.Unlike manual methods of literature synthesis, ACA
+                  is able to process high volumes of literature at substantially
+                  shorter timespans, while helping to mitigate human biases. The
+                  overall efficiency and versatility of this method allows for a
+                  broad range of applications for literature review and
+                  synthesis, including both exploratory reviews and systematic
+                  reviews aiming to address more targeted research questions. By
+                  allowing for more extensive and comprehensive review of big
+                  literature, ACA has the potential to fill an important
+                  methodological gap and to therefore contribute to the
+                  advancement of ecological and evolutionary research. This
+                  article is protected by copyright. All rights reserved.},
+  urldate      = {2023-11-29},
+  keywords     = {concept map; literature review; machine learning; quantitative
+                  review; research synthesis; text mining; topic modelling},
   language     = {en}
 }
 
@@ -11568,6 +13162,30 @@
   language     = {en}
 }
 
+@ARTICLE{Strydom2022c,
+  title        = {Food web reconstruction through phylogenetic transfer of
+                  low‐rank network representation},
+  author       = {Strydom, Tanya and Bouskila, Salomé and Banville, Francis and
+                  Barros, Ceres and Caron, Dominique and Farrell, Maxwell J and
+                  Fortin, Marie-Josée and Hemming, Victoria and Mercier,
+                  Benjamin and Pollock, Laura J and Runghen, Rogini and Dalla
+                  Riva, Giulio V and Poisot, Timothée},
+  journaltitle = {Methods in ecology and evolution},
+  publisher    = {Wiley},
+  volume       = {13},
+  issue        = {12},
+  pages        = {2838--2849},
+  date         = {2022-12-01},
+  abstract     = {Despite their importance in many ecological processes,
+                  collecting data and information on ecological interactions is
+                  an exceedingly challenging task. For this reason, large parts
+                  of the world have...},
+  urldate      = {2023-12-12},
+  keywords     = {ancestral character estimation; biogeography; ecological
+                  networks; network embedding; transfer learning},
+  language     = {en}
+}
+
 @ARTICLE{Strydom2022g,
   title        = {Food web reconstruction through phylogenetic transfer of
                   low‐rank network representation},
@@ -11678,6 +13296,46 @@
   language     = {en}
 }
 
+@ARTICLE{Strydom2023e,
+  title        = {Graph embedding and transfer learning can help predict
+                  potential species interaction networks despite data
+                  limitations},
+  author       = {Strydom, Tanya and Bouskila, Salomé and Banville, Francis and
+                  Barros, Ceres and Caron, Dominique and Farrell, Maxwell J and
+                  Fortin, Marie-Josée and Mercier, Benjamin and Pollock, Laura J
+                  and Runghen, Rogini and Dalla Riva, Giulio V and Poisot,
+                  Timothée},
+  journaltitle = {Methods in ecology and evolution},
+  publisher    = {Wiley},
+  volume       = {14},
+  issue        = {12},
+  pages        = {2917--2930},
+  date         = {2023-12-01},
+  abstract     = {Abstract Metawebs (networks of potential interactions within a
+                  species pool) are a powerful abstraction to understand how
+                  large‐scale species interaction networks are structured.
+                  Because metawebs are typically expressed at large spatial and
+                  taxonomic scales, assembling them is a tedious and costly
+                  process; predictive methods can help circumvent the
+                  limitations in data deficiencies, by providing a first
+                  approximation of metawebs. One way to improve our ability to
+                  predict metawebs is to maximize available information by using
+                  graph embeddings, as opposed to an exhaustive list of species
+                  interactions. Graph embedding is an emerging field in machine
+                  learning that holds great potential for ecological problems.
+                  Here, we outline how the challenges associated with inferring
+                  metawebs line‐up with the advantages of graph embeddings;
+                  followed by a discussion as to how the choice of the species
+                  pool has consequences on the reconstructed network,
+                  specifically as to the role of human‐made (or arbitrarily
+                  assigned) boundaries and how these may influence ecological
+                  hypotheses.},
+  urldate      = {2023-12-08},
+  keywords     = {ecological networks; network embedding; network macroecology;
+                  transfer learning},
+  language     = {en}
+}
+
 @ARTICLE{Strydom2023j,
   title        = {Graph embedding and transfer learning can help predict
                   potential species interaction networks despite data
@@ -11712,6 +13370,51 @@
                   specifically as to the role of human‐made (or arbitrarily
                   assigned) boundaries and how these may influence ecological
                   hypotheses.},
+  language     = {en}
+}
+
+@ARTICLE{Ishikawa2023r,
+  title        = {Integrated trophic position as a proxy for food‐web complexity},
+  author       = {Ishikawa, Naoto F and Takashima, Ayaka and Maruoka, Hirokazu
+                  and Kondoh, Michio},
+  journaltitle = {Methods in ecology and evolution},
+  publisher    = {Wiley},
+  date         = {2023-12-05},
+  abstract     = {Abstract There are two distinct approaches to describing the
+                  distributions of biomass and species in food webs: one to
+                  consider them as discrete trophic levels (TLs); and the other
+                  to consider them as continuous trophic positions (TPs).
+                  Bridging the gap between these two perspectives presents a
+                  nontrivial challenge in integrating biodiversity and food‐web
+                  structure. Food network unfolding (FNU) is a technique used to
+                  bridge this gap by partitioning the biomass of species into
+                  integer TLs to compute three complexity indices, namely
+                  vertical (DV), horizontal (DH) and range (DR) diversity (D
+                  indices), through decomposition of Shannon's index H′. Using
+                  FNU, the food web (a network of species with unique TPs) is
+                  converted to a linear food chain (a biomass distribution at
+                  discrete TLs). This enables us to expect that the unfolded
+                  biomass within species decreases exponentially as the TL
+                  increases. Under this condition, the mean TL value in unfolded
+                  food chains is hypothesized to have an exponential
+                  relationship with the vertical diversity, DV. To explore this,
+                  we implemented FNU and calculated D indices for food webs
+                  publicly available at EcoBase (n = 158) and calculated the
+                  integrated TP (iTP), defined as the biomass‐weighted average
+                  TP of a given food web. The iTP corresponds to the mean TL in
+                  unfolded food chains and can be empirically measured through
+                  compound‐specific isotope analysis of amino acids (CSIA‐AA).
+                  Although our analysis is biased towards marine ecosystems, we
+                  revealed an exponential relationship between iTP and DV,
+                  suggesting that iTP can serve as a measurable proxy for DV.
+                  Furthermore, we found a positive correlation between the iTP
+                  observed in the total communities (total iTP) and the iTPs of
+                  partial communities consisting only of species with 2.0 ≤ TP
+                  r2 = 0.48), suggesting that DV can be predicted using partial
+                  iTP. Our findings suggest that the net effect of species
+                  diversity, excluding the effect of biomass (corresponding to
+                  H′ − DV), on food‐web complexity can be revealed by combining
+                  CSIA‐AA with biodiversity analysis (e.g. environmental DNA).},
   language     = {en}
 }
 
@@ -12311,6 +14014,25 @@
   language     = {en}
 }
 
+@ARTICLE{Guralnick2018h,
+  title        = {Humboldt Core - toward a standardized capture of biological
+                  inventories for biodiversity monitoring, modeling and
+                  assessment},
+  author       = {Guralnick, Robert and Walls, Ramona and Jetz, Walter},
+  journaltitle = {Ecography},
+  publisher    = {Wiley},
+  volume       = {41},
+  issue        = {5},
+  pages        = {713--725},
+  date         = {2018-05-01},
+  abstract     = {Species inventories, i.e. the recording of multiple species
+                  for a specific place and time, are routinely performed and
+                  offer particular value for characterizing biodiversity and its
+                  change. However, ...},
+  urldate      = {2023-12-06},
+  language     = {en}
+}
+
 @ARTICLE{Dallas2018v,
   title        = {Compositional turnover in host and parasite communities does
                   not change network structure},
@@ -12512,6 +14234,26 @@
   keywords     = {environmental niche model; joint species distribution
                   modelling; niche conservatism; niche divergence; niche
                   overlap; null biogeographical model},
+  language     = {en}
+}
+
+@ARTICLE{Rousseau2022w,
+  title        = {Factors influencing transferability in species distribution
+                  models},
+  author       = {Rousseau, Josée S and Betts, Matthew G},
+  journaltitle = {Ecography},
+  publisher    = {Wiley},
+  volume       = {2022},
+  issue        = {7},
+  pages        = {e06060},
+  date         = {2022-07-01},
+  abstract     = {Species distribution models (SDMs) provide insights into
+                  species' ecology and distributions and are frequently used to
+                  guide conservation priorities. However, many uses of SDMs
+                  require model transfer...},
+  urldate      = {2023-12-12},
+  keywords     = {extrapolation; model transfer; species distribution models;
+                  stationarity; traits},
   language     = {en}
 }
 
@@ -13864,6 +15606,52 @@
                   be framed beyond 2100.},
   keywords     = {adaptation; climate change; climate models; crop projections;
                   heat stress},
+  language     = {en}
+}
+
+@ARTICLE{Carlson2022f,
+  title        = {Plague risk in the western United States over seven decades of
+                  environmental change},
+  author       = {Carlson, Colin J and Bevins, Sarah N and Schmid, Boris V},
+  journaltitle = {Global change biology},
+  publisher    = {Wiley},
+  volume       = {28},
+  issue        = {3},
+  pages        = {753--769},
+  date         = {2022-02-01},
+  abstract     = {After several pandemics over the last two millennia, the
+                  wildlife reservoirs of plague (Yersinia pestis) now persist
+                  around the world, including in the western United States.
+                  Routine surveillance in this region has generated
+                  comprehensive records of human cases and animal
+                  seroprevalence, creating a unique opportunity to test how
+                  plague reservoirs are responding to environmental change.
+                  Here, we test whether animal and human data suggest that
+                  plague reservoirs and spillover risk have shifted since 1950.
+                  To do so, we develop a new method for detecting the impact of
+                  climate change on infectious disease distributions, capable of
+                  disentangling long-term trends (signal) and interannual
+                  variation in both weather and sampling (noise). We find that
+                  plague foci are associated with high-elevation rodent
+                  communities, and soil biochemistry may play a key role in the
+                  geography of long-term persistence. In addition, we find that
+                  human cases are concentrated only in a small subset of endemic
+                  areas, and that spillover events are driven by higher rodent
+                  species richness (the amplification hypothesis) and climatic
+                  anomalies (the trophic cascade hypothesis). Using our
+                  detection model, we find that due to the changing climate,
+                  rodent communities at high elevations have become more
+                  conducive to the establishment of plague reservoirs-with
+                  suitability increasing up to 40\% in some places-and that
+                  spillover risk to humans at mid-elevations has increased as
+                  well, although more gradually. These results highlight
+                  opportunities for deeper investigation of plague ecology, the
+                  value of integrative surveillance for infectious disease
+                  geography, and the need for further research into ongoing
+                  climate change impacts.},
+  urldate      = {2023-12-07},
+  keywords     = {Yersinia pestis ; Bayesian additive regression trees; climate
+                  change; ecological niche modeling; plague},
   language     = {en}
 }
 
@@ -15903,6 +17691,34 @@
   language     = {en}
 }
 
+@ARTICLE{Angelopoulos2023-eb,
+  title        = {Prediction-powered inference},
+  author       = {Angelopoulos, Anastasios N and Bates, Stephen and Fannjiang,
+                  Clara and Jordan, Michael I and Zrnic, Tijana},
+  journaltitle = {Science},
+  publisher    = {American Association for the Advancement of Science (AAAS)},
+  volume       = {382},
+  issue        = {6671},
+  pages        = {669--674},
+  date         = {2023-11-10},
+  abstract     = {Prediction-powered inference is a framework for performing
+                  valid statistical inference when an experimental dataset is
+                  supplemented with predictions from a machine-learning system.
+                  The framework yields simple algorithms for computing provably
+                  valid confidence intervals for quantities such as means,
+                  quantiles, and linear and logistic regression coefficients
+                  without making any assumptions about the machine-learning
+                  algorithm that supplies the predictions. Furthermore, more
+                  accurate predictions translate to smaller confidence
+                  intervals. Prediction-powered inference could enable
+                  researchers to draw valid and more data-efficient conclusions
+                  using machine learning. The benefits of prediction-powered
+                  inference were demonstrated with datasets from proteomics,
+                  astronomy, genomics, remote sensing, census analysis, and
+                  ecology.},
+  language     = {en}
+}
+
 @ARTICLE{Streicker2024-jt,
   title        = {Developing transmissible vaccines for animal infections},
   author       = {Streicker, Daniel G and Griffiths, Megan E and Antia, Rustom
@@ -16502,6 +18318,51 @@
   language   = {en}
 }
 
+@ARTICLE{Sato2019i,
+  title        = {Formal verification of higher-order probabilistic programs:
+                  reasoning about approximation, convergence, Bayesian
+                  inference, and optimization},
+  author       = {Sato, Tetsuya and Aguirre, Alejandro and Barthe, Gilles and
+                  Gaboardi, Marco and Garg, Deepak and Hsu, Justin},
+  journaltitle = {Proceedings of the ACM on Programming Languages},
+  publisher    = {Association for Computing Machinery (ACM)},
+  volume       = {3},
+  issue        = {POPL},
+  pages        = {1--30},
+  date         = {2019-01-02},
+  abstract     = {Probabilistic programming provides a convenient lingua franca
+                  for writing succinct and rigorous descriptions of
+                  probabilistic models and inference tasks. Several
+                  probabilistic programming languages, including Anglican,
+                  Church or Hakaru, derive their expressiveness from a powerful
+                  combination of continuous distributions, conditioning, and
+                  higher-order functions. Although very important for practical
+                  applications, these features raise fundamental challenges for
+                  program semantics and verification. Several recent works offer
+                  promising answers to these challenges, but their primary focus
+                  is on foundational semantics issues. In this paper, we take a
+                  step further by developing a suite of logics, collectively
+                  named PPV for proving properties of programs written in an
+                  expressive probabilistic higher-order language with continuous
+                  sampling operations and primitives for conditioning
+                  distributions. Our logics mimic the comfortable reasoning
+                  style of informal proofs using carefully selected
+                  axiomatizations of key results from probability theory. The
+                  versatility of our logics is illustrated through the formal
+                  verification of several intricate examples from statistics,
+                  probabilistic inference, and machine learning. We further show
+                  expressiveness by giving sound embeddings of existing logics.
+                  In particular, we do this in a parametric way by showing how
+                  the semantics idea of (unary and relational) ⊤⊤-lifting can be
+                  internalized in our logics. The soundness of PPV follows by
+                  interpreting programs and assertions in quasi-Borel spaces
+                  (QBS), a recently proposed variant of Borel spaces with a good
+                  structure for interpreting higher order probabilistic
+                  programs.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Reynolds1987-qc,
   title        = {Flocks, herds and schools: A distributed behavioral model},
   author       = {Reynolds, Craig W},
@@ -16593,6 +18454,44 @@
                   engagements held by anthropologists. The article also
                   discusses how to assess anthropological “impact” in epidemics.},
   urldate      = {2024-06-11},
+  language     = {en}
+}
+
+@ARTICLE{Pires2024-mx,
+  title        = {The restructuring of ecological networks by the Pleistocene
+                  extinction},
+  author       = {Pires, Mathias Mistretta},
+  journaltitle = {Annual review of earth and planetary sciences},
+  publisher    = {Annual Reviews},
+  volume       = {52},
+  issue        = {1},
+  date         = {2024-05-30},
+  abstract     = {Most terrestrial large mammals went extinct on different
+                  continents at the end of the Pleistocene, between 50,000 and
+                  10,000 years ago. Besides the loss in species diversity and
+                  the truncation of body mass distributions, those extinctions
+                  were even more impactful to interaction diversity. Along with
+                  each extinction, dozens of ecological interactions were lost,
+                  reorganizing species interaction networks, which attained
+                  species-poor configurations with low functional redundancy.
+                  Extinctions of most large herbivores impacted energy flow and
+                  the rates of nutrient cycling, reconfiguring ecosystem-level
+                  networks. Because large mammals have high mobility, their loss
+                  also shortened seed-dispersal distance and reduced nutrient
+                  diffusivity, disrupting spatial networks. This review examines
+                  the recent advances in understanding how different types of
+                  ecological networks have been restructured by megafaunal
+                  extinctions and how this reorganization affected ecosystem
+                  functions. ▪ Megafaunal extinctions resulted in the loss of
+                  multiple ecological interactions in terrestrial systems. ▪
+                  Interaction loss reshaped different types of ecological
+                  networks including food webs and spatial networks. ▪ The
+                  reorganization of ecological networks changed how terrestrial
+                  ecosystems are structured and function. Expected final online
+                  publication date for the Annual Review of Earth and Planetary
+                  Sciences, Volume 52 is May 2024. Please see
+                  http://www.annualreviews.org/page/journal/pubdates for revised
+                  estimates.},
   language     = {en}
 }
 
@@ -16880,6 +18779,50 @@
                   additional avenue for extensions and applications. We discuss
                   software options as well as challenges and future directions.},
   urldate      = {2024-04-26},
+  language     = {en}
+}
+
+@ARTICLE{Kotz2023-fu,
+  title        = {Constraining the pattern and magnitude of projected extreme
+                  precipitation change in a multi-model ensemble},
+  author       = {Kotz, Maximilian and Lange, Stefan and Wenz, Leonie and
+                  Levermann, Anders},
+  journaltitle = {Journal of climate},
+  publisher    = {American Meteorological Society},
+  volume       = {-1},
+  issue        = {aop},
+  date         = {2023-11-27},
+  abstract     = {Abstract Projections of precipitation extremes over land are
+                  crucial for socioeconomic risk assessments, yet model
+                  discrepancies limit their application. Here we use a
+                  pattern-filtering technique to identify low-frequency changes
+                  in individual members of a multi-model ensemble, to assess
+                  discrepancies across models in the projected pattern and
+                  magnitude of change. Specifically, we apply low-frequency
+                  component analysis (LFCA) to the intensity and frequency of
+                  daily precipitation extremes over land in 21 CMIP-6 models.
+                  LFCA brings modest but statistically significant improvements
+                  in the agreement between models in the spatial pattern of
+                  projected change, particularly in scenarios with weak
+                  greenhouse forcing. Moreover, we show that LFCA facilitates a
+                  robust identification of the rates at which increasing
+                  precipitation extremes scale with global temperature change
+                  within individual ensemble members. While these rates
+                  approximately match expectations from the Clausius-Clapeyron
+                  relation on average across models, individual models exhibit
+                  considerable and significant differences. Monte-Carlo
+                  simulations indicate that these differences contribute to
+                  uncertainty in the magnitude of projected change at least as
+                  much as differences in the climate sensitivity. Finally, we
+                  compare these scaling rates to those identified from
+                  observational products, demonstrating that virtually all
+                  climate models significantly underestimate the rates at which
+                  increases in precipitation extremes have scaled with global
+                  temperatures historically. Constraining projections with
+                  observations therefore amplifies the projected intensification
+                  of precipitation extremes as well as reducing the relative
+                  error of their distribution.},
+  urldate      = {2023-11-28},
   language     = {en}
 }
 
@@ -17193,6 +19136,60 @@
   language     = {en}
 }
 
+@ARTICLE{Field2014w,
+  title        = {Using the Knowledge to Action Framework in practice: a
+                  citation analysis and systematic review},
+  author       = {Field, Becky and Booth, Andrew and Ilott, Irene and Gerrish,
+                  Kate},
+  journaltitle = {Implementation science: IS},
+  publisher    = {Springer Science and Business Media LLC},
+  volume       = {9},
+  issue        = {1},
+  pages        = {172},
+  date         = {2014-11-23},
+  abstract     = {BACKGROUND: Conceptual frameworks are recommended as a way of
+                  applying theory to enhance implementation efforts. The
+                  Knowledge to Action (KTA) Framework was developed in Canada by
+                  Graham and colleagues in the 2000s, following a review of 31
+                  planned action theories. The framework has two components:
+                  Knowledge Creation and an Action Cycle, each of which
+                  comprises multiple phases. This review sought to answer two
+                  questions: 'Is the KTA Framework used in practice? And if so,
+                  how?' METHODS: This study is a citation analysis and
+                  systematic review. The index citation for the original paper
+                  was identified on three databases-Web of Science, Scopus and
+                  Google Scholar-with the facility for citation searching.
+                  Limitations of English language and year of publication
+                  2006-June 2013 were set. A taxonomy categorising the continuum
+                  of usage was developed. Only studies applying the framework to
+                  implementation projects were included. Data were extracted and
+                  mapped against each phase of the framework for studies where
+                  it was integral to the implementation project. RESULTS: The
+                  citation search yielded 1,787 records. A total of 1,057 titles
+                  and abstracts were screened. One hundred and forty-six studies
+                  described usage to varying degrees, ranging from referenced to
+                  integrated. In ten studies, the KTA Framework was integral to
+                  the design, delivery and evaluation of the implementation
+                  activities. All ten described using the Action Cycle and seven
+                  referred to Knowledge Creation. The KTA Framework was enacted
+                  in different health care and academic settings with projects
+                  targeted at patients, the public, and nursing and allied
+                  health professionals. CONCLUSIONS: The KTA Framework is being
+                  used in practice with varying degrees of completeness. It is
+                  frequently cited, with usage ranging from simple attribution
+                  via a reference, through informing planning, to making an
+                  intellectual contribution. When the framework was integral to
+                  knowledge translation, it guided action in idiosyncratic ways
+                  and there was theory fidelity. Prevailing wisdom encourages
+                  the use of theories, models and conceptual frameworks, yet
+                  their application is less evident in practice. This may be an
+                  artefact of reporting, indicating that prospective, primary
+                  research is needed to explore the real value of the KTA
+                  Framework and similar tools.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Chicco2017-fj,
   title        = {Ten quick tips for machine learning in computational biology},
   author       = {Chicco, Davide},
@@ -17201,6 +19198,58 @@
   volume       = {10},
   issue        = {1},
   date         = {2017-12},
+  language     = {en}
+}
+
+@ARTICLE{Chicco2023q,
+  title        = {The Matthews correlation coefficient ({MCC}) should replace
+                  the {ROC} {AUC} as the standard metric for assessing binary
+                  classification},
+  author       = {Chicco, Davide and Jurman, Giuseppe},
+  journaltitle = {BioData mining},
+  publisher    = {BioMed Central},
+  volume       = {16},
+  issue        = {1},
+  pages        = {4},
+  date         = {2023-02-17},
+  abstract     = {Binary classification is a common task for which machine
+                  learning and computational statistics are used, and the area
+                  under the receiver operating characteristic curve (ROC AUC)
+                  has become the common standard metric to evaluate binary
+                  classifications in most scientific fields. The ROC curve has
+                  true positive rate (also called sensitivity or recall) on the
+                  y axis and false positive rate on the x axis, and the ROC AUC
+                  can range from 0 (worst result) to 1 (perfect result). The ROC
+                  AUC, however, has several flaws and drawbacks. This score is
+                  generated including predictions that obtained insufficient
+                  sensitivity and specificity, and moreover it does not say
+                  anything about positive predictive value (also known as
+                  precision) nor negative predictive value (NPV) obtained by the
+                  classifier, therefore potentially generating inflated
+                  overoptimistic results. Since it is common to include ROC AUC
+                  alone without precision and negative predictive value, a
+                  researcher might erroneously conclude that their
+                  classification was successful. Furthermore, a given point in
+                  the ROC space does not identify a single confusion matrix nor
+                  a group of matrices sharing the same MCC value. Indeed, a
+                  given (sensitivity, specificity) pair can cover a broad MCC
+                  range, which casts doubts on the reliability of ROC AUC as a
+                  performance measure. In contrast, the Matthews correlation
+                  coefficient (MCC) generates a high score in its [Formula: see
+                  text] interval only if the classifier scored a high value for
+                  all the four basic rates of the confusion matrix: sensitivity,
+                  specificity, precision, and negative predictive value. A high
+                  MCC (for example, MCC [Formula: see text] 0.9), moreover,
+                  always corresponds to a high ROC AUC, and not vice versa. In
+                  this short study, we explain why the Matthews correlation
+                  coefficient should replace the ROC AUC as standard statistic
+                  in all the scientific studies involving a binary
+                  classification, in all scientific fields.},
+  urldate      = {2023-12-08},
+  keywords     = {AUC; Area under the curve; Binary classification; Confusion
+                  matrix; Data mining; Data science; Matthews correlation
+                  coefficient; ROC; ROC AUC; Receiver operating characteristic
+                  curve; Supervised machine learning},
   language     = {en}
 }
 
@@ -17890,6 +19939,42 @@
   language     = {en}
 }
 
+@ARTICLE{Song2022z,
+  title        = {Generalism drives abundance: A computational causal discovery
+                  approach},
+  author       = {Song, Chuliang and Simmons, Benno I and Fortin, Marie-Josée
+                  and Gonzalez, Andrew},
+  journaltitle = {PLoS computational biology},
+  publisher    = {Public Library of Science},
+  volume       = {18},
+  issue        = {9},
+  pages        = {e1010302},
+  date         = {2022-09-29},
+  abstract     = {A ubiquitous pattern in ecological systems is that more
+                  abundant species tend to be more generalist; that is, they
+                  interact with more species or can occur in wider range of
+                  habitats. However, there is no consensus on whether generalism
+                  drives abundance (a selection process) or abundance drives
+                  generalism (a drift process). As it is difficult to conduct
+                  direct experiments to solve this chicken-and-egg dilemma,
+                  previous studies have used a causal discovery method based on
+                  formal logic and have found that abundance drives generalism.
+                  Here, we refine this method by correcting its bias regarding
+                  skewed distributions, and employ two other independent causal
+                  discovery methods based on nonparametric regression and on
+                  information theory, respectively. Contrary to previous work,
+                  all three independent methods strongly indicate that
+                  generalism drives abundance when applied to datasets on
+                  plant-hummingbird communities and reef fishes. Furthermore, we
+                  find that selection processes are more important than drift
+                  processes in structuring multispecies systems when the
+                  environment is variable. Our results showcase the power of the
+                  computational causal discovery approach to aid ecological
+                  research.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Lawlor2022z,
   title        = {Ten simple rules for teaching yourself {R}},
   author       = {Lawlor, Jake and Banville, Francis and Forero-Muñoz,
@@ -17999,6 +20084,32 @@
   language     = {en}
 }
 
+@ARTICLE{Berezin2023r,
+  title        = {Ten simple rules for managing laboratory information},
+  author       = {Berezin, Casey-Tyler and Aguilera, Luis U and Billerbeck,
+                  Sonja and Bourne, Philip E and Densmore, Douglas and Freemont,
+                  Paul and Gorochowski, Thomas E and Hernandez, Sarah I and
+                  Hillson, Nathan J and King, Connor R and Köpke, Michael and
+                  Ma, Shuyi and Miller, Katie M and Moon, Tae Seok and Moore,
+                  Jason H and Munsky, Brian and Myers, Chris J and Nicholas,
+                  Dequina A and Peccoud, Samuel J and Zhou, Wen and Peccoud,
+                  Jean},
+  journaltitle = {PLoS computational biology},
+  publisher    = {Public Library of Science (PLoS)},
+  volume       = {19},
+  issue        = {12},
+  pages        = {e1011652},
+  date         = {2023-12-07},
+  abstract     = {Author summary Information is the cornerstone of research,
+                  from experimental (meta)data and computational processes to
+                  complex inventories of reagents and equipment. These 10 simple
+                  rules discuss best practices for leveraging laboratory
+                  information management systems to transform this large
+                  information load into useful scientific findings.},
+  urldate      = {2023-12-12},
+  language     = {en}
+}
+
 @ARTICLE{Dominguez-Garcia2024s,
   title        = {The structure and robustness of ecological networks with two
                   interaction types},
@@ -18061,6 +20172,43 @@
   language     = {en}
 }
 
+@ARTICLE{Shapiro2016e,
+  title        = {What is speciation?},
+  author       = {Shapiro, B Jesse and Leducq, Jean-Baptiste and Mallet, James},
+  journaltitle = {PLoS genetics},
+  publisher    = {Public Library of Science (PLoS)},
+  volume       = {12},
+  issue        = {3},
+  pages        = {e1005860},
+  date         = {2016-03-31},
+  abstract     = {Concepts and definitions of species have been debated by
+                  generations of biologists and remain controversial. Microbes
+                  pose a particular challenge because of their genetic
+                  diversity, asexual reproduction, and often promiscuous
+                  horizontal gene transfer (HGT). However, microbes also present
+                  an opportunity to study and understand speciation because of
+                  their rapid evolution, both in nature and in the lab, and
+                  small, easily sequenced genomes. Here, we review how microbial
+                  population genomics has enabled us to catch speciation "in the
+                  act" and how the results have challenged and enriched our
+                  concepts of species, with implications for all domains of
+                  life. We describe how recombination (including HGT and
+                  introgression) has shaped the genomes of nascent microbial,
+                  animal, and plant species and argue for a prominent role of
+                  natural selection in initiating and maintaining speciation. We
+                  ask how universal is the process of speciation across the tree
+                  of life, and what lessons can be drawn from microbes?
+                  Comparative genomics showing the extent of HGT in natural
+                  populations certainly jeopardizes the relevance of vertical
+                  descent (i.e., the species tree) in speciation. Nevertheless,
+                  we conclude that species do indeed exist as clusters of
+                  genetic and ecological similarity and that speciation is
+                  driven primarily by natural selection, regardless of the
+                  balance between horizontal and vertical descent.},
+  urldate      = {2023-11-29},
+  language     = {en}
+}
+
 @ARTICLE{Poisot2011x,
   title        = {Morphological and molecular evolution are not linked in
                   Lamellodiscus (Plathyhelminthes, Monogenea)},
@@ -18091,6 +20239,40 @@
                   suggest that cryptic speciation events may occur within
                   Lamellodiscus, and discuss the links between morphological and
                   molecular evolution.},
+  language     = {en}
+}
+
+@ARTICLE{Wieczorek2012x,
+  title        = {Darwin Core: an evolving community-developed biodiversity data
+                  standard},
+  author       = {Wieczorek, John and Bloom, David and Guralnick, Robert and
+                  Blum, Stan and Döring, Markus and Giovanni, Renato and
+                  Robertson, Tim and Vieglais, David},
+  journaltitle = {PloS one},
+  publisher    = {Public Library of Science (PLoS)},
+  volume       = {7},
+  issue        = {1},
+  pages        = {e29715},
+  date         = {2012-01-06},
+  abstract     = {Biodiversity data derive from myriad sources stored in various
+                  formats on many distinct hardware and software platforms. An
+                  essential step towards understanding global patterns of
+                  biodiversity is to provide a standardized view of these
+                  heterogeneous data sources to improve interoperability.
+                  Fundamental to this advance are definitions of common terms.
+                  This paper describes the evolution and development of Darwin
+                  Core, a data standard for publishing and integrating
+                  biodiversity information. We focus on the categories of terms
+                  that define the standard, differences between simple and
+                  relational Darwin Core, how the standard has been implemented,
+                  and the community processes that are essential for maintenance
+                  and growth of the standard. We present case-study extensions
+                  of the Darwin Core into new research communities, including
+                  metagenomics and genetic resources. We close by showing how
+                  Darwin Core records are integrated to create new knowledge
+                  products documenting species distributions and changes due to
+                  environmental perturbations.},
+  urldate      = {2023-12-06},
   language     = {en}
 }
 
@@ -18764,6 +20946,20 @@
                   and modelling studies investigating the way in which
                   temperature influences parasitism.},
   urldate      = {2024-04-23},
+  language     = {en}
+}
+
+@ARTICLE{DAvanzo2008z,
+  title        = {Symposium 1. Why is Ecology Hard to Learn},
+  author       = {D'Avanzo, Charlene},
+  journaltitle = {Bulletin of the Ecological Society of America},
+  publisher    = {Wiley},
+  volume       = {89},
+  issue        = {4},
+  pages        = {462--466},
+  date         = {2008-10-01},
+  abstract     = {Click on the article title to read more.},
+  urldate      = {2023-11-29},
   language     = {en}
 }
 
@@ -19488,6 +21684,20 @@
   language     = {en}
 }
 
+@ARTICLE{Lawton1999u,
+  title        = {Are there general laws in ecology?},
+  author       = {Lawton, John H},
+  journaltitle = {Oikos (Copenhagen, Denmark)},
+  publisher    = {JSTOR},
+  volume       = {84},
+  issue        = {2},
+  pages        = {177},
+  date         = {1999-02},
+  abstract     = {John H. Lawton, Are There General Laws in Ecology?, Oikos,
+                  Vol. 84, No. 2 (Feb., 1999), pp. 177-192},
+  urldate      = {2023-11-29}
+}
+
 @ARTICLE{Dufrenne1964i,
   title        = {The aesthetic object and the technical object},
   author       = {Dufrenne, Mikel},
@@ -19506,6 +21716,23 @@
   journaltitle = {Peer community in ecology},
   publisher    = {Peer Community In},
   date         = {2023-04-04},
+  language     = {en}
+}
+
+@ARTICLE{Poisot2023m,
+  title        = {Gradient Boosted Trees can deliver more than accurate
+                  ecological predictions},
+  author       = {Poisot, Timothée},
+  journaltitle = {Peer community in ecology},
+  publisher    = {Peer Community in Ecology},
+  volume       = {1},
+  pages        = {100532},
+  date         = {2023-11-17},
+  abstract     = {A recommendation of: William Manley, Tam Tran, Melissa
+                  Prusinski, Dustin Brisson Modeling Tick Populations: An
+                  Ecological Test Case for Gradient Boosted Trees
+                  https://doi.org/10.1101/2023.03.13.532443},
+  urldate      = {2023-11-27},
   language     = {en}
 }
 
@@ -19852,6 +22079,46 @@
   date         = {2020-08-31}
 }
 
+@ARTICLE{Hirst2023-gj,
+  title        = {Bacterial zoonoses impacts to conservation of wildlife
+                  populations: a global synthesis},
+  author       = {Hirst, Kristen M and Halsey, Samniqueka J},
+  journaltitle = {Frontiers in conservation science},
+  publisher    = {Frontiers Media SA},
+  volume       = {4},
+  date         = {2023-11-23},
+  abstract     = {Emerging infectious diseases have significantly increased in
+                  recent years; approximately 60\% of these emerging diseases
+                  are of zoonotic origin, and of those, around 70\% were
+                  identified to start with wild animals. To better understand
+                  the impacts of zoonotic diseases on wildlife, there is a need
+                  to identify the distribution and impact of zoonotic pathogens
+                  in wildlife, particular those species with threatened
+                  populations. To investigate this question, we constructed a
+                  zoonotic disease database identifying wildlife hosts for each
+                  bacterial zoonotic disease and recorded clinical signs of
+                  disease for each host-pathogen relationship if found. Species
+                  of least concern were found to have a significantly higher
+                  prevalence and richness of zoonotic bacterial diseases (n=
+                  0.0608, x2 = 5.898, p=0.01516). The taxonomic level Order was
+                  found to be the best predictor for pathogen richness, and the
+                  Artiodactyla and Carnivora contain a significantly higher
+                  pathogen richness than other vertebrate Orders. Species with
+                  the greatest pathogen richness include the wild boar (Sus
+                  scrofa, n=66), Northern raccoon (Procyon lotor, n=16) and the
+                  red fox (Vulpes vulpes, n=41). Our results indicate bacterial
+                  zoonoses are not likely to be a driving factor of species
+                  population declines, and future zoonotic disease surveillance
+                  efforts should target species in the Artiodactyla and
+                  Carnivora families. The wild boar (Sus scrofa) in particular
+                  may be a good candidate for zoonotic disease monitoring due to
+                  its high pathogen richness, wide range, and large population.
+                  Understanding the impacts and distribution of bacterial
+                  zoonoses in wildlife populations can help in planning for
+                  future wildlife management efforts, particularly in species of
+                  conservation concern and wildlife disease monitoring.}
+}
+
 @ARTICLE{Makiola2020p,
   title        = {Key questions for next-generation biomonitoring},
   author       = {Makiola, Andreas and Compson, Zacchaeus G and Baird, Donald J
@@ -19929,6 +22196,48 @@
   urldate      = {2024-05-16},
   keywords     = {Berlin; Canine distemper; CDV; Disease; landscape structures;
                   Red fox Vulpes vulpes; richness; Urban wildlife},
+  language     = {en}
+}
+
+@ARTICLE{Desjardins-Proulx2019d,
+  title        = {Artificial intelligence for ecological and evolutionary
+                  synthesis},
+  author       = {Desjardins-Proulx, Philippe and Poisot, Timothée and Gravel,
+                  Dominique},
+  journaltitle = {Frontiers in ecology and evolution},
+  publisher    = {Frontiers Media SA},
+  volume       = {7},
+  pages        = {474752},
+  date         = {2019-10-29},
+  abstract     = {The grand ambition of theorists studying ecology and evolution
+                  is to discover the logical and mathematical rules driving the
+                  world's biodiversity at every level from genetic diversity
+                  within species to differences between populations,
+                  communities, and ecosystems. This ambition has been difficult
+                  to realize in great part because of the complexity of
+                  biodiversity. Theoretical work has led to a complex web of
+                  theories, each having non-obvious consequences for other
+                  theories. Case in point, the recent realization that genetic
+                  diversity involves a great deal of temporal and spatial
+                  stochasticity forces theoretical population genetics to
+                  consider abiotic and biotic factors generally reserved to
+                  ecosystem ecology. This interconnectedness may require
+                  theoretical scientists to adopt new techniques adapted to
+                  reason about large sets of theories. Mathematicians have
+                  solved this problem by using formal languages based on logic
+                  to manage theorems. However, theories in ecology and evolution
+                  are not mathematical theorems, they involve uncertainty.
+                  Recent work in Artificial Intelligence in bridging logic and
+                  probability theory offers the opportunity to build rich
+                  knowledge bases that combine logic's ability to represent
+                  complex mathematical ideas with probability theory's ability
+                  to model uncertainty. We describe these hybrid languages and
+                  explore how they could be used to build a unified knowledge
+                  base of theories for ecology and evolution.},
+  urldate      = {2023-11-29},
+  keywords     = {theoretical ecology; theoretical biology; artificial
+                  intelligence; evolution; Theoretical population genetics;
+                  machine learning; Knowledge representation},
   language     = {en}
 }
 
@@ -20898,6 +23207,29 @@
   language     = {en}
 }
 
+@INBOOK{Torrey2010m,
+  title     = {Transfer Learning},
+  author    = {Torrey, Lisa and Shavlik, Jude},
+  booktitle = {Handbook of Research on Machine Learning Applications and Trends},
+  publisher = {IGI Global},
+  pages     = {242--264},
+  date      = {2010},
+  abstract  = {Transfer learning is the improvement of learning in a new task
+               through the transfer of knowledge from a related task that has
+               already been learned. While most machine learning algorithms are
+               designed to address single tasks, the development of algorithms
+               that facilitate transfer learning is a topic of ongoing interest
+               in the machine-learning community. This chapter provides an
+               introduction to the goals, settings, and challenges of transfer
+               learning. It surveys current research in this area, giving an
+               overview of the state of the art and outlining the open problems.
+               The survey covers transfer in both inductive learning and
+               reinforcement learning, and discusses the issues of negative
+               transfer and task mapping.},
+  urldate   = {2023-12-12},
+  language  = {en}
+}
+
 @ARTICLE{Poisot2013t,
   title        = {Moving toward a sustainable ecological science: don't let data
                   go to waste!},
@@ -21005,6 +23337,31 @@
                Tuhiwai Smith's ground-breaking book Decolonizing Methodologies.
                For the most part, however,},
   urldate   = {2023-12-18}
+}
+
+@SOFTWARE{Jones2019i,
+  type      = {software},
+  title     = {Ecological Metadata Language version 2.2.0},
+  author    = {Jones, Matthew B and O'Brien, Margaret and Mecum, Bryce and
+               Boettiger, Carl and Schildhauer, Mark and Maier, Mitchell and
+               Whiteaker, Timothy and Earl, Stevan and Chong, Steven},
+  publisher = {KNB Data Repository},
+  date      = {2019},
+  abstract  = {The Ecological Metadata Language (EML) defines a comprehensive
+               vocabulary and a readable XML markup syntax for documenting
+               research data. It is in widespread use in the earth and
+               environmental sciences, and increasingly in other research
+               disciplines as well. EML is a community-maintained specification,
+               and evolves to meet the data documentation needs of researchers
+               who want to openly document, preserve, and share data and
+               outputs. EML includes modules for identifying and citing data
+               packages, for describing the spatial, temporal, taxonomic, and
+               thematic extent of data, for describing research methods and
+               protocols, for describing the structure and content of data
+               within sometimes complex packages of data, and for precisely
+               annotating data with semantic vocabularies. EML includes metadata
+               fields to fully detail data papers that are published in journals
+               specializing in scientific data sharing and preservation.}
 }
 
 @ARTICLE{Wadoux2023p,
@@ -21132,6 +23489,24 @@
   series    = {NIPS '20},
   urldate   = {2024-04-18},
   language  = {en}
+}
+
+@ARTICLE{Mizrahi2019w,
+  title        = {You can’t handle the truth: Knowledge = epistemic certainty},
+  author       = {Mizrahi, Moti},
+  journaltitle = {Logos \& episteme},
+  publisher    = {Philosophy Documentation Center},
+  volume       = {10},
+  issue        = {2},
+  pages        = {225--227},
+  date         = {2019-07-11},
+  abstract     = {In this discussion note, I put forth an argument from the
+                  factivity of knowledge for the conclusion that knowledge is
+                  epistemic certainty. If this argument is sound, then
+                  epistemologists who think that knowledge is factive are
+                  thereby also committed to the view that knowledge is epistemic
+                  certainty.},
+  urldate      = {2023-11-29}
 }
 
 @ARTICLE{Soyka2017s,
@@ -21679,6 +24054,17 @@
                to encourage more}
 }
 
+@ONLINE{Williams2023c,
+  title     = {Bias Optimizers},
+  author    = {Williams, Damien Patrick},
+  booktitle = {American Scientist},
+  date      = {2023-06-21},
+  abstract  = {AI tools such as ChatGPT appear to magnify some of humanity’s
+               worst qualities, and fixing those tendencies will be no easy
+               task.},
+  urldate   = {2023-11-29}
+}
+
 @BOOK{Hilty2019j,
   title     = {Corridor ecology, second edition: Linking landscapes for
                biodiversity conservation and climate adaptation},
@@ -21690,6 +24076,22 @@
   date      = {2019-06-29},
   pagetotal = {350},
   language  = {en}
+}
+
+@ARTICLE{Scheiner1993c,
+  title        = {An Epistemology for Ecology},
+  author       = {Scheiner, Samuel M and Hudson, André J and VanderMeulen, Mark
+                  A},
+  journaltitle = {Bulletin of the Ecological Society of America},
+  publisher    = {[Wiley, Ecological Society of America]},
+  volume       = {74},
+  issue        = {1},
+  pages        = {17--21},
+  date         = {1993},
+  abstract     = {Samuel M. Scheiner, André J. Hudson, Mark A. VanderMeulen, An
+                  Epistemology for Ecology, Bulletin of the Ecological Society
+                  of America, Vol. 74, No. 1 (Mar., 1993), pp. 17-21},
+  urldate      = {2023-11-29}
 }
 
 @ONLINE{NIHOfficeOfDataScienceStrategy2023x,
@@ -21705,6 +24107,60 @@
               an “open” manner means that you permit users to use, modify,
               and/or redistribute the code.},
   urldate  = {2023-12-12}
+}
+
+@ARTICLE{Bausman2019u,
+  title        = {The Aims and Structures of Ecological Research Programs},
+  author       = {Bausman, William},
+  journaltitle = {Philosophical Topics},
+  publisher    = {University of Arkansas Press},
+  volume       = {47},
+  issue        = {1},
+  pages        = {1--20},
+  date         = {2019},
+  abstract     = {[Neutral Theory is controversial in ecology. Ecologists and
+                  philosophers have diagnosed the source of the controversy as:
+                  its false assumption that individuals in different species
+                  within the same trophic level are ecologically equivalent, its
+                  conflict with Competition Theory and the adaptation of
+                  species, its role as a null hypothesis, and as a Lakatosian
+                  research programme. In this paper, I show why we should
+                  instead understand the conflict at the level of research
+                  programs which involve more than theory. The Neutralist and
+                  Competitionist research programs borrow and construct
+                  theories, models, and experiments for various aims and given
+                  their home ecological systems. I present a holistic and
+                  pragmatic view of the controversy that foregrounds the
+                  interrelation between many kinds of practices and decisions in
+                  ecological research.]}
+}
+
+@ARTICLE{Lean2019u,
+  title        = {General Unificatory Theories in Community Ecology},
+  author       = {Lean, Christopher Hunter},
+  journaltitle = {Philosophical Topics},
+  publisher    = {University of Arkansas Press},
+  volume       = {47},
+  issue        = {1},
+  pages        = {125--142},
+  date         = {2019},
+  abstract     = {[The question of whether there are laws of nature in ecology
+                  has developed substantially in the last 20 years. Many have
+                  attempted to rehabilitate ecology’s lawlike status through
+                  establishing that ecology possesses laws that robustly appear
+                  across many different ecological systems. I argue that there
+                  is still something missing, which explains why so many have
+                  been skeptical of ecology’s lawlike status. Community ecology
+                  has struggled to establish what I call a General Unificatory
+                  Theory (GUT). The lack of a GUT causes problems for
+                  explanation as there are no guidelines for how to integrate
+                  the lower-level mathematical and causal models into a larger
+                  theory of how ecological assemblages are formed. I turn to a
+                  promising modern attempt to provide a unified higher-level
+                  explanation in ecology, presented by ecologist Mark Vellend,
+                  and advocate for philosophical engagement with its prospects
+                  for aiding ecological explanation.]},
+  urldate      = {2023-11-29}
 }
 
 @ARTICLE{Royaux2024n,
@@ -21746,6 +24202,101 @@
   author  = {{The BSON specification contributors}},
   date    = {2022},
   urldate = {2023-12-12}
+}
+
+@ARTICLE{Trombley2019a,
+  title        = {Quantifying the Scientific Cost of Ambiguous Terminology in
+                  Community Ecology},
+  author       = {Trombley, Carolyn A and Cottenie, Karl},
+  journaltitle = {Philosophical Topics},
+  publisher    = {University of Arkansas Press},
+  volume       = {47},
+  issue        = {1},
+  pages        = {203--218},
+  date         = {2019},
+  abstract     = {[Fundamental terms in the field of ecology are ambiguous, with
+                  multiple meanings associated with them. While this could lead
+                  to confusion, discord, or even tests that violate core
+                  assumptions of a given theory or model, this ambiguity could
+                  also be a feature that allows for new knowledge creation
+                  through the interconnected nature of concepts. We approached
+                  this debate from a quantitative perspective, and investigated
+                  the cost of ambiguity related to definitions of ecological
+                  units in ecology related to the general term “community.” We
+                  did a meta-analysis of tests associated with two bodies of
+                  literature, Hubbell’s unified neutral theory of biodiversity
+                  and biogeography and Diamond’s assembly rules, that rely on a
+                  specific ecological unit that assumes that species are
+                  existing within a local area and that they have overlapping
+                  resource needs. We predicted that if ambiguous terminology is
+                  widespread, then researchers will have tested them with many
+                  different ecological units, that in addition some of these
+                  ecological units will violate the core assumptions of the
+                  theory, and finally that the overall level of support for a
+                  theory will be stronger if appropriate ecological units were
+                  used. We found that indeed multiple different ecological units
+                  were used in the literature to test both theories, with 65
+                  percent appropriate ecological units for neutral theory tests,
+                  and only 6 percent for assembly rule tests. Finally, there was
+                  some evidence that the support for a theory depended on
+                  whether appropriate ecological units were used for neutral
+                  tests, but there was not enough data for the assembly rule
+                  tests. These results thus show that ambiguous terminology in
+                  ecology is having measurable effects on research and is not of
+                  solely philosophical concern. We advocate that authors be
+                  explicit in their writing and outline core assumptions of
+                  theories, that researchers apply these consistently in their
+                  tests, and that readers be attentive to what is written and
+                  cognizant of their potential biases.]}
+}
+
+@ONLINE{Vitali_undated-lx,
+  title   = {Local and regional processes drive distance decay in structure in a
+             spatial multilayer plant-pollinator network},
+  author  = {Vitali, Agustin and Goldstein, Maya and Markfeld, Matan and
+             Pilosof, Shai},
+  urldate = {2023-11-25}
+}
+
+@MISC{Lucas1999l,
+  title     = {The phantom menace : illustrated screenplay},
+  author    = {Lucas, George},
+  publisher = {Random House},
+  location  = {Milsons Point, N.S.W.},
+  date      = {1999}
+}
+
+@INPROCEEDINGS{Nirwan2019-tr,
+  title     = {Rotation Invariant Householder Parameterization for {B}ayesian
+               {PCA}},
+  author    = {Nirwan, Rajbir and Bertschinger, Nils},
+  editor    = {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
+  booktitle = {Proceedings of the 36th International Conference on Machine
+               Learning},
+  publisher = {PMLR},
+  volume    = {97},
+  pages     = {4820--4828},
+  date      = {2019},
+  abstract  = {We consider probabilistic PCA and related factor models from a
+               Bayesian perspective. These models are in general not
+               identifiable as the likelihood has a rotational symmetry. This
+               gives rise to complicated posterior distributions with continuous
+               subspaces of equal density and thus hinders efficiency of
+               inference as well as interpretation of obtained parameters. In
+               particular, posterior averages over factor loadings become
+               meaningless and only model predictions are unambiguous. Here, we
+               propose a parameterization based on Householder transformations,
+               which remove the rotational symmetry of the posterior.
+               Furthermore, by relying on results from random matrix theory, we
+               establish the parameter distribution which leaves the model
+               unchanged compared to the original rotationally symmetric
+               formulation. In particular, we avoid the need to compute the
+               Jacobian determinant of the parameter transformation. This allows
+               us to efficiently implement probabilistic PCA in a rotation
+               invariant fashion in any state of the art toolbox. Here, we
+               implemented our model in the probabilistic programming language
+               Stan and illustrate it on several examples.},
+  series    = {Proceedings of Machine Learning Research}
 }
 
 @ARTICLE{Catchen2023t,
@@ -21865,6 +24416,15 @@
   booktitle = {JSTOR Daily},
   date      = {2021-11-15},
   urldate   = {2024-01-19}
+}
+
+@BOOK{Margalef1997m,
+  title     = {Our Biosphere},
+  author    = {Margalef, Ramon},
+  publisher = {Ecology Institute},
+  location  = {Oldendorf},
+  date      = {1997},
+  series    = {Excellence in Ecology}
 }
 
 @ONLINE{Poisot2020c,
