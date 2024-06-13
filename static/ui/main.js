@@ -31,7 +31,7 @@ window.onscroll = function () {
 } 
 
 function changeSplashImage() {
-    var nImages = 8;
+    var nImages = 11;
     var num = Math.ceil( Math.random() * nImages );
     var img = 'backgrounds/'+num+'.jpg';
     document.body.style.backgroundImage = "url('" + img + "')";

@@ -1,22 +1,13 @@
 <div class="publication">
 {{ $year := index .issued "date-parts" 0 0 | string }}
-<div class="metadata title">
+<div class="title">
     <i class="ri-article-line"></i> 
     {{ title .title }}
 </div>
-<div class="metadata authors">
-    <i class="ri-group-2-line"></i> 
-    {{ range $author := .author }}
-    <span class="family">{{ $author.family }}</span>,
-    <span class="given">{{ range $names := split $author.given " " }}
-        {{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}
-        {{ end }}</span>
-    {{ end }}
-</div>
-<div class="metadata year">
+<span class="metadata year">
     <i class="ri-calendar-2-line"></i> 
     {{ $year }}
-</div>
+</span>
 {{ if isset . "DOI"}}
 <span class="metadata link">
     <i class="ri-external-link-line"></i> 
@@ -33,6 +24,15 @@
     <a href="https://scholar.google.com/scholar?q={{.title}}" title="Find on google scholar" target="_blank">Google Scholar</a>
 </span>
 {{ end }}
+<div class="authors">
+    <i class="ri-group-2-line"></i> 
+    {{ range $key, $author := .author }}
+    <span class="name">
+        <span class="given">{{ range $names := split $author.given " " }}{{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}{{ end }}</span>
+        <span class="family">{{ $author.family }}</span>
+    </span>
+    {{ end }}
+</div>
 </div>
 <!--
 <span class="badges">

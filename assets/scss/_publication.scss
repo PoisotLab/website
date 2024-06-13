@@ -1,10 +1,39 @@
 .publication {
+    line-height: 140%;
     margin-bottom: 2em;
     i {
         font-weight: 100 !important;
         color: $lab-green-dark;
     }
     .title {
-        font-weight: 600;
+        font-weight: 500;
+    }
+    .metadata {
+        margin-right: 2em;
+    }
+    .authors {
+        .name {
+            display: inline;
+            &:after {
+                content: ", ";
+            }
+            &:last-child {
+                &:after {
+                    content: " ";
+                }
+            }
+            &:nth-last-child(2) {
+                &::after {
+                    content: " & ";
+                }
+            }
+        }
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        &:hover {
+            overflow: visible;
+            white-space: wrap;
+        }
     }
 }

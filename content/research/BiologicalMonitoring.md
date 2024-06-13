@@ -1,5 +1,10 @@
 ---
-title: Monitoring
+title: Monitoring for biodiversity and disease
+slug: BiologicalMonitoring
 weight: 1
+image: topics/BiologicalMonitoring.png
 ---
 
+Where do we look? With what tools? We build software, simulations, and theories, to understand where we can monitor environmental processes, with a specific focus on biodiversity and disease.
+
+<!--more-->
