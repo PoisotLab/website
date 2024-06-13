@@ -1,0 +1,139 @@
+[
+  {
+    "DOI": "10.1111/ecog.04006",
+    "author": [
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Dunne",
+        "given": "Jennifer A"
+      },
+      {
+        "family": "Kopelke",
+        "given": "Jens-Peter"
+      },
+      {
+        "family": "Martinez",
+        "given": "Neo D"
+      },
+      {
+        "family": "Nyman",
+        "given": "Tommi"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Tylianakis",
+        "given": "Jason M"
+      },
+      {
+        "family": "Wood",
+        "given": "Spencer A"
+      },
+      {
+        "family": "Roslin",
+        "given": "Tomas"
+      }
+    ],
+    "container-title": "Ecography",
+    "id": "Gravel2019n",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "page": "401-415",
+    "publisher": "Wiley",
+    "title": "Bringing elton and grinnell together: A quantitative framework to represent the biogeography of ecological interaction networks",
+    "title-short": "Bringing elton and grinnell together",
+    "type": "article-journal",
+    "volume": "42"
+  },
+  {
+    "DOI": "10.1111/2041-210x.13835",
+    "author": [
+      {
+        "family": "Strydom",
+        "given": "Tanya"
+      },
+      {
+        "family": "Bouskila",
+        "given": "Salomé"
+      },
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Barros",
+        "given": "Ceres"
+      },
+      {
+        "family": "Caron",
+        "given": "Dominique"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Hemming",
+        "given": "Victoria"
+      },
+      {
+        "family": "Mercier",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Pollock",
+        "given": "Laura J"
+      },
+      {
+        "family": "Runghen",
+        "given": "Rogini"
+      },
+      {
+        "family": "Dalla Riva",
+        "given": "Giulio V"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Strydom2022g",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "page": "2838-2849",
+    "publisher": "Wiley",
+    "title": "Food web reconstruction through phylogenetic transfer of low‐rank network representation",
+    "type": "article-journal",
+    "volume": "13"
+  }
+]
