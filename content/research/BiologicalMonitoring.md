@@ -1,8 +1,7 @@
 ---
 title: Biodiversity monitoring and biosurveillance
-slug: BiologicalMonitoring
 weight: 1
-image: topics/BiologicalMonitoring.png
+star: true
 ---
 
 Where do we look? With what tools? We build software, simulations, and theories, to understand where we can monitor environmental processes, with a specific focus on biodiversity and disease.

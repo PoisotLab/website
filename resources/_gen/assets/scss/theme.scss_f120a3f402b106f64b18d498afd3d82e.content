@@ -1,6 +1,5 @@
 /* SCSS RGB */
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
 h1 {
   color: #114f54; }
 
@@ -11,7 +10,7 @@ html {
   font-size: 18px; }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Mulish', sans-serif;
   font-weight: 400; }
 
 b, strong {
@@ -19,9 +18,6 @@ b, strong {
 
 em, i {
   font-weight: inherit; }
-
-h1, h2 {
-  font-family: "Roboto Slab", sans-serif; }
 
 nav#topbar {
   overflow: hidden;
@@ -108,13 +104,6 @@ html, body {
   overflow-x: hidden;
   min-height: 100vh; }
 
-body {
-  background-image: url("/backgrounds/1.jpg");
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat; }
-
 header {
   line-height: 3em;
   color: white;
@@ -122,8 +111,7 @@ header {
   position: relative;
   top: 0;
   z-index: -1;
-  font-size: 1.6rem;
-  background-color: rgba(255, 255, 255, 0.7); }
+  font-size: 1.6rem; }
   header .container {
     margin: 0 auto;
     padding-bottom: 3em !important;
@@ -132,7 +120,6 @@ header {
     color: #2e5385; }
 
 main#content {
-  background-color: #fdfdfd;
   padding-bottom: 5em;
   padding-top: 2em; }
 
@@ -142,155 +129,6 @@ section.container {
   line-height: 1.4; }
   section.container ul, section.container li {
     list-style: none; }
-
-.paper {
-  margin-bottom: 2.8em; }
-  .paper .title {
-    font-weight: 500; }
-  .paper .authors {
-    font-weight: 400; }
-  .paper .link {
-    padding-right: 1em; }
-
-.papercounter {
-  color: #777;
-  float: left; }
-  .papercounter:after {
-    content: ".";
-    padding-right: 0.4em; }
-
-.paper {
-  position: relative;
-  min-height: 160px; }
-  .paper .inner {
-    width: calc(100% - 100px); }
-  .paper .badges {
-    display: block;
-    align-items: center;
-    justify-content: center;
-    min-width: 64px;
-    max-width: 64px;
-    padding: 0px;
-    height: 100%;
-    min-height: 160px;
-    position: absolute;
-    top: 0;
-    right: 0; }
-    .paper .badges a, .paper .badges img {
-      text-decoration: none !important;
-      border-style: none; }
-
-.item:hover .mugshot {
-  filter: grayscale(0%); }
-
-.item .summary span {
-  display: inline-block; }
-  .item .summary span a {
-    display: inline;
-    color: #1d8265;
-    background: none;
-    padding: 0 0;
-    border-radius: 0;
-    font-weight: inherit; }
-    .item .summary span a:hover {
-      color: #114f54; }
-
-.item .social {
-  padding-top: 1em; }
-  .item .social a {
-    color: #1d8265;
-    background: none !important;
-    border-bottom: none; }
-    .item .social a:hover {
-      color: #114f54; }
-
-.item {
-  padding: 0.0em;
-  display: table;
-  clear: both;
-  padding-bottom: 4em;
-  padding-top: 4em; }
-  .item img.header {
-    margin-top: 10px;
-    width: 120px;
-    height: 120px;
-    border-radius: 140px;
-    box-shadow: 0px 0px 4px 0px #d3d0cb;
-    border: 1px solid #e7e5df;
-    float: left;
-    z-index: -6; }
-  .item h2 {
-    padding: 0 0;
-    margin: 0 0; }
-  .item .summary {
-    padding-top: 1em; }
-    .item .summary span {
-      padding-bottom: 0.5em; }
-  .item h2, .item .summary, .item .social {
-    right: 0px;
-    width: calc(100% - 160px);
-    float: right; }
-  .item a {
-    background-color: #2e5385;
-    color: white;
-    font-weight: 800;
-    vertical-align: bottom;
-    padding: 0.1em; }
-    .item a:hover {
-      color: white;
-      background-color: #205cac; }
-  .item h2 {
-    font-weight: 500;
-    font-size: 120%;
-    color: #2e5385; }
-
-#homepage footer, #homepage header {
-  display: none; }
-
-#splash {
-  width: 100vw;
-  height: 100vh;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1000; }
-  #splash section {
-    display: block;
-    position: fixed;
-    left: 0%;
-    width: 50vw;
-    height: 100vh;
-    bottom: 0;
-    margin: 0 auto;
-    background-color: #e7e5df;
-    color: white;
-    text-align: center;
-    padding: 3.5em; }
-    #splash section div {
-      position: absolute;
-      bottom: 0;
-      right: 0;
-      padding: 3rem;
-      text-align: left;
-      max-width: 750px;
-      vertical-align: bottom;
-      color: #1d8265; }
-    #splash section h1 {
-      font-weight: 300;
-      font-size: 1.8rem;
-      text-transform: uppercase;
-      color: #114f54; }
-
-@media only screen and (max-width: 1420px) {
-  #splash section {
-    display: block;
-    position: fixed;
-    left: 0%;
-    width: 100vw;
-    height: 100vh; }
-    #splash section div {
-      max-width: 750px;
-      margin: 0px auto; } }
 
 .publication {
   border: 1px solid #e7e5df;
@@ -322,14 +160,37 @@ section.container {
       overflow: visible;
       white-space: wrap; }
 
-.backdrop {
-  width: 100vw;
-  height: 100vw;
-  background-blend-mode: hue;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: -2; }
+.list .item {
+  clear: both;
+  padding-bottom: 15em; }
+  .list .item:hover img.header {
+    transform: rotate(3deg) scale(1.1); }
+  .list .item img.header {
+    width: 115px;
+    margin-top: 10px;
+    margin-right: -8px;
+    margin-left: 25px;
+    float: right;
+    border-radius: 20px;
+    transform: rotate(0deg);
+    transition: transform .2s ease-in-out;
+    box-shadow: 0px 0px 4px #d3d0cb; }
+  .list .item h2, .list .item .summary {
+    float: left;
+    left: 0px;
+    width: calc(100% - 155px);
+    float: right;
+    display: block; }
+  .list .item h2 {
+    padding: 0px 0px;
+    margin: 0px 0px;
+    font-size: 115%; }
+    .list .item h2 i {
+      color: #d3d0cb !important;
+      font-weight: 300; }
+  .list .item .summary p {
+    margin-top: 0px;
+    line-height: 120%; }
 
 .container a {
   color: #2e5385;
@@ -370,7 +231,7 @@ footer {
   padding-top: 4em;
   background-color: #f3f3f3;
   color: #aeaeae;
-  font-weight: 300; }
+  font-weight: 350; }
 
 #content ul, #content li {
   list-style-type: circle;

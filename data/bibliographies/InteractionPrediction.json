@@ -23,6 +23,80 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.7717/peerj.3644",
+    "PMID": "28828250",
+    "author": [
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "Laigle",
+        "given": "Idaline"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "PeerJ",
+    "id": "Desjardins-Proulx2017m",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          10
+        ]
+      ]
+    },
+    "page": "e3644",
+    "publisher": "PeerJ",
+    "title": "Ecological interactions and the netflix problem",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "DOI": "10.1111/2041-210x.13125",
+    "author": [
+      {
+        "family": "Pomeranz",
+        "given": "Justin P F"
+      },
+      {
+        "family": "Thompson",
+        "given": "Ross M"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Harding",
+        "given": "Jon S"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Pomeranz2019q",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "page": "356-367",
+    "publisher": "Wiley",
+    "title": "Inferring predator–prey interactions in food webs",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
     "DOI": "10.1098/rstb.2021.0063",
     "PMID": "34538135",
     "author": [

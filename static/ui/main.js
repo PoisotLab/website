@@ -1,7 +1,7 @@
 function toggleMainMenu() {
     var nav = document.getElementById("menu");
     var tbar = document.getElementById("topbar");
-    var currentScrollPos = window.pageYOffset;
+    var currentScrollPos = window.scrollY;
     if (nav.style.display === "block") {
         nav.style.display = "none";
         if (tbar.classList.contains("scrolled")) {
@@ -20,7 +20,7 @@ function toggleMainMenu() {
 }
 
 window.onscroll = function () {
-    var currentScrollPos = window.pageYOffset;
+    var currentScrollPos = window.scrollY;
     if (currentScrollPos == 0) {
         document.getElementById("topbar").classList.remove("scrolled");
         document.getElementById("logo-navbar").src="logo/colour-black.png";
@@ -28,11 +28,4 @@ window.onscroll = function () {
         document.getElementById("topbar").classList.add("scrolled");
         document.getElementById("logo-navbar").src="logo/colour-black.png";
     }
-} 
-
-function changeSplashImage() {
-    var nImages = 11;
-    var num = Math.ceil( Math.random() * nImages );
-    var img = 'backgrounds/'+num+'.jpg';
-    document.body.style.backgroundImage = "url('" + img + "')";
 }

@@ -16,14 +16,6 @@ html, body {
     min-height: 100vh;
 }
 
-body {
-    background-image: url("/backgrounds/1.jpg");
-    background-attachment: fixed;
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
 header {
     line-height: 3em;
     color: white;
@@ -32,7 +24,6 @@ header {
     top: 0;
     z-index: -1;
     font-size: 1.6rem;
-    background-color: rgba(255, 255, 255, 0.7);
     .container {
         margin: 0 auto;
         padding-bottom: 3em !important;
@@ -43,7 +34,6 @@ header {
 }
 
 main#content {
-    background-color: #fdfdfd;
     padding-bottom: 5em;
     padding-top: 2em;
 }

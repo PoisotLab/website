@@ -1,0 +1,377 @@
+[
+  {
+    "DOI": "10.1371/journal.pbio.1001960",
+    "author": [
+      {
+        "family": "Hobaiter",
+        "given": "Catherine"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Zuberbühler",
+        "given": "Klaus"
+      },
+      {
+        "family": "Hoppitt",
+        "given": "William"
+      },
+      {
+        "family": "Gruber",
+        "given": "Thibaud"
+      }
+    ],
+    "container-title": "PLoS biology",
+    "id": "Hobaiter2014l",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          30
+        ]
+      ]
+    },
+    "page": "e1001960",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Social network analysis shows direct evidence for social transmission of tool use in wild chimpanzees",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "DOI": "10.1111/geb.12825",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Daijiang"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Waller",
+        "given": "Donald M"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      }
+    ],
+    "container-title": "Global ecology and biogeography: a journal of macroecology",
+    "id": "Li2018y",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12
+        ]
+      ]
+    },
+    "page": "1481-1491",
+    "publisher": "Wiley",
+    "title": "Homogenization of species composition and species association networks are decoupled",
+    "type": "article-journal",
+    "volume": "27"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Tessier",
+        "given": "Anne"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Romans",
+        "given": "Pascal"
+      },
+      {
+        "family": "Desdevises",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "Vie et Milieu",
+    "id": "Tessier2010o",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          1
+        ]
+      ]
+    },
+    "page": "299-305",
+    "publisher": "unknown",
+    "title": "Effects of recreational fishing of paracentrotus lividus on populations of sea urchins in mediterranean",
+    "type": "article-journal",
+    "volume": "60"
+  },
+  {
+    "DOI": "10.1002/ece3.508",
+    "PMID": "23610649",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Péquin",
+        "given": "Bérangère"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecology and evolution",
+    "id": "Poisot2013f",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          4
+        ]
+      ]
+    },
+    "page": "1125-1139",
+    "publisher": "Wiley",
+    "title": "High-throughput sequencing: A roadmap toward community ecology",
+    "title-short": "High-throughput sequencing",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "DOI": "10.1080/19420889.2015.1017164",
+    "PMID": "26479151",
+    "author": [
+      {
+        "family": "Gruber",
+        "given": "Thibaud"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Zuberbühler",
+        "given": "Klaus"
+      },
+      {
+        "family": "Hoppitt",
+        "given": "William"
+      },
+      {
+        "family": "Hobaiter",
+        "given": "Catherine"
+      }
+    ],
+    "container-title": "Communicative & integrative biology",
+    "id": "Gruber2015d",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3
+        ]
+      ]
+    },
+    "page": "e1017164",
+    "publisher": "Informa UK Limited",
+    "title": "The spread of a novel behavior in wild chimpanzees: New insights into the ape cultural mind",
+    "title-short": "The spread of a novel behavior in wild chimpanzees",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.3354/ame01814",
+    "author": [
+      {
+        "family": "Péquin",
+        "given": "B"
+      },
+      {
+        "family": "Mohit",
+        "given": "V"
+      },
+      {
+        "family": "Poisot",
+        "given": "T"
+      },
+      {
+        "family": "Tremblay",
+        "given": "R"
+      },
+      {
+        "family": "Lovejoy",
+        "given": "C"
+      }
+    ],
+    "container-title": "Aquatic microbial ecology: international journal",
+    "id": "Pequin2017o",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          10
+        ]
+      ]
+    },
+    "page": "187-200",
+    "publisher": "Inter-Research Science Center",
+    "title": "Wind drives microbial eukaryote communities in a temperate closed lagoon",
+    "type": "article-journal",
+    "volume": "78"
+  },
+  {
+    "DOI": "10.1093/biosci/biz089",
+    "author": [
+      {
+        "family": "Malaterre",
+        "given": "Christophe"
+      },
+      {
+        "family": "Dussault",
+        "given": "Antoine C"
+      },
+      {
+        "family": "Mermans",
+        "given": "Ely"
+      },
+      {
+        "family": "Barker",
+        "given": "Gillian"
+      },
+      {
+        "family": "Beisner",
+        "given": "Beatrix E"
+      },
+      {
+        "family": "Bouchard",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Desjardins",
+        "given": "Eric"
+      },
+      {
+        "family": "Handa",
+        "given": "I Tanya"
+      },
+      {
+        "family": "Kembel",
+        "given": "Steven W"
+      },
+      {
+        "family": "Lajoie",
+        "given": "Geneviève"
+      },
+      {
+        "family": "Maris",
+        "given": "Virginie"
+      },
+      {
+        "family": "Munson",
+        "given": "Alison D"
+      },
+      {
+        "family": "Odenbaugh",
+        "given": "Jay"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Shapiro",
+        "given": "B Jesse"
+      },
+      {
+        "family": "Suttle",
+        "given": "Curtis A"
+      }
+    ],
+    "container-title": "Bioscience",
+    "id": "Malaterre2019v",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          1
+        ]
+      ]
+    },
+    "page": "800-811",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Functional diversity: An epistemic roadmap",
+    "title-short": "Functional diversity",
+    "type": "article-journal",
+    "volume": "69"
+  },
+  {
+    "DOI": "10.1139/facets-2023-0025",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Dupont",
+        "given": "Andréanne"
+      },
+      {
+        "family": "Botrel",
+        "given": "Morgan"
+      },
+      {
+        "family": "St-Gelais",
+        "given": "Nicolas Fortin"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Maranger",
+        "given": "Roxane"
+      }
+    ],
+    "container-title": "Facets (Ottawa)",
+    "id": "Dupont2023j",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          1
+        ]
+      ]
+    },
+    "page": "1-16",
+    "publisher": "Canadian Science Publishing",
+    "title": "A social–ecological geography of southern canadian lakes",
+    "type": "article-journal",
+    "volume": "8"
+  }
+]

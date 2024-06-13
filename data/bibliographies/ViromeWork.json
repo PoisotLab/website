@@ -1,0 +1,327 @@
+[
+  {
+    "DOI": "10.1093/biosci/biab080",
+    "author": [
+      {
+        "family": "Gibb",
+        "given": "Rory"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Brierley",
+        "given": "Liam"
+      },
+      {
+        "family": "Connor",
+        "given": "Ryan"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad A"
+      },
+      {
+        "family": "Eskew",
+        "given": "Evan A"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Rasmussen",
+        "given": "Angela L"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie J"
+      },
+      {
+        "family": "Sweeny",
+        "given": "Amy"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Bioscience",
+    "id": "Gibb2021g",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          25
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Data proliferation, reconciliation, and synthesis in viral ecology",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1038/s41564-021-00999-5",
+    "PMID": "34819645",
+    "author": [
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Brierley",
+        "given": "Liam"
+      },
+      {
+        "family": "Brook",
+        "given": "Cara E"
+      },
+      {
+        "family": "Christofferson",
+        "given": "Rebecca C"
+      },
+      {
+        "family": "Cohen",
+        "given": "Lily E"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad A"
+      },
+      {
+        "family": "Eskew",
+        "given": "Evan A"
+      },
+      {
+        "family": "Fagre",
+        "given": "Anna"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Glennon",
+        "given": "Emma"
+      },
+      {
+        "family": "Guth",
+        "given": "Sarah"
+      },
+      {
+        "family": "Joseph",
+        "given": "Maxwell B"
+      },
+      {
+        "family": "Mollentze",
+        "given": "Nardus"
+      },
+      {
+        "family": "Neely",
+        "given": "Benjamin A"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Rasmussen",
+        "given": "Angela L"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie J"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Sjodin",
+        "given": "Anna R"
+      },
+      {
+        "family": "Sorrell",
+        "given": "Erin M"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "container-title": "Nature microbiology",
+    "id": "Albery2021t",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "page": "1483-1492",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "The science of the host-virus network",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1128/mbio.02985-21",
+    "PMID": "35229639",
+    "author": [
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Gibb",
+        "given": "Rory J"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Brierley",
+        "given": "Liam"
+      },
+      {
+        "family": "Connor",
+        "given": "Ryan P"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad A"
+      },
+      {
+        "family": "Eskew",
+        "given": "Evan A"
+      },
+      {
+        "family": "Fagre",
+        "given": "Anna C"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Frank",
+        "given": "Hannah K"
+      },
+      {
+        "family": "Muylaert",
+        "given": "Renata L"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Rasmussen",
+        "given": "Angela L"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie J"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie N"
+      }
+    ],
+    "container-title": "mBio",
+    "id": "Carlson2022n",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          26
+        ]
+      ]
+    },
+    "page": "e0298521",
+    "publisher": "American Society for Microbiology",
+    "title": "The global virome in one network (VIRION): An atlas of vertebrate-virus associations",
+    "title-short": "The global virome in one network (VIRION)",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
+    "DOI": "10.1016/j.patter.2023.100738",
+    "PMID": "37409053",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Ouellet",
+        "given": "Marie-Andrée"
+      },
+      {
+        "family": "Mollentze",
+        "given": "Nardus"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Brierley",
+        "given": "Liam"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Gibb",
+        "given": "Rory J"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie N"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "container-title": "Patterns (New York, N.Y.)",
+    "id": "Poisot2023z",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          9
+        ]
+      ]
+    },
+    "page": "100738",
+    "publisher": "Elsevier BV",
+    "title": "Network embedding unveils the hidden interactions in the mammalian virome",
+    "type": "article-journal",
+    "volume": "4"
+  }
+]

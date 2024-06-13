@@ -1,0 +1,536 @@
+[
+  {
+    "DOI": "10.1111/ecog.04310",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bélisle",
+        "given": "Zachary"
+      },
+      {
+        "family": "Hoebeke",
+        "given": "Laura"
+      },
+      {
+        "family": "Stock",
+        "given": "Michiel"
+      },
+      {
+        "family": "Szefer",
+        "given": "Piotr"
+      }
+    ],
+    "container-title": "Ecography",
+    "id": "Poisot2019y",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11
+        ]
+      ]
+    },
+    "page": "1850-1861",
+    "publisher": "Wiley",
+    "title": "EcologicalNetworks.jl: Analysing ecological networks of species interactions",
+    "title-short": "EcologicalNetworks.jl",
+    "type": "article-journal",
+    "volume": "42"
+  },
+  {
+    "DOI": "10.1016/b978-0-12-409548-9.10564-0",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Besson",
+        "given": "Mathilde"
+      },
+      {
+        "family": "Delmas",
+        "given": "Eva"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Encyclopedia of ecology",
+    "id": "Besson2019v",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          1
+        ]
+      ]
+    },
+    "page": "536-545",
+    "publisher": "Elsevier",
+    "title": "Complex ecological networks",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1111/2041-210x.12468",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Cirtwill",
+        "given": "Alyssa R"
+      },
+      {
+        "family": "Cazelles",
+        "given": "Kévin"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Poisot2016n",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "page": "303-312",
+    "publisher": "Wiley",
+    "title": "The structure of probabilistic networks",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "DOI": "10.1111/brv.12433",
+    "author": [
+      {
+        "family": "Delmas",
+        "given": "Eva"
+      },
+      {
+        "family": "Besson",
+        "given": "Mathilde"
+      },
+      {
+        "family": "Brice",
+        "given": "Marie‐hélène"
+      },
+      {
+        "family": "Burkle",
+        "given": "Laura A"
+      },
+      {
+        "family": "Dalla Riva",
+        "given": "Giulio V"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie‐josée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Guimarães",
+        "given": "Paulo R",
+        "suffix": "Jr"
+      },
+      {
+        "family": "Hembry",
+        "given": "David H"
+      },
+      {
+        "family": "Newman",
+        "given": "Erica A"
+      },
+      {
+        "family": "Olesen",
+        "given": "Jens M"
+      },
+      {
+        "family": "Pires",
+        "given": "Mathias M"
+      },
+      {
+        "family": "Yeakel",
+        "given": "Justin D"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Biological Reviews",
+    "id": "Delmas2019f",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          20
+        ]
+      ]
+    },
+    "page": "16-36",
+    "publisher": "Wiley Online Library",
+    "title": "Analysing ecological networks of species interactions",
+    "type": "article-journal",
+    "volume": "94"
+  },
+  {
+    "DOI": "10.12688/f1000research.2-130.v3",
+    "PMID": "24555062",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "F1000Research",
+    "id": "Poisot2013l",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          23
+        ]
+      ]
+    },
+    "page": "130",
+    "publisher": "F1000 Research, Ltd.",
+    "title": "An a posteriori measure of network modularity",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "DOI": "10.1111/2041-210x.12468",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Cirtwill",
+        "given": "Alyssa R"
+      },
+      {
+        "family": "Cazelles",
+        "given": "Kévin"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Poisot2016a",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "page": "303-312",
+    "publisher": "Wiley",
+    "title": "The structure of probabilistic networks",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "DOI": "10.1111/brv.12433",
+    "PMID": "29923657",
+    "author": [
+      {
+        "family": "Delmas",
+        "given": "Eva"
+      },
+      {
+        "family": "Besson",
+        "given": "Mathilde"
+      },
+      {
+        "family": "Brice",
+        "given": "Marie-Hélène"
+      },
+      {
+        "family": "Burkle",
+        "given": "Laura A"
+      },
+      {
+        "family": "Dalla Riva",
+        "given": "Giulio V"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Guimarães",
+        "given": "Paulo R",
+        "suffix": "Jr"
+      },
+      {
+        "family": "Hembry",
+        "given": "David H"
+      },
+      {
+        "family": "Newman",
+        "given": "Erica A"
+      },
+      {
+        "family": "Olesen",
+        "given": "Jens M"
+      },
+      {
+        "family": "Pires",
+        "given": "Mathias M"
+      },
+      {
+        "family": "Yeakel",
+        "given": "Justin D"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Biological reviews of the Cambridge Philosophical Society",
+    "id": "Delmas2019i",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          2
+        ]
+      ]
+    },
+    "page": "16-36",
+    "publisher": "Wiley",
+    "title": "Analysing ecological networks of species interactions",
+    "type": "article-journal",
+    "volume": "94"
+  },
+  {
+    "DOI": "10.1038/s41467-018-05056-0",
+    "author": [
+      {
+        "family": "Bramon Mora",
+        "given": "Bernat"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Gilarranz",
+        "given": "Luis J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "Nature communications",
+    "id": "BramonMora2018u",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          4
+        ]
+      ]
+    },
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Identifying a common backbone of interactions underlying food webs from different ecosystems",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "DOI": "10.1016/j.patter.2020.100079",
+    "PMID": "33205136",
+    "author": [
+      {
+        "family": "MacDonald",
+        "given": "Arthur Andrew Meahan"
+      },
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Patterns (New York, N.Y.)",
+    "id": "MacDonald2020i",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          9
+        ]
+      ]
+    },
+    "page": "100079",
+    "publisher": "Elsevier BV",
+    "title": "Revisiting the links-species scaling relationship in food webs",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "DOI": "10.3389/fevo.2021.623141",
+    "author": [
+      {
+        "family": "Strydom",
+        "given": "Tanya"
+      },
+      {
+        "family": "Dalla Riva",
+        "given": "Giulio V"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Frontiers in ecology and evolution",
+    "id": "Strydom2021j",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          10
+        ]
+      ]
+    },
+    "publisher": "Frontiers Media SA",
+    "title": "SVD entropy reveals the high complexity of ecological networks",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "DOI": "10.1371/journal.pbio.3002068",
+    "PMID": "37011096",
+    "author": [
+      {
+        "family": "Brimacombe",
+        "given": "Chris"
+      },
+      {
+        "family": "Bodner",
+        "given": "Korryn"
+      },
+      {
+        "family": "Michalska-Smith",
+        "given": "Matthew"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      }
+    ],
+    "container-title": "PLoS biology",
+    "id": "Brimacombe2023w",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "page": "e3002068",
+    "title": "Shortcomings of reusing species interaction networks created by different sets of researchers",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "DOI": "10.1371/journal.pcbi.1011458",
+    "PMID": "37669314",
+    "author": [
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "PLoS computational biology",
+    "id": "Banville2023w",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "page": "e1011458",
+    "title": "What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases",
+    "type": "article-journal",
+    "volume": "19"
+  }
+]

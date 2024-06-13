@@ -1,5 +1,167 @@
 [
   {
+    "DOI": "10.1111/ecog.01941",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Leroux",
+        "given": "Shawn"
+      },
+      {
+        "family": "Wood",
+        "given": "Spencer A"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Cirtwill",
+        "given": "Alyssa R"
+      },
+      {
+        "family": "Araújo",
+        "given": "Miguel B"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "Ecography",
+    "id": "Poisot2016h",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          1
+        ]
+      ]
+    },
+    "page": "402-408",
+    "publisher": "Wiley",
+    "title": "Synthetic datasets and community tools for the rapid testing of ecological hypotheses",
+    "type": "article-journal",
+    "volume": "39"
+  },
+  {
+    "DOI": "10.1111/ecog.00976",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Dunne",
+        "given": "Jennifer A"
+      },
+      {
+        "family": "Kéfi",
+        "given": "Sonia"
+      },
+      {
+        "family": "Massol",
+        "given": "François"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Romanuk",
+        "given": "Tamara N"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Wood",
+        "given": "Spencer A"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecography",
+    "id": "Poisot2016f",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4
+        ]
+      ]
+    },
+    "page": "384-390",
+    "publisher": "Wiley",
+    "title": "Mangal – making ecological network analysis simple",
+    "type": "article-journal",
+    "volume": "39"
+  },
+  {
+    "DOI": "10.1038/srep45908",
+    "author": [
+      {
+        "family": "Stock",
+        "given": "Michiel"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Waegeman",
+        "given": "Willem"
+      },
+      {
+        "family": "De Baets",
+        "given": "Bernard"
+      }
+    ],
+    "container-title": "Scientific reports",
+    "id": "Stock2017x",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          6
+        ]
+      ]
+    },
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Linear filtering reveals false negatives in species interaction data",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
     "DOI": "10.7717/peerj.7566",
     "PMID": "31534845",
     "author": [

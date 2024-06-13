@@ -1,5 +1,80 @@
 [
   {
+    "DOI": "10.1017/cbo9781139794749.028",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Parasite diversity and diversification",
+    "editor": [
+      {
+        "family": "Morand",
+        "given": "Serge"
+      },
+      {
+        "family": "Krasnov",
+        "given": "Boris R"
+      },
+      {
+        "family": "Littlewood",
+        "given": "D Timothy J"
+      }
+    ],
+    "id": "Poisot2015r",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          26
+        ]
+      ]
+    },
+    "page": "420-433",
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge",
+    "title": "When is co-phylogeny evidence of coevolution?",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.5281/ZENODO.5722853",
+    "author": [
+      {
+        "family": "Dhane",
+        "given": "Fares"
+      },
+      {
+        "family": "Soeharjono",
+        "given": "Sandrine"
+      },
+      {
+        "family": "Stern",
+        "given": "Kiri"
+      },
+      {
+        "family": "MacDonald",
+        "given": "Andrew"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Dhane2021e",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "title": "[Re] the evolution of virulence in pathogens with vertical and horizontal transmission",
+    "type": ""
+  },
+  {
     "DOI": "10.1098/rspb.2011.0826",
     "PMID": "21653583",
     "author": [
@@ -179,5 +254,52 @@
     "title": "Beta and phylogenetic diversities tell complementary stories about ecological networks biogeography",
     "type": "article-journal",
     "volume": "148"
+  },
+  {
+    "DOI": "10.1093/ve/vead079",
+    "PMID": "38361817",
+    "author": [
+      {
+        "family": "Forero-Muñoz",
+        "given": "Norma R"
+      },
+      {
+        "family": "Muylaert",
+        "given": "Renata L"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie N"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Virus evolution",
+    "id": "Forero-Munoz2024a",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "vead079",
+    "title": "The coevolutionary mosaic of bat betacoronavirus emergence risk",
+    "type": "article-journal",
+    "volume": "10"
   }
 ]

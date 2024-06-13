@@ -2,21 +2,12 @@
 @import "_type";
 @import "_navbar";
 @import "_layout";
-@import "_papers";
-@import "_listing";
-@import "_index";
 
+// Format the list of papers
 @import "_publication";
 
-.backdrop {
-    width: 100vw;
-    height: 100vw;
-    background-blend-mode: hue;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -2;
-}
+// List of research topics
+@import "_topics";
 
 .container {
     a {
@@ -73,7 +64,7 @@ footer {
     padding-top: 4em;
     background-color: #f3f3f3;
     color: #aeaeae;
-    font-weight: 300;
+    font-weight: 350;
 }
 
 #content {
