@@ -1,0 +1,183 @@
+[
+  {
+    "DOI": "10.1098/rspb.2011.0826",
+    "PMID": "21653583",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Thrall",
+        "given": "Peter H"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Proceedings. Biological sciences",
+    "id": "Poisot2012b",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          22
+        ]
+      ]
+    },
+    "page": "299-308",
+    "publisher": "The Royal Society",
+    "title": "Trophic network structure emerges through antagonistic coevolution in temporally varying environments",
+    "type": "article-journal",
+    "volume": "279"
+  },
+  {
+    "DOI": "10.1111/mec.14008",
+    "PMID": "28092408",
+    "author": [
+      {
+        "family": "Gurney",
+        "given": "James"
+      },
+      {
+        "family": "Aldakak",
+        "given": "Lafi"
+      },
+      {
+        "family": "Betts",
+        "given": "Alex"
+      },
+      {
+        "family": "Gougat-Barbera",
+        "given": "Claire"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Kaltz",
+        "given": "Oliver"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Molecular ecology",
+    "id": "Gurney2017t",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "page": "1764-1777",
+    "publisher": "Wiley",
+    "title": "Network structure and local adaptation in co-evolving bacteria-phage interactions",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "DOI": "10.1111/2041-210x.12736",
+    "author": [
+      {
+        "family": "Hutchinson",
+        "given": "Matthew C"
+      },
+      {
+        "family": "Cagua",
+        "given": "E Fernando"
+      },
+      {
+        "family": "Balbuena",
+        "given": "Juan A"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Hutchinson2017c",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "page": "932-940",
+    "publisher": "Wiley",
+    "title": "Paco: Implementing procrustean approach to cophylogeny in R",
+    "title-short": "Paco",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.1111/oik.03788",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "Oikos (Copenhagen, Denmark)",
+    "id": "Poisot2018z",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "page": "230-238",
+    "publisher": "Wiley",
+    "title": "Interactions retain the co-phylogenetic matching that communities lost",
+    "type": "article-journal",
+    "volume": "127"
+  },
+  {
+    "DOI": "10.1017/S0031182021000391",
+    "PMID": "33678197",
+    "author": [
+      {
+        "family": "Higino",
+        "given": "Gracielle T"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Parasitology",
+    "id": "Higino2021e",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "page": "835-842",
+    "publisher": "Cambridge University Press (CUP)",
+    "title": "Beta and phylogenetic diversities tell complementary stories about ecological networks biogeography",
+    "type": "article-journal",
+    "volume": "148"
+  }
+]

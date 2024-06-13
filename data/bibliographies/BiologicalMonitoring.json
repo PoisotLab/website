@@ -1,5 +1,206 @@
 [
   {
+    "DOI": "10.3389/fenvs.2019.00197",
+    "author": [
+      {
+        "family": "Makiola",
+        "given": "Andreas"
+      },
+      {
+        "family": "Compson",
+        "given": "Zacchaeus G"
+      },
+      {
+        "family": "Baird",
+        "given": "Donald J"
+      },
+      {
+        "family": "Barnes",
+        "given": "Matthew A"
+      },
+      {
+        "family": "Boerlijst",
+        "given": "Sam P"
+      },
+      {
+        "family": "Bouchez",
+        "given": "Agnès"
+      },
+      {
+        "family": "Brennan",
+        "given": "Georgina"
+      },
+      {
+        "family": "Bush",
+        "given": "Alex"
+      },
+      {
+        "family": "Canard",
+        "given": "Elsa"
+      },
+      {
+        "family": "Cordier",
+        "given": "Tristan"
+      },
+      {
+        "family": "Creer",
+        "given": "Simon"
+      },
+      {
+        "family": "Curry",
+        "given": "R Allen"
+      },
+      {
+        "family": "David",
+        "given": "Patrice"
+      },
+      {
+        "family": "Dumbrell",
+        "given": "Alex J"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Hajibabaei",
+        "given": "Mehrdad"
+      },
+      {
+        "family": "Hayden",
+        "given": "Brian"
+      },
+      {
+        "dropping-particle": "van der",
+        "family": "Hoorn",
+        "given": "Berry"
+      },
+      {
+        "family": "Jarne",
+        "given": "Philippe"
+      },
+      {
+        "family": "Jones",
+        "given": "J Iwan"
+      },
+      {
+        "family": "Karimi",
+        "given": "Battle"
+      },
+      {
+        "family": "Keck",
+        "given": "Francois"
+      },
+      {
+        "family": "Kelly",
+        "given": "Martyn"
+      },
+      {
+        "family": "Knot",
+        "given": "Ineke E"
+      },
+      {
+        "family": "Krol",
+        "given": "Louie"
+      },
+      {
+        "family": "Massol",
+        "given": "Francois"
+      },
+      {
+        "family": "Monk",
+        "given": "Wendy A"
+      },
+      {
+        "family": "Murphy",
+        "given": "John"
+      },
+      {
+        "family": "Pawlowski",
+        "given": "Jan"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Porter",
+        "given": "Teresita M"
+      },
+      {
+        "family": "Randall",
+        "given": "Kate C"
+      },
+      {
+        "family": "Ransome",
+        "given": "Emma"
+      },
+      {
+        "family": "Ravigné",
+        "given": "Virginie"
+      },
+      {
+        "family": "Raybould",
+        "given": "Alan"
+      },
+      {
+        "family": "Robin",
+        "given": "Stephane"
+      },
+      {
+        "family": "Schrama",
+        "given": "Maarten"
+      },
+      {
+        "family": "Schatz",
+        "given": "Bertrand"
+      },
+      {
+        "family": "Tamaddoni-Nezhad",
+        "given": "Alireza"
+      },
+      {
+        "family": "Trimbos",
+        "given": "Krijn B"
+      },
+      {
+        "family": "Vacher",
+        "given": "Corinne"
+      },
+      {
+        "family": "Vasselon",
+        "given": "Valentin"
+      },
+      {
+        "family": "Wood",
+        "given": "Susie"
+      },
+      {
+        "family": "Woodward",
+        "given": "Guy"
+      },
+      {
+        "family": "Bohan",
+        "given": "David A"
+      }
+    ],
+    "container-title": "Frontiers in environmental science",
+    "id": "Makiola2020p",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          9
+        ]
+      ]
+    },
+    "publisher": "Frontiers Media SA",
+    "title": "Key questions for next-generation biomonitoring",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
     "DOI": "10.1098/rsos.190883",
     "PMID": "31827836",
     "author": [
@@ -26,7 +227,6 @@
         ]
       ]
     },
-    "keyword": "community dissimilarity; community ecology; disease forecasting; emerging infectious disease; pathogen biogeography;BiologicalMonitoring",
     "page": "190883",
     "publisher": "The Royal Society",
     "title": "Testing predictability of disease outbreaks with a simple model of pathogen biogeography",
@@ -59,7 +259,6 @@
         ]
       ]
     },
-    "keyword": "BiologicalMonitoring",
     "publisher": "Wiley",
     "title": "Evaluating ecological uniqueness over broad spatial extents using species distribution modelling",
     "type": "article-journal",
@@ -148,7 +347,6 @@
         ]
       ]
     },
-    "keyword": "BiologicalMonitoring",
     "page": "e625-e637",
     "publisher": "Elsevier BV",
     "title": "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs",
@@ -535,7 +733,6 @@
         ]
       ]
     },
-    "keyword": "BiologicalMonitoring",
     "page": "1947-1952",
     "publisher": "Springer Science; Business Media LLC",
     "title": "A global biodiversity observing system to unite monitoring and guide action",

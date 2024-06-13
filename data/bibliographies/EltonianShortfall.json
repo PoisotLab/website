@@ -1,0 +1,177 @@
+[
+  {
+    "DOI": "10.7717/peerj.7566",
+    "PMID": "31534845",
+    "author": [
+      {
+        "dropping-particle": "de",
+        "family": "Aguiar",
+        "given": "Marcus A M"
+      },
+      {
+        "family": "Newman",
+        "given": "Erica A"
+      },
+      {
+        "family": "Pires",
+        "given": "Mathias M"
+      },
+      {
+        "family": "Yeakel",
+        "given": "Justin D"
+      },
+      {
+        "family": "Boettiger",
+        "given": "Carl"
+      },
+      {
+        "family": "Burkle",
+        "given": "Laura A"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Guimarães",
+        "given": "Paulo R",
+        "suffix": "Jr"
+      },
+      {
+        "family": "O’Donnell",
+        "given": "James L"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Hembry",
+        "given": "David H"
+      }
+    ],
+    "container-title": "PeerJ",
+    "id": "deAguiar2019d",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          2
+        ]
+      ]
+    },
+    "page": "e7566",
+    "publisher": "PeerJ",
+    "title": "Revealing biases in the sampling of ecological interaction networks",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "DOI": "10.1111/jbi.14127",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bergeron",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Cazelles",
+        "given": "Kevin"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "MacDonald",
+        "given": "Andrew"
+      },
+      {
+        "family": "Mercier",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Violet",
+        "given": "Clément"
+      },
+      {
+        "family": "Vissault",
+        "given": "Steve"
+      },
+      {
+        "family": "Chapman",
+        "given": "Daniel"
+      }
+    ],
+    "container-title": "Journal of biogeography",
+    "id": "Poisot2021y",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "page": "1552-1563",
+    "publisher": "Wiley",
+    "title": "Global knowledge gaps in species interaction networks data",
+    "type": "article-journal",
+    "volume": "48"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Catchen",
+        "given": "Michael D"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Pollock",
+        "given": "Laura J"
+      },
+      {
+        "family": "Gonzalez",
+        "given": "Andrew"
+      }
+    ],
+    "id": "Catchen2023t",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          19
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "The missing link: Discerning true from false negatives when sampling species interaction networks",
+    "title-short": "The missing link",
+    "type": "article-journal"
+  }
+]
