@@ -292,6 +292,14 @@ section.container {
       max-width: 750px;
       margin: 0px auto; } }
 
+.publication {
+  margin-bottom: 2em; }
+  .publication i {
+    font-weight: 100 !important;
+    color: #114f54; }
+  .publication .title {
+    font-weight: 600; }
+
 .backdrop {
   width: 100vw;
   height: 100vw;

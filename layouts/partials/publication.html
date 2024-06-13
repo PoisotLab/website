@@ -1,0 +1,43 @@
+<div class="publication">
+{{ $year := index .issued "date-parts" 0 0 | string }}
+<div class="metadata title">
+    <i class="ri-article-line"></i> 
+    {{ title .title }}
+</div>
+<div class="metadata authors">
+    <i class="ri-group-2-line"></i> 
+    {{ range $author := .author }}
+    <span class="family">{{ $author.family }}</span>,
+    <span class="given">{{ range $names := split $author.given " " }}
+        {{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}
+        {{ end }}</span>
+    {{ end }}
+</div>
+<div class="metadata year">
+    <i class="ri-calendar-2-line"></i> 
+    {{ $year }}
+</div>
+{{ if isset . "DOI"}}
+<span class="metadata link">
+    <i class="ri-external-link-line"></i> 
+    <a href="http://dx.doi.org/{{ .DOI}}" target="_blank" class="doi" title="Text through DOI">Text (via DOI)</a>
+</span>
+{{ else if isset . "URL" }}
+    <span class="metadata link">
+        <i class="ri-external-link-line"></i> 
+        <a href="{{ .URL}}" target="_blank" title="Text through URL">Text (via URL)</a>
+    </span>
+{{ else }}
+<span class="metadata link">
+    <i class="ri-graduation-cap-line"></i> 
+    <a href="https://scholar.google.com/scholar?q={{.title}}" title="Find on google scholar" target="_blank">Google Scholar</a>
+</span>
+{{ end }}
+</div>
+<!--
+<span class="badges">
+    <div data-badge-popover="right" data-badge-type="4" data-doi="{{ .DOI }}" data-condensed="true"
+        data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+</span>
+-->
+</div>

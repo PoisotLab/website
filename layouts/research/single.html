@@ -6,7 +6,7 @@
         <h2>Publications for this theme</h2>
 
         {{ range index .Site.Data.bibliographies .File.BaseFileName }}
-            {{ partial "article.html" . }}
+            {{ partial "publication.html" . }}
         {{end }}
 
     </section>

@@ -1,6 +1,40 @@
 [
   {
-    "abstract": "Local contributions to beta diversity (LCBD) can be used to identify sites with high ecological uniqueness and exceptional species composition within a region of interest. Yet, these indices are typically used on local or regional scales with relatively few sites, as they require information on complete community compositions difficult to acquire on larger scales. Here, we investigated how LCBD indices can be predicted over broad spatial extents using species distribution modelling and examined the effect of scale changes on beta diversity quantification. We used Bayesian additive regression trees (BARTs) to predict warbler species distributions in North America based on observations recorded in the eBird database. We then calculated LCBD indices for observed and predicted data and compared the site‐wise difference using direct comparison, a spatial association test and generalized linear regression. We also examined the relationship between LCBD values and species richness in different regions and at various spatial extents. Our results showed that species distribution models provided uniqueness estimates highly correlated with observed data. The form and variance of the LCBD–richness relationship varied according to the region and the total extent size. The relationship was also affected by the proportion of rare species in the communities. Therefore, sites identified as unique over broad spatial extents may vary according to regional characteristics. These results show that species distribution modelling can be used to predict ecological uniqueness over broad spatial extents, which could help identify beta diversity hotspots and important targets for conservation purposes in unsampled locations.",
+    "DOI": "10.1098/rsos.190883",
+    "PMID": "31827836",
+    "author": [
+      {
+        "family": "Dallas",
+        "given": "Tad A"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Royal Society open science",
+    "id": "Dallas2019s",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11
+        ]
+      ]
+    },
+    "keyword": "community dissimilarity; community ecology; disease forecasting; emerging infectious disease; pathogen biogeography;BiologicalMonitoring",
+    "page": "190883",
+    "publisher": "The Royal Society",
+    "title": "Testing predictability of disease outbreaks with a simple model of pathogen biogeography",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1111/oik.09063",
     "author": [
       {
         "family": "Dansereau",
@@ -25,13 +59,15 @@
         ]
       ]
     },
+    "keyword": "BiologicalMonitoring",
     "publisher": "Wiley",
     "title": "Evaluating ecological uniqueness over broad spatial extents using species distribution modelling",
     "type": "article-journal",
     "volume": "2022"
   },
   {
-    "abstract": "Despite the global investment in One Health disease surveillance, it remains difficult and costly to identify and monitor the wildlife reservoirs of novel zoonotic viruses. Statistical models can guide sampling target prioritisation, but the predictions from any given model might be highly uncertain; moreover, systematic model validation is rare, and the drivers of model performance are consequently under-documented. Here, we use the bat hosts of betacoronaviruses as a case study for the data-driven process of comparing and validating predictive models of probable reservoir hosts. In early 2020, we generated an ensemble of eight statistical models that predicted host-virus associations and developed priority sampling recommendations for potential bat reservoirs of betacoronaviruses and bridge hosts for SARS-CoV-2. During a time frame of more than a year, we tracked the discovery of 47 new bat hosts of betacoronaviruses, validated the initial predictions, and dynamically updated our analytical pipeline. We found that ecological trait-based models performed well at predicting these novel hosts, whereas network methods consistently performed approximately as well or worse than expected at random. These findings illustrate the importance of ensemble modelling as a buffer against mixed-model quality and highlight the value of including host ecology in predictive models. Our revised models showed an improved performance compared with the initial ensemble, and predicted more than 400 bat species globally that could be undetected betacoronavirus hosts. We show, through systematic validation, that machine learning models can help to optimise wildlife sampling for undiscovered viruses and illustrates how such approaches are best implemented through a dynamic process of prediction, data collection, validation, and updating.",
+    "DOI": "10.1016/S2666-5247(21)00245-7",
+    "PMID": "35036970",
     "author": [
       {
         "family": "Becker",
@@ -112,6 +148,7 @@
         ]
       ]
     },
+    "keyword": "BiologicalMonitoring",
     "page": "e625-e637",
     "publisher": "Elsevier BV",
     "title": "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs",
@@ -119,6 +156,8 @@
     "volume": "3"
   },
   {
+    "DOI": "10.1038/s41559-023-02171-0",
+    "PMID": "37620553",
     "author": [
       {
         "family": "Gonzalez",
@@ -496,6 +535,7 @@
         ]
       ]
     },
+    "keyword": "BiologicalMonitoring",
     "page": "1947-1952",
     "publisher": "Springer Science; Business Media LLC",
     "title": "A global biodiversity observing system to unite monitoring and guide action",
