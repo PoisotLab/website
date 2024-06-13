@@ -293,7 +293,11 @@ section.container {
       margin: 0px auto; } }
 
 .publication {
-  line-height: 140%;
+  border: 1px solid #e7e5df;
+  padding: 0.7rem;
+  border-radius: 0.2em;
+  line-height: 150%;
+  font-size: 90%;
   margin-bottom: 2em; }
   .publication i {
     font-weight: 100 !important;

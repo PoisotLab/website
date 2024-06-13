@@ -1,9 +1,9 @@
 {{ define "main" }}
 <main id="content">
     <section class="container">
+        <div class="research">
         {{ .Content }}
-
-        <h2>Publications for this theme</h2>
+    </div>
 
         {{ range index .Site.Data.bibliographies .File.BaseFileName }}
             {{ partial "publication.html" . }}
