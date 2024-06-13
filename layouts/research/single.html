@@ -2,15 +2,13 @@
 <main id="content">
     <section class="container">
         {{ .Content }}
-        {{ if .Page.Params.papers }}
-        
-        <h2>Selected articles</h2>
-        
-        {{ range where .Site.Data.papers "id" "in" .Page.Params.papers }}
-            {{ partial "article.html" . }}
-        {{ end }}
 
-        {{ end }}
+        <h2>Publications for this theme</h2>
+
+        {{ range index .Site.Data.bibliographies .File.BaseFileName }}
+            {{ partial "article.html" . }}
+        {{end }}
+
     </section>
 </main>
 {{ end }}

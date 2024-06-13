@@ -1,0 +1,382 @@
+[
+  {
+    "abstract": "Global biodiversity and ecosystem service models typically operate independently. Ecosystem service projections may therefore be overly optimistic because they do not always account for the role of biodiversity in maintaining ecological functions. We review models used in recent global model intercomparison projects and develop a novel model integration framework to more fully account for the role of biodiversity in ecosystem function, a key gap for linking biodiversity changes to ecosystem services. We propose two integration pathways. The first uses empirical data on biodiversity-ecosystem function relationships to bridge biodiversity and ecosystem function models and could currently be implemented globally for systems and taxa with sufficient data. We also propose a trait-based approach involving greater incorporation of biodiversity into ecosystem function models. Pursuing both approaches will provide greater insight into biodiversity and ecosystem services projections. Integrating biodiversity, ecosystem function, and ecosystem service modeling will enhance policy development to meet global sustainability goals.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Weiskopf",
+        "given": "Sarah R"
+      },
+      {
+        "family": "Myers",
+        "given": "Bonnie J E"
+      },
+      {
+        "family": "Arce-Plata",
+        "given": "Maria Isabel"
+      },
+      {
+        "family": "Blanchard",
+        "given": "Julia L"
+      },
+      {
+        "family": "Ferrier",
+        "given": "Simon"
+      },
+      {
+        "family": "Fulton",
+        "given": "Elizabeth A"
+      },
+      {
+        "family": "Harfoot",
+        "given": "Mike"
+      },
+      {
+        "family": "Isbell",
+        "given": "Forest"
+      },
+      {
+        "family": "Johnson",
+        "given": "Justin A"
+      },
+      {
+        "family": "Mori",
+        "given": "Akira S"
+      },
+      {
+        "family": "Weng",
+        "given": "Ensheng"
+      },
+      {
+        "family": "HarmáCˇková",
+        "given": "Zuzana V"
+      },
+      {
+        "family": "Londoño-Murcia",
+        "given": "María Cecilia"
+      },
+      {
+        "family": "Miller",
+        "given": "Brian W"
+      },
+      {
+        "family": "Pereira",
+        "given": "Laura M"
+      },
+      {
+        "family": "Rosa",
+        "given": "Isabel M D"
+      }
+    ],
+    "container-title": "Bioscience",
+    "id": "Weiskopf2022c",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          1
+        ]
+      ]
+    },
+    "keyword": "biodiversity; biodiversity-ecosystem function relationships; ecosystem function; ecosystem services; modeling; sustainability; trait-based modeling",
+    "page": "1062-1073",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "A conceptual framework to integrate biodiversity, ecosystem function, and ecosystem service models",
+    "type": "article-journal",
+    "volume": "72"
+  },
+  {
+    "abstract": "Models help decision-makers anticipate the consequences of policies for ecosystems and people; for instance, improving our ability to represent intera…",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Weiskopf",
+        "given": "Sarah R"
+      },
+      {
+        "family": "Harmáčková",
+        "given": "Zuzana V"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ciara G"
+      },
+      {
+        "family": "Londoño-Murcia",
+        "given": "María Cecilia"
+      },
+      {
+        "family": "Miller",
+        "given": "Brian W"
+      },
+      {
+        "family": "Myers",
+        "given": "Bonnie J E"
+      },
+      {
+        "family": "Pereira",
+        "given": "Laura"
+      },
+      {
+        "family": "Arce-Plata",
+        "given": "Maria Isabel"
+      },
+      {
+        "family": "Blanchard",
+        "given": "Julia L"
+      },
+      {
+        "family": "Ferrier",
+        "given": "Simon"
+      },
+      {
+        "family": "Fulton",
+        "given": "Elizabeth A"
+      },
+      {
+        "family": "Harfoot",
+        "given": "Mike"
+      },
+      {
+        "family": "Isbell",
+        "given": "Forest"
+      },
+      {
+        "family": "Johnson",
+        "given": "Justin A"
+      },
+      {
+        "family": "Mori",
+        "given": "Akira S"
+      },
+      {
+        "family": "Weng",
+        "given": "Ensheng"
+      },
+      {
+        "family": "Rosa",
+        "given": "Isabel M D"
+      }
+    ],
+    "container-title": "Environmental modelling & software: with environment data news",
+    "id": "Weiskopf2022y",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          1
+        ]
+      ]
+    },
+    "page": "105318",
+    "publisher": "Elsevier BV",
+    "title": "Increasing the uptake of ecological model results in policy decisions to improve biodiversity outcomes",
+    "type": "article-journal",
+    "volume": "149"
+  },
+  {
+    "abstract": "Data that influence policy and major investment decisions risk entrenching social and political inequities",
+    "author": [
+      {
+        "family": "Chapman",
+        "given": "Melissa"
+      },
+      {
+        "family": "Goldstein",
+        "given": "Benjamin R"
+      },
+      {
+        "family": "Schell",
+        "given": "Christopher J"
+      },
+      {
+        "family": "Brashares",
+        "given": "Justin S"
+      },
+      {
+        "family": "Carter",
+        "given": "Neil H"
+      },
+      {
+        "family": "Ellis-Soto",
+        "given": "Diego"
+      },
+      {
+        "family": "Faxon",
+        "given": "Hilary Oliva"
+      },
+      {
+        "family": "Goldstein",
+        "given": "Jenny E"
+      },
+      {
+        "family": "Halpern",
+        "given": "Benjamin S"
+      },
+      {
+        "family": "Longdon",
+        "given": "Joycelyn"
+      },
+      {
+        "family": "Norman",
+        "given": "Kari E A"
+      },
+      {
+        "family": "O’Rourke",
+        "given": "Dara"
+      },
+      {
+        "family": "Scoville",
+        "given": "Caleb"
+      },
+      {
+        "family": "Xu",
+        "given": "Lily"
+      },
+      {
+        "family": "Boettiger",
+        "given": "Carl"
+      }
+    ],
+    "container-title": "Science",
+    "id": "Chapman2024-gj",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ]
+    },
+    "page": "34-36",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "title": "Biodiversity monitoring for a just planetary future",
+    "type": "article-journal",
+    "volume": "383"
+  },
+  {
+    "abstract": "Improving models of species’ distributions is essential for conservation, especially in light of global change. Species distribution models (SDMs) often rely on mean environmental conditions, yet species distributions are also a function of environmental heterogeneity and filtering acting at multiple spatial scales. Geodiversity, which we define as the variation of abiotic features and processes of Earth’s entire geosphere (inclusive of climate), has potential to improve SDMs and conservation assessments, as they capture multiple abiotic dimensions of species niches, however they have not been sufficiently tested in SDMs. We tested a range of geodiversity variables computed at varying scales using climate and elevation data. We compared predictive performance of MaxEnt SDMs generated using CHELSA bioclimatic variables to those also including geodiversity variables for 31 mammalian species in Colombia. Results show the spatial grain of geodiversity variables affects SDM performance. Some variables consistently exhibited an increasing or decreasing trend in variable importance with spatial grain, showing slight scale-dependence and indicating that some geodiversity variables are more relevant at particular scales for some species. Incorporating geodiversity variables into SDMs, and doing so at the appropriate spatial scales, enhances the ability to model species-environment relationships, thereby contributing to the conservation and management of biodiversity. This article is part of the Theo Murphy meeting issue “Geodiversity for science and society”.",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Gerstner",
+        "given": "Beth E"
+      },
+      {
+        "family": "Blair",
+        "given": "Mary E"
+      },
+      {
+        "family": "Bills",
+        "given": "Patrick"
+      },
+      {
+        "family": "Cruz-Rodriguez",
+        "given": "Cristian A"
+      },
+      {
+        "family": "Zarnetske",
+        "given": "Phoebe L"
+      }
+    ],
+    "container-title": "Philosophical transactions. Series A, Mathematical, physical, and engineering sciences",
+    "id": "Gerstner2024t",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          1
+        ]
+      ]
+    },
+    "publisher": "The Royal Society",
+    "title": "The influence of scale-dependent geodiversity on species distribution models in a biodiversity hotspot",
+    "type": "article-journal",
+    "volume": "382"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lawlor",
+        "given": "Jake"
+      },
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Forero-Muñoz",
+        "given": "Norma-Rocio"
+      },
+      {
+        "family": "Hébert",
+        "given": "Katherine"
+      },
+      {
+        "family": "Martínez-Lanfranco",
+        "given": "Juan Andrés"
+      },
+      {
+        "family": "Rogy",
+        "given": "Pierre"
+      },
+      {
+        "family": "MacDonald",
+        "given": "A Andrew M"
+      }
+    ],
+    "container-title": "PLoS computational biology",
+    "id": "Lawlor2022z",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          1
+        ]
+      ]
+    },
+    "page": "e1010372",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Ten simple rules for teaching yourself R",
+    "type": "article-journal",
+    "volume": "18"
+  }
+]

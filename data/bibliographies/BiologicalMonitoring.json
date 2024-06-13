@@ -1,0 +1,505 @@
+[
+  {
+    "abstract": "Local contributions to beta diversity (LCBD) can be used to identify sites with high ecological uniqueness and exceptional species composition within a region of interest. Yet, these indices are typically used on local or regional scales with relatively few sites, as they require information on complete community compositions difficult to acquire on larger scales. Here, we investigated how LCBD indices can be predicted over broad spatial extents using species distribution modelling and examined the effect of scale changes on beta diversity quantification. We used Bayesian additive regression trees (BARTs) to predict warbler species distributions in North America based on observations recorded in the eBird database. We then calculated LCBD indices for observed and predicted data and compared the site‐wise difference using direct comparison, a spatial association test and generalized linear regression. We also examined the relationship between LCBD values and species richness in different regions and at various spatial extents. Our results showed that species distribution models provided uniqueness estimates highly correlated with observed data. The form and variance of the LCBD–richness relationship varied according to the region and the total extent size. The relationship was also affected by the proportion of rare species in the communities. Therefore, sites identified as unique over broad spatial extents may vary according to regional characteristics. These results show that species distribution modelling can be used to predict ecological uniqueness over broad spatial extents, which could help identify beta diversity hotspots and important targets for conservation purposes in unsampled locations.",
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Legendre",
+        "given": "Pierre"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Oikos (Copenhagen, Denmark)",
+    "id": "Dansereau2022o",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "publisher": "Wiley",
+    "title": "Evaluating ecological uniqueness over broad spatial extents using species distribution modelling",
+    "type": "article-journal",
+    "volume": "2022"
+  },
+  {
+    "abstract": "Despite the global investment in One Health disease surveillance, it remains difficult and costly to identify and monitor the wildlife reservoirs of novel zoonotic viruses. Statistical models can guide sampling target prioritisation, but the predictions from any given model might be highly uncertain; moreover, systematic model validation is rare, and the drivers of model performance are consequently under-documented. Here, we use the bat hosts of betacoronaviruses as a case study for the data-driven process of comparing and validating predictive models of probable reservoir hosts. In early 2020, we generated an ensemble of eight statistical models that predicted host-virus associations and developed priority sampling recommendations for potential bat reservoirs of betacoronaviruses and bridge hosts for SARS-CoV-2. During a time frame of more than a year, we tracked the discovery of 47 new bat hosts of betacoronaviruses, validated the initial predictions, and dynamically updated our analytical pipeline. We found that ecological trait-based models performed well at predicting these novel hosts, whereas network methods consistently performed approximately as well or worse than expected at random. These findings illustrate the importance of ensemble modelling as a buffer against mixed-model quality and highlight the value of including host ecology in predictive models. Our revised models showed an improved performance compared with the initial ensemble, and predicted more than 400 bat species globally that could be undetected betacoronavirus hosts. We show, through systematic validation, that machine learning models can help to optimise wildlife sampling for undiscovered viruses and illustrates how such approaches are best implemented through a dynamic process of prediction, data collection, validation, and updating.",
+    "author": [
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Sjodin",
+        "given": "Anna R"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bergner",
+        "given": "Laura M"
+      },
+      {
+        "family": "Chen",
+        "given": "Binqi"
+      },
+      {
+        "family": "Cohen",
+        "given": "Lily E"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad A"
+      },
+      {
+        "family": "Eskew",
+        "given": "Evan A"
+      },
+      {
+        "family": "Fagre",
+        "given": "Anna C"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Guth",
+        "given": "Sarah"
+      },
+      {
+        "family": "Han",
+        "given": "Barbara A"
+      },
+      {
+        "family": "Simmons",
+        "given": "Nancy B"
+      },
+      {
+        "family": "Stock",
+        "given": "Michiel"
+      },
+      {
+        "family": "Teeling",
+        "given": "Emma C"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "container-title": "The Lancet. Microbe",
+    "id": "Becker2022b",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "page": "e625-e637",
+    "publisher": "Elsevier BV",
+    "title": "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonzalez",
+        "given": "Andrew"
+      },
+      {
+        "family": "Vihervaara",
+        "given": "Petteri"
+      },
+      {
+        "family": "Balvanera",
+        "given": "Patricia"
+      },
+      {
+        "family": "Bates",
+        "given": "Amanda E"
+      },
+      {
+        "family": "Bayraktarov",
+        "given": "Elisa"
+      },
+      {
+        "family": "Bellingham",
+        "given": "Peter J"
+      },
+      {
+        "family": "Bruder",
+        "given": "Andreas"
+      },
+      {
+        "family": "Campbell",
+        "given": "Jillian"
+      },
+      {
+        "family": "Catchen",
+        "given": "Michael D"
+      },
+      {
+        "family": "Cavender-Bares",
+        "given": "Jeannine"
+      },
+      {
+        "family": "Chase",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Coops",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Costello",
+        "given": "Mark J"
+      },
+      {
+        "family": "Czúcz",
+        "given": "Bálint"
+      },
+      {
+        "family": "Delavaud",
+        "given": "Aurélie"
+      },
+      {
+        "family": "Dornelas",
+        "given": "Maria"
+      },
+      {
+        "family": "Dubois",
+        "given": "Grégoire"
+      },
+      {
+        "family": "Duffy",
+        "given": "Emmett J"
+      },
+      {
+        "family": "Eggermont",
+        "given": "Hilde"
+      },
+      {
+        "family": "Fernandez",
+        "given": "Miguel"
+      },
+      {
+        "family": "Fernandez",
+        "given": "Nestor"
+      },
+      {
+        "family": "Ferrier",
+        "given": "Simon"
+      },
+      {
+        "family": "Geller",
+        "given": "Gary N"
+      },
+      {
+        "family": "Gill",
+        "given": "Michael"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Guerra",
+        "given": "Carlos A"
+      },
+      {
+        "family": "Guralnick",
+        "given": "Robert"
+      },
+      {
+        "family": "Harfoot",
+        "given": "Michael"
+      },
+      {
+        "family": "Hirsch",
+        "given": "Tim"
+      },
+      {
+        "family": "Hoban",
+        "given": "Sean"
+      },
+      {
+        "family": "Hughes",
+        "given": "Alice C"
+      },
+      {
+        "family": "Hugo",
+        "given": "Wim"
+      },
+      {
+        "family": "Hunter",
+        "given": "Margaret E"
+      },
+      {
+        "family": "Isbell",
+        "given": "Forest"
+      },
+      {
+        "family": "Jetz",
+        "given": "Walter"
+      },
+      {
+        "family": "Juergens",
+        "given": "Norbert"
+      },
+      {
+        "family": "Kissling",
+        "given": "W Daniel"
+      },
+      {
+        "family": "Krug",
+        "given": "Cornelia B"
+      },
+      {
+        "family": "Kullberg",
+        "given": "Peter"
+      },
+      {
+        "family": "Le Bras",
+        "given": "Yvan"
+      },
+      {
+        "family": "Leung",
+        "given": "Brian"
+      },
+      {
+        "family": "Londoño-Murcia",
+        "given": "Maria Cecilia"
+      },
+      {
+        "family": "Lord",
+        "given": "Jean-Michel"
+      },
+      {
+        "family": "Loreau",
+        "given": "Michel"
+      },
+      {
+        "family": "Luers",
+        "given": "Amy"
+      },
+      {
+        "family": "Ma",
+        "given": "Keping"
+      },
+      {
+        "family": "MacDonald",
+        "given": "Anna J"
+      },
+      {
+        "family": "Maes",
+        "given": "Joachim"
+      },
+      {
+        "family": "McGeoch",
+        "given": "Melodie"
+      },
+      {
+        "family": "Mihoub",
+        "given": "Jean Baptiste"
+      },
+      {
+        "family": "Millette",
+        "given": "Katie L"
+      },
+      {
+        "family": "Molnar",
+        "given": "Zsolt"
+      },
+      {
+        "family": "Montes",
+        "given": "Enrique"
+      },
+      {
+        "family": "Mori",
+        "given": "Akira S"
+      },
+      {
+        "family": "Muller-Karger",
+        "given": "Frank E"
+      },
+      {
+        "family": "Muraoka",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Nakaoka",
+        "given": "Masahiro"
+      },
+      {
+        "family": "Navarro",
+        "given": "Laetitia"
+      },
+      {
+        "family": "Newbold",
+        "given": "Tim"
+      },
+      {
+        "family": "Niamir",
+        "given": "Aidin"
+      },
+      {
+        "family": "Obura",
+        "given": "David"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Mary"
+      },
+      {
+        "family": "Paganini",
+        "given": "Marc"
+      },
+      {
+        "family": "Pelletier",
+        "given": "Dominique"
+      },
+      {
+        "family": "Pereira",
+        "given": "Henrique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Pollock",
+        "given": "Laura J"
+      },
+      {
+        "family": "Purvis",
+        "given": "Andy"
+      },
+      {
+        "family": "Radulovici",
+        "given": "Adriana"
+      },
+      {
+        "family": "Rocchini",
+        "given": "Duccio"
+      },
+      {
+        "family": "Roeoesli",
+        "given": "Claudia"
+      },
+      {
+        "family": "Schaepman",
+        "given": "Michael"
+      },
+      {
+        "family": "Schaepman-Strub",
+        "given": "Gabriela"
+      },
+      {
+        "family": "Schmeller",
+        "given": "Dirk S"
+      },
+      {
+        "family": "Schmiedel",
+        "given": "Ute"
+      },
+      {
+        "family": "Schneider",
+        "given": "Fabian D"
+      },
+      {
+        "family": "Shakya",
+        "given": "Mangal Man"
+      },
+      {
+        "family": "Skidmore",
+        "given": "Andrew"
+      },
+      {
+        "family": "Skowno",
+        "given": "Andrew L"
+      },
+      {
+        "family": "Takeuchi",
+        "given": "Yayioi"
+      },
+      {
+        "family": "Tuanmu",
+        "given": "Mao-Ning"
+      },
+      {
+        "family": "Turak",
+        "given": "Eren"
+      },
+      {
+        "family": "Turner",
+        "given": "Woody"
+      },
+      {
+        "family": "Urban",
+        "given": "Mark C"
+      },
+      {
+        "family": "Urbina-Cardona",
+        "given": "Nicolás"
+      },
+      {
+        "family": "Valbuena",
+        "given": "Ruben"
+      },
+      {
+        "family": "Van de Putte",
+        "given": "Anton"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Havre",
+        "given": "Basile"
+      },
+      {
+        "family": "Wingate",
+        "given": "Vladimir Ruslan"
+      },
+      {
+        "family": "Wright",
+        "given": "Elaine"
+      },
+      {
+        "family": "Torrelio",
+        "given": "Carlos Zambrana"
+      }
+    ],
+    "container-title": "Nature ecology & evolution",
+    "id": "Gonzalez2023f",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    },
+    "page": "1947-1952",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "A global biodiversity observing system to unite monitoring and guide action",
+    "type": "article-journal",
+    "volume": "7"
+  }
+]
