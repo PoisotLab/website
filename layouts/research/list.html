@@ -8,7 +8,19 @@
 
 
                 <img class="header" src="topics/{{ .File.BaseFileName }}.png" alt="" />
-                <h2>{{.Title}} {{ if .Page.Params.star }}<span class="star"></span><i class="ri-sparkling-2-line"></i></span>{{ end }}</h2> 
+                <h2>
+                    {{.Title}}
+                    {{ if .Page.Params.status }}
+                        <span class="{{ .Page.Params.status}}">
+                            {{ with (eq .Page.Params.status "hot") }}
+                                <i class="ri-fire-line"></i>
+                            {{ end }}
+                            {{ with (eq .Page.Params.status "active") }}
+                                <i class="ri-sparkling-line"></i>
+                            {{ end }}
+                        </span>
+                    {{ end }}
+                </h2> 
                 <div class="summary">
                     {{.Summary}}
                     <span><i class="ri-links-line"></i> <a href="{{ .Permalink }}">Read more</a></span>

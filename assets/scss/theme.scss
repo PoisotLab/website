@@ -6,8 +6,8 @@
 // Format the list of papers
 @import "_publication";
 
-// List of research topics
-@import "_topics";
+// List of things
+@import "_list";
 
 .container {
     a {
@@ -22,7 +22,7 @@
 
 @media only screen and (min-width: 850px) {
     .container {
-        max-width: 1000px;
+        max-width: 950px;
         margin: 0px auto;
         p {
             line-height: 1.8;

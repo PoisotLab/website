@@ -1,7 +1,8 @@
 .list {
+    margin-top: 5em;
     .item {
         clear: both;
-        padding-bottom: 15em;
+        padding-bottom: 12em;
         &:hover {
             img.header {
                 transform: rotate(3deg) scale(1.1);
@@ -20,20 +21,15 @@
         }
         h2, .summary {
             float: left;
-            left: 0px;
+            left: 0;
             width: calc(100% - 155px);
-            float: right; 
             display: block;
         }
         h2 {
             padding: 0px 0px;
             margin: 0px 0px;
             font-size: 115%;
-            
-                i {
-                color: $grey-medium !important;
-                font-weight: 300;
-            }
+                
         }
         .summary {
             p {
@@ -41,5 +37,24 @@
                 line-height: 120%;
             }
         }
+    }
+}
+
+p {
+    
+}
+
+i {
+    &.ri-fire-line {
+        color: #de5912;
+    }
+    &.ri-sparkling-line {
+        color: #e0ad65;
+    }
+    &.ri-heart-line {
+        color: #d47bad;
+    }
+    &.ri-hearts-line {
+        color: #c7657c;
     }
 }

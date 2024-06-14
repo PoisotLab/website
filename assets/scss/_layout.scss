@@ -27,7 +27,6 @@ header {
     .container {
         margin: 0 auto;
         padding-bottom: 3em !important;
-        padding-left: 1em !important;
         padding-top: calc(3em + 80px) !important;
         color: $lab-blue;
     }
@@ -39,7 +38,6 @@ main#content {
 }
 
 section.container {
-    padding: 1.75em;
     width: 100vw;
     line-height: 1.4;
     ul, li {

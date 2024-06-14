@@ -115,7 +115,6 @@ header {
   header .container {
     margin: 0 auto;
     padding-bottom: 3em !important;
-    padding-left: 1em !important;
     padding-top: calc(3em + 80px) !important;
     color: #2e5385; }
 
@@ -124,7 +123,6 @@ main#content {
   padding-top: 2em; }
 
 section.container {
-  padding: 1.75em;
   width: 100vw;
   line-height: 1.4; }
   section.container ul, section.container li {
@@ -160,37 +158,47 @@ section.container {
       overflow: visible;
       white-space: wrap; }
 
-.list .item {
-  clear: both;
-  padding-bottom: 15em; }
-  .list .item:hover img.header {
-    transform: rotate(3deg) scale(1.1); }
-  .list .item img.header {
-    width: 115px;
-    margin-top: 10px;
-    margin-right: -8px;
-    margin-left: 25px;
-    float: right;
-    border-radius: 20px;
-    transform: rotate(0deg);
-    transition: transform .2s ease-in-out;
-    box-shadow: 0px 0px 4px #d3d0cb; }
-  .list .item h2, .list .item .summary {
-    float: left;
-    left: 0px;
-    width: calc(100% - 155px);
-    float: right;
-    display: block; }
-  .list .item h2 {
-    padding: 0px 0px;
-    margin: 0px 0px;
-    font-size: 115%; }
-    .list .item h2 i {
-      color: #d3d0cb !important;
-      font-weight: 300; }
-  .list .item .summary p {
-    margin-top: 0px;
-    line-height: 120%; }
+.list {
+  margin-top: 5em; }
+  .list .item {
+    clear: both;
+    padding-bottom: 12em; }
+    .list .item:hover img.header {
+      transform: rotate(3deg) scale(1.1); }
+    .list .item img.header {
+      width: 115px;
+      margin-top: 10px;
+      margin-right: -8px;
+      margin-left: 25px;
+      float: right;
+      border-radius: 20px;
+      transform: rotate(0deg);
+      transition: transform .2s ease-in-out;
+      box-shadow: 0px 0px 4px #d3d0cb; }
+    .list .item h2, .list .item .summary {
+      float: left;
+      left: 0;
+      width: calc(100% - 155px);
+      display: block; }
+    .list .item h2 {
+      padding: 0px 0px;
+      margin: 0px 0px;
+      font-size: 115%; }
+    .list .item .summary p {
+      margin-top: 0px;
+      line-height: 120%; }
+
+i.ri-fire-line {
+  color: #de5912; }
+
+i.ri-sparkling-line {
+  color: #e0ad65; }
+
+i.ri-heart-line {
+  color: #d47bad; }
+
+i.ri-hearts-line {
+  color: #c7657c; }
 
 .container a {
   color: #2e5385;
@@ -201,7 +209,7 @@ section.container {
 
 @media only screen and (min-width: 850px) {
   .container {
-    max-width: 1000px;
+    max-width: 950px;
     margin: 0px auto; }
     .container p {
       line-height: 1.8; }
