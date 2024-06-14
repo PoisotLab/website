@@ -11,6 +11,25 @@
         </span>
     </h2>
     <div class="summary">
+        {{ range .position }}
+        <div>
+        <span class="metadata position">
+            <span class="metadata year">
+                <i class="ri-calendar-2-line"></i> 
+                {{ .from }} {{ if .to }} {{ if ne .to .from }} - {{ .to }} {{ end }} {{ end }}
+            </span>
+            <span class="metadata role">
+                {{ .role }}
+            </span>
+        </span>
+        <br />
+        <span class="metadata project">
+            {{ .project }}
+            {{ if .advisor }}<br /><span class="advisor">Advisor: {{ .advisor }}</span>{{ end }}
+            {{ if .coadvisor }}<br /><span class="advisor">Co-advisor: {{ .coadvisor }}</span>{{ end }}
+        </span>
+        </div>
+        {{ end }}
         {{range .text }}
             <span>{{ . | markdownify }}</span>
         {{ end }}

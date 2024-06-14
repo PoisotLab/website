@@ -10,6 +10,23 @@
 // List of things
 @import "_list";
 
+.metadata {
+    margin-right: 1em;
+    i {
+        font-weight: 100 !important;
+        color: $lab-green-dark;
+    }
+    .role {
+        font-weight: 500;
+    }
+    .project {
+        font-weight: 380;
+    }
+    .advisor {
+        font-size: 80%;
+    }
+}
+
 .container {
     a {
         color: $link-color;

@@ -246,8 +246,6 @@ header .container {
     color: #114f54; }
   .publication .title {
     font-weight: 500; }
-  .publication .metadata {
-    margin-right: 2em; }
   .publication .authors {
     text-overflow: ellipsis;
     overflow: hidden;
@@ -313,6 +311,18 @@ i.ri-heart-line {
 
 i.ri-hearts-line {
   color: #c7657c; }
+
+.metadata {
+  margin-right: 1em; }
+  .metadata i {
+    font-weight: 100 !important;
+    color: #114f54; }
+  .metadata .role {
+    font-weight: 500; }
+  .metadata .project {
+    font-weight: 380; }
+  .metadata .advisor {
+    font-size: 80%; }
 
 .container a {
   color: #2e5385;

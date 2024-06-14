@@ -1,11 +1,10 @@
 [timotheepoisot]
   name = "Timothée Poisot"
   mugshot = "mugshots/timotheepoisot.jpg"
-  text = [
-    "Ecologist. Teaches data analysis, ecological modelling, and responsible use of data.",
-    "Associate Professor, [Department of Biological Sciences](http://bio.umontreal.ca), Université de Montréal"
-  ]
-  role = "Assistant professor"
+  [[timotheepoisot.position]]
+    from = "2015"
+    role = "Principal investigator"
+    project = "Community ecology, machine learning, ecological networks, data science"
   [timotheepoisot.social]
     email = "timothee.poisot@umontreal.ca"
     github = "tpoisot"
@@ -15,8 +14,11 @@
 [normaforero]
   name = "Norma Forero"
   mugshot = "mugshots/normaforero.jpg"
-  text = ["2020-, Ph.D. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
-  role = "PhD student"
+  [[normaforero.position]]
+    from = "2020"
+    role = "Ph.D. candidate"
+    project = "Machine Learning and Data Synthesis for the prediction of viral spillover events"
+    coadvisor = "Patrick Leighton"
   [normaforero.social]
     email = "norma.rocio.forero.munoz@umontreal.ca"
     twitter = "norma_forero"
@@ -25,8 +27,11 @@
 [francisbanville]
   name = "Francis Banville"
   mugshot = "mugshots/francisbanville.jpg"
-  text = ["2020-, Ph.D. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
-  role = "PhD student"
+  [[francisbanville.position]]
+    from = "2020"
+    role = "Ph.D. candidate"
+    project = "Machine Learning techniques for food web structure inference at the planetary scale"
+    coadvisor = "Dominique Gravel"
   [francisbanville.social]
     email = "francis.banville@umontreal.ca"
     twitter = "francisbanv"
@@ -36,10 +41,17 @@
 [gabrieldansereau]
   name = "Gabriel Dansereau"
   mugshot = "mugshots/gabrieldansereau.jpg"
-  text = [
-    "2021-, Ph.D. Quantification of the structural originality of food webs over continuous spatial scales.",
-    "2019-2021, M.Sc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
-  ]
+  [[gabrieldansereau.position]]
+    from = "2021"
+    role = "Ph.D. candidate"
+    project = "Quantification of the structural originality of food webs over continuous spatial scales"
+    coadvisor = "Ceres Barros"
+  [[gabrieldansereau.position]]
+    from = "2019"
+    to = "2021"
+    role = "M.Sc. candidate"
+    project = "Development of beta-diversity measures for spatially continuous hotspot identification"
+    coadvisor = "Pierre Legendre"
   [gabrieldansereau.social]
     email = "gabriel.dansereau@umontreal.ca"
     twitter = "gabdansereau"
@@ -48,9 +60,11 @@
 [mariaisabelarceplata]
   name = "Maria Isabel Arce Plata"
   mugshot = "mugshots/mariaisabelarceplata.jpg"
-  text = [
-    "2022-, Ph.D. Machine learning for the upscaling of field observation of plant functional traits. Co-advisor: Natalia Norden."
-  ]
+  [[mariaisabelarceplata.position]]
+    from = "2022"
+    role = "Ph.D. candidate"
+    project = "Machine learning for the upscaling of field observation of plant functional traits"
+    coadvisor = "Natalia Norden"
   [mariaisabelarceplata.social]
     email = "maria.isabel.arce.plata@umontreal.ca"
     twitter = "Hik4ri"
@@ -59,9 +73,10 @@
 [alicedoucetbeaupre]
   name = "Alice Doucet Beaupré"
   mugshot = "mugshots/alicedoucetbeaupre.jpg"
-  text = [
-    "2022-, Post-doctoral researcher. Unsupervised learning and uncertainty quantification for network prediction."
-  ]
+  [[alicedoucetbeaupre.position]]
+    from = "2022"
+    role = "Post-doctoral researcher"
+    project = "Unsupervised learning and uncertainty quantification for network prediction"
   [alicedoucetbeaupre.social]
     email = "alice.doucet.beaupre@gmail.com"
     github = "alicedb2"
@@ -70,53 +85,55 @@
 [cristiancruzrodriguez]
   name = "Cristian Cruz Rodriguez"
   mugshot = "mugshots/cristiancruzrodriguez.jpg"
-  text = [
-    "2023-, Ph.D. Large-scale modeling of land-use change to support conservation policy-making."
-  ]
+  [[cristiancruzrodriguez.position]]
+    from = "2023"
+    role = "Ph.D. candidate"
+    project = "Large-scale modeling of land-use change to support conservation policy-making"
+    coadvisor = "Maria-Cecilia Londoño"
 
 [emilybeasley]
   name = "Emily Beasley"
   mugshot = "mugshots/emilybeasley.jpg"
-  text = [
-    "2023-, Post-doctoral researcher. Optimized spatial sampling of epidemic processes."
-  ]
+  [[emilybeasley.position]]
+    from = "2023"
+    role = "Post-doctoral researcher"
+    project = "Optimized spatial sampling of the raccoon rabies virus dynamics"
   [emilybeasley.social]
     www = "https://beasley015.github.io"
 
 [stephanieshousha]
   name = "Stéphanie Shousha"
   mugshot = "mugshots/stephanieshousha.jpg"
-  text = [
-    "2023-, Post-doctoral researcher. Natural and human influences on coupled carbon, nitrogen and phosphorus dynamics in watersheds. Advisor: Roxane Maranger."
-  ]
+  [[stephanieshousha.position]]
+    from = "2023"
+    role = "Post-doctoral researcher"
+    project = "Natural and human influences on coupled carbon, nitrogen and phosphorus dynamics in watersheds"
+    advisor = "Roxane Maranger"
   [stephanieshousha.social]
     www = "http://marangerlab.weebly.com/stephanie.html"
     email = "stephanie.shousha@umontreal.ca"
 
-[sarahdghynlouissaint]
-  name = "Sarahdghyn Louissaint"
-  mugshot = "mugshots/sarahdghynlouissaint.jpg"
-  text = [
-    "2024, M.Sc. research intern. Meta-analysis of surveillance strategies for the Racoon rabies virus in Eastern Canada/United States."
-  ]
-
 [colebrookson]
   name = "Cole Brookson"
   mugshot = "mugshots/colebrookson.jpg"
-  text = [
-    "2024, visiting Ph.D. Quantifying predictability of environmental change and disease dynamics."
-  ]
-
+  [[colebrookson.position]]
+    from = "2024"
+    role = "Visiting Ph.D. scholar"
+    project = "Quantifying the role of disease dynamics on ecosystem processes"
+    advisor = "Colin Carlson"
+  
 [arianebussieresfournel]
   name = "Ariane Bussières-Fournel"
   mugshot = "mugshots/arianebussieresfournel.jpg"
-  text = [
-    "2024, B.Sc. research assistant. Sero-prevalence of Canine Distemper Virus over an urbanisation gradient."
-  ]
+  [[arianebussieresfournel.position]]
+    from = "2024"
+    role = "B.Sc. research assistant"
+    project = "Sero-prevalence of Canine Distemper Virus over an urbanisation gradient"
 
 [michaelcatchen]
   name = "Michael D. Catchen"
   mugshot = "mugshots/michaelcatchen.jpg"
-  text = [
-    "2024-, Post-doctoral researcher. Computer vision tools for ecological niche modeling."
-  ]
+  [[michaelcatchen.position]]
+    from = "2024"
+    role = "Post-doctoral researcher"
+    project = "Computer vision tools for ecological niche modeling"
