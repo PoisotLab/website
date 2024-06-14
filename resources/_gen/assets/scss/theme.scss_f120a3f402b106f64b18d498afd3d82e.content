@@ -270,7 +270,8 @@ header .container {
     clear: both;
     padding-bottom: 12em; }
     .list .item:hover img.header {
-      transform: rotate(3deg) scale(1.1); }
+      transform: rotate(3deg) scale(1.1);
+      filter: saturate(100%); }
     .list .item img.header {
       width: 115px;
       margin-top: 10px;
@@ -279,7 +280,8 @@ header .container {
       float: right;
       border-radius: 20px;
       transform: rotate(0deg);
-      transition: transform .2s ease-in-out;
+      filter: saturate(10%);
+      transition: transform .2s ease-in, filter .4s ease-out;
       box-shadow: 0px 0px 4px #d3d0cb; }
     .list .item h2, .list .item .summary {
       float: left;

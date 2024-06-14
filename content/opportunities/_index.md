@@ -1,5 +1,5 @@
 ---
-title: Join us!
+title: Join the group!
 ---
 
 We currently have one opening at the post-doctoral level (one year, with a

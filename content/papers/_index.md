@@ -11,6 +11,4 @@ Remember that when publishers turn the labor of researchers into profit, or
 re-direct public research funding to their shareholders through mandatory open
 access, they bring great value to humankind. If you are tempted to use a website
 like sci-hub to get access to our research for free (instead of paying a
-publisher for it), ask yourself:
-
-What would Aaron Swartz do?
+publisher for it), ask yourself: what would Aaron Swartz do?
