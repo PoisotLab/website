@@ -44,7 +44,7 @@
     {{ if .collection }}
         <span class="collection-name">
             {{ $result := index (where site.RegularPages "File.BaseFileName"  .collection) 0 }}
-            Read more: <a href="{{ $result.Permalink }}">{{ $result.Title }}</a>
+            Research theme: <a href="{{ $result.Permalink }}">{{ $result.Title }}</a>
             {{ if $result.Page.Params.status }}
             <span class="{{ $result.Params.status}}">
                 {{ with (eq $result.Params.status "hot") }}

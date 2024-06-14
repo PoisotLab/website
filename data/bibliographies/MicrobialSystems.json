@@ -1,5 +1,47 @@
 [
   {
+    "DOI": "10.1098/rsbl.2010.0774",
+    "PMID": "20961886",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Lepennetier",
+        "given": "Gildas"
+      },
+      {
+        "family": "Martinez",
+        "given": "Esteban"
+      },
+      {
+        "family": "Ramsayer",
+        "given": "Johan"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Biology letters",
+    "id": "Poisot2011d",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          23
+        ]
+      ]
+    },
+    "page": "201-204",
+    "publisher": "The Royal Society",
+    "title": "Resource availability affects the structure of a natural bacteria-bacteriophage community",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
     "DOI": "10.12688/f1000research.1-21.v2",
     "author": [
       {

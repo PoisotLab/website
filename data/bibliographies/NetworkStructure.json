@@ -242,6 +242,42 @@
     "volume": "94"
   },
   {
+    "DOI": "10.1111/j.2041-210x.2011.00174.x",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Canard",
+        "given": "Elsa"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Poisot2012g",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6
+        ]
+      ]
+    },
+    "page": "537-544",
+    "publisher": "Wiley",
+    "title": "A comparative study of ecological specialization estimators",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
     "DOI": "10.12688/f1000research.2-130.v3",
     "PMID": "24555062",
     "author": [
@@ -268,126 +304,41 @@
     "volume": "2"
   },
   {
-    "DOI": "10.1111/2041-210x.12468",
+    "DOI": "10.1111/2041-210x.12458",
     "author": [
+      {
+        "family": "Flores",
+        "given": "Cesar O"
+      },
       {
         "family": "Poisot",
         "given": "Timothée"
       },
       {
-        "family": "Cirtwill",
-        "given": "Alyssa R"
+        "family": "Valverde",
+        "given": "Sergi"
       },
       {
-        "family": "Cazelles",
-        "given": "Kévin"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Fortin",
-        "given": "Marie-Josée"
-      },
-      {
-        "family": "Stouffer",
-        "given": "Daniel B"
+        "family": "Weitz",
+        "given": "Joshua S"
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Poisot2016a",
+    "id": "Flores2016r",
     "issued": {
       "date-parts": [
         [
           2016,
-          3
+          1
         ]
       ]
     },
-    "page": "303-312",
+    "page": "127-132",
     "publisher": "Wiley",
-    "title": "The structure of probabilistic networks",
+    "title": "BiMat: A MATLAB package to facilitate the analysis of bipartite networks",
+    "title-short": "BiMat",
     "type": "article-journal",
     "volume": "7"
-  },
-  {
-    "DOI": "10.1111/brv.12433",
-    "PMID": "29923657",
-    "author": [
-      {
-        "family": "Delmas",
-        "given": "Eva"
-      },
-      {
-        "family": "Besson",
-        "given": "Mathilde"
-      },
-      {
-        "family": "Brice",
-        "given": "Marie-Hélène"
-      },
-      {
-        "family": "Burkle",
-        "given": "Laura A"
-      },
-      {
-        "family": "Dalla Riva",
-        "given": "Giulio V"
-      },
-      {
-        "family": "Fortin",
-        "given": "Marie-Josée"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Guimarães",
-        "given": "Paulo R",
-        "suffix": "Jr"
-      },
-      {
-        "family": "Hembry",
-        "given": "David H"
-      },
-      {
-        "family": "Newman",
-        "given": "Erica A"
-      },
-      {
-        "family": "Olesen",
-        "given": "Jens M"
-      },
-      {
-        "family": "Pires",
-        "given": "Mathias M"
-      },
-      {
-        "family": "Yeakel",
-        "given": "Justin D"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "Biological reviews of the Cambridge Philosophical Society",
-    "id": "Delmas2019i",
-    "issued": {
-      "date-parts": [
-        [
-          2019,
-          2
-        ]
-      ]
-    },
-    "page": "16-36",
-    "publisher": "Wiley",
-    "title": "Analysing ecological networks of species interactions",
-    "type": "article-journal",
-    "volume": "94"
   },
   {
     "DOI": "10.1038/s41467-018-05056-0",
@@ -566,5 +517,35 @@
     "title": "What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases",
     "type": "article-journal",
     "volume": "19"
+  },
+  {
+    "DOI": "10.7717/peerj.251",
+    "PMID": "24688835",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "PeerJ",
+    "id": "Poisot2014b",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          4
+        ]
+      ]
+    },
+    "page": "e251",
+    "publisher": "PeerJ",
+    "title": "When is an ecological network complex? Connectance drives degree distribution and emerging network properties",
+    "type": "article-journal",
+    "volume": "2"
   }
 ]

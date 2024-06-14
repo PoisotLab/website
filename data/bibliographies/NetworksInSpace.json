@@ -1,5 +1,61 @@
 [
   {
+    "DOI": "10.1111/oik.08650",
+    "author": [
+      {
+        "family": "McLeod",
+        "given": "Anne"
+      },
+      {
+        "family": "Leroux",
+        "given": "Shawn J"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Chu",
+        "given": "Cindy"
+      },
+      {
+        "family": "Cirtwill",
+        "given": "Alyssa R"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Galiana",
+        "given": "Núria"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Wood",
+        "given": "Spencer A"
+      }
+    ],
+    "container-title": "Oikos (Copenhagen, Denmark)",
+    "id": "McLeod2021v",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "page": "2250-2259",
+    "publisher": "Wiley",
+    "title": "Sampling and asymptotic network properties of spatial multi‐trophic networks",
+    "type": "article-journal",
+    "volume": "130"
+  },
+  {
     "accessed": {
       "date-parts": [
         [
@@ -302,62 +358,6 @@
     "title": "The marine fish food web is globally connected",
     "type": "article-journal",
     "volume": "3"
-  },
-  {
-    "DOI": "10.1111/oik.08650",
-    "author": [
-      {
-        "family": "McLeod",
-        "given": "Anne"
-      },
-      {
-        "family": "Leroux",
-        "given": "Shawn J"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Chu",
-        "given": "Cindy"
-      },
-      {
-        "family": "Cirtwill",
-        "given": "Alyssa R"
-      },
-      {
-        "family": "Fortin",
-        "given": "Marie-Josée"
-      },
-      {
-        "family": "Galiana",
-        "given": "Núria"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Wood",
-        "given": "Spencer A"
-      }
-    ],
-    "container-title": "Oikos (Copenhagen, Denmark)",
-    "id": "McLeod2021u",
-    "issued": {
-      "date-parts": [
-        [
-          2021,
-          12
-        ]
-      ]
-    },
-    "page": "2250-2259",
-    "publisher": "Wiley",
-    "title": "Sampling and asymptotic network properties of spatial multi‐trophic networks",
-    "type": "article-journal",
-    "volume": "130"
   },
   {
     "DOI": "10.1111/2041-210x.13835",

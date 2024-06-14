@@ -1,5 +1,80 @@
 [
   {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Poisot2020c",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          17
+        ]
+      ]
+    },
+    "title": "COVID-19 models demand an abundance of caution",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1371/journal.pbio.1001563",
+    "PMID": "23690752",
+    "author": [
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "White",
+        "given": "Ethan P"
+      },
+      {
+        "family": "Adamson",
+        "given": "Joel J"
+      },
+      {
+        "family": "Ram",
+        "given": "Karthik"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "PLoS biology",
+    "id": "Desjardins-Proulx2013z",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          14
+        ]
+      ]
+    },
+    "page": "e1001563",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "The case for open preprints in biology",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
     "DOI": "10.4033/iee.2015.8.8.f",
     "author": [
       {
@@ -20,6 +95,30 @@
     "title": "Best publishing practices to improve user confidence in scientific software",
     "type": "article-journal",
     "volume": "8"
+  },
+  {
+    "DOI": "10.32614/rj-2011-004",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "The R journal",
+    "id": "Poisot2011j",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "25",
+    "publisher": "The R Foundation",
+    "title": "The digitize package: Extracting numerical data from scatterplots",
+    "title-short": "The digitize package",
+    "type": "article-journal",
+    "volume": "3"
   },
   {
     "DOI": "10.3389/fevo.2019.00402",
@@ -113,6 +212,60 @@
     "volume": "626"
   },
   {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bahlai",
+        "given": "Christie"
+      },
+      {
+        "family": "Bartlett",
+        "given": "Lewis J"
+      },
+      {
+        "family": "Burgio",
+        "given": "Kevin R"
+      },
+      {
+        "family": "Fournier",
+        "given": "Auriel M V"
+      },
+      {
+        "family": "Keiser",
+        "given": "Carl N"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Whitney",
+        "given": "Kaitlin Stack"
+      }
+    ],
+    "container-title": "American Scientist",
+    "id": "Bahlai2019s",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          30
+        ]
+      ]
+    },
+    "title": "Open science isn’t always open to all scientists",
+    "type": ""
+  },
+  {
     "author": [
       {
         "family": "Jørgensen",
@@ -166,6 +319,92 @@
     "title": "A global network of next generation ecologists",
     "type": "article-journal",
     "volume": "5"
+  },
+  {
+    "DOI": "10.4033/iee.2013.6b.14.f",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      },
+      {
+        "family": "Mounce",
+        "given": "Ross"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ideas in ecology and evolution",
+    "id": "Poisot2013t",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "Queen’s University Library",
+    "title": "Moving toward a sustainable ecological science: Don’t let data go to waste!",
+    "title-short": "Moving toward a sustainable ecological science",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.7717/peerj.285",
+    "PMID": "24688862",
+    "author": [
+      {
+        "family": "Barraquand",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Ezard",
+        "given": "Thomas H G"
+      },
+      {
+        "family": "Jørgensen",
+        "given": "Peter S"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka"
+      },
+      {
+        "family": "Chamberlain",
+        "given": "Scott"
+      },
+      {
+        "family": "Salguero-Gómez",
+        "given": "Roberto"
+      },
+      {
+        "family": "Curran",
+        "given": "Timothy J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "PeerJ",
+    "id": "Barraquand2014l",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          4
+        ]
+      ]
+    },
+    "page": "e285",
+    "publisher": "PeerJ",
+    "title": "Lack of quantitative training among early-career ecologists: A survey of the problem and potential solutions",
+    "title-short": "Lack of quantitative training among early-career ecologists",
+    "type": "article-journal",
+    "volume": "2"
   },
   {
     "DOI": "10.1890/es14-00198.1",

@@ -1,26 +1,77 @@
 [
   {
-    "DOI": "10.24072/pci.ecology.100532",
+    "DOI": "10.1111/2041-210x.14071",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          8
+        ]
+      ]
+    },
     "author": [
       {
         "family": "Poisot",
         "given": "Timothée"
       }
     ],
-    "container-title": "Peer community in ecology",
-    "id": "Poisot2023n",
+    "container-title": "Methods in ecology and evolution",
+    "id": "Poisot2023a",
     "issued": {
       "date-parts": [
         [
           2023,
-          11,
-          27
+          5,
+          1
         ]
       ]
     },
-    "publisher": "Peer Community In",
-    "title": "Gradient boosted trees can deliver more than accurate ecological predictions",
-    "type": "article-journal"
+    "page": "1333-1345",
+    "publisher": "Wiley",
+    "title": "Guidelines for the prediction of species interactions through binary classification",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "DOI": "10.1111/2041-210x.12103",
+    "author": [
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Albouy",
+        "given": "Camille"
+      },
+      {
+        "family": "Velez",
+        "given": "Laure"
+      },
+      {
+        "family": "Mouillot",
+        "given": "David"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Gravel2013x",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11
+        ]
+      ]
+    },
+    "page": "1083-1090",
+    "publisher": "Wiley",
+    "title": "Inferring food web structure from predator–prey body size relationships",
+    "type": "article-journal",
+    "volume": "4"
   },
   {
     "DOI": "10.7717/peerj.3644",

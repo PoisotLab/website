@@ -1,5 +1,47 @@
 [
   {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "Rosindell",
+        "given": "James L"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "arXiv [q-bio.PE]",
+    "id": "Desjardins-Proulx2012n",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          3,
+          8
+        ]
+      ]
+    },
+    "title": "A simple model to study phylogeographies and speciation patterns in space",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1017/cbo9781139794749.028",
     "author": [
       {
@@ -75,36 +117,68 @@
     "type": ""
   },
   {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          13
-        ]
-      ]
-    },
+    "DOI": "10.1111/j.1095-8312.2009.01381.x",
     "author": [
       {
         "family": "Poisot",
         "given": "Timothée"
+      },
+      {
+        "family": "Desdevises",
+        "given": "Yves"
       }
     ],
-    "container-title": "The theory of evolution",
-    "id": "Poisot2020a",
+    "container-title": "Biological journal of the Linnean Society. Linnean Society of London",
+    "id": "Poisot2010d",
     "issued": {
       "date-parts": [
         [
-          2020,
-          4,
-          3
+          2010,
+          2,
+          5
         ]
       ]
     },
-    "page": "232-253",
-    "publisher": "University of Chicago Press",
-    "title": "TWELVE. The theory of ecological specialization",
-    "type": "chapter"
+    "page": "559-569",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Putative speciation events in lamellodiscus (monogenea: Diplectanidae) assessed by a morphometric approach",
+    "title-short": "Putative speciation events in lamellodiscus (monogenea",
+    "type": "article-journal",
+    "volume": "99"
+  },
+  {
+    "DOI": "10.1371/journal.pone.0026252",
+    "PMID": "22022582",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Verneau",
+        "given": "Olivier"
+      },
+      {
+        "family": "Desdevises",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "PloS one",
+    "id": "Poisot2011x",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          12
+        ]
+      ]
+    },
+    "page": "e26252",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Morphological and molecular evolution are not linked in lamellodiscus (plathyhelminthes, monogenea)",
+    "type": "article-journal",
+    "volume": "6"
   },
   {
     "DOI": "10.1098/rspb.2011.0826",

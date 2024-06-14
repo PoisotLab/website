@@ -1,0 +1,98 @@
+[
+  {
+    "DOI": "10.1080/01621459.2024.2343459",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Journal of the American Statistical Association",
+    "id": "Poisot2024-np",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          16
+        ]
+      ]
+    },
+    "page": "1-2",
+    "publisher": "Informa UK Limited",
+    "title": "Introduction to environmental data ScienceIntroduction to environmental data science. Jerry D.davis. Boca raton, FL: Chapman & hall/CRC press, 2023, xx+382 pp., $100.00(H), ISBN: 978-1-032-32218-6",
+    "title-short": "Introduction to environmental data ScienceIntroduction to environmental data science. Jerry D.davis. Boca raton, FL",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.24072/pci.ecology.100523",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer community in ecology",
+    "id": "Poisot2023d",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          4
+        ]
+      ]
+    },
+    "publisher": "Peer Community In",
+    "title": "Species distribution models: The delicate balance between signal and noise",
+    "title-short": "Species distribution models",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.24072/pci.evolbiol.100628",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer community in evolutionary biology",
+    "id": "Poisot2023v",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          2
+        ]
+      ]
+    },
+    "publisher": "Peer Community In",
+    "title": "Plant resistance to pathogens: Just you wait?",
+    "title-short": "Plant resistance to pathogens",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.24072/pci.ecology.100532",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer community in ecology",
+    "id": "Poisot2023n",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          27
+        ]
+      ]
+    },
+    "publisher": "Peer Community In",
+    "title": "Gradient boosted trees can deliver more than accurate ecological predictions",
+    "type": "article-journal"
+  }
+]

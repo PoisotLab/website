@@ -401,6 +401,88 @@
     "volume": "6"
   },
   {
+    "DOI": "10.1038/s41559-021-01547-4",
+    "PMID": "34556829",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "Benno I"
+      },
+      {
+        "family": "Blyth",
+        "given": "Penelope S A"
+      },
+      {
+        "family": "Blanchard",
+        "given": "Julia L"
+      },
+      {
+        "family": "Clegg",
+        "given": "Tom"
+      },
+      {
+        "family": "Delmas",
+        "given": "Eva"
+      },
+      {
+        "family": "Garnier",
+        "given": "Aurélie"
+      },
+      {
+        "family": "Griffiths",
+        "given": "Christopher A"
+      },
+      {
+        "family": "Jacob",
+        "given": "Ute"
+      },
+      {
+        "family": "Pennekamp",
+        "given": "Frank"
+      },
+      {
+        "family": "Petchey",
+        "given": "Owen L"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Webb",
+        "given": "Thomas J"
+      },
+      {
+        "family": "Beckerman",
+        "given": "Andrew P"
+      }
+    ],
+    "container-title": "Nature ecology & evolution",
+    "id": "Simmons2021o",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "page": "1478-1489",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Refocusing multiple stressor research around the targets and scales of ecological impacts",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
     "DOI": "10.3389/fenvs.2019.00197",
     "author": [
       {
@@ -666,6 +748,46 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.3389/frym.2021.595275",
+    "author": [
+      {
+        "family": "Higino",
+        "given": "Gracielle Teixeira"
+      },
+      {
+        "family": "Forero",
+        "given": "Norma"
+      },
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Frontiers for young minds",
+    "id": "Higino2021x",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          24
+        ]
+      ]
+    },
+    "publisher": "Frontiers Media SA",
+    "title": "Computers can help us find raccoons and other living creatures",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
     "DOI": "10.1111/oik.09063",
     "author": [
       {
@@ -812,392 +934,6 @@
     "title-short": "SpatialBoundaries.jl",
     "type": "article-journal",
     "volume": "2023"
-  },
-  {
-    "DOI": "10.1038/s41559-023-02171-0",
-    "PMID": "37620553",
-    "author": [
-      {
-        "family": "Gonzalez",
-        "given": "Andrew"
-      },
-      {
-        "family": "Vihervaara",
-        "given": "Petteri"
-      },
-      {
-        "family": "Balvanera",
-        "given": "Patricia"
-      },
-      {
-        "family": "Bates",
-        "given": "Amanda E"
-      },
-      {
-        "family": "Bayraktarov",
-        "given": "Elisa"
-      },
-      {
-        "family": "Bellingham",
-        "given": "Peter J"
-      },
-      {
-        "family": "Bruder",
-        "given": "Andreas"
-      },
-      {
-        "family": "Campbell",
-        "given": "Jillian"
-      },
-      {
-        "family": "Catchen",
-        "given": "Michael D"
-      },
-      {
-        "family": "Cavender-Bares",
-        "given": "Jeannine"
-      },
-      {
-        "family": "Chase",
-        "given": "Jonathan"
-      },
-      {
-        "family": "Coops",
-        "given": "Nicholas"
-      },
-      {
-        "family": "Costello",
-        "given": "Mark J"
-      },
-      {
-        "family": "Czúcz",
-        "given": "Bálint"
-      },
-      {
-        "family": "Delavaud",
-        "given": "Aurélie"
-      },
-      {
-        "family": "Dornelas",
-        "given": "Maria"
-      },
-      {
-        "family": "Dubois",
-        "given": "Grégoire"
-      },
-      {
-        "family": "Duffy",
-        "given": "Emmett J"
-      },
-      {
-        "family": "Eggermont",
-        "given": "Hilde"
-      },
-      {
-        "family": "Fernandez",
-        "given": "Miguel"
-      },
-      {
-        "family": "Fernandez",
-        "given": "Nestor"
-      },
-      {
-        "family": "Ferrier",
-        "given": "Simon"
-      },
-      {
-        "family": "Geller",
-        "given": "Gary N"
-      },
-      {
-        "family": "Gill",
-        "given": "Michael"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Guerra",
-        "given": "Carlos A"
-      },
-      {
-        "family": "Guralnick",
-        "given": "Robert"
-      },
-      {
-        "family": "Harfoot",
-        "given": "Michael"
-      },
-      {
-        "family": "Hirsch",
-        "given": "Tim"
-      },
-      {
-        "family": "Hoban",
-        "given": "Sean"
-      },
-      {
-        "family": "Hughes",
-        "given": "Alice C"
-      },
-      {
-        "family": "Hugo",
-        "given": "Wim"
-      },
-      {
-        "family": "Hunter",
-        "given": "Margaret E"
-      },
-      {
-        "family": "Isbell",
-        "given": "Forest"
-      },
-      {
-        "family": "Jetz",
-        "given": "Walter"
-      },
-      {
-        "family": "Juergens",
-        "given": "Norbert"
-      },
-      {
-        "family": "Kissling",
-        "given": "W Daniel"
-      },
-      {
-        "family": "Krug",
-        "given": "Cornelia B"
-      },
-      {
-        "family": "Kullberg",
-        "given": "Peter"
-      },
-      {
-        "family": "Le Bras",
-        "given": "Yvan"
-      },
-      {
-        "family": "Leung",
-        "given": "Brian"
-      },
-      {
-        "family": "Londoño-Murcia",
-        "given": "Maria Cecilia"
-      },
-      {
-        "family": "Lord",
-        "given": "Jean-Michel"
-      },
-      {
-        "family": "Loreau",
-        "given": "Michel"
-      },
-      {
-        "family": "Luers",
-        "given": "Amy"
-      },
-      {
-        "family": "Ma",
-        "given": "Keping"
-      },
-      {
-        "family": "MacDonald",
-        "given": "Anna J"
-      },
-      {
-        "family": "Maes",
-        "given": "Joachim"
-      },
-      {
-        "family": "McGeoch",
-        "given": "Melodie"
-      },
-      {
-        "family": "Mihoub",
-        "given": "Jean Baptiste"
-      },
-      {
-        "family": "Millette",
-        "given": "Katie L"
-      },
-      {
-        "family": "Molnar",
-        "given": "Zsolt"
-      },
-      {
-        "family": "Montes",
-        "given": "Enrique"
-      },
-      {
-        "family": "Mori",
-        "given": "Akira S"
-      },
-      {
-        "family": "Muller-Karger",
-        "given": "Frank E"
-      },
-      {
-        "family": "Muraoka",
-        "given": "Hiroyuki"
-      },
-      {
-        "family": "Nakaoka",
-        "given": "Masahiro"
-      },
-      {
-        "family": "Navarro",
-        "given": "Laetitia"
-      },
-      {
-        "family": "Newbold",
-        "given": "Tim"
-      },
-      {
-        "family": "Niamir",
-        "given": "Aidin"
-      },
-      {
-        "family": "Obura",
-        "given": "David"
-      },
-      {
-        "family": "O’Connor",
-        "given": "Mary"
-      },
-      {
-        "family": "Paganini",
-        "given": "Marc"
-      },
-      {
-        "family": "Pelletier",
-        "given": "Dominique"
-      },
-      {
-        "family": "Pereira",
-        "given": "Henrique"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Pollock",
-        "given": "Laura J"
-      },
-      {
-        "family": "Purvis",
-        "given": "Andy"
-      },
-      {
-        "family": "Radulovici",
-        "given": "Adriana"
-      },
-      {
-        "family": "Rocchini",
-        "given": "Duccio"
-      },
-      {
-        "family": "Roeoesli",
-        "given": "Claudia"
-      },
-      {
-        "family": "Schaepman",
-        "given": "Michael"
-      },
-      {
-        "family": "Schaepman-Strub",
-        "given": "Gabriela"
-      },
-      {
-        "family": "Schmeller",
-        "given": "Dirk S"
-      },
-      {
-        "family": "Schmiedel",
-        "given": "Ute"
-      },
-      {
-        "family": "Schneider",
-        "given": "Fabian D"
-      },
-      {
-        "family": "Shakya",
-        "given": "Mangal Man"
-      },
-      {
-        "family": "Skidmore",
-        "given": "Andrew"
-      },
-      {
-        "family": "Skowno",
-        "given": "Andrew L"
-      },
-      {
-        "family": "Takeuchi",
-        "given": "Yayioi"
-      },
-      {
-        "family": "Tuanmu",
-        "given": "Mao-Ning"
-      },
-      {
-        "family": "Turak",
-        "given": "Eren"
-      },
-      {
-        "family": "Turner",
-        "given": "Woody"
-      },
-      {
-        "family": "Urban",
-        "given": "Mark C"
-      },
-      {
-        "family": "Urbina-Cardona",
-        "given": "Nicolás"
-      },
-      {
-        "family": "Valbuena",
-        "given": "Ruben"
-      },
-      {
-        "family": "Van de Putte",
-        "given": "Anton"
-      },
-      {
-        "dropping-particle": "van",
-        "family": "Havre",
-        "given": "Basile"
-      },
-      {
-        "family": "Wingate",
-        "given": "Vladimir Ruslan"
-      },
-      {
-        "family": "Wright",
-        "given": "Elaine"
-      },
-      {
-        "family": "Torrelio",
-        "given": "Carlos Zambrana"
-      }
-    ],
-    "container-title": "Nature ecology & evolution",
-    "id": "Gonzalez2023f",
-    "issued": {
-      "date-parts": [
-        [
-          2023,
-          12
-        ]
-      ]
-    },
-    "page": "1947-1952",
-    "publisher": "Springer Science; Business Media LLC",
-    "title": "A global biodiversity observing system to unite monitoring and guide action",
-    "type": "article-journal",
-    "volume": "7"
   },
   {
     "DOI": "10.1016/j.scitotenv.2024.173837",
