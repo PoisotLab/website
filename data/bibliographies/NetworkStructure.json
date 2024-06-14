@@ -86,6 +86,40 @@
     "type": "chapter"
   },
   {
+    "DOI": "10.21105/joss.02721",
+    "author": [
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Vissault",
+        "given": "Steve"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Journal of open source software",
+    "id": "Banville2021x",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          5
+        ]
+      ]
+    },
+    "page": "2721",
+    "publisher": "The Open Journal",
+    "title": "Mangal.jl and EcologicalNetworks.jl: Two complementary packages for analyzing ecological networks in julia",
+    "title-short": "Mangal.jl and EcologicalNetworks.jl",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
     "DOI": "10.1111/2041-210x.12468",
     "author": [
       {

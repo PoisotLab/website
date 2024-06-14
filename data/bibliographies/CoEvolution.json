@@ -75,6 +75,38 @@
     "type": ""
   },
   {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "The theory of evolution",
+    "id": "Poisot2020a",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          3
+        ]
+      ]
+    },
+    "page": "232-253",
+    "publisher": "University of Chicago Press",
+    "title": "TWELVE. The theory of ecological specialization",
+    "type": "chapter"
+  },
+  {
     "DOI": "10.1098/rspb.2011.0826",
     "PMID": "21653583",
     "author": [
@@ -107,6 +139,33 @@
     "title": "Trophic network structure emerges through antagonistic coevolution in temporally varying environments",
     "type": "article-journal",
     "volume": "279"
+  },
+  {
+    "DOI": "10.1101/071993",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "id": "Poisot2016e",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          29
+        ]
+      ]
+    },
+    "publisher": "bioRxiv",
+    "title": "How ecological networks evolve",
+    "type": "article-journal"
   },
   {
     "DOI": "10.1111/mec.14008",

@@ -371,6 +371,36 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.21105/joss.02872",
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Journal of open source software",
+    "id": "Dansereau2021s",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          27
+        ]
+      ]
+    },
+    "page": "2872",
+    "publisher": "The Open Journal",
+    "title": "SimpleSDMLayers.jl and GBIF.jl: A framework for species distribution modeling in julia",
+    "title-short": "SimpleSDMLayers.jl and GBIF.jl",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
     "DOI": "10.3389/fenvs.2019.00197",
     "author": [
       {

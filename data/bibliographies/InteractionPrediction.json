@@ -97,6 +97,39 @@
     "volume": "10"
   },
   {
+    "DOI": "10.1002/ece3.7254",
+    "PMID": "33976779",
+    "author": [
+      {
+        "family": "Stock",
+        "given": "Michiel"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "De Baets",
+        "given": "Bernard"
+      }
+    ],
+    "container-title": "Ecology and evolution",
+    "id": "Stock2021w",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "page": "3841-3855",
+    "publisher": "Wiley",
+    "title": "Optimal transportation theory for species interaction networks",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
     "DOI": "10.1098/rstb.2021.0063",
     "PMID": "34538135",
     "author": [
