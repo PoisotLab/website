@@ -11,6 +11,34 @@
     top: 0;
     left: 0;
     z-index: -1000;
+    .tagline {
+        display: none;
+        color: $lab-blue;
+        font-weight: 380;
+        text-transform: uppercase;
+        line-height: 30px;
+        font-size: 28px;
+        left: 0px;
+        top: -12px;
+        position: relative;
+        clear: both;
+        .particle {
+            min-width: 2em;
+            display: inline-block;
+            text-align: right;
+            padding: 0px 0px;
+            margin: 0px 0px;
+        }
+    .secondary {
+            left: calc(2em + 6px);
+            position: relative;
+            color: $lab-green-dark;
+        }
+        .primary {
+            color: $lab-green-light;
+            font-weight: 520;
+        }
+    }
     section {
         display: block;
         position: fixed;
@@ -30,19 +58,13 @@
             text-align: left;
             max-width: 750px;
             vertical-align: bottom;
-            color: $lab-green-light;
+            color: black;
         }
         padding: 3.5em;
-        h1 {
-            font-weight: 300;
-            font-size: 1.8rem;
-            text-transform: uppercase;
-            color: $lab-green-dark;
-        }
     }
 }
 
-@media only screen and (max-width: 1420px) {
+@media only screen and (max-width: 18020px) {
     #splash {
         section {
             display: block;
@@ -51,7 +73,7 @@
             width: 100vw;
             height: 100vh;
             div {
-                max-width: 750px;
+                max-width: 800px;
                 margin: 0px auto;
             }
         }
