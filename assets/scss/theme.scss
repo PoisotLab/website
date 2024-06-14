@@ -20,6 +20,12 @@
     }
 }
 
+@media only screen and (min-width: 1200px) {
+    .tagline {
+        display: inline-block !important;
+    }
+}
+
 @media only screen and (min-width: 850px) {
     .container {
         max-width: 950px;

@@ -50,7 +50,7 @@ nav#topbar {
       height: 60px;
       float: left; }
     nav#topbar .logo .tagline {
-      display: inline-block;
+      display: none;
       color: #2e5385;
       font-weight: 380;
       text-transform: uppercase;
@@ -139,21 +139,23 @@ header {
   top: 0;
   z-index: -1;
   font-size: 1.6rem; }
-  header .container {
-    margin: 0 auto;
-    padding-bottom: 3em !important;
-    padding-top: calc(3em + 80px) !important;
-    color: #2e5385; }
 
 main#content {
   padding-bottom: 5em;
   padding-top: 2em; }
 
-section.container {
+.container {
   width: 100vw;
+  display: block;
+  padding: 50px 50px;
   line-height: 1.4; }
-  section.container ul, section.container li {
+  .container ul, .container li {
     list-style: none; }
+
+header .container {
+  padding-bottom: 3em !important;
+  padding-top: calc(3em + 80px) !important;
+  color: #2e5385; }
 
 .publication {
   border: 1px solid #e7e5df;
@@ -243,6 +245,10 @@ i.ri-hearts-line {
   border-bottom: 1px solid #eee; }
   .container a:hover {
     color: #205cac; }
+
+@media only screen and (min-width: 1200px) {
+  .tagline {
+    display: inline-block !important; } }
 
 @media only screen and (min-width: 850px) {
   .container {

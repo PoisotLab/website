@@ -24,12 +24,6 @@ header {
     top: 0;
     z-index: -1;
     font-size: 1.6rem;
-    .container {
-        margin: 0 auto;
-        padding-bottom: 3em !important;
-        padding-top: calc(3em + 80px) !important;
-        color: $lab-blue;
-    }
 }
 
 main#content {
@@ -37,10 +31,18 @@ main#content {
     padding-top: 2em;
 }
 
-section.container {
+.container {
     width: 100vw;
+    display: block;
+    padding: 50px 50px;
     line-height: 1.4;
     ul, li {
         list-style: none;
     }
+}
+
+header .container {
+    padding-bottom: 3em !important;
+    padding-top: calc(3em + 80px) !important;
+    color: $lab-blue;
 }
