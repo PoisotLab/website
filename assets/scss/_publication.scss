@@ -1,0 +1,56 @@
+.publication {
+    border: 1px solid $grey-light;
+    margin: 3em 0em;
+    .publication-content {
+        padding: 0.7rem;
+    }
+    .collection-name {
+        background-color: $grey-light;
+        display: inline-block;
+        width: 100%;
+        padding: 0.1rem 0.7rem;
+        font-size: 78%;
+        a {
+            text-decoration: none !important;
+        }
+    }
+    border-radius: 0.2em;
+    line-height: 150%;
+    font-size: 90%;
+    margin-bottom: 2em;
+    i {
+        font-weight: 100 !important;
+        color: $lab-green-dark;
+    }
+    .title {
+        font-weight: 500;
+    }
+    .metadata {
+        margin-right: 2em;
+    }
+    .authors {
+        .name {
+            display: inline;
+            &:after {
+                content: ", ";
+            }
+            &:last-child {
+                &:after {
+                    content: " ";
+                }
+            }
+            &:nth-last-child(2) {
+                &::after {
+                    content: " & ";
+                }
+            }
+        }
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        &:hover {
+            overflow: visible;
+            white-space: wrap;
+        }
+    }
+}

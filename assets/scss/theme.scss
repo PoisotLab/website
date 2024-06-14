@@ -2,19 +2,13 @@
 @import "_type";
 @import "_navbar";
 @import "_layout";
-@import "_papers";
-@import "_listing";
 @import "_index";
 
-.backdrop {
-    width: 100vw;
-    height: 100vw;
-    background-blend-mode: hue;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -2;
-}
+// Format the list of papers
+@import "_publication";
+
+// List of things
+@import "_list";
 
 .container {
     a {
@@ -27,9 +21,26 @@
     }
 }
 
+#splash {
+    .tagline {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .tagline {
+        display: inline-block !important;
+    }
+    #splash {
+        .tagline {
+            display: none !important;
+        }
+    }
+}
+
 @media only screen and (min-width: 850px) {
     .container {
-        max-width: 1000px;
+        max-width: 950px;
         margin: 0px auto;
         p {
             line-height: 1.8;
@@ -71,7 +82,7 @@ footer {
     padding-top: 4em;
     background-color: #f3f3f3;
     color: #aeaeae;
-    font-weight: 300;
+    font-weight: 350;
 }
 
 #content {

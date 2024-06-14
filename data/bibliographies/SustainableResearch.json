@@ -1,0 +1,1180 @@
+[
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Poisot2020c",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          17
+        ]
+      ]
+    },
+    "title": "COVID-19 models demand an abundance of caution",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1371/journal.pbio.1001563",
+    "PMID": "23690752",
+    "author": [
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "White",
+        "given": "Ethan P"
+      },
+      {
+        "family": "Adamson",
+        "given": "Joel J"
+      },
+      {
+        "family": "Ram",
+        "given": "Karthik"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "PLoS biology",
+    "id": "Desjardins-Proulx2013z",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          14
+        ]
+      ]
+    },
+    "page": "e1001563",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "The case for open preprints in biology",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
+    "DOI": "10.4033/iee.2015.8.8.f",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      }
+    ],
+    "container-title": "Ideas in ecology and evolution",
+    "id": "Poisot2015i",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Queen’s University Library",
+    "title": "Best publishing practices to improve user confidence in scientific software",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.32614/rj-2011-004",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "The R journal",
+    "id": "Poisot2011j",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "25",
+    "publisher": "The R Foundation",
+    "title": "The digitize package: Extracting numerical data from scatterplots",
+    "title-short": "The digitize package",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "DOI": "10.3389/fevo.2019.00402",
+    "author": [
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Frontiers in ecology and evolution",
+    "id": "Desjardins-Proulx2019j",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          29
+        ]
+      ]
+    },
+    "publisher": "Frontiers Media SA",
+    "title": "Artificial intelligence for ecological and evolutionary synthesis",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "DOI": "10.1038/d41586-024-00545-3",
+    "PMID": "38396080",
+    "author": [
+      {
+        "family": "Carlson",
+        "given": "Colin"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel"
+      },
+      {
+        "family": "Happi",
+        "given": "Christian"
+      },
+      {
+        "family": "O’Donoghue",
+        "given": "Zoe"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Oliveira",
+        "given": "Tulio"
+      },
+      {
+        "family": "Oyola",
+        "given": "Samuel O"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Phelan",
+        "given": "Alexandra"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Carlson2024k",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2
+        ]
+      ]
+    },
+    "page": "952-953",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Save lives in the next pandemic: Ensure vaccine equity now",
+    "title-short": "Save lives in the next pandemic",
+    "type": "article-journal",
+    "volume": "626"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bahlai",
+        "given": "Christie"
+      },
+      {
+        "family": "Bartlett",
+        "given": "Lewis J"
+      },
+      {
+        "family": "Burgio",
+        "given": "Kevin R"
+      },
+      {
+        "family": "Fournier",
+        "given": "Auriel M V"
+      },
+      {
+        "family": "Keiser",
+        "given": "Carl N"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Whitney",
+        "given": "Kaitlin Stack"
+      }
+    ],
+    "container-title": "American Scientist",
+    "id": "Bahlai2019s",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          30
+        ]
+      ]
+    },
+    "title": "Open science isn’t always open to all scientists",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "P"
+      },
+      {
+        "family": "Bonhomme",
+        "given": "Vincent"
+      },
+      {
+        "family": "Thomas",
+        "given": "H G E"
+      },
+      {
+        "family": "Thomas",
+        "given": "H G E"
+      },
+      {
+        "family": "Hayes",
+        "given": "R"
+      },
+      {
+        "family": "Poisot",
+        "given": "T"
+      },
+      {
+        "family": "Salguero‐Gómez",
+        "given": "R"
+      },
+      {
+        "family": "Vizzini",
+        "given": "S"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka B"
+      }
+    ],
+    "id": "Jorgensen2011x",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          30
+        ]
+      ]
+    },
+    "page": "3-5",
+    "publisher": "unknown",
+    "title": "A global network of next generation ecologists",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "DOI": "10.4033/iee.2013.6b.14.f",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      },
+      {
+        "family": "Mounce",
+        "given": "Ross"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ideas in ecology and evolution",
+    "id": "Poisot2013t",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "Queen’s University Library",
+    "title": "Moving toward a sustainable ecological science: Don’t let data go to waste!",
+    "title-short": "Moving toward a sustainable ecological science",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.7717/peerj.285",
+    "PMID": "24688862",
+    "author": [
+      {
+        "family": "Barraquand",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Ezard",
+        "given": "Thomas H G"
+      },
+      {
+        "family": "Jørgensen",
+        "given": "Peter S"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka"
+      },
+      {
+        "family": "Chamberlain",
+        "given": "Scott"
+      },
+      {
+        "family": "Salguero-Gómez",
+        "given": "Roberto"
+      },
+      {
+        "family": "Curran",
+        "given": "Timothy J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "PeerJ",
+    "id": "Barraquand2014l",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          4
+        ]
+      ]
+    },
+    "page": "e285",
+    "publisher": "PeerJ",
+    "title": "Lack of quantitative training among early-career ecologists: A survey of the problem and potential solutions",
+    "title-short": "Lack of quantitative training among early-career ecologists",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "DOI": "10.1890/es14-00198.1",
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "Peter Søgaard"
+      },
+      {
+        "family": "Barraquand",
+        "given": "Frederic"
+      },
+      {
+        "family": "Bonhomme",
+        "given": "Vincent"
+      },
+      {
+        "family": "Curran",
+        "given": "Timothy J"
+      },
+      {
+        "family": "Cieraad",
+        "given": "Ellen"
+      },
+      {
+        "family": "Ezard",
+        "given": "Thomas G"
+      },
+      {
+        "family": "Gherardi",
+        "given": "Laureano A"
+      },
+      {
+        "family": "Hayes",
+        "given": "R Andrew"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Salguero-Gómez",
+        "given": "Roberto"
+      },
+      {
+        "family": "DeSoto",
+        "given": "Lucía"
+      },
+      {
+        "family": "Swartz",
+        "given": "Brian"
+      },
+      {
+        "family": "Talbot",
+        "given": "Jennifer M"
+      },
+      {
+        "family": "Wee",
+        "given": "Brian"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka"
+      }
+    ],
+    "container-title": "Ecosphere (Washington, D.C)",
+    "id": "Jorgensen2015p",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "page": "1-11",
+    "publisher": "Wiley",
+    "title": "Connecting people and ideas from around the world: Global innovation platforms for next‐generation ecology and beyond",
+    "title-short": "Connecting people and ideas from around the world",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1890/es14-00485.1",
+    "author": [
+      {
+        "family": "White",
+        "given": "Rachel L"
+      },
+      {
+        "family": "Sutton",
+        "given": "Alexandra E"
+      },
+      {
+        "family": "Salguero-Gómez",
+        "given": "Roberto"
+      },
+      {
+        "family": "Bray",
+        "given": "Timothy C"
+      },
+      {
+        "family": "Campbell",
+        "given": "Heather"
+      },
+      {
+        "family": "Cieraad",
+        "given": "Ellen"
+      },
+      {
+        "family": "Geekiyanage",
+        "given": "Nalaka"
+      },
+      {
+        "family": "Gherardi",
+        "given": "Laureano"
+      },
+      {
+        "family": "Hughes",
+        "given": "Alice C"
+      },
+      {
+        "family": "Jørgensen",
+        "given": "Peter Søgaard"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      },
+      {
+        "family": "DeSoto",
+        "given": "Lucía"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka"
+      }
+    ],
+    "container-title": "Ecosphere (Washington, D.C)",
+    "id": "White2015g",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    },
+    "page": "art134",
+    "publisher": "Wiley",
+    "title": "The next generation ofaction ecology: Novel approaches towards global ecological research",
+    "title-short": "The next generation ofaction ecology",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.22541/au.150844289.92609826",
+    "author": [
+      {
+        "family": "Goring",
+        "given": "Simon"
+      },
+      {
+        "family": "Whitney",
+        "given": "Kaitlin Stack"
+      },
+      {
+        "family": "Jacob",
+        "given": "Aerin"
+      },
+      {
+        "family": "Bruna",
+        "given": "Emilio"
+      },
+      {
+        "dropping-particle": "e",
+        "family": "Poisot",
+        "given": "Timoth"
+      }
+    ],
+    "id": "Goring2017r",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Authorea, Inc.",
+    "title": "Making scientific content more accessible",
+    "type": "dataset"
+  },
+  {
+    "DOI": "10.7191/jeslib.2017.1114",
+    "author": [
+      {
+        "family": "Soyka",
+        "given": "Heather"
+      },
+      {
+        "literal": "Kent State University"
+      },
+      {
+        "family": "Budden",
+        "given": "Amber"
+      },
+      {
+        "family": "Hutchison",
+        "given": "Viv"
+      },
+      {
+        "family": "Bloom",
+        "given": "David"
+      },
+      {
+        "family": "Duckles",
+        "given": "Jonah"
+      },
+      {
+        "family": "Hodge",
+        "given": "Amy"
+      },
+      {
+        "family": "Mayernik",
+        "given": "Matthew"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Rauch",
+        "given": "Shannon"
+      },
+      {
+        "family": "Steinhart",
+        "given": "Gail"
+      },
+      {
+        "family": "Wasser",
+        "given": "Leah"
+      },
+      {
+        "family": "Whitmire",
+        "given": "Amanda"
+      },
+      {
+        "family": "Wright",
+        "given": "Stephanie"
+      },
+      {
+        "literal": "DataONE/University of New Mexico"
+      },
+      {
+        "literal": "US Geological Survey"
+      },
+      {
+        "literal": "University of California, Berkeley"
+      },
+      {
+        "literal": "Software Carpentry"
+      },
+      {
+        "literal": "Stanford University"
+      },
+      {
+        "literal": "National Center for Atmospheric Research/University Corporation for Atmospheric Research"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Montréal",
+        "given": "Université"
+      },
+      {
+        "literal": "Woods Hole Oceanographic Institute"
+      },
+      {
+        "literal": "Cornell University"
+      },
+      {
+        "literal": "University of Colorado"
+      },
+      {
+        "literal": "Stanford University"
+      },
+      {
+        "literal": "Mozilla Foundation"
+      }
+    ],
+    "container-title": "Journal of escience librarianship",
+    "id": "Soyka2017s",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          8
+        ]
+      ]
+    },
+    "page": "e1114",
+    "publisher": "University of Massachusetts Medical School",
+    "title": "Using peer review to support development of community resources for research data management",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.7717/peerj-cs.142",
+    "PMID": "34722870",
+    "author": [
+      {
+        "family": "Rougier",
+        "given": "Nicolas P"
+      },
+      {
+        "family": "Hinsen",
+        "given": "Konrad"
+      },
+      {
+        "family": "Alexandre",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Arildsen",
+        "given": "Thomas"
+      },
+      {
+        "family": "Barba",
+        "given": "Lorena A"
+      },
+      {
+        "family": "Benureau",
+        "given": "Fabien C Y"
+      },
+      {
+        "family": "Brown",
+        "given": "C Titus"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Buyl",
+        "given": "Pierre"
+      },
+      {
+        "family": "Caglayan",
+        "given": "Ozan"
+      },
+      {
+        "family": "Davison",
+        "given": "Andrew P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Detorakis",
+        "given": "Georgios"
+      },
+      {
+        "family": "Diem",
+        "given": "Alexandra K"
+      },
+      {
+        "family": "Drix",
+        "given": "Damien"
+      },
+      {
+        "family": "Enel",
+        "given": "Pierre"
+      },
+      {
+        "family": "Girard",
+        "given": "Benoît"
+      },
+      {
+        "family": "Guest",
+        "given": "Olivia"
+      },
+      {
+        "family": "Hall",
+        "given": "Matt G"
+      },
+      {
+        "family": "Henriques",
+        "given": "Rafael N"
+      },
+      {
+        "family": "Hinaut",
+        "given": "Xavier"
+      },
+      {
+        "family": "Jaron",
+        "given": "Kamil S"
+      },
+      {
+        "family": "Khamassi",
+        "given": "Mehdi"
+      },
+      {
+        "family": "Klein",
+        "given": "Almar"
+      },
+      {
+        "family": "Manninen",
+        "given": "Tiina"
+      },
+      {
+        "family": "Marchesi",
+        "given": "Pietro"
+      },
+      {
+        "family": "McGlinn",
+        "given": "Daniel"
+      },
+      {
+        "family": "Metzner",
+        "given": "Christoph"
+      },
+      {
+        "family": "Petchey",
+        "given": "Owen"
+      },
+      {
+        "family": "Plesser",
+        "given": "Hans Ekkehard"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Ram",
+        "given": "Karthik"
+      },
+      {
+        "family": "Ram",
+        "given": "Yoav"
+      },
+      {
+        "family": "Roesch",
+        "given": "Etienne"
+      },
+      {
+        "family": "Rossant",
+        "given": "Cyrille"
+      },
+      {
+        "family": "Rostami",
+        "given": "Vahid"
+      },
+      {
+        "family": "Shifman",
+        "given": "Aaron"
+      },
+      {
+        "family": "Stachelek",
+        "given": "Jemma"
+      },
+      {
+        "family": "Stimberg",
+        "given": "Marcel"
+      },
+      {
+        "family": "Stollmeier",
+        "given": "Frank"
+      },
+      {
+        "family": "Vaggi",
+        "given": "Federico"
+      },
+      {
+        "family": "Viejo",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Vitay",
+        "given": "Julien"
+      },
+      {
+        "family": "Vostinar",
+        "given": "Anya E"
+      },
+      {
+        "family": "Yurchak",
+        "given": "Roman"
+      },
+      {
+        "family": "Zito",
+        "given": "Tiziano"
+      }
+    ],
+    "container-title": "PeerJ. Computer science",
+    "id": "Rougier2017e",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          18
+        ]
+      ]
+    },
+    "page": "e142",
+    "publisher": "PeerJ",
+    "title": "Sustainable computational science: The ReScience initiative",
+    "title-short": "Sustainable computational science",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "DOI": "10.1093/biosci/biy038",
+    "author": [
+      {
+        "family": "Renaut",
+        "given": "Sébastien"
+      },
+      {
+        "family": "Budden",
+        "given": "Amber E"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Peres-Neto",
+        "given": "Pedro"
+      }
+    ],
+    "container-title": "Bioscience",
+    "id": "Renaut2018d",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          1
+        ]
+      ]
+    },
+    "page": "400-411",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Management, archiving, and sharing for biologists and the role of research institutions in the technology-oriented age",
+    "type": "article-journal",
+    "volume": "68"
+  },
+  {
+    "DOI": "10.1016/j.tree.2019.04.005",
+    "PMID": "31056219",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bruneau",
+        "given": "Anne"
+      },
+      {
+        "family": "Gonzalez",
+        "given": "Andrew"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Peres-Neto",
+        "given": "Pedro"
+      }
+    ],
+    "container-title": "Trends in ecology & evolution",
+    "id": "Poisot2019k",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "page": "494-496",
+    "publisher": "Elsevier BV",
+    "title": "Ecological data should not be so hard to find and reuse",
+    "type": "article-journal",
+    "volume": "34"
+  },
+  {
+    "DOI": "10.24908/iee.2019.12.2.e",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "LaBrie",
+        "given": "Richard"
+      },
+      {
+        "family": "Larson",
+        "given": "Erin"
+      },
+      {
+        "family": "Rahlin",
+        "given": "Anastasia"
+      },
+      {
+        "family": "Simmons",
+        "given": "Beno I"
+      }
+    ],
+    "container-title": "Ideas in ecology and evolution",
+    "id": "Poisot2019u",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          22
+        ]
+      ]
+    },
+    "publisher": "Queen’s University Library",
+    "title": "Data-based, synthesis-driven: Setting the agenda for computational ecology",
+    "title-short": "Data-based, synthesis-driven",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "DOI": "10.1371/journal.pbio.3002349",
+    "PMID": "37917597",
+    "author": [
+      {
+        "family": "Higino",
+        "given": "Gracielle"
+      },
+      {
+        "family": "Barros",
+        "given": "Ceres"
+      },
+      {
+        "family": "Bledsoe",
+        "given": "Ellen"
+      },
+      {
+        "family": "Roche",
+        "given": "Dominique G"
+      },
+      {
+        "family": "Binning",
+        "given": "Sandra Ann"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "PLoS biology",
+    "id": "Higino2023s",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11
+        ]
+      ]
+    },
+    "page": "e3002349",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Postdoctoral scientists are mentors, and it is time to recognize their work",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "DOI": "10.22541/au.169384322.27179185/v1",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Riva",
+        "given": "Giulio Dalla"
+      },
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "Luccioni",
+        "given": "Alexandra Sasha"
+      }
+    ],
+    "id": "Poisot2023b",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          4
+        ]
+      ]
+    },
+    "title": "The future of ecological research will not be (fully) automated",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1371/journal.pcbi.1005097",
+    "author": [
+      {
+        "family": "Hart",
+        "given": "Edmund M"
+      },
+      {
+        "family": "Barmby",
+        "given": "Pauline"
+      },
+      {
+        "family": "LeBauer",
+        "given": "David"
+      },
+      {
+        "family": "Michonneau",
+        "given": "François"
+      },
+      {
+        "family": "Mount",
+        "given": "Sarah"
+      },
+      {
+        "family": "Mulrooney",
+        "given": "Patrick"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Woo",
+        "given": "Kara H"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka B"
+      },
+      {
+        "family": "Hollister",
+        "given": "Jeffrey W"
+      }
+    ],
+    "container-title": "PLoS computational biology",
+    "id": "Hart2016z",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          20
+        ]
+      ]
+    },
+    "page": "e1005097",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Ten simple rules for digital data storage",
+    "type": "article-journal",
+    "volume": "12"
+  }
+]

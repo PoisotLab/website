@@ -16,14 +16,6 @@ html, body {
     min-height: 100vh;
 }
 
-body {
-    background-image: url("/backgrounds/1.jpg");
-    background-attachment: fixed;
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
 header {
     line-height: 3em;
     color: white;
@@ -32,27 +24,25 @@ header {
     top: 0;
     z-index: -1;
     font-size: 1.6rem;
-    background-color: rgba(255, 255, 255, 0.7);
-    .container {
-        margin: 0 auto;
-        padding-bottom: 3em !important;
-        padding-left: 1em !important;
-        padding-top: calc(3em + 80px) !important;
-        color: $lab-blue;
-    }
 }
 
 main#content {
-    background-color: #fdfdfd;
     padding-bottom: 5em;
     padding-top: 2em;
 }
 
-section.container {
-    padding: 1.75em;
+.container {
     width: 100vw;
+    display: block;
+    padding: 50px 50px;
     line-height: 1.4;
     ul, li {
         list-style: none;
     }
+}
+
+header .container {
+    padding-bottom: 0em !important;
+    padding-top: calc(4em + 80px) !important;
+    color: $lab-blue;
 }

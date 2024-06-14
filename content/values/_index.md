@@ -2,39 +2,42 @@
 title: Values
 ---
 
-# Hi!
-
-Welcome to the [Computational Ecology Research Group](http://poisotlab.io/)!
+**Welcome to the [Computational Ecology Research Group](http://poisotlab.io/)**!
 
 In this lab, we study a variety of habitats, taxa and processes, with the core
 elements of using data, math and computational techniques to gain better
-understanding of ecological systems. We are committed to applying what we learn
-to making the world a better place &mdash; by supporting sustainability and
-productivity in working ecosystems, by making the work we do accessible to the
-broader community, and by drawing in diverse viewpoints to enhance mutual
-understanding of science, scientists, and the needs of the world.
+understanding of ecological systems.
+
+We are committed to applying what we learn to making the world a better place
+&mdash; by supporting sustainability and productivity in working ecosystems, by
+making the work we do accessible to the broader community, and by drawing in
+diverse viewpoints to enhance mutual understanding of science, scientists, and
+the needs of the world.
 
 We believe that "science" is *one* way of learning about the world, alongside
 art, imagination, intuition, faith, vibes, .... We know there is value in
 pretending that the world can be simplified to mathematics or code, but we know
-these constructs are not truths. We believe that curiosity-driven research can
-lead to actionable science, if it is used to generate questions, not give
-answers. We believe that algorithms cannot be trusted to make decisions on
-behalf of people. We subscribe to the principles outlined in the [Montréal
-Declaration for a Responsible Development of Artifical
+these constructs are not truths.
+
+We believe that curiosity-driven research can lead to actionable science, if it
+is used to generate questions, not give answers.
+
+We believe that algorithms cannot be trusted to make decisions on behalf of
+people. We subscribe to the principles outlined in the [Montréal Declaration for
+a Responsible Development of Artifical
 Intelligence](https://www.montrealdeclaration-responsibleai.com/).
 
 # Our commitments to our community
 
 Science is hard, and the work of making sure science isn't harder than it needs
-to be is on all of us. We create our culture, and in the Poisot lab, **our
-culture is inclusive**. This document serves both as a statement of our values
-*and* as our code of conduct; the means and the ends are the same.
+to be is on all of us. We create our culture, and **our culture is inclusive**.
+This document serves both as a statement of our values *and* as our code of
+conduct; the means and the ends are the same.
 
 We value the participation of every member of our community. We want to ensure
 an that every lab member and collaborator has a **positive, educational
 experience** unhindered by unneccesary challenges caused by non-inclusive
-behavior. Accordingly, everyone who participates in any Poisot Lab project is
+behavior. Accordingly, everyone who participates in any group project is
 expected to show respect and courtesy to other community members at all times.
 
 Timothée Poisot, as head of the research group, and all group members, are
@@ -86,10 +89,10 @@ to the following Code of Conduct.
 
 # Our commitments to open science
 
-First and foremost, the Poisot Lab is an [open
+First and foremost, we are an [open
 science](https://en.wikipedia.org/wiki/Open_science) lab. There are several
 major facets to this, but the core is: *the way this lab operates is grounded in
-my personal belief that participation in science is a public act, and done in
+Timothée's personal belief that participation in science is a public act, and done in
 the public good.* Science allows us to be part of something bigger, and to
 foster a healthy, collaborative and truly inclusive scientific enterprise, it's
 essential that we give back at least as much as we take from the community.
@@ -157,7 +160,7 @@ communication, and can be dispelled by better communication.
 
 This sentence is stolen from [Bastian
 Greshake's](https://github.com/gedankenstuecke) email footer and forms the basis
-of the Poisot Lab's policy on flexible working:
+of our policy on flexible working:
 
 > While I may be sending this email outside my normal office hours, I have no
 > expectation to receive a reply outside yours.
@@ -169,6 +172,6 @@ members are required to reply to them outside of *their* typical work hours.
 
 Lab members are welcome to work flexibly for any reason, this includes working
 remotely. All lab members are encouraged to attend our weekly lab meeting (which
-can be done remotely) and to participate to any lab activities. It is the policy
-of the Poisot Lab that every member is already self-motivated and may choose to
-deviate from a traditional 9 to 5 day in order to meet our collective goals.
+can be done remotely) and to participate to any lab activities. Our assumption
+is that every member is already self-motivated and may choose to deviate from a
+traditional 9 to 5 day in order to meet our collective goals.

@@ -1,0 +1,451 @@
+[
+  {
+    "DOI": "10.4081/jlimnol.2014.807",
+    "author": [
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      }
+    ],
+    "container-title": "Journal of limnology",
+    "id": "Gravel2014h",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          8
+        ]
+      ]
+    },
+    "publisher": "PAGEPress Publications",
+    "title": "Using neutral theory to reveal the contribution of meta-community processes to assembly in complex landscapes",
+    "type": "article-journal",
+    "volume": "73"
+  },
+  {
+    "DOI": "10.1002/9780470015902.a0026281",
+    "author": [
+      {
+        "family": "Vamosi",
+        "given": "Jana C"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "eLS",
+    "id": "Vamosi2016x",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          15
+        ]
+      ]
+    },
+    "page": "1-7",
+    "publisher": "John Wiley & Sons, Ltd",
+    "publisher-place": "Chichester, UK",
+    "title": "Evolutionary ecology of specialisation",
+    "type": "entry-encyclopedia"
+  },
+  {
+    "DOI": "10.5281/ZENODO.2598793",
+    "author": [
+      {
+        "family": "Caron",
+        "given": "Dominique"
+      },
+      {
+        "family": "Lessard",
+        "given": "Vincent"
+      },
+      {
+        "family": "Wu",
+        "given": "Qile"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "[Re]Science",
+    "id": "Caron2019d",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "title": "[Re] insect natural enemies as regulating factors",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5281/ZENODO.1402676",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "[Re]Science",
+    "id": "Poisot2018d",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "title": "[Re] on the coexistence of specialists and generalists",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5281/ZENODO.4022518",
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Basque",
+        "given": "Elodie"
+      },
+      {
+        "family": "MacDonald",
+        "given": "Andrew"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "[Re]Science",
+    "id": "Dansereau2020l",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "title": "[Re] chaos in a three-species food chain",
+    "type": "article-journal"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "The theory of evolution",
+    "id": "Poisot2020a",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          3
+        ]
+      ]
+    },
+    "page": "232-253",
+    "publisher": "University of Chicago Press",
+    "title": "The theory of ecological specialization",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1111/j.1095-8649.2009.02400.x",
+    "PMID": "20738641",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "T"
+      },
+      {
+        "family": "Simková",
+        "given": "A"
+      },
+      {
+        "family": "Hyrsl",
+        "given": "P"
+      },
+      {
+        "family": "Morand",
+        "given": "S"
+      }
+    ],
+    "container-title": "Journal of fish biology",
+    "id": "Poisot2009s",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          11
+        ]
+      ]
+    },
+    "page": "1667-1682",
+    "publisher": "Wiley",
+    "title": "Interactions between immunocompetence, somatic condition and parasitism in the chub leuciscus cephalus in early spring",
+    "type": "article-journal",
+    "volume": "75"
+  },
+  {
+    "DOI": "10.1111/j.1461-0248.2011.01645.x",
+    "PMID": "21699641",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bever",
+        "given": "James D"
+      },
+      {
+        "family": "Nemri",
+        "given": "Adnane"
+      },
+      {
+        "family": "Thrall",
+        "given": "Peter H"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Ecology letters",
+    "id": "Poisot2011m",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          9
+        ]
+      ]
+    },
+    "page": "841-851",
+    "publisher": "Wiley",
+    "title": "A conceptual framework for the evolution of ecological specialisation",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "DOI": "10.1111/ele.12118",
+    "PMID": "23692591",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecology letters",
+    "id": "Poisot2013i",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          7
+        ]
+      ]
+    },
+    "page": "853-861",
+    "publisher": "Wiley",
+    "title": "Trophic complementarity drives the biodiversity-ecosystem functioning relationship in food webs",
+    "type": "article-journal",
+    "volume": "16"
+  },
+  {
+    "DOI": "10.1002/ece3.1151",
+    "PMID": "25614798",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bever",
+        "given": "James D"
+      },
+      {
+        "family": "Thrall",
+        "given": "Peter H"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Ecology and evolution",
+    "id": "Poisot2014g",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          10
+        ]
+      ]
+    },
+    "page": "3841-3850",
+    "publisher": "Wiley",
+    "title": "Dispersal and spatial heterogeneity allow coexistence between enemies and protective mutualists",
+    "type": "article-journal",
+    "volume": "4"
+  },
+  {
+    "DOI": "10.1371/journal.pone.0114674",
+    "PMID": "25992798",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Kéfi",
+        "given": "Sonia"
+      },
+      {
+        "family": "Morand",
+        "given": "Serge"
+      },
+      {
+        "family": "Stanko",
+        "given": "Michal"
+      },
+      {
+        "family": "Marquet",
+        "given": "Pablo A"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "PloS one",
+    "id": "Poisot2015x",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          20
+        ]
+      ]
+    },
+    "page": "e0114674",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "A continuum of specialists and generalists in empirical communities",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "DOI": "10.1111/2041-210x.12713",
+    "author": [
+      {
+        "family": "Delmas",
+        "given": "Eva"
+      },
+      {
+        "family": "Brose",
+        "given": "Ulrich"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Delmas2017i",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "page": "881-886",
+    "publisher": "Wiley",
+    "title": "Simulations of biomass dynamics in community food webs",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.1101/2020.06.10.144949",
+    "author": [
+      {
+        "family": "Delmas",
+        "given": "Eva"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "id": "Delmas2020r",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          12
+        ]
+      ]
+    },
+    "publisher": "bioRxiv",
+    "title": "Food web structure alters ecological communities top-heaviness with little effect on the biodiversity-functioning relationship",
+    "type": "article-journal"
+  }
+]

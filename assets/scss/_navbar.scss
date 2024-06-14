@@ -4,8 +4,8 @@ nav#topbar {
     top: 0;
     margin: 0px 0px;
     padding: 20px 20px;
-    line-height: 40px;
-    height: 80px;
+    line-height: 60px;
+    height: 100px;
     width: 100vw;
     &.scrolled {
         box-shadow: 0px 0px 4px 0px $grey-light;
@@ -26,9 +26,41 @@ nav#topbar {
             }
         }
     }
-    img.logo {
-        margin: 0px 0px;
-        height: 40px;
+    .logo {
+        z-index: 1000;
+        clear: both;
+        img {
+            margin: 0px 0px;
+            height: 60px;
+            float: left;
+        }
+        .tagline {
+            display: none;
+            color: $lab-blue;
+            font-weight: 380;
+            text-transform: uppercase;
+            line-height: 18px;
+            left: 18px;
+            top: -12px;
+            position: relative;
+            clear: both;
+            .particle {
+                min-width: 2em;
+                display: inline-block;
+                text-align: right;
+                padding: 0px 0px;
+                margin: 0px 0px;
+            }
+        .secondary {
+                left: calc(2em + 6px);
+                position: relative;
+                color: $lab-green-dark;
+            }
+            .primary {
+                color: $lab-green-light;
+                font-weight: 520;
+            }
+        }
     }
     a {
         color: $lab-blue;

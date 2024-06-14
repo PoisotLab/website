@@ -1,0 +1,60 @@
+<div class="publication">
+    {{ $year := index .issued "date-parts" 0 0 | string }}
+    <div class="publication-content">
+    <div class="title">
+        <i class="ri-article-line"></i> 
+        {{ title .title }}
+    </div>
+    <span class="metadata year">
+        <i class="ri-calendar-2-line"></i> 
+        {{ $year }}
+    </span>
+    {{ if isset . "DOI"}}
+    <span class="metadata link">
+        <i class="ri-external-link-line"></i> 
+        <a href="http://dx.doi.org/{{ .DOI}}" target="_blank" class="doi" title="Text through DOI">Text (via DOI)</a>
+    </span>
+    {{ else if isset . "URL" }}
+        <span class="metadata link">
+            <i class="ri-external-link-line"></i> 
+            <a href="{{ .URL}}" target="_blank" title="Text through URL">Text (via URL)</a>
+        </span>
+    {{ else }}
+    <span class="metadata link">
+        <i class="ri-graduation-cap-line"></i> 
+        <a href="https://scholar.google.com/scholar?q={{.title}}" title="Find on google scholar" target="_blank">Google Scholar</a>
+    </span>
+    {{ end }}
+    <div class="authors">
+        <i class="ri-group-2-line"></i> 
+        {{ range $key, $author := .author }}
+        <span class="name">
+            <span class="given">{{ range $names := split $author.given " " }}{{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}{{ end }}</span>
+            <span class="family">{{ $author.family }}</span>
+        </span>
+        {{ end }}
+    </div>
+    <!--
+    <span class="badges">
+        <div data-badge-popover="right" data-badge-type="4" data-doi="{{ .DOI }}" data-condensed="true"
+            data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed"></div>
+    </span>
+    -->
+    </div>
+    {{ if .collection }}
+        <span class="collection-name">
+            {{ $result := index (where site.RegularPages "File.BaseFileName"  .collection) 0 }}
+            Research theme: <a href="{{ $result.Permalink }}">{{ $result.Title }}</a>
+            {{ if $result.Page.Params.status }}
+            <span class="{{ $result.Params.status}}">
+                {{ with (eq $result.Params.status "hot") }}
+                    <i class="ri-fire-line"></i>
+                {{ end }}
+                {{ with (eq $result.Params.status "active") }}
+                    <i class="ri-sparkling-line"></i>
+                {{ end }}
+            </span>
+        {{ end }}
+        </span>
+    {{ end }}
+</div>

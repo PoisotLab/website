@@ -1,0 +1,210 @@
+[
+  {
+    "DOI": "10.1111/1365-2435.12799",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Kéfi",
+        "given": "Sonia"
+      }
+    ],
+    "container-title": "Functional ecology",
+    "id": "Poisot2016d",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "page": "1878-1882",
+    "publisher": "Wiley",
+    "title": "Describe, understand and predict: Why do we need networks in ecology?",
+    "title-short": "Describe, understand and predict",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "DOI": "10.24072/pcjournal.105",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer community journal",
+    "id": "Poisot2022m",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          13
+        ]
+      ]
+    },
+    "publisher": "Peer Community In",
+    "title": "Dissimilarity of species interaction networks: Quantifying the effect of turnover and rewiring",
+    "title-short": "Dissimilarity of species interaction networks",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "DOI": "10.1111/ele.12002",
+    "PMID": "22994257",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Canard",
+        "given": "Elsa"
+      },
+      {
+        "family": "Mouillot",
+        "given": "David"
+      },
+      {
+        "family": "Mouquet",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Ecology letters",
+    "id": "Poisot2012h",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          12
+        ]
+      ]
+    },
+    "page": "1353-1361",
+    "publisher": "Wiley",
+    "title": "The dissimilarity of species interaction networks",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "DOI": "10.1017/s0031182013000851",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stanko",
+        "given": "Michal"
+      },
+      {
+        "family": "Miklisová",
+        "given": "Dana"
+      },
+      {
+        "family": "Morand",
+        "given": "Serge"
+      }
+    ],
+    "container-title": "Parasitology",
+    "id": "Poisot2013b",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          9
+        ]
+      ]
+    },
+    "page": "1340-1345",
+    "publisher": "Cambridge University Press (CUP)",
+    "title": "Facultative and obligate parasite communities exhibit different network properties",
+    "type": "article-journal",
+    "volume": "140"
+  },
+  {
+    "DOI": "10.1111/oik.01719",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "Oikos (Copenhagen, Denmark)",
+    "id": "Poisot2015b",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3
+        ]
+      ]
+    },
+    "page": "243-251",
+    "publisher": "Wiley",
+    "title": "Beyond species: Why ecological interaction networks vary through space and time",
+    "title-short": "Beyond species",
+    "type": "article-journal",
+    "volume": "124"
+  },
+  {
+    "DOI": "10.1111/geb.12602",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Guéveneux-Julien",
+        "given": "Cynthia"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Legendre",
+        "given": "Pierre"
+      }
+    ],
+    "container-title": "Global ecology and biogeography: a journal of macroecology",
+    "id": "Poisot2017z",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "page": "942-951",
+    "publisher": "Wiley",
+    "title": "Hosts, parasites and their interactions respond to different climatic variables",
+    "type": "article-journal",
+    "volume": "26"
+  }
+]

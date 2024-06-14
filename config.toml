@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
 [menu]
   [[menu.main]]
     name = "People"
-    pre = "ri-group-line"
+    pre = "ri-group-2-line"
     url = "/people/"
     weight = 1
   [[menu.main]]
@@ -28,7 +28,7 @@ preserveTaxonomyNames = true
     weight = 4
   [[menu.main]]
     name = "Research"
-    pre = "ri-microscope-line"
+    pre = "ri-question-line"
     url = "/research/"
     weight = 3
   [[menu.main]]

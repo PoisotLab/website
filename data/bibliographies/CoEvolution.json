@@ -1,0 +1,438 @@
+[
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Desjardins-Proulx",
+        "given": "Philippe"
+      },
+      {
+        "family": "Rosindell",
+        "given": "James L"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      }
+    ],
+    "container-title": "arXiv [q-bio.PE]",
+    "id": "Desjardins-Proulx2012n",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          3,
+          8
+        ]
+      ]
+    },
+    "title": "A simple model to study phylogeographies and speciation patterns in space",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1017/cbo9781139794749.028",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Parasite diversity and diversification",
+    "editor": [
+      {
+        "family": "Morand",
+        "given": "Serge"
+      },
+      {
+        "family": "Krasnov",
+        "given": "Boris R"
+      },
+      {
+        "family": "Littlewood",
+        "given": "D Timothy J"
+      }
+    ],
+    "id": "Poisot2015r",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          26
+        ]
+      ]
+    },
+    "page": "420-433",
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge",
+    "title": "When is co-phylogeny evidence of coevolution?",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.5281/ZENODO.5722853",
+    "author": [
+      {
+        "family": "Dhane",
+        "given": "Fares"
+      },
+      {
+        "family": "Soeharjono",
+        "given": "Sandrine"
+      },
+      {
+        "family": "Stern",
+        "given": "Kiri"
+      },
+      {
+        "family": "MacDonald",
+        "given": "Andrew"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Dhane2021e",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "title": "[Re] the evolution of virulence in pathogens with vertical and horizontal transmission",
+    "type": ""
+  },
+  {
+    "DOI": "10.1111/j.1095-8312.2009.01381.x",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Desdevises",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "Biological journal of the Linnean Society. Linnean Society of London",
+    "id": "Poisot2010d",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          5
+        ]
+      ]
+    },
+    "page": "559-569",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Putative speciation events in lamellodiscus (monogenea: Diplectanidae) assessed by a morphometric approach",
+    "title-short": "Putative speciation events in lamellodiscus (monogenea",
+    "type": "article-journal",
+    "volume": "99"
+  },
+  {
+    "DOI": "10.1371/journal.pone.0026252",
+    "PMID": "22022582",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Verneau",
+        "given": "Olivier"
+      },
+      {
+        "family": "Desdevises",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "PloS one",
+    "id": "Poisot2011x",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          12
+        ]
+      ]
+    },
+    "page": "e26252",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Morphological and molecular evolution are not linked in lamellodiscus (plathyhelminthes, monogenea)",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1098/rspb.2011.0826",
+    "PMID": "21653583",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Thrall",
+        "given": "Peter H"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Proceedings. Biological sciences",
+    "id": "Poisot2012b",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          22
+        ]
+      ]
+    },
+    "page": "299-308",
+    "publisher": "The Royal Society",
+    "title": "Trophic network structure emerges through antagonistic coevolution in temporally varying environments",
+    "type": "article-journal",
+    "volume": "279"
+  },
+  {
+    "DOI": "10.1101/071993",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "id": "Poisot2016e",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          29
+        ]
+      ]
+    },
+    "publisher": "bioRxiv",
+    "title": "How ecological networks evolve",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1111/mec.14008",
+    "PMID": "28092408",
+    "author": [
+      {
+        "family": "Gurney",
+        "given": "James"
+      },
+      {
+        "family": "Aldakak",
+        "given": "Lafi"
+      },
+      {
+        "family": "Betts",
+        "given": "Alex"
+      },
+      {
+        "family": "Gougat-Barbera",
+        "given": "Claire"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Kaltz",
+        "given": "Oliver"
+      },
+      {
+        "family": "Hochberg",
+        "given": "Michael E"
+      }
+    ],
+    "container-title": "Molecular ecology",
+    "id": "Gurney2017t",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "page": "1764-1777",
+    "publisher": "Wiley",
+    "title": "Network structure and local adaptation in co-evolving bacteria-phage interactions",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "DOI": "10.1111/2041-210x.12736",
+    "author": [
+      {
+        "family": "Hutchinson",
+        "given": "Matthew C"
+      },
+      {
+        "family": "Cagua",
+        "given": "E Fernando"
+      },
+      {
+        "family": "Balbuena",
+        "given": "Juan A"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Hutchinson2017c",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "page": "932-940",
+    "publisher": "Wiley",
+    "title": "Paco: Implementing procrustean approach to cophylogeny in R",
+    "title-short": "Paco",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.1111/oik.03788",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Stouffer",
+        "given": "Daniel B"
+      }
+    ],
+    "container-title": "Oikos (Copenhagen, Denmark)",
+    "id": "Poisot2018z",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "page": "230-238",
+    "publisher": "Wiley",
+    "title": "Interactions retain the co-phylogenetic matching that communities lost",
+    "type": "article-journal",
+    "volume": "127"
+  },
+  {
+    "DOI": "10.1017/S0031182021000391",
+    "PMID": "33678197",
+    "author": [
+      {
+        "family": "Higino",
+        "given": "Gracielle T"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Parasitology",
+    "id": "Higino2021e",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "page": "835-842",
+    "publisher": "Cambridge University Press (CUP)",
+    "title": "Beta and phylogenetic diversities tell complementary stories about ecological networks biogeography",
+    "type": "article-journal",
+    "volume": "148"
+  },
+  {
+    "DOI": "10.1093/ve/vead079",
+    "PMID": "38361817",
+    "author": [
+      {
+        "family": "Forero-Muñoz",
+        "given": "Norma R"
+      },
+      {
+        "family": "Muylaert",
+        "given": "Renata L"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie N"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Virus evolution",
+    "id": "Forero-Munoz2024a",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "vead079",
+    "title": "The coevolutionary mosaic of bat betacoronavirus emergence risk",
+    "type": "article-journal",
+    "volume": "10"
+  }
+]

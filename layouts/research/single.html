@@ -1,16 +1,14 @@
 {{ define "main" }}
 <main id="content">
     <section class="container">
+        <div class="research">
         {{ .Content }}
-        {{ if .Page.Params.papers }}
-        
-        <h2>Selected articles</h2>
-        
-        {{ range where .Site.Data.papers "id" "in" .Page.Params.papers }}
-            {{ partial "article.html" . }}
+    </div>
+
+        {{ range index .Site.Data.bibliographies .File.BaseFileName }}
+            {{ partial "publication.html" . }}
         {{ end }}
 
-        {{ end }}
     </section>
 </main>
 {{ end }}

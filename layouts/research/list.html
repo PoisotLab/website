@@ -2,11 +2,25 @@
 <main id="content">
     <section class="container">
         {{ .Content }}
-        <div class="listing">
-            {{ range .Paginator.Pages }}
+        <div class="list research-topic">
+            {{ range (.Paginator 200).Pages }}
             <div class="item">
-                <img class="header" src="{{.Page.Params.image}}" alt="" />
-                <h2>{{.Title}}</h2>
+
+
+                <img class="header" src="topics/{{ .File.BaseFileName }}.png" alt="" />
+                <h2>
+                    {{.Title}}
+                    {{ if .Page.Params.status }}
+                        <span class="{{ .Page.Params.status}}">
+                            {{ with (eq .Page.Params.status "hot") }}
+                                <i class="ri-fire-line"></i>
+                            {{ end }}
+                            {{ with (eq .Page.Params.status "active") }}
+                                <i class="ri-sparkling-line"></i>
+                            {{ end }}
+                        </span>
+                    {{ end }}
+                </h2> 
                 <div class="summary">
                     {{.Summary}}
                     <span><i class="ri-links-line"></i> <a href="{{ .Permalink }}">Read more</a></span>
