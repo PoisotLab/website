@@ -1,8 +1,8 @@
 ---
 title: Community ecology
-weight: 1
+weight: 20
 ---
 
-When species interact, do they evolve differently? When species evolve, do they keep the same interactions? We use data analysis and simulation to explore some of these questions at the scale of ecological networks.
+No one is perfect. We have been known to engage in wanton acts of community ecology over the years. Please excuse this weakness, and remember, the eigenvalues can't hurt you (they are imaginary).
 
 <!--more-->
