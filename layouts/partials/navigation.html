@@ -1,5 +1,8 @@
 <nav id="topbar">
-    <a href="https://poisotlab.io/"><img class="logo" id="logo-navbar" src="logo/colour-black.png" /></a>
+    <div class="logo">
+        <a href="https://poisotlab.io/"><img id="logo-navbar" src="logo/logo-cropped.png" /></a>
+        <span class="tagline"><span class="particle">the</span> <span class="primary">computational ecology</span> <br /> <span class="secondary">research group</span></span>
+    </div>
     <nav id="menu">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}

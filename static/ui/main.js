@@ -15,7 +15,7 @@ function toggleMainMenu() {
     }
     if (currentScrollPos != 0) {
         document.getElementById("topbar").classList.add("scrolled");
-        document.getElementById("logo-navbar").src="logo/colour-black.png";
+        //document.getElementById("logo-navbar").src="logo/colour-black.png";
     }
 }
 
@@ -23,9 +23,9 @@ window.onscroll = function () {
     var currentScrollPos = window.scrollY;
     if (currentScrollPos == 0) {
         document.getElementById("topbar").classList.remove("scrolled");
-        document.getElementById("logo-navbar").src="logo/colour-black.png";
+        //document.getElementById("logo-navbar").src="logo/colour-black.png";
     } else {
         document.getElementById("topbar").classList.add("scrolled");
-        document.getElementById("logo-navbar").src="logo/colour-black.png";
+        //document.getElementById("logo-navbar").src="logo/colour-black.png";
     }
 }

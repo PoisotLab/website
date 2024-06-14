@@ -25,8 +25,8 @@ nav#topbar {
   top: 0;
   margin: 0px 0px;
   padding: 20px 20px;
-  line-height: 40px;
-  height: 80px;
+  line-height: 60px;
+  height: 100px;
   width: 100vw; }
   nav#topbar.scrolled {
     box-shadow: 0px 0px 4px 0px #e7e5df;
@@ -42,9 +42,36 @@ nav#topbar {
       z-index: 100; }
       nav#topbar.scrolled nav#menu a.menu {
         color: #2e5385; }
-  nav#topbar img.logo {
-    margin: 0px 0px;
-    height: 40px; }
+  nav#topbar .logo {
+    z-index: 1000;
+    clear: both; }
+    nav#topbar .logo img {
+      margin: 0px 0px;
+      height: 60px;
+      float: left; }
+    nav#topbar .logo .tagline {
+      display: inline-block;
+      color: #2e5385;
+      font-weight: 380;
+      text-transform: uppercase;
+      line-height: 18px;
+      left: 18px;
+      top: -12px;
+      position: relative;
+      clear: both; }
+      nav#topbar .logo .tagline .particle {
+        min-width: 2em;
+        display: inline-block;
+        text-align: right;
+        padding: 0px 0px;
+        margin: 0px 0px; }
+      nav#topbar .logo .tagline .secondary {
+        left: calc(2em + 6px);
+        position: relative;
+        color: #114f54; }
+      nav#topbar .logo .tagline .primary {
+        color: #1d8265;
+        font-weight: 520; }
   nav#topbar a {
     color: #2e5385;
     text-decoration: none;

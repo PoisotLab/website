@@ -1,9 +1,20 @@
 {{ define "main" }}
+
 <main id="content">
     <section class="container">
         {{ .Content }}
         
-        
+        {{ $refs := newScratch }}
+
+        {{ range $collection, $papers := .Site.Data.bibliographies }}
+            {{ $collection }}
+            {{ range $papers }}
+            {{ $metadata := dict "collection" $collection}}
+            {{ $newref := (merge $metadata .)}}
+            {{ . }}    
+            {{ end }}
+        {{ end }}
+
         {{ $publications := .Site.Data.papers }}
         
         {{ $idyear := newScratch }}
@@ -18,7 +29,6 @@
         {{ $idyear.SetInMap "date" $date $publication.id }}
         {{ end }}
         
-        {{ $.Scratch.Set "index" (len $publications) }}
         {{ range $DateSort, $id := ($idyear.Get "date") }}
         {{ range $pub := $publications }}
         {{ if eq $pub.id $id }}
@@ -26,9 +36,8 @@
         
         <div class="paper">
         <span class="papercounter">{{ $.Scratch.Get "index" }}</span>
-        {{ partial "article.html" $pub }}
+        {{ partial "publication.html" $pub }}
         </div>
-        {{ $.Scratch.Set "index" (sub ($.Scratch.Get "index") 1) }}
         
         {{ end }}
         {{ end }}
@@ -36,5 +45,4 @@
         
     </section>
 </main>
-
 {{ end }}
