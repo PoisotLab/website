@@ -292,6 +292,12 @@ header .container {
       padding: 0px 0px;
       margin: 0px 0px;
       font-size: 115%; }
+      .list .item h2 .social {
+        padding-left: 1em;
+        font-weight: 100;
+        font-size: 100%; }
+        .list .item h2 .social a {
+          border-bottom: 1px solid transparent; }
     .list .item .summary p {
       margin-top: 0px;
       line-height: 120%; }

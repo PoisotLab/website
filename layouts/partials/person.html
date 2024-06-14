@@ -1,17 +1,18 @@
 <div class="item person">
     <img class="header mugshot" src="{{.mugshot}}" alt="" />
-    <h2>{{.name}}</h2>
+    <h2>{{.name}}
+        <span class="social">
+            {{ if .social.mastodon }}<a href="{{ .social.mastodon }}"><i class="ri-mastodon-line"></i></a>{{ end }}
+            {{ if .social.twitter }}<a href="http://twitter.com/{{ .social.twitter }}"><i class="ri-twitter-line"></i></a>{{ end }}
+            {{ if .social.github }}<a href="http://github.com/{{ .social.github }}"><i class="ri-github-line"></i></a>{{ end }}
+            {{ if .social.email }}<a href="mailto:{{ .social.email }}"><i class="ri-mail-line"></i></a>{{ end }}
+            {{ if .social.www }}<a href="{{ .social.www }}"><i class="ri-window-2-line"></i></a>{{ end }}
+            {{ if .social.bsky }}<a href="https://bsky.app/profile/{{ .social.bsky }}"><i class="ri-bluesky-line"></i></a>{{ end }}
+        </span>
+    </h2>
     <div class="summary">
         {{range .text }}
             <span>{{ . | markdownify }}</span>
         {{ end }}
-    </div>
-    <div class="social">
-        {{ if .social.mastodon }}<a href="{{ .social.mastodon }}"><i class="ri-mastodon-line"></i></a>{{ end }}
-        {{ if .social.twitter }}<a href="http://twitter.com/{{ .social.twitter }}"><i class="ri-twitter-line"></i></a>{{ end }}
-        {{ if .social.github }}<a href="http://github.com/{{ .social.github }}"><i class="ri-github-line"></i></a>{{ end }}
-        {{ if .social.email }}<a href="mailto:{{ .social.email }}"><i class="ri-mail-line"></i></a>{{ end }}
-        {{ if .social.www }}<a href="{{ .social.www }}"><i class="ri-window-2-line"></i></a>{{ end }}
-        {{ if .social.bsky }}<a href="https://bsky.app/profile/{{ .social.bsky }}"><i class="ri-bluesky-line"></i></a>{{ end }}
-    </div>
+</div>
 </div>
