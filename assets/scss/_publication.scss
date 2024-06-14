@@ -1,6 +1,18 @@
 .publication {
     border: 1px solid $grey-light;
-    padding: 0.7rem;
+    .publication-content {
+        padding: 0.7rem;
+    }
+    .collection-name {
+        background-color: $grey-light;
+        display: inline-block;
+        width: 100%;
+        padding: 0.1rem 0.7rem;
+        font-size: 78%;
+        a {
+            text-decoration: none !important;
+        }
+    }
     border-radius: 0.2em;
     line-height: 150%;
     font-size: 90%;

@@ -4,43 +4,25 @@
     <section class="container">
         {{ .Content }}
         
-        {{ $refs := newScratch }}
+        {{ $refs := slice }}
 
         {{ range $collection, $papers := .Site.Data.bibliographies }}
-            {{ $collection }}
-            {{ range $papers }}
-            {{ $metadata := dict "collection" $collection}}
-            {{ $newref := (merge $metadata .)}}
-            {{ . }}    
+            {{ range $paper := $papers }}
+                {{ $year := index $paper.issued "date-parts" 0 0 | int }}
+                {{ $month := index $paper.issued "date-parts" 0 1 | int }}
+                {{ $day := index $paper.issued "date-parts" 0 1 | int }}
+                {{ $fyear := printf "%04d" (sub $year 3000)}}
+                {{ $fmonth := printf "%02d" (sub $month 12) }}
+                {{ $fday := printf "%02d" (sub $day 31) }}
+                {{ $date := print $fyear "-" $fmonth "-" $fday "-" $paper.id | string}}
+                {{ $metadata := dict "collection" $collection "date" $date}}
+                {{ $newref := (merge $metadata $paper)}}
+                {{ $refs = $refs | append $newref }}
             {{ end }}
         {{ end }}
 
-        {{ $publications := .Site.Data.papers }}
-        
-        {{ $idyear := newScratch }}
-        {{ range $publication := $publications }}
-        {{ $year := index $publication.issued "date-parts" 0 0 | int }}
-        {{ $month := index $publication.issued "date-parts" 0 1 | int }}
-        {{ $day := index $publication.issued "date-parts" 0 1 | int }}
-        {{ $fyear := printf "%04d" (sub $year 3000)}}
-        {{ $fmonth := printf "%02d" (sub $month 12) }}
-        {{ $fday := printf "%02d" (sub $day 31) }}
-        {{ $date := print $fyear "-" $fmonth "-" $fday "-" $publication.id | string}}
-        {{ $idyear.SetInMap "date" $date $publication.id }}
-        {{ end }}
-        
-        {{ range $DateSort, $id := ($idyear.Get "date") }}
-        {{ range $pub := $publications }}
-        {{ if eq $pub.id $id }}
-        {{ $year := index $pub.issued "date-parts" 0 0 | string }}
-        
-        <div class="paper">
-        <span class="papercounter">{{ $.Scratch.Get "index" }}</span>
-        {{ partial "publication.html" $pub }}
-        </div>
-        
-        {{ end }}
-        {{ end }}
+        {{ range (sort $refs "date") }}
+            {{ partial "publication.html" . }}
         {{ end }}
         
     </section>
