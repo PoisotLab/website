@@ -7,10 +7,12 @@ nav#topbar {
     line-height: 60px;
     height: 100px;
     width: 100vw;
+    z-index: 1000;
     &.scrolled {
         box-shadow: 0px 0px 4px 0px $grey-light;
-        background-color: white;
-        transition: 0.4s;
+        background-color: $background-color;
+        transition: 0.2s;
+        transition-timing-function: ease-out;
         z-index: 100;
         a {
             color: black;

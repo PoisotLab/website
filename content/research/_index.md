@@ -1,5 +1,5 @@
 ---
-title: Research themes
+title: Research
 ---
 
 We are a question-driven group with interests in many processes, systems, and techniques. The common thread to our research is: how can we measure and predict complex ecological systems more accurately, so we can turn this knowledge into more efficient decisions and actions?

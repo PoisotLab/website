@@ -5,6 +5,9 @@ $lab-blue: rgba(46, 83, 133, 1);
 $grey-medium: rgba(211, 208, 203, 1);
 $grey-light: rgba(231, 229, 223, 1);
 
+$background-color: rgba(253, 253, 253, 1);
+$copy-color: rgba(40, 30, 40, 1);
+
 $link-color: $lab-blue;
 $link-color-hover: lighten(saturate($link-color, 20), 5);
 

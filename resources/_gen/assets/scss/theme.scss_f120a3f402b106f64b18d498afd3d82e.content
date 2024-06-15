@@ -14,7 +14,7 @@ body {
   font-weight: 400; }
 
 b, strong {
-  font-weight: 500; }
+  font-weight: 620; }
 
 em, i {
   font-weight: inherit; }
@@ -27,11 +27,13 @@ nav#topbar {
   padding: 20px 20px;
   line-height: 60px;
   height: 100px;
-  width: 100vw; }
+  width: 100vw;
+  z-index: 1000; }
   nav#topbar.scrolled {
     box-shadow: 0px 0px 4px 0px #e7e5df;
-    background-color: white;
-    transition: 0.4s;
+    background-color: #fdfdfd;
+    transition: 0.2s;
+    transition-timing-function: ease-out;
     z-index: 100; }
     nav#topbar.scrolled a {
       color: black; }
@@ -129,16 +131,23 @@ html, body {
   width: 100vw;
   max-width: 100%;
   overflow-x: hidden;
-  min-height: 100vh; }
+  min-height: 100vh;
+  background-color: #fdfdfd;
+  color: #281e28; }
 
 header {
   line-height: 3em;
-  color: white;
-  font-weight: 500;
+  font-weight: 200;
   position: relative;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  color: #2e5385 !important;
   top: 0;
-  z-index: -1;
-  font-size: 1.6rem; }
+  font-size: 1.8rem; }
+  header .container {
+    padding-bottom: 0em !important;
+    padding-top: calc(4em + 80px) !important;
+    color: #2e5385; }
 
 main#content {
   padding-bottom: 5em;
@@ -151,11 +160,6 @@ main#content {
   line-height: 1.4; }
   .container ul, .container li {
     list-style: none; }
-
-header .container {
-  padding-bottom: 0em !important;
-  padding-top: calc(4em + 80px) !important;
-  color: #2e5385; }
 
 #homepage footer, #homepage header {
   display: none; }
@@ -326,7 +330,7 @@ i.ri-hearts-line {
 
 @media only screen and (min-width: 850px) {
   .container {
-    max-width: 950px;
+    max-width: 1000px;
     margin: 0px auto; }
     .container p {
       line-height: 1.8; }
