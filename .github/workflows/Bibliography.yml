@@ -1,0 +1,17 @@
+name: Update bibliography
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - references/**
+
+
+jobs:
+    convert_with_pandoc:
+        name: Convert using pandoc
+        runs-on: unbuntu-latest
+        steps:
+            - uses: docker://pandoc/core:2.9
+              with:
+                args: references/EltonianShortfall.bib -t csljson -o data/bibliographies/EltonianShortfall.json
