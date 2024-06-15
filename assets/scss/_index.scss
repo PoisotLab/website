@@ -2,15 +2,14 @@
     footer, header {
         display: none;
     }
+    body{
+        background-image: url("/background.jpg");
+        background-position: center center;
+        background-size: cover;
+    }
 }
 
 #splash {
-    width: 100vw;
-    height: 100vh;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1000;
     .tagline {
         display: none;
         color: $lab-blue;
@@ -42,25 +41,22 @@
     section {
         display: block;
         position: fixed;
-        left: 0%;
-        width: 50vw;
-        height: 100vh;
         bottom: 0;
         margin: 0 auto;
-        background-color: white;
         color: white;
         text-align: center;
         div {
+            background-color: $background-color;
             position: absolute;
-            bottom: 0;
-            right: 0;
+            bottom: 0em;
+            right: 0em;
             padding: 3rem;
             text-align: left;
             max-width: 750px;
             vertical-align: bottom;
             color: black;
         }
-        padding: 3.5em;
+        padding: 1.5em;
     }
 }
 

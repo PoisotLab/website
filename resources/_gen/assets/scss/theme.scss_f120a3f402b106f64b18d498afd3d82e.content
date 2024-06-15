@@ -28,6 +28,7 @@ nav#topbar {
   line-height: 60px;
   height: 100px;
   width: 100vw;
+  background-color: #fdfdfd;
   z-index: 1000; }
   nav#topbar.scrolled {
     box-shadow: 0px 0px 4px 0px #e7e5df;
@@ -131,9 +132,11 @@ html, body {
   width: 100vw;
   max-width: 100%;
   overflow-x: hidden;
-  min-height: 100vh;
+  min-height: 100vh; }
+
+body {
   background-color: #fdfdfd;
-  color: #281e28; }
+  color: #1e231f; }
 
 header {
   line-height: 3em;
@@ -164,58 +167,54 @@ main#content {
 #homepage footer, #homepage header {
   display: none; }
 
-#splash {
-  width: 100vw;
-  height: 100vh;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1000; }
-  #splash .tagline {
-    display: none;
-    color: #2e5385;
-    font-weight: 380;
-    text-transform: uppercase;
-    line-height: 30px;
-    font-size: 28px;
-    left: 0px;
-    top: -12px;
+#homepage body {
+  background-image: url("/background.jpg");
+  background-position: center center;
+  background-size: cover; }
+
+#splash .tagline {
+  display: none;
+  color: #2e5385;
+  font-weight: 380;
+  text-transform: uppercase;
+  line-height: 30px;
+  font-size: 28px;
+  left: 0px;
+  top: -12px;
+  position: relative;
+  clear: both; }
+  #splash .tagline .particle {
+    min-width: 2em;
+    display: inline-block;
+    text-align: right;
+    padding: 0px 0px;
+    margin: 0px 0px; }
+  #splash .tagline .secondary {
+    left: calc(2em + 6px);
     position: relative;
-    clear: both; }
-    #splash .tagline .particle {
-      min-width: 2em;
-      display: inline-block;
-      text-align: right;
-      padding: 0px 0px;
-      margin: 0px 0px; }
-    #splash .tagline .secondary {
-      left: calc(2em + 6px);
-      position: relative;
-      color: #114f54; }
-    #splash .tagline .primary {
-      color: #1d8265;
-      font-weight: 520; }
-  #splash section {
-    display: block;
-    position: fixed;
-    left: 0%;
-    width: 50vw;
-    height: 100vh;
-    bottom: 0;
-    margin: 0 auto;
-    background-color: white;
-    color: white;
-    text-align: center;
-    padding: 3.5em; }
-    #splash section div {
-      position: absolute;
-      bottom: 0;
-      right: 0;
-      padding: 3rem;
-      text-align: left;
-      max-width: 750px;
-      vertical-align: bottom;
-      color: black; }
+    color: #114f54; }
+  #splash .tagline .primary {
+    color: #1d8265;
+    font-weight: 520; }
+
+#splash section {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  padding: 1.5em; }
+  #splash section div {
+    background-color: #fdfdfd;
+    position: absolute;
+    bottom: 0em;
+    right: 0em;
+    padding: 3rem;
+    text-align: left;
+    max-width: 750px;
+    vertical-align: bottom;
+    color: black; }
 
 @media only screen and (max-width: 18020px) {
   #splash section {
