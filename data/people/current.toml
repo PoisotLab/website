@@ -93,13 +93,6 @@
     www = "http://marangerlab.weebly.com/stephanie.html"
     email = "stephanie.shousha@umontreal.ca"
 
-[sarahdghynlouissaint]
-  name = "Sarahdghyn Louissaint"
-  mugshot = "mugshots/sarahdghynlouissaint.jpg"
-  text = [
-    "2024, M.Sc. research intern. Meta-analysis of surveillance strategies for the Racoon rabies virus in Eastern Canada/United States."
-  ]
-
 [colebrookson]
   name = "Cole Brookson"
   mugshot = "mugshots/colebrookson.jpg"
@@ -119,4 +112,11 @@
   mugshot = "mugshots/michaelcatchen.jpg"
   text = [
     "2024-, Post-doctoral researcher. Computer vision tools for ecological niche modeling."
+  ]
+
+[benkaza]
+  name = "Ben Kaza"
+  mugshot = "mugshots/michaelcatchen.jpg"
+  text = [
+    "2024-, Verena graduate fellow-in-residence. Signatures of viral pathogenenis in high-dimensional datasets."
   ]
