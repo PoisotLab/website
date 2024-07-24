@@ -1,5 +1,80 @@
 [
   {
+    "DOI": "10.32942/x28g8z",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Strydom",
+        "given": "Tanya"
+      },
+      {
+        "family": "Blyth",
+        "given": "Penelope"
+      },
+      {
+        "family": "Brimacombe",
+        "given": "Chris"
+      },
+      {
+        "family": "Catchen",
+        "given": "Michael"
+      },
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Higino",
+        "given": "Gracielle"
+      },
+      {
+        "family": "Malpas",
+        "given": "Thomas"
+      },
+      {
+        "family": "Mayall",
+        "given": "Hana"
+      },
+      {
+        "family": "Norman",
+        "given": "Kari"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "EcoEvoRxiv",
+    "id": "Banville2024p",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          23
+        ]
+      ]
+    },
+    "title": "Deciphering probabilistic species interaction networks",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1111/1365-2435.12799",
     "author": [
       {

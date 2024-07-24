@@ -56,6 +56,7 @@
     "volume": "130"
   },
   {
+    "DOI": "10.1098/rstb.2023.0166",
     "accessed": {
       "date-parts": [
         [
@@ -79,6 +80,7 @@
         "given": "Timothée"
       }
     ],
+    "container-title": "Phil. Trans. R. Soc. B.",
     "id": "Dansereau2023q",
     "issued": {
       "date-parts": [
@@ -89,9 +91,11 @@
         ]
       ]
     },
+    "page": "20230166",
     "publisher": "EcoEvoRxiv",
     "title": "Spatially explicit predictions of food web structure from regional level data",
-    "type": "article-journal"
+    "type": "article-journal",
+    "volume": "379"
   },
   {
     "DOI": "10.1111/ecog.03514",
