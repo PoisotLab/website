@@ -29,6 +29,60 @@
     "type": "webpage"
   },
   {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Brookson",
+        "given": "Cole B"
+      },
+      {
+        "family": "Graeden",
+        "given": "Ellie"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie Jane"
+      },
+      {
+        "family": "Turon",
+        "given": "Gemma"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "id": "Poisot2024h",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          9
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "Ten simple rules to build a model life cycle",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1371/journal.pbio.1001563",
     "PMID": "23690752",
     "author": [

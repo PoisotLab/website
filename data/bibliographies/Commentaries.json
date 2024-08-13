@@ -25,6 +25,40 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.24072/pci.ecology.100598",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer Community in Ecology",
+    "id": "Poisot2024c",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          7
+        ]
+      ]
+    },
+    "page": "100598",
+    "publisher": "Peer Community in Ecology",
+    "title": "Pooled samples hold information about the prevalence of wildlife pathogens",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
     "DOI": "10.24072/pci.ecology.100523",
     "author": [
       {
