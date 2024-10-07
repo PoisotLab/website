@@ -1,86 +1,23 @@
 [
   {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          4,
-          30
-        ]
-      ]
-    },
+    "DOI": "10.1016/j.patter.2023.100738",
+    "PMID": "37409053",
     "author": [
       {
         "family": "Poisot",
         "given": "Timothée"
       },
       {
-        "family": "Gibb",
-        "given": "Rory"
+        "family": "Ouellet",
+        "given": "Marie-Andrée"
       },
       {
-        "family": "Ryan",
-        "given": "Sadie Jane"
+        "family": "Mollentze",
+        "given": "Nardus"
       },
       {
-        "family": "Carlson",
-        "given": "Colin J"
-      }
-    ],
-    "id": "Poisot2021w",
-    "issued": {
-      "date-parts": [
-        [
-          2021,
-          10,
-          21
-        ]
-      ]
-    },
-    "publisher": "EcoEvoRxiv",
-    "title": "NCBITaxonomy.jl - rapid biological names finding and reconciliation",
-    "type": "article-journal"
-  },
-  {
-    "DOI": "10.1101/009977",
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Nunn",
-        "given": "Charles"
-      },
-      {
-        "family": "Morand",
-        "given": "Serge"
-      }
-    ],
-    "container-title": "bioRxiv",
-    "id": "Poisot2014y",
-    "issued": {
-      "date-parts": [
-        [
-          2014,
-          10,
-          3
-        ]
-      ]
-    },
-    "title": "Ongoing worldwide homogenization of human pathogens",
-    "type": "article-journal"
-  },
-  {
-    "DOI": "10.1093/biosci/biab080",
-    "author": [
-      {
-        "family": "Gibb",
-        "given": "Rory"
-      },
-      {
-        "family": "Albery",
-        "given": "Gregory F"
+        "family": "Farrell",
+        "given": "Maxwell J"
       },
       {
         "family": "Becker",
@@ -91,56 +28,38 @@
         "given": "Liam"
       },
       {
-        "family": "Connor",
-        "given": "Ryan"
+        "family": "Albery",
+        "given": "Gregory F"
       },
       {
-        "family": "Dallas",
-        "given": "Tad A"
+        "family": "Gibb",
+        "given": "Rory J"
       },
       {
-        "family": "Eskew",
-        "given": "Evan A"
-      },
-      {
-        "family": "Farrell",
-        "given": "Maxwell J"
-      },
-      {
-        "family": "Rasmussen",
-        "given": "Angela L"
-      },
-      {
-        "family": "Ryan",
-        "given": "Sadie J"
-      },
-      {
-        "family": "Sweeny",
-        "given": "Amy"
+        "family": "Seifert",
+        "given": "Stephanie N"
       },
       {
         "family": "Carlson",
         "given": "Colin J"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
       }
     ],
-    "container-title": "Bioscience",
-    "id": "Gibb2021g",
+    "container-title": "Patterns (New York, N.Y.)",
+    "id": "Poisot2023z",
     "issued": {
       "date-parts": [
         [
-          2021,
-          8,
-          25
+          2023,
+          6,
+          9
         ]
       ]
     },
-    "publisher": "Oxford University Press (OUP)",
-    "title": "Data proliferation, reconciliation, and synthesis in viral ecology",
-    "type": "article-journal"
+    "page": "100738",
+    "publisher": "Elsevier BV",
+    "title": "Network embedding unveils the hidden interactions in the mammalian virome",
+    "type": "article-journal",
+    "volume": "4"
   },
   {
     "DOI": "10.1038/s41564-021-00999-5",
@@ -252,6 +171,107 @@
     "volume": "6"
   },
   {
+    "DOI": "10.1093/biosci/biab080",
+    "author": [
+      {
+        "family": "Gibb",
+        "given": "Rory"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Brierley",
+        "given": "Liam"
+      },
+      {
+        "family": "Connor",
+        "given": "Ryan"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad A"
+      },
+      {
+        "family": "Eskew",
+        "given": "Evan A"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Rasmussen",
+        "given": "Angela L"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie J"
+      },
+      {
+        "family": "Sweeny",
+        "given": "Amy"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Bioscience",
+    "id": "Gibb2021g",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          25
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Data proliferation, reconciliation, and synthesis in viral ecology",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1101/009977",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Nunn",
+        "given": "Charles"
+      },
+      {
+        "family": "Morand",
+        "given": "Serge"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "id": "Poisot2014y",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          10,
+          3
+        ]
+      ]
+    },
+    "title": "Ongoing worldwide homogenization of human pathogens",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1128/mbio.02985-21",
     "PMID": "35229639",
     "author": [
@@ -333,68 +353,6 @@
     "title-short": "The global virome in one network (VIRION)",
     "type": "article-journal",
     "volume": "13"
-  },
-  {
-    "DOI": "10.1016/j.patter.2023.100738",
-    "PMID": "37409053",
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Ouellet",
-        "given": "Marie-Andrée"
-      },
-      {
-        "family": "Mollentze",
-        "given": "Nardus"
-      },
-      {
-        "family": "Farrell",
-        "given": "Maxwell J"
-      },
-      {
-        "family": "Becker",
-        "given": "Daniel J"
-      },
-      {
-        "family": "Brierley",
-        "given": "Liam"
-      },
-      {
-        "family": "Albery",
-        "given": "Gregory F"
-      },
-      {
-        "family": "Gibb",
-        "given": "Rory J"
-      },
-      {
-        "family": "Seifert",
-        "given": "Stephanie N"
-      },
-      {
-        "family": "Carlson",
-        "given": "Colin J"
-      }
-    ],
-    "container-title": "Patterns (New York, N.Y.)",
-    "id": "Poisot2023z",
-    "issued": {
-      "date-parts": [
-        [
-          2023,
-          6,
-          9
-        ]
-      ]
-    },
-    "page": "100738",
-    "publisher": "Elsevier BV",
-    "title": "Network embedding unveils the hidden interactions in the mammalian virome",
-    "type": "article-journal",
-    "volume": "4"
   },
   {
     "DOI": "10.32942/x2tw4j",
@@ -509,6 +467,48 @@
       ]
     },
     "title": "A minimum data standard for wildlife disease studies",
+    "type": "article-journal"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Gibb",
+        "given": "Rory"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie Jane"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "id": "Poisot2021w",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          21
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "NCBITaxonomy.jl - rapid biological names finding and reconciliation",
     "type": "article-journal"
   }
 ]

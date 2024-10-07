@@ -128,5 +128,27 @@
     "publisher": "Peer Community In",
     "title": "Gradient boosted trees can deliver more than accurate ecological predictions",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.24072/pci.ecology.100694",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer Community in Ecology",
+    "id": "Poisot2024k",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10
+        ]
+      ]
+    },
+    "page": "100694",
+    "title": "Best practices for ecological analysis are required to act on concrete challenges10.24072/pci.ecology.100694",
+    "type": "article-journal"
   }
 ]
