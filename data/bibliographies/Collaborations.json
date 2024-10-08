@@ -1,127 +1,5 @@
 [
   {
-    "DOI": "10.1371/journal.pbio.1001960",
-    "author": [
-      {
-        "family": "Hobaiter",
-        "given": "Catherine"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Zuberbühler",
-        "given": "Klaus"
-      },
-      {
-        "family": "Hoppitt",
-        "given": "William"
-      },
-      {
-        "family": "Gruber",
-        "given": "Thibaud"
-      }
-    ],
-    "container-title": "PLoS biology",
-    "id": "Hobaiter2014l",
-    "issued": {
-      "date-parts": [
-        [
-          2014,
-          9,
-          30
-        ]
-      ]
-    },
-    "page": "e1001960",
-    "publisher": "Public Library of Science (PLoS)",
-    "title": "Social network analysis shows direct evidence for social transmission of tool use in wild chimpanzees",
-    "type": "article-journal",
-    "volume": "12"
-  },
-  {
-    "DOI": "10.1111/geb.12825",
-    "author": [
-      {
-        "family": "Li",
-        "given": "Daijiang"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Waller",
-        "given": "Donald M"
-      },
-      {
-        "family": "Baiser",
-        "given": "Benjamin"
-      }
-    ],
-    "container-title": "Global ecology and biogeography: a journal of macroecology",
-    "id": "Li2018y",
-    "issued": {
-      "date-parts": [
-        [
-          2018,
-          12
-        ]
-      ]
-    },
-    "page": "1481-1491",
-    "publisher": "Wiley",
-    "title": "Homogenization of species composition and species association networks are decoupled",
-    "type": "article-journal",
-    "volume": "27"
-  },
-  {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          12
-        ]
-      ]
-    },
-    "author": [
-      {
-        "family": "Tessier",
-        "given": "Anne"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Romans",
-        "given": "Pascal"
-      },
-      {
-        "family": "Desdevises",
-        "given": "Yves"
-      }
-    ],
-    "container-title": "Vie et Milieu",
-    "id": "Tessier2010o",
-    "issued": {
-      "date-parts": [
-        [
-          2010,
-          12,
-          1
-        ]
-      ]
-    },
-    "page": "299-305",
-    "publisher": "unknown",
-    "title": "Effects of recreational fishing of paracentrotus lividus on populations of sea urchins in mediterranean",
-    "type": "article-journal",
-    "volume": "60"
-  },
-  {
     "DOI": "10.1002/ece3.508",
     "PMID": "23610649",
     "author": [
@@ -196,47 +74,6 @@
     "title-short": "The spread of a novel behavior in wild chimpanzees",
     "type": "article-journal",
     "volume": "8"
-  },
-  {
-    "DOI": "10.3354/ame01814",
-    "author": [
-      {
-        "family": "Péquin",
-        "given": "B"
-      },
-      {
-        "family": "Mohit",
-        "given": "V"
-      },
-      {
-        "family": "Poisot",
-        "given": "T"
-      },
-      {
-        "family": "Tremblay",
-        "given": "R"
-      },
-      {
-        "family": "Lovejoy",
-        "given": "C"
-      }
-    ],
-    "container-title": "Aquatic microbial ecology: international journal",
-    "id": "Pequin2017o",
-    "issued": {
-      "date-parts": [
-        [
-          2017,
-          3,
-          10
-        ]
-      ]
-    },
-    "page": "187-200",
-    "publisher": "Inter-Research Science Center",
-    "title": "Wind drives microbial eukaryote communities in a temperate closed lagoon",
-    "type": "article-journal",
-    "volume": "78"
   },
   {
     "DOI": "10.1093/biosci/biz089",
@@ -325,6 +162,86 @@
     "volume": "69"
   },
   {
+    "DOI": "10.1111/ecog.07684",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Guégan",
+        "given": "Jean-François"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Han",
+        "given": "Barbara A"
+      },
+      {
+        "family": "Olivero",
+        "given": "Jesus"
+      }
+    ],
+    "container-title": "Ecography",
+    "id": "Guegan2024w",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "e07684",
+    "title": "Disease ecology and pathogeography: Changing the focus to better interpret and anticipate complex environment–host–pathogen interactions",
+    "title-short": "Disease ecology and pathogeography",
+    "type": "article-journal",
+    "volume": "2024"
+  },
+  {
+    "DOI": "10.1111/geb.12825",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Daijiang"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Waller",
+        "given": "Donald M"
+      },
+      {
+        "family": "Baiser",
+        "given": "Benjamin"
+      }
+    ],
+    "container-title": "Global ecology and biogeography: a journal of macroecology",
+    "id": "Li2018y",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12
+        ]
+      ]
+    },
+    "page": "1481-1491",
+    "publisher": "Wiley",
+    "title": "Homogenization of species composition and species association networks are decoupled",
+    "type": "article-journal",
+    "volume": "27"
+  },
+  {
     "DOI": "10.1139/facets-2023-0025",
     "accessed": {
       "date-parts": [
@@ -373,5 +290,132 @@
     "title": "A social–ecological geography of southern canadian lakes",
     "type": "article-journal",
     "volume": "8"
+  },
+  {
+    "DOI": "10.1371/journal.pbio.1001960",
+    "author": [
+      {
+        "family": "Hobaiter",
+        "given": "Catherine"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Zuberbühler",
+        "given": "Klaus"
+      },
+      {
+        "family": "Hoppitt",
+        "given": "William"
+      },
+      {
+        "family": "Gruber",
+        "given": "Thibaud"
+      }
+    ],
+    "container-title": "PLoS biology",
+    "id": "Hobaiter2014l",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          30
+        ]
+      ]
+    },
+    "page": "e1001960",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Social network analysis shows direct evidence for social transmission of tool use in wild chimpanzees",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "DOI": "10.3354/ame01814",
+    "author": [
+      {
+        "family": "Péquin",
+        "given": "B"
+      },
+      {
+        "family": "Mohit",
+        "given": "V"
+      },
+      {
+        "family": "Poisot",
+        "given": "T"
+      },
+      {
+        "family": "Tremblay",
+        "given": "R"
+      },
+      {
+        "family": "Lovejoy",
+        "given": "C"
+      }
+    ],
+    "container-title": "Aquatic microbial ecology: international journal",
+    "id": "Pequin2017o",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          10
+        ]
+      ]
+    },
+    "page": "187-200",
+    "publisher": "Inter-Research Science Center",
+    "title": "Wind drives microbial eukaryote communities in a temperate closed lagoon",
+    "type": "article-journal",
+    "volume": "78"
+  },
+  {
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Tessier",
+        "given": "Anne"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Romans",
+        "given": "Pascal"
+      },
+      {
+        "family": "Desdevises",
+        "given": "Yves"
+      }
+    ],
+    "container-title": "Vie et Milieu",
+    "id": "Tessier2010o",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          1
+        ]
+      ]
+    },
+    "page": "299-305",
+    "publisher": "unknown",
+    "title": "Effects of recreational fishing of paracentrotus lividus on populations of sea urchins in mediterranean",
+    "type": "article-journal",
+    "volume": "60"
   }
 ]
