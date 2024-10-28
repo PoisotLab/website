@@ -1,15 +1,6 @@
 [
   {
     "DOI": "10.1111/2041-210x.14071",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          12,
-          8
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Poisot",
@@ -17,7 +8,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Poisot2023a",
+    "id": "Poisot2023b",
     "issued": {
       "date-parts": [
         [
@@ -58,7 +49,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Gravel2013x",
+    "id": "Gravel2013",
     "issued": {
       "date-parts": [
         [
@@ -75,7 +66,6 @@
   },
   {
     "DOI": "10.7717/peerj.3644",
-    "PMID": "28828250",
     "author": [
       {
         "family": "Desjardins-Proulx",
@@ -95,7 +85,7 @@
       }
     ],
     "container-title": "PeerJ",
-    "id": "Desjardins-Proulx2017m",
+    "id": "Desjardins-Proulx2017",
     "issued": {
       "date-parts": [
         [
@@ -132,7 +122,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Pomeranz2019q",
+    "id": "Pomeranz2019",
     "issued": {
       "date-parts": [
         [
@@ -149,7 +139,6 @@
   },
   {
     "DOI": "10.1002/ece3.7254",
-    "PMID": "33976779",
     "author": [
       {
         "family": "Stock",
@@ -165,7 +154,7 @@
       }
     ],
     "container-title": "Ecology and evolution",
-    "id": "Stock2021w",
+    "id": "Stock2021",
     "issued": {
       "date-parts": [
         [
@@ -182,7 +171,6 @@
   },
   {
     "DOI": "10.1098/rstb.2021.0063",
-    "PMID": "34538135",
     "author": [
       {
         "family": "Strydom",
@@ -238,7 +226,7 @@
       }
     ],
     "container-title": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
-    "id": "Strydom2021c",
+    "id": "Strydom2021a",
     "issued": {
       "date-parts": [
         [
@@ -307,7 +295,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Strydom2023j",
+    "id": "Strydom2023b",
     "issued": {
       "date-parts": [
         [

@@ -40,7 +40,7 @@
       }
     ],
     "container-title": "Oikos (Copenhagen, Denmark)",
-    "id": "McLeod2021v",
+    "id": "McLeod2021",
     "issued": {
       "date-parts": [
         [
@@ -57,15 +57,6 @@
   },
   {
     "DOI": "10.1098/rstb.2023.0166",
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          4,
-          30
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Dansereau",
@@ -81,7 +72,7 @@
       }
     ],
     "container-title": "Phil. Trans. R. Soc. B.",
-    "id": "Dansereau2023q",
+    "id": "Dansereau2023",
     "issued": {
       "date-parts": [
         [
@@ -110,7 +101,7 @@
       }
     ],
     "container-title": "Ecography",
-    "id": "Dallas2018v",
+    "id": "Dallas2018",
     "issued": {
       "date-parts": [
         [
@@ -174,7 +165,7 @@
       }
     ],
     "container-title": "Ecography",
-    "id": "Gravel2019n",
+    "id": "Gravel2019",
     "issued": {
       "date-parts": [
         [
@@ -267,7 +258,7 @@
       }
     ],
     "container-title": "Global ecology and biogeography: a journal of macroecology",
-    "id": "Baiser2019t",
+    "id": "Baiser2019",
     "issued": {
       "date-parts": [
         [
@@ -284,7 +275,6 @@
   },
   {
     "DOI": "10.1038/s41559-019-0950-y",
-    "PMID": "31358950",
     "author": [
       {
         "family": "Albouy",
@@ -348,7 +338,7 @@
       }
     ],
     "container-title": "Nature ecology & evolution",
-    "id": "Albouy2019p",
+    "id": "Albouy2019",
     "issued": {
       "date-parts": [
         [
@@ -420,7 +410,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Strydom2022g",
+    "id": "Strydom2022a",
     "issued": {
       "date-parts": [
         [

@@ -1,15 +1,6 @@
 [
   {
     "DOI": "10.32942/x28g8z",
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          24
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Banville",
@@ -61,7 +52,7 @@
       }
     ],
     "container-title": "EcoEvoRxiv",
-    "id": "Banville2024p",
+    "id": "Banville2024",
     "issued": {
       "date-parts": [
         [
@@ -91,7 +82,7 @@
       }
     ],
     "container-title": "Functional ecology",
-    "id": "Poisot2016d",
+    "id": "Poisot2016e",
     "issued": {
       "date-parts": [
         [
@@ -116,7 +107,7 @@
       }
     ],
     "container-title": "Peer community journal",
-    "id": "Poisot2022m",
+    "id": "Poisot2022a",
     "issued": {
       "date-parts": [
         [
@@ -134,7 +125,6 @@
   },
   {
     "DOI": "10.1111/ele.12002",
-    "PMID": "22994257",
     "author": [
       {
         "family": "Poisot",
@@ -158,7 +148,7 @@
       }
     ],
     "container-title": "Ecology letters",
-    "id": "Poisot2012h",
+    "id": "Poisot2012a",
     "issued": {
       "date-parts": [
         [
@@ -194,7 +184,7 @@
       }
     ],
     "container-title": "Parasitology",
-    "id": "Poisot2013b",
+    "id": "Poisot2013e",
     "issued": {
       "date-parts": [
         [
@@ -226,7 +216,7 @@
       }
     ],
     "container-title": "Oikos (Copenhagen, Denmark)",
-    "id": "Poisot2015b",
+    "id": "Poisot2015",
     "issued": {
       "date-parts": [
         [
@@ -267,7 +257,7 @@
       }
     ],
     "container-title": "Global ecology and biogeography: a journal of macroecology",
-    "id": "Poisot2017z",
+    "id": "Poisot2017a",
     "issued": {
       "date-parts": [
         [

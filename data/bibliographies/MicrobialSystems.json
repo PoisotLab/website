@@ -1,7 +1,6 @@
 [
   {
     "DOI": "10.1098/rsbl.2010.0774",
-    "PMID": "20961886",
     "author": [
       {
         "family": "Poisot",
@@ -25,7 +24,7 @@
       }
     ],
     "container-title": "Biology letters",
-    "id": "Poisot2011d",
+    "id": "Poisot2011",
     "issued": {
       "date-parts": [
         [
@@ -66,7 +65,7 @@
       }
     ],
     "container-title": "F1000Research",
-    "id": "Poisot2013x",
+    "id": "Poisot2013",
     "issued": {
       "date-parts": [
         [
@@ -99,7 +98,7 @@
       }
     ],
     "container-title": "Ecological processes",
-    "id": "Poisot2013z",
+    "id": "Poisot2013b",
     "issued": {
       "date-parts": [
         [
@@ -116,7 +115,6 @@
   },
   {
     "DOI": "10.1016/j.tim.2012.11.003",
-    "PMID": "23245704",
     "author": [
       {
         "family": "Weitz",
@@ -148,7 +146,7 @@
       }
     ],
     "container-title": "Trends in microbiology",
-    "id": "Weitz2013f",
+    "id": "Weitz2013",
     "issued": {
       "date-parts": [
         [
@@ -200,7 +198,7 @@
       }
     ],
     "container-title": "PeerJ",
-    "id": "Matias2015r",
+    "id": "Matias2015",
     "issued": {
       "date-parts": [
         [
@@ -215,7 +213,6 @@
   },
   {
     "DOI": "10.1002/ecy.3308",
-    "PMID": "33577089",
     "author": [
       {
         "family": "Freedman",
@@ -255,7 +252,7 @@
       }
     ],
     "container-title": "Ecology",
-    "id": "Freedman2021y",
+    "id": "Freedman2021",
     "issued": {
       "date-parts": [
         [
@@ -299,7 +296,7 @@
       }
     ],
     "container-title": "Ecography",
-    "id": "Gray2016w",
+    "id": "Gray2016",
     "issued": {
       "date-parts": [
         [

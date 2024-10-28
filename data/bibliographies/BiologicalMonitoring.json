@@ -19,7 +19,7 @@
         ]
       ]
     },
-    "id": "Stern2020a",
+    "id": "Stern2020",
     "issued": {
       "date-parts": [
         [
@@ -33,16 +33,6 @@
   },
   {
     "DOI": "10.1038/s41559-023-02171-0",
-    "PMID": "37620553",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          2
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Gonzalez",
@@ -355,7 +345,7 @@
       }
     ],
     "container-title": "Nature ecology & evolution",
-    "id": "Gonzalez2023c",
+    "id": "Gonzalez2023",
     "issued": {
       "date-parts": [
         [
@@ -383,7 +373,7 @@
       }
     ],
     "container-title": "Journal of open source software",
-    "id": "Dansereau2021s",
+    "id": "Dansereau2021",
     "issued": {
       "date-parts": [
         [
@@ -402,16 +392,6 @@
   },
   {
     "DOI": "10.1038/s41559-021-01547-4",
-    "PMID": "34556829",
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          5,
-          6
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Simmons",
@@ -467,7 +447,7 @@
       }
     ],
     "container-title": "Nature ecology & evolution",
-    "id": "Simmons2021o",
+    "id": "Simmons2021",
     "issued": {
       "date-parts": [
         [
@@ -668,7 +648,7 @@
       }
     ],
     "container-title": "Frontiers in environmental science",
-    "id": "Makiola2020p",
+    "id": "Makiola2020",
     "issued": {
       "date-parts": [
         [
@@ -685,7 +665,6 @@
   },
   {
     "DOI": "10.1098/rsos.190883",
-    "PMID": "31827836",
     "author": [
       {
         "family": "Dallas",
@@ -701,7 +680,7 @@
       }
     ],
     "container-title": "Royal Society open science",
-    "id": "Dallas2019s",
+    "id": "Dallas2019",
     "issued": {
       "date-parts": [
         [
@@ -733,7 +712,7 @@
       }
     ],
     "container-title": "bioRxiv",
-    "id": "Tessier2020v",
+    "id": "Tessier2020",
     "issued": {
       "date-parts": [
         [
@@ -772,7 +751,7 @@
       }
     ],
     "container-title": "Frontiers for young minds",
-    "id": "Higino2021x",
+    "id": "Higino2021b",
     "issued": {
       "date-parts": [
         [
@@ -804,7 +783,7 @@
       }
     ],
     "container-title": "Oikos (Copenhagen, Denmark)",
-    "id": "Dansereau2022o",
+    "id": "Dansereau2022a",
     "issued": {
       "date-parts": [
         [
@@ -820,7 +799,6 @@
   },
   {
     "DOI": "10.1016/S2666-5247(21)00245-7",
-    "PMID": "35036970",
     "author": [
       {
         "family": "Becker",
@@ -892,7 +870,7 @@
       }
     ],
     "container-title": "The Lancet. Microbe",
-    "id": "Becker2022b",
+    "id": "Becker2022a",
     "issued": {
       "date-parts": [
         [
@@ -920,7 +898,7 @@
       }
     ],
     "container-title": "Ecography",
-    "id": "Strydom2023p",
+    "id": "Strydom2023a",
     "issued": {
       "date-parts": [
         [
@@ -937,15 +915,6 @@
   },
   {
     "DOI": "10.1016/j.scitotenv.2024.173837",
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          13
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Madeira",
@@ -985,7 +954,7 @@
       }
     ],
     "container-title": "The Science of the total environment",
-    "id": "Madeira2024i",
+    "id": "Madeira2024",
     "issued": {
       "date-parts": [
         [

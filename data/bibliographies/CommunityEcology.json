@@ -16,7 +16,7 @@
       }
     ],
     "container-title": "Journal of limnology",
-    "id": "Gravel2014h",
+    "id": "Gravel2014",
     "issued": {
       "date-parts": [
         [
@@ -44,7 +44,7 @@
       }
     ],
     "container-title": "eLS",
-    "id": "Vamosi2016x",
+    "id": "Vamosi2016",
     "issued": {
       "date-parts": [
         [
@@ -81,7 +81,7 @@
       }
     ],
     "container-title": "[Re]Science",
-    "id": "Caron2019d",
+    "id": "Caron2019",
     "issued": {
       "date-parts": [
         [
@@ -102,7 +102,7 @@
       }
     ],
     "container-title": "[Re]Science",
-    "id": "Poisot2018d",
+    "id": "Poisot2018a",
     "issued": {
       "date-parts": [
         [
@@ -139,7 +139,7 @@
       }
     ],
     "container-title": "[Re]Science",
-    "id": "Dansereau2020l",
+    "id": "Dansereau2020",
     "issued": {
       "date-parts": [
         [
@@ -152,15 +152,6 @@
     "type": "article-journal"
   },
   {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          13
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Poisot",
@@ -185,7 +176,6 @@
   },
   {
     "DOI": "10.1111/j.1095-8649.2009.02400.x",
-    "PMID": "20738641",
     "author": [
       {
         "family": "Poisot",
@@ -205,7 +195,7 @@
       }
     ],
     "container-title": "Journal of fish biology",
-    "id": "Poisot2009s",
+    "id": "Poisot2009",
     "issued": {
       "date-parts": [
         [
@@ -222,7 +212,6 @@
   },
   {
     "DOI": "10.1111/j.1461-0248.2011.01645.x",
-    "PMID": "21699641",
     "author": [
       {
         "family": "Poisot",
@@ -246,7 +235,7 @@
       }
     ],
     "container-title": "Ecology letters",
-    "id": "Poisot2011m",
+    "id": "Poisot2011c",
     "issued": {
       "date-parts": [
         [
@@ -263,7 +252,6 @@
   },
   {
     "DOI": "10.1111/ele.12118",
-    "PMID": "23692591",
     "author": [
       {
         "family": "Poisot",
@@ -279,7 +267,7 @@
       }
     ],
     "container-title": "Ecology letters",
-    "id": "Poisot2013i",
+    "id": "Poisot2013c",
     "issued": {
       "date-parts": [
         [
@@ -296,7 +284,6 @@
   },
   {
     "DOI": "10.1002/ece3.1151",
-    "PMID": "25614798",
     "author": [
       {
         "family": "Poisot",
@@ -316,7 +303,7 @@
       }
     ],
     "container-title": "Ecology and evolution",
-    "id": "Poisot2014g",
+    "id": "Poisot2014b",
     "issued": {
       "date-parts": [
         [
@@ -333,7 +320,6 @@
   },
   {
     "DOI": "10.1371/journal.pone.0114674",
-    "PMID": "25992798",
     "author": [
       {
         "family": "Poisot",
@@ -361,7 +347,7 @@
       }
     ],
     "container-title": "PloS one",
-    "id": "Poisot2015x",
+    "id": "Poisot2015b",
     "issued": {
       "date-parts": [
         [
@@ -402,7 +388,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Delmas2017i",
+    "id": "Delmas2017",
     "issued": {
       "date-parts": [
         [
@@ -434,7 +420,7 @@
       }
     ],
     "container-title": "bioRxiv",
-    "id": "Delmas2020r",
+    "id": "Delmas2020",
     "issued": {
       "date-parts": [
         [

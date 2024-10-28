@@ -24,7 +24,7 @@
       }
     ],
     "container-title": "Ecography",
-    "id": "Poisot2019y",
+    "id": "Poisot2019",
     "issued": {
       "date-parts": [
         [
@@ -42,15 +42,6 @@
   },
   {
     "DOI": "10.1016/b978-0-12-409548-9.10564-0",
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          12
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Besson",
@@ -70,7 +61,7 @@
       }
     ],
     "container-title": "Encyclopedia of ecology",
-    "id": "Besson2019v",
+    "id": "Besson2019",
     "issued": {
       "date-parts": [
         [
@@ -102,7 +93,7 @@
       }
     ],
     "container-title": "Journal of open source software",
-    "id": "Banville2021x",
+    "id": "Banville2021",
     "issued": {
       "date-parts": [
         [
@@ -148,7 +139,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Poisot2016n",
+    "id": "Poisot2016a",
     "issued": {
       "date-parts": [
         [
@@ -225,7 +216,7 @@
       }
     ],
     "container-title": "Biological Reviews",
-    "id": "Delmas2019f",
+    "id": "Delmas2019",
     "issued": {
       "date-parts": [
         [
@@ -262,7 +253,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Poisot2012g",
+    "id": "Poisot2012b",
     "issued": {
       "date-parts": [
         [
@@ -279,7 +270,6 @@
   },
   {
     "DOI": "10.12688/f1000research.2-130.v3",
-    "PMID": "24555062",
     "author": [
       {
         "family": "Poisot",
@@ -287,7 +277,7 @@
       }
     ],
     "container-title": "F1000Research",
-    "id": "Poisot2013l",
+    "id": "Poisot2013f",
     "issued": {
       "date-parts": [
         [
@@ -324,7 +314,7 @@
       }
     ],
     "container-title": "Methods in ecology and evolution",
-    "id": "Flores2016r",
+    "id": "Flores2016",
     "issued": {
       "date-parts": [
         [
@@ -365,7 +355,7 @@
       }
     ],
     "container-title": "Nature communications",
-    "id": "BramonMora2018u",
+    "id": "BramonMora2018",
     "issued": {
       "date-parts": [
         [
@@ -382,7 +372,6 @@
   },
   {
     "DOI": "10.1016/j.patter.2020.100079",
-    "PMID": "33205136",
     "author": [
       {
         "family": "MacDonald",
@@ -398,7 +387,7 @@
       }
     ],
     "container-title": "Patterns (New York, N.Y.)",
-    "id": "MacDonald2020i",
+    "id": "MacDonald2020",
     "issued": {
       "date-parts": [
         [
@@ -431,7 +420,7 @@
       }
     ],
     "container-title": "Frontiers in ecology and evolution",
-    "id": "Strydom2021j",
+    "id": "Strydom2021",
     "issued": {
       "date-parts": [
         [
@@ -448,7 +437,6 @@
   },
   {
     "DOI": "10.1371/journal.pbio.3002068",
-    "PMID": "37011096",
     "author": [
       {
         "family": "Brimacombe",
@@ -472,7 +460,7 @@
       }
     ],
     "container-title": "PLoS biology",
-    "id": "Brimacombe2023w",
+    "id": "Brimacombe2023",
     "issued": {
       "date-parts": [
         [
@@ -488,7 +476,6 @@
   },
   {
     "DOI": "10.1371/journal.pcbi.1011458",
-    "PMID": "37669314",
     "author": [
       {
         "family": "Banville",
@@ -504,7 +491,7 @@
       }
     ],
     "container-title": "PLoS computational biology",
-    "id": "Banville2023w",
+    "id": "Banville2023a",
     "issued": {
       "date-parts": [
         [
@@ -520,7 +507,6 @@
   },
   {
     "DOI": "10.7717/peerj.251",
-    "PMID": "24688835",
     "author": [
       {
         "family": "Poisot",
@@ -532,7 +518,7 @@
       }
     ],
     "container-title": "PeerJ",
-    "id": "Poisot2014b",
+    "id": "Poisot2014a",
     "issued": {
       "date-parts": [
         [

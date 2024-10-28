@@ -1,21 +1,12 @@
 [
   {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          2,
-          10
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Poisot",
         "given": "Timothée"
       }
     ],
-    "id": "Poisot2020c",
+    "id": "Poisot2020",
     "issued": {
       "date-parts": [
         [
@@ -29,15 +20,6 @@
     "type": "webpage"
   },
   {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          7,
-          24
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Poisot",
@@ -68,7 +50,7 @@
         "given": "Colin J"
       }
     ],
-    "id": "Poisot2024h",
+    "id": "Poisot2024a",
     "issued": {
       "date-parts": [
         [
@@ -84,7 +66,6 @@
   },
   {
     "DOI": "10.1371/journal.pbio.1001563",
-    "PMID": "23690752",
     "author": [
       {
         "family": "Desjardins-Proulx",
@@ -112,7 +93,7 @@
       }
     ],
     "container-title": "PLoS biology",
-    "id": "Desjardins-Proulx2013z",
+    "id": "Desjardins-Proulx2013",
     "issued": {
       "date-parts": [
         [
@@ -137,7 +118,7 @@
       }
     ],
     "container-title": "Ideas in ecology and evolution",
-    "id": "Poisot2015i",
+    "id": "Poisot2015c",
     "issued": {
       "date-parts": [
         [
@@ -159,7 +140,7 @@
       }
     ],
     "container-title": "The R journal",
-    "id": "Poisot2011j",
+    "id": "Poisot2011b",
     "issued": {
       "date-parts": [
         [
@@ -191,7 +172,7 @@
       }
     ],
     "container-title": "Frontiers in ecology and evolution",
-    "id": "Desjardins-Proulx2019j",
+    "id": "Desjardins-Proulx2019",
     "issued": {
       "date-parts": [
         [
@@ -208,7 +189,6 @@
   },
   {
     "DOI": "10.1038/d41586-024-00545-3",
-    "PMID": "38396080",
     "author": [
       {
         "family": "Carlson",
@@ -249,7 +229,7 @@
       }
     ],
     "container-title": "Nature",
-    "id": "Carlson2024k",
+    "id": "Carlson2024c",
     "issued": {
       "date-parts": [
         [
@@ -266,15 +246,6 @@
     "volume": "626"
   },
   {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          14
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Bahlai",
@@ -306,7 +277,7 @@
       }
     ],
     "container-title": "American Scientist",
-    "id": "Bahlai2019s",
+    "id": "Bahlai2019",
     "issued": {
       "date-parts": [
         [
@@ -358,7 +329,7 @@
         "given": "Naupaka B"
       }
     ],
-    "id": "Jorgensen2011x",
+    "id": "Jorgensen2011",
     "issued": {
       "date-parts": [
         [
@@ -391,7 +362,7 @@
       }
     ],
     "container-title": "Ideas in ecology and evolution",
-    "id": "Poisot2013t",
+    "id": "Poisot2013a",
     "issued": {
       "date-parts": [
         [
@@ -407,7 +378,6 @@
   },
   {
     "DOI": "10.7717/peerj.285",
-    "PMID": "24688862",
     "author": [
       {
         "family": "Barraquand",
@@ -443,7 +413,7 @@
       }
     ],
     "container-title": "PeerJ",
-    "id": "Barraquand2014l",
+    "id": "Barraquand2014",
     "issued": {
       "date-parts": [
         [
@@ -525,7 +495,7 @@
       }
     ],
     "container-title": "Ecosphere (Washington, D.C)",
-    "id": "Jorgensen2015p",
+    "id": "Jorgensen2015",
     "issued": {
       "date-parts": [
         [
@@ -598,7 +568,7 @@
       }
     ],
     "container-title": "Ecosphere (Washington, D.C)",
-    "id": "White2015g",
+    "id": "White2015",
     "issued": {
       "date-parts": [
         [
@@ -639,7 +609,7 @@
         "given": "Timoth"
       }
     ],
-    "id": "Goring2017r",
+    "id": "Goring2017",
     "issued": {
       "date-parts": [
         [
@@ -749,7 +719,7 @@
       }
     ],
     "container-title": "Journal of escience librarianship",
-    "id": "Soyka2017s",
+    "id": "Soyka2017",
     "issued": {
       "date-parts": [
         [
@@ -767,7 +737,6 @@
   },
   {
     "DOI": "10.7717/peerj-cs.142",
-    "PMID": "34722870",
     "author": [
       {
         "family": "Rougier",
@@ -952,7 +921,7 @@
       }
     ],
     "container-title": "PeerJ. Computer science",
-    "id": "Rougier2017e",
+    "id": "Rougier2017",
     "issued": {
       "date-parts": [
         [
@@ -994,7 +963,7 @@
       }
     ],
     "container-title": "Bioscience",
-    "id": "Renaut2018d",
+    "id": "Renaut2018",
     "issued": {
       "date-parts": [
         [
@@ -1012,7 +981,6 @@
   },
   {
     "DOI": "10.1016/j.tree.2019.04.005",
-    "PMID": "31056219",
     "author": [
       {
         "family": "Poisot",
@@ -1036,7 +1004,7 @@
       }
     ],
     "container-title": "Trends in ecology & evolution",
-    "id": "Poisot2019k",
+    "id": "Poisot2019a",
     "issued": {
       "date-parts": [
         [
@@ -1076,7 +1044,7 @@
       }
     ],
     "container-title": "Ideas in ecology and evolution",
-    "id": "Poisot2019u",
+    "id": "Poisot2019b",
     "issued": {
       "date-parts": [
         [
@@ -1094,7 +1062,6 @@
   },
   {
     "DOI": "10.1371/journal.pbio.3002349",
-    "PMID": "37917597",
     "author": [
       {
         "family": "Higino",
@@ -1122,7 +1089,7 @@
       }
     ],
     "container-title": "PLoS biology",
-    "id": "Higino2023s",
+    "id": "Higino2023a",
     "issued": {
       "date-parts": [
         [
@@ -1157,7 +1124,7 @@
         "given": "Alexandra Sasha"
       }
     ],
-    "id": "Poisot2023b",
+    "id": "Poisot2023f",
     "issued": {
       "date-parts": [
         [
@@ -1215,7 +1182,7 @@
       }
     ],
     "container-title": "PLoS computational biology",
-    "id": "Hart2016z",
+    "id": "Hart2016a",
     "issued": {
       "date-parts": [
         [
@@ -1230,5 +1197,31 @@
     "title": "Ten simple rules for digital data storage",
     "type": "article-journal",
     "volume": "12"
+  },
+  {
+    "DOI": "10.5281/ZENODO.13999659",
+    "author": [
+      {
+        "family": "Carlson",
+        "given": "Colin"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Carlson2024-jg",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "title": "Engineering data equity: The LISTEN principles",
+    "title-short": "Engineering data equity",
+    "type": ""
   }
 ]

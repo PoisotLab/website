@@ -1,15 +1,6 @@
 [
   {
     "DOI": "10.1111/ecog.01941",
-    "accessed": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          17
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Poisot",
@@ -49,7 +40,7 @@
       }
     ],
     "container-title": "Ecography",
-    "id": "Poisot2016h",
+    "id": "Poisot2016",
     "issued": {
       "date-parts": [
         [
@@ -110,7 +101,7 @@
       }
     ],
     "container-title": "Ecography",
-    "id": "Poisot2016f",
+    "id": "Poisot2016b",
     "issued": {
       "date-parts": [
         [
@@ -146,7 +137,7 @@
       }
     ],
     "container-title": "Scientific reports",
-    "id": "Stock2017x",
+    "id": "Stock2017",
     "issued": {
       "date-parts": [
         [
@@ -163,7 +154,6 @@
   },
   {
     "DOI": "10.7717/peerj.7566",
-    "PMID": "31534845",
     "author": [
       {
         "dropping-particle": "de",
@@ -217,7 +207,7 @@
       }
     ],
     "container-title": "PeerJ",
-    "id": "deAguiar2019d",
+    "id": "deAguiar2019",
     "issued": {
       "date-parts": [
         [
@@ -278,7 +268,7 @@
       }
     ],
     "container-title": "Journal of biogeography",
-    "id": "Poisot2021y",
+    "id": "Poisot2021b",
     "issued": {
       "date-parts": [
         [
@@ -294,15 +284,6 @@
     "volume": "48"
   },
   {
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          12
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Catchen",
@@ -322,7 +303,7 @@
       }
     ],
     "container-title": "EcoEvoRxiv",
-    "id": "Catchen2023t",
+    "id": "Catchen2023",
     "issued": {
       "date-parts": [
         [

@@ -8,7 +8,7 @@
       }
     ],
     "container-title": "Journal of the American Statistical Association",
-    "id": "Poisot2024-np",
+    "id": "Poisot2024",
     "issued": {
       "date-parts": [
         [
@@ -26,15 +26,6 @@
   },
   {
     "DOI": "10.24072/pci.ecology.100598",
-    "accessed": {
-      "date-parts": [
-        [
-          2024,
-          8,
-          9
-        ]
-      ]
-    },
     "author": [
       {
         "family": "Poisot",
@@ -42,7 +33,7 @@
       }
     ],
     "container-title": "Peer Community in Ecology",
-    "id": "Poisot2024c",
+    "id": "Poisot2024b",
     "issued": {
       "date-parts": [
         [
@@ -67,7 +58,7 @@
       }
     ],
     "container-title": "Peer community in ecology",
-    "id": "Poisot2023d",
+    "id": "Poisot2023c",
     "issued": {
       "date-parts": [
         [
@@ -91,7 +82,7 @@
       }
     ],
     "container-title": "Peer community in evolutionary biology",
-    "id": "Poisot2023v",
+    "id": "Poisot2023d",
     "issued": {
       "date-parts": [
         [
@@ -115,7 +106,7 @@
       }
     ],
     "container-title": "Peer community in ecology",
-    "id": "Poisot2023n",
+    "id": "Poisot2023g",
     "issued": {
       "date-parts": [
         [
@@ -138,7 +129,7 @@
       }
     ],
     "container-title": "Peer Community in Ecology",
-    "id": "Poisot2024k",
+    "id": "Poisot2024c",
     "issued": {
       "date-parts": [
         [
