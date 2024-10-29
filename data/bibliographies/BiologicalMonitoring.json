@@ -968,5 +968,197 @@
     "publisher": "Elsevier BV",
     "title": "Multilayer biological networks to upscale marine research to global change-smart management and sustainable resource use",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.32942/X2M320",
+    "author": [
+      {
+        "family": "Griffith",
+        "given": "Jory"
+      },
+      {
+        "family": "Lord",
+        "given": "Jean-Michel"
+      },
+      {
+        "family": "Catchen",
+        "given": "Michael D"
+      },
+      {
+        "family": "Arce-Plata",
+        "given": "Maria Isabel"
+      },
+      {
+        "family": "Bohorquez",
+        "given": "Manuel Fernandez Galvez"
+      },
+      {
+        "family": "Chandramohan",
+        "given": "Matusan"
+      },
+      {
+        "family": "Diaz-Corzo",
+        "given": "María Camilla"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Gonzalez",
+        "given": "Luis Fernando Urbina"
+      },
+      {
+        "family": "Gutiérrez",
+        "given": "César"
+      },
+      {
+        "family": "Helfenstein",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Hoban",
+        "given": "Sean"
+      },
+      {
+        "family": "Kass",
+        "given": "Jamie M"
+      },
+      {
+        "family": "Laroque",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Laikre",
+        "given": "Linda"
+      },
+      {
+        "family": "Leigh",
+        "given": "Deborah"
+      },
+      {
+        "family": "Leung",
+        "given": "Brian"
+      },
+      {
+        "family": "Mastretta-Yanes",
+        "given": "Alicia"
+      },
+      {
+        "family": "Millette",
+        "given": "Katie"
+      },
+      {
+        "family": "Moreno",
+        "given": "Diego"
+      },
+      {
+        "family": "Molina-Berbeo",
+        "given": "María Alejandra"
+      },
+      {
+        "family": "Norman",
+        "given": "Kari"
+      },
+      {
+        "family": "Rincón-Parra",
+        "given": "Víctor J"
+      },
+      {
+        "family": "Pahls",
+        "given": "Simon"
+      },
+      {
+        "family": "Peres-Neto",
+        "given": "Pedro R"
+      },
+      {
+        "family": "Perreira",
+        "given": "Kaitlyn"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Pollock",
+        "given": "Laura J"
+      },
+      {
+        "family": "Rodríguez",
+        "given": "María Helena Olaya"
+      },
+      {
+        "family": "Röösli",
+        "given": "Claudia"
+      },
+      {
+        "family": "Rousseu",
+        "given": "François"
+      },
+      {
+        "family": "Sánchez-Clavijo",
+        "given": "Lina María"
+      },
+      {
+        "family": "Schuman",
+        "given": "Meredith Christine"
+      },
+      {
+        "family": "Selmoni",
+        "given": "Oliver"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Jessica"
+      },
+      {
+        "family": "Surasinghe",
+        "given": "Thilina"
+      },
+      {
+        "family": "Turak",
+        "given": "Eren"
+      },
+      {
+        "family": "Valencia",
+        "given": "Erika Suarez"
+      },
+      {
+        "family": "Valentin",
+        "given": "Sarah"
+      },
+      {
+        "family": "Wightman",
+        "given": "Noah"
+      },
+      {
+        "family": "Zuloaga",
+        "given": "Juan"
+      },
+      {
+        "family": "Murcia",
+        "given": "María Cecilia Londoño"
+      },
+      {
+        "family": "Gonzalez",
+        "given": "Andrew"
+      }
+    ],
+    "id": "Griffith2024",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          28
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "BON in a box: An open and collaborative platform for biodiversity monitoring, indicator calculation, and reporting",
+    "title-short": "BON in a box",
+    "type": "article-journal"
   }
 ]
