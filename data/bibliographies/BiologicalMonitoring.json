@@ -2,6 +2,27 @@
   {
     "author": [
       {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Poisot2024d",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          11
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "Conformal prediction quantifies the uncertainty of species distribution models",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
         "family": "Stern",
         "given": "Kiri"
       },
