@@ -1199,18 +1199,31 @@
     "volume": "12"
   },
   {
-    "DOI": "10.5281/ZENODO.13999659",
     "author": [
       {
         "family": "Carlson",
         "given": "Colin"
       },
       {
+        "family": "Granados",
+        "given": "Monica"
+      },
+      {
+        "family": "Phelan",
+        "given": "Alexandra"
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "Nithin"
+      },
+      {
         "family": "Poisot",
         "given": "Timothée"
       }
     ],
-    "id": "Carlson2024-jg",
+    "container-title": "SSRN",
+    "id": "Carlson2024e",
+    "issue": "5022896",
     "issued": {
       "date-parts": [
         [
@@ -1219,9 +1232,8 @@
         ]
       ]
     },
-    "publisher": "Zenodo",
     "title": "Engineering data equity: The LISTEN principles",
     "title-short": "Engineering data equity",
-    "type": ""
+    "type": "article-journal"
   }
 ]
