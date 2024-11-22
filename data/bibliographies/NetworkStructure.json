@@ -1,5 +1,50 @@
 [
   {
+    "DOI": "10.1002/ecy.4467",
+    "author": [
+      {
+        "family": "Brimacombe",
+        "given": "Chris"
+      },
+      {
+        "family": "Bodner",
+        "given": "Korryn"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Leroux",
+        "given": "Shawn J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      }
+    ],
+    "container-title": "Ecology",
+    "id": "Brimacombe2024",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          21
+        ]
+      ]
+    },
+    "page": "e4467",
+    "publisher": "Wiley",
+    "title": "Publication‐driven consistency in food web structures: Implications for comparative ecology",
+    "title-short": "Publication‐driven consistency in food web structures",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1111/ecog.04310",
     "author": [
       {
