@@ -71,20 +71,20 @@
         "given": "Timothée"
       }
     ],
-    "container-title": "Phil. Trans. R. Soc. B.",
-    "id": "Dansereau2023",
+    "container-title": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+    "id": "Dansereau2024",
     "issued": {
       "date-parts": [
         [
-          2023,
+          2024,
           9,
-          15
+          9
         ]
       ]
     },
     "page": "20230166",
-    "publisher": "EcoEvoRxiv",
-    "title": "Spatially explicit predictions of food web structure from regional level data",
+    "publisher": "The Royal Society",
+    "title": "Spatially explicit predictions of food web structure from regional-level data",
     "type": "article-journal",
     "volume": "379"
   },
