@@ -382,6 +382,71 @@
     "type": "article-journal"
   },
   {
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Braga",
+        "given": "João"
+      },
+      {
+        "family": "Ficetola",
+        "given": "Gentile Francesco"
+      },
+      {
+        "family": "Galiana",
+        "given": "Nuría"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Maiorano",
+        "given": "Luigi"
+      },
+      {
+        "family": "Montoya",
+        "given": "José M"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Louise"
+      },
+      {
+        "family": "Pollock",
+        "given": "Laura J"
+      },
+      {
+        "family": "Thuiller",
+        "given": "Wilfried"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Barros",
+        "given": "Ceres"
+      }
+    ],
+    "id": "Dansereau2024a",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          27
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "Overcoming the disconnect between interaction networks and biodiversity conservation and management",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.21105/joss.02872",
     "author": [
       {
