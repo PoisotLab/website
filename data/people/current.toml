@@ -1,122 +1,124 @@
 [timotheepoisot]
-  name = "Timothée Poisot"
-  mugshot = "mugshots/timotheepoisot.jpg"
-  text = [
+name = "Timothée Poisot"
+mugshot = "mugshots/timotheepoisot.jpg"
+text = [
     "Ecologist. Teaches data analysis, ecological modelling, and responsible use of data.",
-    "Associate Professor, [Department of Biological Sciences](http://bio.umontreal.ca), Université de Montréal"
-  ]
-  role = "Assistant professor"
-  [timotheepoisot.social]
-    email = "timothee.poisot@umontreal.ca"
-    github = "tpoisot"
-    www = "https://buttondown.email/ctrl-alt-tim/archive/"
-    bsky = "ctrlalttim.bsky.social"
+    "Associate Professor, [Department of Biological Sciences](http://bio.umontreal.ca), Université de Montréal",
+]
+role = "Assistant professor"
+[timotheepoisot.social]
+email = "timothee.poisot@umontreal.ca"
+github = "tpoisot"
+www = "https://buttondown.email/ctrl-alt-tim/archive/"
+bsky = "ctrlalttim.bsky.social"
 
 [normaforero]
-  name = "Norma Forero"
-  mugshot = "mugshots/normaforero.jpg"
-  text = ["2020-, Ph.D. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton"]
-  role = "PhD student"
-  [normaforero.social]
-    email = "norma.rocio.forero.munoz@umontreal.ca"
-    twitter = "norma_forero"
-    github = "Norma-Forero"
+name = "Norma Forero"
+mugshot = "mugshots/normaforero.jpg"
+text = [
+    "2020-, Ph.D. Machine Learning and Data Synthesis for the prediction of viral spillover events. Co-advisor: Patrick Leighton",
+]
+role = "PhD student"
+[normaforero.social]
+email = "norma.rocio.forero.munoz@umontreal.ca"
+twitter = "norma_forero"
+github = "Norma-Forero"
 
 [francisbanville]
-  name = "Francis Banville"
-  mugshot = "mugshots/francisbanville.jpg"
-  text = ["2020-, Ph.D. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel"]
-  role = "PhD student"
-  [francisbanville.social]
-    email = "francis.banville@umontreal.ca"
-    twitter = "francisbanv"
-    github = "FrancisBanville"
-    www = "https://francisbanville.github.io/"
+name = "Francis Banville"
+mugshot = "mugshots/francisbanville.jpg"
+text = [
+    "2025-, Post-doctoral researcher. Indicators and essential variables for One Health and host-virus interactions.",
+    "2020-2024, Ph.D. Machine Learning techniques for food web structure inference at the planetary scale. Co-advisor: Dominique Gravel",
+]
+role = "PhD student"
+[francisbanville.social]
+email = "francis.banville@umontreal.ca"
+twitter = "francisbanv"
+github = "FrancisBanville"
+www = "https://francisbanville.github.io/"
 
 [gabrieldansereau]
-  name = "Gabriel Dansereau"
-  mugshot = "mugshots/gabrieldansereau.jpg"
-  text = [
+name = "Gabriel Dansereau"
+mugshot = "mugshots/gabrieldansereau.jpg"
+text = [
     "2021-, Ph.D. Quantification of the structural originality of food webs over continuous spatial scales.",
-    "2019-2021, M.Sc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre."
-  ]
-  [gabrieldansereau.social]
-    email = "gabriel.dansereau@umontreal.ca"
-    twitter = "gabdansereau"
-    github = "gabrieldansereau"
+    "2019-2021, M.Sc. Development of beta-diversity measures for spatially continuous hotspot identification. Co-advisor: Pierre Legendre.",
+]
+[gabrieldansereau.social]
+email = "gabriel.dansereau@umontreal.ca"
+twitter = "gabdansereau"
+github = "gabrieldansereau"
 
 [mariaisabelarceplata]
-  name = "Maria Isabel Arce Plata"
-  mugshot = "mugshots/mariaisabelarceplata.jpg"
-  text = [
-    "2022-, Ph.D. Machine learning for the upscaling of field observation of plant functional traits. Co-advisor: Natalia Norden."
-  ]
-  [mariaisabelarceplata.social]
-    email = "maria.isabel.arce.plata@umontreal.ca"
-    twitter = "Hik4ri"
-    github = "MaIsAp"
+name = "Maria Isabel Arce Plata"
+mugshot = "mugshots/mariaisabelarceplata.jpg"
+text = [
+    "2022-, Ph.D. Machine learning for the upscaling of field observation of plant functional traits. Co-advisor: Natalia Norden.",
+]
+[mariaisabelarceplata.social]
+email = "maria.isabel.arce.plata@umontreal.ca"
+twitter = "Hik4ri"
+github = "MaIsAp"
 
 [alicedoucetbeaupre]
-  name = "Alice Doucet Beaupré"
-  mugshot = "mugshots/alicedoucetbeaupre.jpg"
-  text = [
-    "2022-, Post-doctoral researcher. Unsupervised learning and uncertainty quantification for network prediction."
-  ]
-  [alicedoucetbeaupre.social]
-    email = "alice.doucet.beaupre@gmail.com"
-    github = "alicedb2"
-    www = "https://www.mathema.ca"
+name = "Alice Doucet Beaupré"
+mugshot = "mugshots/alicedoucetbeaupre.jpg"
+text = [
+    "2022-, Post-doctoral researcher. Unsupervised learning and uncertainty quantification for network prediction.",
+]
+[alicedoucetbeaupre.social]
+email = "alice.doucet.beaupre@gmail.com"
+github = "alicedb2"
+www = "https://www.mathema.ca"
 
 [cristiancruzrodriguez]
-  name = "Cristian Cruz Rodriguez"
-  mugshot = "mugshots/cristiancruzrodriguez.jpg"
-  text = [
-    "2023-, Ph.D. Large-scale modeling of land-use change to support conservation policy-making."
-  ]
+name = "Cristian Cruz Rodriguez"
+mugshot = "mugshots/cristiancruzrodriguez.jpg"
+text = [
+    "2023-, Ph.D. Large-scale modeling of land-use change to support conservation policy-making.",
+]
 
 [emilybeasley]
-  name = "Emily Beasley"
-  mugshot = "mugshots/emilybeasley.jpg"
-  text = [
-    "2023-, Post-doctoral researcher. Optimized spatial sampling of epidemic processes."
-  ]
-  [emilybeasley.social]
-    www = "https://beasley015.github.io"
-
-[stephanieshousha]
-  name = "Stéphanie Shousha"
-  mugshot = "mugshots/stephanieshousha.jpg"
-  text = [
-    "2023-, Post-doctoral researcher. Natural and human influences on coupled carbon, nitrogen and phosphorus dynamics in watersheds. Advisor: Roxane Maranger."
-  ]
-  [stephanieshousha.social]
-    www = "http://marangerlab.weebly.com/stephanie.html"
-    email = "stephanie.shousha@umontreal.ca"
-
-[colebrookson]
-  name = "Cole Brookson"
-  mugshot = "mugshots/colebrookson.jpg"
-  text = [
-    "2024, visiting Ph.D. Quantifying predictability of environmental change and disease dynamics."
-  ]
+name = "Emily Beasley"
+mugshot = "mugshots/emilybeasley.jpg"
+text = [
+    "2023-, Post-doctoral researcher. Optimized spatial sampling of epidemic processes.",
+]
+[emilybeasley.social]
+www = "https://beasley015.github.io"
 
 [arianebussieresfournel]
-  name = "Ariane Bussières-Fournel"
-  mugshot = "mugshots/arianebussieresfournel.jpg"
-  text = [
-    "2024, B.Sc. research assistant. Sero-prevalence of Canine Distemper Virus over an urbanisation gradient."
-  ]
+name = "Ariane Bussières-Fournel"
+mugshot = "mugshots/arianebussieresfournel.jpg"
+text = [
+    "2024, B.Sc. research assistant. Sero-prevalence of Canine Distemper Virus over an urbanisation gradient.",
+]
 
 [michaelcatchen]
-  name = "Michael D. Catchen"
-  mugshot = "mugshots/michaelcatchen.jpg"
-  text = [
-    "2024-, Post-doctoral researcher. Computer vision tools for ecological niche modeling."
-  ]
+name = "Michael D. Catchen"
+mugshot = "mugshots/michaelcatchen.jpg"
+text = [
+    "2024-, Post-doctoral researcher. Computer vision tools for ecological niche modeling.",
+]
 
 [benkaza]
-  name = "Ben Kaza"
-  mugshot = "mugshots/benkaza.png"
-  text = [
-    "2024-, Verena graduate fellow-in-residence. Signatures of viral pathogenenis in high-dimensional datasets."
-  ]
+name = "Ben Kaza"
+mugshot = "mugshots/benkaza.png"
+text = [
+    "2024-, Verena graduate fellow-in-residence. Signatures of viral pathogenenis in high-dimensional datasets.",
+]
+
+[mariannehoule]
+name = "Marianne Houle"
+mugshot = "mugshots/mariannehoule.jpg"
+text = [
+    "2025-, M.Sc. Interpretable ML for the identification of zoonotic reservoirs."
+]
+
+[mathisgoyat]
+name = "Mathis Goyat"
+mugshot = "mugshots/mathisgoyat.jpeg"
+text = [
+    "2025-, B.Sc. research assistant. Best practices for SDM validation reporting."
+]

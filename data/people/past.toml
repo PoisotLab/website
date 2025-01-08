@@ -1,270 +1,327 @@
 [nereamontesperez]
-  name = "Nerea Montes Perez"
-  mugshot = "mugshots/nereamontesperez.jpeg"
-  text = ["2023-, visiting Ph.D. Spatial structure of plant-pollination networks in Europe. Advisor: Ignasi Bartomeus."]
+name = "Nerea Montes Perez"
+mugshot = "mugshots/nereamontesperez.jpeg"
+text = [
+    "2023-, visiting Ph.D. Spatial structure of plant-pollination networks in Europe. Advisor: Ignasi Bartomeus.",
+]
 
 [auderebattet]
-  name = "Aude Rebattet"
-  mugshot = "mugshots/auderebattet.jpeg"
-  text = ["2023-, M.Sc. research assistant. Temporal dynamics of landcape connectivity and zoonotic risk."]
+name = "Aude Rebattet"
+mugshot = "mugshots/auderebattet.jpeg"
+text = [
+    "2023-, M.Sc. research assistant. Temporal dynamics of landcape connectivity and zoonotic risk.",
+]
 
 [camillerondeau]
-  name = "Camille Rondeau Saint-Jean"
-  mugshot = "mugshots/camillerondeau.jpg"
-  text = ["2021-, M.Sc. Deep-learning for the bioacousting monitoring of bird communities."]
+name = "Camille Rondeau Saint-Jean"
+mugshot = "mugshots/camillerondeau.jpg"
+text = [
+    "2021-, M.Sc. Deep-learning for the bioacousting monitoring of bird communities.",
+]
 
 [mathisgheno]
-  name = "Mathis Gheno"
-  mugshot = "mugshots/mathisgheno.jpg"
-  text = [
-    "2023, M.Sc. international visitor. Identification of structurally important interactions in network data."
-  ]
+name = "Mathis Gheno"
+mugshot = "mugshots/mathisgheno.jpg"
+text = [
+    "2023, M.Sc. international visitor. Identification of structurally important interactions in network data.",
+]
 
 [karinorman]
-  name = "Kari Norman"
-  mugshot = "mugshots/karinorman.jpg"
-  text = [
-    "2022-2023, Post-doctoral researcher. Development of multi-criteria monitoring and biosurveillance networks."
-  ]
+name = "Kari Norman"
+mugshot = "mugshots/karinorman.jpg"
+text = [
+    "2022-2023, Post-doctoral researcher. Development of multi-criteria monitoring and biosurveillance networks.",
+]
 
 [ethanlamy]
-  name = "Ethan Lamy"
-  mugshot = "mugshots/ethanlamy.jpg"
-  text = [
-    "2023, B.Sc. research assistant. Trophic regulation of biting vector by omnivorous bats."
-  ]
+name = "Ethan Lamy"
+mugshot = "mugshots/ethanlamy.jpg"
+text = [
+    "2023, B.Sc. research assistant. Trophic regulation of biting vector by omnivorous bats.",
+]
 
 [philippedesjardinsproulx]
-  name = "Philippe Desjardins-Proulx"
-  mugshot = "mugshots/philippedesjardinsproulx.jpg"
-  text = [
+name = "Philippe Desjardins-Proulx"
+mugshot = "mugshots/philippedesjardinsproulx.jpg"
+text = [
     "2019-2023, Post-doctoral researcher. Type theory and higher-order probabilistic programming for ecological synthesis.",
-    "2014-2018, Ph.D. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel."
-  ]
-  [philippedesjardinsproulx.social]
-    email = "philippe.desjardins.proulx@umontreal.ca"
-    twitter = "phdpqc"
-    github = "PhDP"
-    www = "https://phdp.github.io/"
+    "2014-2018, Ph.D. Artificial Intelligence applied to theory building for ecological synthesis. Advisor: Dominique Gravel.",
+]
+[philippedesjardinsproulx.social]
+email = "philippe.desjardins.proulx@umontreal.ca"
+twitter = "phdpqc"
+github = "PhDP"
+www = "https://phdp.github.io/"
 
 [valentinevolz]
-  name = "Valentine Volz"
-  mugshot = "mugshots/valentinevolz.png"
-  text = [
+name = "Valentine Volz"
+mugshot = "mugshots/valentinevolz.png"
+text = [
     "2020, B.Sc. research assistant. Structural analysis of the host-sharing network of coronaviruses.",
-    "2021-2023, M.Sc. Spatial structure of ecological networks over large gradients."
-  ]
+    "2021-2023, M.Sc. Spatial structure of ecological networks over large gradients.",
+]
 
 [samuelprovenchertardiff]
-  name = "Samuel Provencher-Tardif"
-  mugshot = "mugshots/samuelprovenchertardiff.jpg"
-  text = [
+name = "Samuel Provencher-Tardif"
+mugshot = "mugshots/samuelprovenchertardiff.jpg"
+text = [
     "2021, M.Sc. research intern. Meta-models for inference and forecasting of biodiversity uniqueness.",
-    "2022, M.Sc. research intern. Ethical implications of the use of UAVs for biodiversity research."
-  ]
+    "2022, M.Sc. research intern. Ethical implications of the use of UAVs for biodiversity research.",
+]
 
 [salomebouskila]
-  name = "Salomé Bouskila"
-  mugshot = "mugshots/salomebouskila.jpg"
-  text = [
-    "2021-2022, M.Sc. research intern. Pathogen sharing in the global virome."
-  ]
+name = "Salomé Bouskila"
+mugshot = "mugshots/salomebouskila.jpg"
+text = [
+    "2021-2022, M.Sc. research intern. Pathogen sharing in the global virome.",
+]
 
 [mathildebesson]
-  name = "Mathilde Besson"
-  mugshot = "mugshots/mathildebesson.jpg"
-  text = ["2016-2022, Ph.D. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel."]
+name = "Mathilde Besson"
+mugshot = "mugshots/mathildebesson.jpg"
+text = [
+    "2016-2022, Ph.D. Eco-evolutionary dynamics in networks of positive and negative interactions. Co-advisor: Dominique Gravel.",
+]
 
 [joeyburant]
-  name = "Joseph B. Burant"
-  mugshot = "mugshots/joeyburant.jpg"
-  text = ["2020-, Post-doctoral fellow with the Living Data Project."]
-  [joeyburant.social]
-    twitter = "jbburant"
-    github = "jbburant"
-    www = "http://jbburant.wordpress.com/"
+name = "Joseph B. Burant"
+mugshot = "mugshots/joeyburant.jpg"
+text = ["2020-, Post-doctoral fellow with the Living Data Project."]
+[joeyburant.social]
+twitter = "jbburant"
+github = "jbburant"
+www = "http://jbburant.wordpress.com/"
 
 [andreannedupont]
-  name = "Andréanne Dupont"
-  mugshot = "mugshots/andreannedupont.jpg"
-  text = [
-    "2019-, M.Sc. Biogeography of lakes ecosystem services. Advisor: Roxane Maranger."
-  ]
+name = "Andréanne Dupont"
+mugshot = "mugshots/andreannedupont.jpg"
+text = [
+    "2019-, M.Sc. Biogeography of lakes ecosystem services. Advisor: Roxane Maranger.",
+]
 
 [andrewmacdonald]
-  name = "Andrew MacDonald"
-  mugshot = "mugshots/amcdonald.jpg"
-  text = [
+name = "Andrew MacDonald"
+mugshot = "mugshots/amcdonald.jpg"
+text = [
     "2019-2020, Post-doctoral researcher. Development of biodiversity indicators for the governmental monitoring of biodiversity.",
     "2018-2019, Post-doctoral researcher. High-throughput processing of camera-trap data.",
-  ]
+]
 
 [graciellehigino]
-  name = "Gracielle Higino"
-  mugshot = "mugshots/gracielle.png"
-  text = ["2019-2020, visiting Ph.D. Biological interactions, environmental variables, and biogeographical species distributions."]
-  [graciellehigino.social]
-    email = "graciellehigino@gmail.com"
-    twitter = "graciellehigino"
-    github = "graciellehigino"
-    www = "https://www.graciellehigino.com/"
+name = "Gracielle Higino"
+mugshot = "mugshots/gracielle.png"
+text = [
+    "2019-2020, visiting Ph.D. Biological interactions, environmental variables, and biogeographical species distributions.",
+]
+[graciellehigino.social]
+email = "graciellehigino@gmail.com"
+twitter = "graciellehigino"
+github = "graciellehigino"
+www = "https://www.graciellehigino.com/"
 
 [luisanovara]
-  name = "Luisa Novara"
-  mugshot = "mugshots/luisanovara.jpg"
-  text = [
-    "2020, Research assistant. Preparation of data for the forecasting of coronaviruses epidemic risk."
-  ]
+name = "Luisa Novara"
+mugshot = "mugshots/luisanovara.jpg"
+text = [
+    "2020, Research assistant. Preparation of data for the forecasting of coronaviruses epidemic risk.",
+]
 
 [marieandreeouellet]
-  name = "Marie-Andrée Ouellet"
-  mugshot = "mugshots/marieandreeouellet.jpg"
-  text = ["2020, M.Sc. research intern. Singular Value Decomposition as an imputation method for host-virus detection."]
+name = "Marie-Andrée Ouellet"
+mugshot = "mugshots/marieandreeouellet.jpg"
+text = [
+    "2020, M.Sc. research intern. Singular Value Decomposition as an imputation method for host-virus detection.",
+]
 
 [evadelmas]
-  name = "Eva Delmas"
-  mugshot = "mugshots/evadelmas.jpg"
-  text = ["2015-2020, Ph.D. Causes and consequences in the relationships between food web structure and ecosystem functioning. Co-advisor: Daniel B. Stouffer."]
+name = "Eva Delmas"
+mugshot = "mugshots/evadelmas.jpg"
+text = [
+    "2015-2020, Ph.D. Causes and consequences in the relationships between food web structure and ecosystem functioning. Co-advisor: Daniel B. Stouffer.",
+]
 
 [stephanieprefontaine]
-  name = "Stéphanie Préfontaine"
-  mugshot = "mugshots/stephanieprefontaine.jpg"
-  text = ["2017-2020, M.Sc. Impacts of temperature on the metabolic rates of ecological communities. Advisor: Dominique Gravel."]
-  
+name = "Stéphanie Préfontaine"
+mugshot = "mugshots/stephanieprefontaine.jpg"
+text = [
+    "2017-2020, M.Sc. Impacts of temperature on the metabolic rates of ecological communities. Advisor: Dominique Gravel.",
+]
+
 [stevevissault]
-  name = "Steve Vissault"
-  mugshot = "mugshots/svissault.jpg"
-  text = [
+name = "Steve Vissault"
+mugshot = "mugshots/svissault.jpg"
+text = [
     "2019-2020, Ph.D. Automated aggregation, synthesis, and forecasting of unstructured biodiversity data.",
-    "2018-2019, Staff scientist. Improvements on the [mangal.io](http://mangal.io) database backend and frontend."
-  ]
+    "2018-2019, Staff scientist. Improvements on the [mangal.io](http://mangal.io) database backend and frontend.",
+]
 
 [sandrinesoeharjono]
-  name = "Sandrine Soeharjono"
-  role = "Quant/Comp Biology MSc"
-  mugshot = "mugshots/sandrine.jpg"
-  text = ["2019, M.Sc. Development of indicators based on eBird data to survey urban biodiversity changes in Montréal."]
+name = "Sandrine Soeharjono"
+role = "Quant/Comp Biology MSc"
+mugshot = "mugshots/sandrine.jpg"
+text = [
+    "2019, M.Sc. Development of indicators based on eBird data to survey urban biodiversity changes in Montréal.",
+]
 
 [zacharybelisle]
-  name = "Zachary Bélisle"
-  mugshot = "mugshots/zacharybelisle.jpg"
-  text = [
+name = "Zachary Bélisle"
+mugshot = "mugshots/zacharybelisle.jpg"
+text = [
     "2018, M.Sc. Variation in the composition of insect communities in forest fragments. Advisor: Colin Favret.",
-    "2017-2018, BSc Hons. Robustness of permutation tests for the analysis of ecological network structure."
-  ]
+    "2017-2018, BSc Hons. Robustness of permutation tests for the analysis of ecological network structure.",
+]
 
 [daphneelecourstessier]
-  name = "Daphnée Lecours-Tessier"
-  mugshot = "mugshots/daphneelecourstessier.jpg"
-  text = [
+name = "Daphnée Lecours-Tessier"
+mugshot = "mugshots/daphneelecourstessier.jpg"
+text = [
     "2018-2020, M.Sc. Blue-green connectivity and ecosystem integrity in the Laurentians. Co-advisor: Roxane Maranger.",
-    "2017-2018, B.Sc. research assistant. Best practices for the development and implementation of ecological corridors. Co-advisor: Roxane Maranger."
-  ]
-  
+    "2017-2018, B.Sc. research assistant. Best practices for the development and implementation of ecological corridors. Co-advisor: Roxane Maranger.",
+]
+
 
 [piotrszefer]
-  name = "Piotr Szefer"
-  mugshot = "mugshots/piotrszefer.jpg"
-  text = [
-    "2018, visiting Ph.D. Implementation of structural models of food web structure."
-  ]
+name = "Piotr Szefer"
+mugshot = "mugshots/piotrszefer.jpg"
+text = [
+    "2018, visiting Ph.D. Implementation of structural models of food web structure.",
+]
 
 [michielstock]
-  name = "Michiel Stock"
-  mugshot = "mugshots/michielstock.jpg"
-  text = [
-    "2017-2018, visting post-doctoral researcher. Pairwise learning to predict the structure of ecological networks."
-  ]
+name = "Michiel Stock"
+mugshot = "mugshots/michielstock.jpg"
+text = [
+    "2017-2018, visting post-doctoral researcher. Pairwise learning to predict the structure of ecological networks.",
+]
 
 [alexandrinefrappier]
-  name = "Alexandrine Frappier"
-  mugshot = "mugshots/alexandrinefrappier.jpg"
-  text = ["2018, BSc research assistant. Review of best practices to use image recognition software on wildlife cameras."]
+name = "Alexandrine Frappier"
+mugshot = "mugshots/alexandrinefrappier.jpg"
+text = [
+    "2018, BSc research assistant. Review of best practices to use image recognition software on wildlife cameras.",
+]
 
 [cynthiagueveneuxjulien]
-  name = "Cynthia Guéveneux-Julien"
-  mugshot = "mugshots/cynthiagueveneuxjulien.png"
-  text = [
+name = "Cynthia Guéveneux-Julien"
+mugshot = "mugshots/cynthiagueveneuxjulien.png"
+text = [
     "2015-2016, BSc Hons. Planification, management, and restoration of landscape connectivity in the Laurentians.",
-    "2015, BSc research assisant. Environmental drivers of host-parasite interaction variability."
-  ]
-  
+    "2015, BSc research assisant. Environmental drivers of host-parasite interaction variability.",
+]
+
 [christophebenjamin]
-  name = "Christophe Benjamin"
-  mugshot = "mugshots/christophebenjamin.png"
-  text = ["2017, BSc research assistant. Automated extraction of phylogenetic data from species interaction networks."]
+name = "Christophe Benjamin"
+mugshot = "mugshots/christophebenjamin.png"
+text = [
+    "2017, BSc research assistant. Automated extraction of phylogenetic data from species interaction networks.",
+]
 
 [emilievinet]
-  name = "Émilie Vinet"
-  mugshot = "mugshots/emilievinet.jpg"
-  text = ["2018, BSc research assistant. Machine learning techniques to produce dynamics maps of land use from digitized and numeric maps."]
+name = "Émilie Vinet"
+mugshot = "mugshots/emilievinet.jpg"
+text = [
+    "2018, BSc research assistant. Machine learning techniques to produce dynamics maps of land use from digitized and numeric maps.",
+]
 
 [gregoirebonenfant]
-  name = "Grégoire Bonenfant"
-  mugshot = "mugshots/gregoirebonenfant.jpg"
-  text = ["2017, BSc research assistant. Measures of species complementarity in quantitative networks."]
+name = "Grégoire Bonenfant"
+mugshot = "mugshots/gregoirebonenfant.jpg"
+text = [
+    "2017, BSc research assistant. Measures of species complementarity in quantitative networks.",
+]
 
 [dominiquecaron]
-  name = "Dominique Caron"
-  mugshot = "mugshots/dominiquecaron.jpg"
-  text = ["2017, M.Sc. Inventory of open biodiversity data in Quebec, and creation of decision-helping tools."]
+name = "Dominique Caron"
+mugshot = "mugshots/dominiquecaron.jpg"
+text = [
+    "2017, M.Sc. Inventory of open biodiversity data in Quebec, and creation of decision-helping tools.",
+]
 
 [renaudmckinnon]
-  name = "Renaud McKinnon"
-  mugshot = "mugshots/renaudmckinnon.png"
-  text = ["2013-2016, M.Sc. Interactions between trees from experimental plantations and their microbial ectosymbionts."]
+name = "Renaud McKinnon"
+mugshot = "mugshots/renaudmckinnon.png"
+text = [
+    "2013-2016, M.Sc. Interactions between trees from experimental plantations and their microbial ectosymbionts.",
+]
 
 [charlescusson]
-  name = "Charles Cusson"
-  mugshot = "mugshots/ccusson.jpeg"
-  text = ["2016, IT. Development of a responsive interface for the [mangal.io](http://www.mangal.io) database."]
+name = "Charles Cusson"
+mugshot = "mugshots/ccusson.jpeg"
+text = [
+    "2016, IT. Development of a responsive interface for the [mangal.io](http://www.mangal.io) database.",
+]
 
 [ameliemuller]
-  name = "Amélie Muller"
-  mugshot = "mugshots/ameliemuller.jpg"
-  text = ["2015, M.Sc. Understanding how management programs could gain from studying the variability of plant-pollinator interactions."]
+name = "Amélie Muller"
+mugshot = "mugshots/ameliemuller.jpg"
+text = [
+    "2015, M.Sc. Understanding how management programs could gain from studying the variability of plant-pollinator interactions.",
+]
 
 [faresdhane]
-  name = "Fares Dhane"
-  mugshot = "mugshots/fares.jpg"
-  text = ["2019, M.Sc. Training of a neural network for mammals recognition in Québec. Advisor: Andrew MacDonald."]
+name = "Fares Dhane"
+mugshot = "mugshots/fares.jpg"
+text = [
+    "2019, M.Sc. Training of a neural network for mammals recognition in Québec. Advisor: Andrew MacDonald.",
+]
 
 [kiristern]
-  name = "Kiri Stern"
-  mugshot = "mugshots/kiristern.png"
-  text = [
+name = "Kiri Stern"
+mugshot = "mugshots/kiristern.png"
+text = [
     "2020, M.Sc. Neural networks for rapid connectivity analyses.",
-    "2019, M.Sc. Prey use of generalist predators across their range."
-  ]
-  [kiristern.social]
-    email = "kiri.stern@umontreal.ca"
-    twitter = "_kastern"
-    github = "kiristern"
+    "2019, M.Sc. Prey use of generalist predators across their range.",
+]
+[kiristern.social]
+email = "kiri.stern@umontreal.ca"
+twitter = "_kastern"
+github = "kiristern"
 
 [imansicot]
-  name = "Iman Sicot"
-  mugshot = "mugshots/imansicot.jpg"
-  text = ["2020, BSc research assistant. Survey of data on food webs in North America."]
+name = "Iman Sicot"
+mugshot = "mugshots/imansicot.jpg"
+text = [
+    "2020, BSc research assistant. Survey of data on food webs in North America.",
+]
 
 [milenaaragon]
-  name = "Miléna Aragon"
-  mugshot = "mugshots/milena.jpg"
-  text = [
-    "2020, M.Sc. research assistant. Development of indicators for the communication of urban biodiversity trends."
-  ]
+name = "Miléna Aragon"
+mugshot = "mugshots/milena.jpg"
+text = [
+    "2020, M.Sc. research assistant. Development of indicators for the communication of urban biodiversity trends.",
+]
 
 [tanyastrydom]
-  name = "Tanya Strydom"
-  mugshot = "mugshots/tanyastrydom.jpg"
-  text = ["2020-2024, Ph.D. Common properties of species interactions networks across space."]
-  [tanyastrydom.social]
-    email = "tanya.strydom@icloud.com"
-    github = "TanyaS08"
-    www = "https://tanyadoesscience.com"
+name = "Tanya Strydom"
+mugshot = "mugshots/tanyastrydom.jpg"
+text = [
+    "2020-2024, Ph.D. Common properties of species interactions networks across space.",
+]
+[tanyastrydom.social]
+email = "tanya.strydom@icloud.com"
+github = "TanyaS08"
+www = "https://tanyadoesscience.com"
 
 [sarahdghynlouissaint]
-  name = "Sarahdghyn Louissaint"
-  mugshot = "mugshots/sarahdghynlouissaint.jpg"
-  text = [
-    "2024, M.Sc. research intern. Meta-analysis of surveillance strategies for the Racoon rabies virus in Eastern Canada/United States."
-  ]
+name = "Sarahdghyn Louissaint"
+mugshot = "mugshots/sarahdghynlouissaint.jpg"
+text = [
+    "2024, M.Sc. research intern. Meta-analysis of surveillance strategies for the Racoon rabies virus in Eastern Canada/United States.",
+]
+
+[stephanieshousha]
+name = "Stéphanie Shousha"
+mugshot = "mugshots/stephanieshousha.jpg"
+text = [
+    "2023-2025, Post-doctoral researcher. Natural and human influences on coupled carbon, nitrogen and phosphorus dynamics in watersheds. Advisor: Roxane Maranger.",
+]
+[stephanieshousha.social]
+www = "http://marangerlab.weebly.com/stephanie.html"
+email = "stephanie.shousha@umontreal.ca"
+
+[colebrookson]
+name = "Cole Brookson"
+mugshot = "mugshots/colebrookson.jpg"
+text = [
+    "2024, visiting Ph.D. Quantifying predictability of environmental change and disease dynamics.",
+]
