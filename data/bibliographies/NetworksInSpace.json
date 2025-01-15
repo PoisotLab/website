@@ -56,6 +56,79 @@
     "volume": "130"
   },
   {
+    "DOI": "10.1111/2041-210x.13835",
+    "author": [
+      {
+        "family": "Strydom",
+        "given": "Tanya"
+      },
+      {
+        "family": "Bouskila",
+        "given": "Salomé"
+      },
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Barros",
+        "given": "Ceres"
+      },
+      {
+        "family": "Caron",
+        "given": "Dominique"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Hemming",
+        "given": "Victoria"
+      },
+      {
+        "family": "Mercier",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Pollock",
+        "given": "Laura J"
+      },
+      {
+        "family": "Runghen",
+        "given": "Rogini"
+      },
+      {
+        "family": "Dalla Riva",
+        "given": "Giulio V"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Methods in ecology and evolution",
+    "id": "Strydom2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          1
+        ]
+      ]
+    },
+    "page": "2838-2849",
+    "publisher": "Wiley",
+    "title": "Food web reconstruction through phylogenetic transfer of low‐rank network representation",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
     "DOI": "10.1098/rstb.2023.0166",
     "author": [
       {
@@ -352,77 +425,5 @@
     "title": "The marine fish food web is globally connected",
     "type": "article-journal",
     "volume": "3"
-  },
-  {
-    "DOI": "10.1111/2041-210x.13835",
-    "author": [
-      {
-        "family": "Strydom",
-        "given": "Tanya"
-      },
-      {
-        "family": "Bouskila",
-        "given": "Salomé"
-      },
-      {
-        "family": "Banville",
-        "given": "Francis"
-      },
-      {
-        "family": "Barros",
-        "given": "Ceres"
-      },
-      {
-        "family": "Caron",
-        "given": "Dominique"
-      },
-      {
-        "family": "Farrell",
-        "given": "Maxwell J"
-      },
-      {
-        "family": "Fortin",
-        "given": "Marie-Josée"
-      },
-      {
-        "family": "Hemming",
-        "given": "Victoria"
-      },
-      {
-        "family": "Mercier",
-        "given": "Benjamin"
-      },
-      {
-        "family": "Pollock",
-        "given": "Laura J"
-      },
-      {
-        "family": "Runghen",
-        "given": "Rogini"
-      },
-      {
-        "family": "Dalla Riva",
-        "given": "Giulio V"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "Methods in ecology and evolution",
-    "id": "Strydom2022a",
-    "issued": {
-      "date-parts": [
-        [
-          2022,
-          12
-        ]
-      ]
-    },
-    "page": "2838-2849",
-    "publisher": "Wiley",
-    "title": "Food web reconstruction through phylogenetic transfer of low‐rank network representation",
-    "type": "article-journal",
-    "volume": "13"
   }
 ]

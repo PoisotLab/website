@@ -520,37 +520,6 @@
     "volume": "21"
   },
   {
-    "DOI": "10.1371/journal.pcbi.1011458",
-    "author": [
-      {
-        "family": "Banville",
-        "given": "Francis"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "PLoS computational biology",
-    "id": "Banville2023a",
-    "issued": {
-      "date-parts": [
-        [
-          2023,
-          9
-        ]
-      ]
-    },
-    "page": "e1011458",
-    "title": "What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases",
-    "type": "article-journal",
-    "volume": "19"
-  },
-  {
     "DOI": "10.7717/peerj.251",
     "author": [
       {
@@ -578,5 +547,38 @@
     "title": "When is an ecological network complex? Connectance drives degree distribution and emerging network properties",
     "type": "article-journal",
     "volume": "2"
+  },
+  {
+    "DOI": "10.1371/journal.pcbi.1011458",
+    "author": [
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "PLoS computational biology",
+    "id": "Banville2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          5
+        ]
+      ]
+    },
+    "page": "e1011458",
+    "publisher": "Public Library of Science",
+    "title": "What constrains food webs? A maximum entropy framework for predicting their structure with minimal biases",
+    "type": "article-journal",
+    "volume": "19"
   }
 ]

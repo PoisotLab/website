@@ -65,6 +65,67 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1371/journal.pcbi.1005097",
+    "author": [
+      {
+        "family": "Hart",
+        "given": "Edmund M"
+      },
+      {
+        "family": "Barmby",
+        "given": "Pauline"
+      },
+      {
+        "family": "LeBauer",
+        "given": "David"
+      },
+      {
+        "family": "Michonneau",
+        "given": "François"
+      },
+      {
+        "family": "Mount",
+        "given": "Sarah"
+      },
+      {
+        "family": "Mulrooney",
+        "given": "Patrick"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Woo",
+        "given": "Kara H"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Naupaka B"
+      },
+      {
+        "family": "Hollister",
+        "given": "Jeffrey W"
+      }
+    ],
+    "container-title": "PLoS computational biology",
+    "id": "Hart2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          20
+        ]
+      ]
+    },
+    "page": "e1005097",
+    "publisher": "Public Library of Science",
+    "title": "Ten simple rules for digital data storage",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
     "DOI": "10.1371/journal.pbio.1001563",
     "author": [
       {
@@ -186,64 +247,6 @@
     "title": "Artificial intelligence for ecological and evolutionary synthesis",
     "type": "article-journal",
     "volume": "7"
-  },
-  {
-    "DOI": "10.1038/d41586-024-00545-3",
-    "author": [
-      {
-        "family": "Carlson",
-        "given": "Colin"
-      },
-      {
-        "family": "Becker",
-        "given": "Daniel"
-      },
-      {
-        "family": "Happi",
-        "given": "Christian"
-      },
-      {
-        "family": "O’Donoghue",
-        "given": "Zoe"
-      },
-      {
-        "dropping-particle": "de",
-        "family": "Oliveira",
-        "given": "Tulio"
-      },
-      {
-        "family": "Oyola",
-        "given": "Samuel O"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Seifert",
-        "given": "Stephanie"
-      },
-      {
-        "family": "Phelan",
-        "given": "Alexandra"
-      }
-    ],
-    "container-title": "Nature",
-    "id": "Carlson2024c",
-    "issued": {
-      "date-parts": [
-        [
-          2024,
-          2
-        ]
-      ]
-    },
-    "page": "952-953",
-    "publisher": "Springer Science; Business Media LLC",
-    "title": "Save lives in the next pandemic: Ensure vaccine equity now",
-    "title-short": "Save lives in the next pandemic",
-    "type": "article-journal",
-    "volume": "626"
   },
   {
     "author": [
@@ -1089,12 +1092,13 @@
       }
     ],
     "container-title": "PLoS biology",
-    "id": "Higino2023a",
+    "id": "Higino2023",
     "issued": {
       "date-parts": [
         [
           2023,
-          11
+          11,
+          2
         ]
       ]
     },
@@ -1138,67 +1142,6 @@
     "type": "article-journal"
   },
   {
-    "DOI": "10.1371/journal.pcbi.1005097",
-    "author": [
-      {
-        "family": "Hart",
-        "given": "Edmund M"
-      },
-      {
-        "family": "Barmby",
-        "given": "Pauline"
-      },
-      {
-        "family": "LeBauer",
-        "given": "David"
-      },
-      {
-        "family": "Michonneau",
-        "given": "François"
-      },
-      {
-        "family": "Mount",
-        "given": "Sarah"
-      },
-      {
-        "family": "Mulrooney",
-        "given": "Patrick"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Woo",
-        "given": "Kara H"
-      },
-      {
-        "family": "Zimmerman",
-        "given": "Naupaka B"
-      },
-      {
-        "family": "Hollister",
-        "given": "Jeffrey W"
-      }
-    ],
-    "container-title": "PLoS computational biology",
-    "id": "Hart2016a",
-    "issued": {
-      "date-parts": [
-        [
-          2016,
-          10,
-          20
-        ]
-      ]
-    },
-    "page": "e1005097",
-    "publisher": "Public Library of Science (PLoS)",
-    "title": "Ten simple rules for digital data storage",
-    "type": "article-journal",
-    "volume": "12"
-  },
-  {
     "author": [
       {
         "family": "Carlson",
@@ -1235,5 +1178,64 @@
     "title": "Engineering data equity: The LISTEN principles",
     "title-short": "Engineering data equity",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.1038/d41586-024-00545-3",
+    "author": [
+      {
+        "family": "Carlson",
+        "given": "Colin"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel"
+      },
+      {
+        "family": "Happi",
+        "given": "Christian"
+      },
+      {
+        "family": "O’Donoghue",
+        "given": "Zoe"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Oliveira",
+        "given": "Tulio"
+      },
+      {
+        "family": "Oyola",
+        "given": "Samuel O"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Phelan",
+        "given": "Alexandra"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Carlson2024b",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          23
+        ]
+      ]
+    },
+    "page": "952-953",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Save lives in the next pandemic: Ensure vaccine equity now",
+    "title-short": "Save lives in the next pandemic",
+    "type": "article-journal",
+    "volume": "626"
   }
 ]

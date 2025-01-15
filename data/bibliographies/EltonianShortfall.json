@@ -57,6 +57,66 @@
     "volume": "39"
   },
   {
+    "DOI": "10.1111/jbi.14127",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bergeron",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Cazelles",
+        "given": "Kevin"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "MacDonald",
+        "given": "Andrew"
+      },
+      {
+        "family": "Mercier",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Violet",
+        "given": "Clément"
+      },
+      {
+        "family": "Vissault",
+        "given": "Steve"
+      },
+      {
+        "family": "Chapman",
+        "given": "Daniel"
+      }
+    ],
+    "container-title": "Journal of biogeography",
+    "id": "Poisot202121a",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "page": "1552-1563",
+    "publisher": "Wiley",
+    "title": "Global knowledge gaps in species interaction networks data",
+    "type": "article-journal",
+    "volume": "48"
+  },
+  {
     "DOI": "10.1111/ecog.00976",
     "author": [
       {
@@ -222,66 +282,6 @@
     "title": "Revealing biases in the sampling of ecological interaction networks",
     "type": "article-journal",
     "volume": "7"
-  },
-  {
-    "DOI": "10.1111/jbi.14127",
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Bergeron",
-        "given": "Gabriel"
-      },
-      {
-        "family": "Cazelles",
-        "given": "Kevin"
-      },
-      {
-        "family": "Dallas",
-        "given": "Tad"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "MacDonald",
-        "given": "Andrew"
-      },
-      {
-        "family": "Mercier",
-        "given": "Benjamin"
-      },
-      {
-        "family": "Violet",
-        "given": "Clément"
-      },
-      {
-        "family": "Vissault",
-        "given": "Steve"
-      },
-      {
-        "family": "Chapman",
-        "given": "Daniel"
-      }
-    ],
-    "container-title": "Journal of biogeography",
-    "id": "Poisot2021b",
-    "issued": {
-      "date-parts": [
-        [
-          2021,
-          7
-        ]
-      ]
-    },
-    "page": "1552-1563",
-    "publisher": "Wiley",
-    "title": "Global knowledge gaps in species interaction networks data",
-    "type": "article-journal",
-    "volume": "48"
   },
   {
     "author": [

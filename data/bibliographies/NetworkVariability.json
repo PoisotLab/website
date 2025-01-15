@@ -66,6 +66,48 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1111/geb.12602",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Guéveneux-Julien",
+        "given": "Cynthia"
+      },
+      {
+        "family": "Fortin",
+        "given": "Marie-Josée"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Legendre",
+        "given": "Pierre"
+      }
+    ],
+    "container-title": "Global ecology and biogeography: a journal of macroecology",
+    "id": "Poisot2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          1
+        ]
+      ]
+    },
+    "page": "942-951",
+    "publisher": "Wiley",
+    "title": "Hosts, parasites and their interactions respond to different climatic variables: POISOT et al",
+    "title-short": "Hosts, parasites and their interactions respond to different climatic variables",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
     "DOI": "10.1111/1365-2435.12799",
     "author": [
       {
@@ -107,7 +149,7 @@
       }
     ],
     "container-title": "Peer community journal",
-    "id": "Poisot2022a",
+    "id": "Poisot2022",
     "issued": {
       "date-parts": [
         [
@@ -231,45 +273,5 @@
     "title-short": "Beyond species",
     "type": "article-journal",
     "volume": "124"
-  },
-  {
-    "DOI": "10.1111/geb.12602",
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Guéveneux-Julien",
-        "given": "Cynthia"
-      },
-      {
-        "family": "Fortin",
-        "given": "Marie-Josée"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Legendre",
-        "given": "Pierre"
-      }
-    ],
-    "container-title": "Global ecology and biogeography: a journal of macroecology",
-    "id": "Poisot2017a",
-    "issued": {
-      "date-parts": [
-        [
-          2017,
-          8
-        ]
-      ]
-    },
-    "page": "942-951",
-    "publisher": "Wiley",
-    "title": "Hosts, parasites and their interactions respond to different climatic variables",
-    "type": "article-journal",
-    "volume": "26"
   }
 ]

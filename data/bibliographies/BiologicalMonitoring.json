@@ -382,6 +382,95 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1016/S2666-5247(21)00245-7",
+    "author": [
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Albery",
+        "given": "Gregory F"
+      },
+      {
+        "family": "Sjodin",
+        "given": "Anna R"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bergner",
+        "given": "Laura M"
+      },
+      {
+        "family": "Chen",
+        "given": "Binqi"
+      },
+      {
+        "family": "Cohen",
+        "given": "Lily E"
+      },
+      {
+        "family": "Dallas",
+        "given": "Tad A"
+      },
+      {
+        "family": "Eskew",
+        "given": "Evan A"
+      },
+      {
+        "family": "Fagre",
+        "given": "Anna C"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Guth",
+        "given": "Sarah"
+      },
+      {
+        "family": "Han",
+        "given": "Barbara A"
+      },
+      {
+        "family": "Simmons",
+        "given": "Nancy B"
+      },
+      {
+        "family": "Stock",
+        "given": "Michiel"
+      },
+      {
+        "family": "Teeling",
+        "given": "Emma C"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "container-title": "The Lancet. Microbe",
+    "id": "Becker2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          1
+        ]
+      ]
+    },
+    "page": "e625-e637",
+    "publisher": "Elsevier BV",
+    "title": "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
     "author": [
       {
         "family": "Dansereau",
@@ -475,6 +564,39 @@
     "title-short": "SimpleSDMLayers.jl and GBIF.jl",
     "type": "article-journal",
     "volume": "6"
+  },
+  {
+    "DOI": "10.1111/oik.09063",
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Legendre",
+        "given": "Pierre"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Oikos (Copenhagen, Denmark)",
+    "id": "Dansereau2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          1
+        ]
+      ]
+    },
+    "page": "e09063",
+    "publisher": "Wiley",
+    "title": "Evaluating ecological uniqueness over broad spatial extents using species distribution modelling",
+    "type": "article-journal",
+    "volume": "2022"
   },
   {
     "DOI": "10.1038/s41559-021-01547-4",
@@ -853,125 +975,6 @@
     "volume": "9"
   },
   {
-    "DOI": "10.1111/oik.09063",
-    "author": [
-      {
-        "family": "Dansereau",
-        "given": "Gabriel"
-      },
-      {
-        "family": "Legendre",
-        "given": "Pierre"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "Oikos (Copenhagen, Denmark)",
-    "id": "Dansereau2022a",
-    "issued": {
-      "date-parts": [
-        [
-          2022,
-          5
-        ]
-      ]
-    },
-    "publisher": "Wiley",
-    "title": "Evaluating ecological uniqueness over broad spatial extents using species distribution modelling",
-    "type": "article-journal",
-    "volume": "2022"
-  },
-  {
-    "DOI": "10.1016/S2666-5247(21)00245-7",
-    "author": [
-      {
-        "family": "Becker",
-        "given": "Daniel J"
-      },
-      {
-        "family": "Albery",
-        "given": "Gregory F"
-      },
-      {
-        "family": "Sjodin",
-        "given": "Anna R"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Bergner",
-        "given": "Laura M"
-      },
-      {
-        "family": "Chen",
-        "given": "Binqi"
-      },
-      {
-        "family": "Cohen",
-        "given": "Lily E"
-      },
-      {
-        "family": "Dallas",
-        "given": "Tad A"
-      },
-      {
-        "family": "Eskew",
-        "given": "Evan A"
-      },
-      {
-        "family": "Fagre",
-        "given": "Anna C"
-      },
-      {
-        "family": "Farrell",
-        "given": "Maxwell J"
-      },
-      {
-        "family": "Guth",
-        "given": "Sarah"
-      },
-      {
-        "family": "Han",
-        "given": "Barbara A"
-      },
-      {
-        "family": "Simmons",
-        "given": "Nancy B"
-      },
-      {
-        "family": "Stock",
-        "given": "Michiel"
-      },
-      {
-        "family": "Teeling",
-        "given": "Emma C"
-      },
-      {
-        "family": "Carlson",
-        "given": "Colin J"
-      }
-    ],
-    "container-title": "The Lancet. Microbe",
-    "id": "Becker2022a",
-    "issued": {
-      "date-parts": [
-        [
-          2022,
-          8
-        ]
-      ]
-    },
-    "page": "e625-e637",
-    "publisher": "Elsevier BV",
-    "title": "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs",
-    "type": "article-journal",
-    "volume": "3"
-  },
-  {
     "DOI": "10.1111/ecog.06609",
     "author": [
       {
@@ -1246,5 +1249,78 @@
     "title": "BON in a box: An open and collaborative platform for biodiversity monitoring, indicator calculation, and reporting",
     "title-short": "BON in a box",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.1038/s44358-024-00005-w",
+    "author": [
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Brookson",
+        "given": "Cole B"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Cummings",
+        "given": "Caroline A"
+      },
+      {
+        "family": "Gibb",
+        "given": "Rory"
+      },
+      {
+        "family": "Halliday",
+        "given": "Fletcher W"
+      },
+      {
+        "family": "Heckley",
+        "given": "Alexis M"
+      },
+      {
+        "family": "Huang",
+        "given": "Zheng Y X"
+      },
+      {
+        "family": "Lavelle",
+        "given": "Torre"
+      },
+      {
+        "family": "Robertson",
+        "given": "Hailey"
+      },
+      {
+        "family": "Vicente-Santos",
+        "given": "Amanda"
+      },
+      {
+        "family": "Weets",
+        "given": "Ciara M"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Nature Reviews Biodiversity",
+    "id": "Carlson2025-kn",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          15
+        ]
+      ]
+    },
+    "page": "32-49",
+    "publisher": "Nature Publishing Group",
+    "title": "Pathogens and planetary change",
+    "type": "article-journal",
+    "volume": "1"
   }
 ]

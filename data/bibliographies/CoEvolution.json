@@ -360,7 +360,7 @@
       }
     ],
     "container-title": "Parasitology",
-    "id": "Higino2021a",
+    "id": "Higino2021",
     "issued": {
       "date-parts": [
         [
@@ -408,7 +408,7 @@
       }
     ],
     "container-title": "Virus evolution",
-    "id": "Forero-Munoz2024a",
+    "id": "Forero-Munoz2024",
     "issued": {
       "date-parts": [
         [
@@ -417,6 +417,7 @@
       ]
     },
     "page": "vead079",
+    "publisher": "Oxford University Press (OUP)",
     "title": "The coevolutionary mosaic of bat betacoronavirus emergence risk",
     "type": "article-journal",
     "volume": "10"

@@ -1,5 +1,30 @@
 [
   {
+    "DOI": "10.24072/pci.ecology.100532",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer community in ecology",
+    "id": "Poisot202323a",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          17
+        ]
+      ]
+    },
+    "page": "100532",
+    "publisher": "Peer Community in Ecology",
+    "title": "Gradient boosted trees can deliver more than accurate ecological predictions",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
     "DOI": "10.1080/01621459.2024.2343459",
     "author": [
       {
@@ -95,29 +120,6 @@
     "publisher": "Peer Community In",
     "title": "Plant resistance to pathogens: Just you wait?",
     "title-short": "Plant resistance to pathogens",
-    "type": "article-journal"
-  },
-  {
-    "DOI": "10.24072/pci.ecology.100532",
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "Peer community in ecology",
-    "id": "Poisot2023g",
-    "issued": {
-      "date-parts": [
-        [
-          2023,
-          11,
-          27
-        ]
-      ]
-    },
-    "publisher": "Peer Community In",
-    "title": "Gradient boosted trees can deliver more than accurate ecological predictions",
     "type": "article-journal"
   },
   {
