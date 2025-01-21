@@ -101,6 +101,11 @@ mugshot = "mugshots/michaelcatchen.jpg"
 text = [
     "2024-, Post-doctoral researcher. Computer vision tools for ecological niche modeling.",
 ]
+[michaelcatchen.social]
+email = "michael.catchen@umontreal.ca"
+github = "gottacatchenall"
+www = "https://gottacatchenall.github.io"
+bsky = "mdcatchen.bsky.social"
 
 [benkaza]
 name = "Ben Kaza"
