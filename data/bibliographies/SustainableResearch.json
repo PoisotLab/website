@@ -20,51 +20,6 @@
     "type": "webpage"
   },
   {
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Becker",
-        "given": "Daniel J"
-      },
-      {
-        "family": "Brookson",
-        "given": "Cole B"
-      },
-      {
-        "family": "Graeden",
-        "given": "Ellie"
-      },
-      {
-        "family": "Ryan",
-        "given": "Sadie Jane"
-      },
-      {
-        "family": "Turon",
-        "given": "Gemma"
-      },
-      {
-        "family": "Carlson",
-        "given": "Colin J"
-      }
-    ],
-    "id": "Poisot2024a",
-    "issued": {
-      "date-parts": [
-        [
-          2024,
-          2,
-          9
-        ]
-      ]
-    },
-    "publisher": "EcoEvoRxiv",
-    "title": "Ten simple rules to build a model life cycle",
-    "type": "article-journal"
-  },
-  {
     "DOI": "10.1371/journal.pcbi.1005097",
     "author": [
       {
@@ -1237,5 +1192,73 @@
     "title-short": "Save lives in the next pandemic",
     "type": "article-journal",
     "volume": "626"
+  },
+  {
+    "author": [
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "CarlsonOther",
+    "title": "Prioritizing prevention in the pandemic treaty",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1371/journal.pcbi.1012731",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Brookson",
+        "given": "Cole B"
+      },
+      {
+        "family": "Graeden",
+        "given": "Ellie"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie J"
+      },
+      {
+        "family": "Turon",
+        "given": "Gemma"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin"
+      }
+    ],
+    "container-title": "PLoS computational biology",
+    "id": "Poisot2025-pp",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          3
+        ]
+      ]
+    },
+    "page": "e1012731",
+    "publisher": "Public Library of Science",
+    "title": "Ten quick tips to build a model life cycle",
+    "type": "article-journal",
+    "volume": "21"
   }
 ]
