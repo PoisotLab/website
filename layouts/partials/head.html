@@ -11,7 +11,7 @@
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
     {{ $sass := resources.Get "scss/theme.scss" }}
-    {{ $style := $sass | resources.ToCSS }}
+    {{ $style := $sass | css.Sass }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | absURL }}" >
 
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
