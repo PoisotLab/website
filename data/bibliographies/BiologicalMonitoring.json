@@ -1251,6 +1251,31 @@
     "type": "article-journal"
   },
   {
+    "author": [
+      {
+        "family": "Norman",
+        "given": "Kari E"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Norman2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          11
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "Algorithm selection for optimal ecological monitoring design",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1038/s44358-024-00005-w",
     "author": [
       {
