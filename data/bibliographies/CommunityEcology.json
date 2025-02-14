@@ -1,5 +1,50 @@
 [
   {
+    "DOI": "10.3390/microorganisms13020416",
+    "author": [
+      {
+        "family": "Forero-Muñoz",
+        "given": "Norma Rocio"
+      },
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Viard",
+        "given": "Francois"
+      },
+      {
+        "family": "Acheson",
+        "given": "Emily"
+      },
+      {
+        "family": "Leighton",
+        "given": "Patrick"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Microorganisms",
+    "id": "Forero-Munoz2025-xr",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          14
+        ]
+      ]
+    },
+    "page": "416",
+    "publisher": "Multidisciplinary Digital Publishing Institute",
+    "title": "Spatial landscape structure influences cross-species transmission in a rabies-like virus model",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
     "DOI": "10.4081/jlimnol.2014.807",
     "author": [
       {
