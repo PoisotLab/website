@@ -1,5 +1,77 @@
 [
   {
+    "DOI": "10.1101/2025.02.19.639072",
+    "author": [
+      {
+        "family": "Stern",
+        "given": "Kiri"
+      },
+      {
+        "family": "Vincent",
+        "given": "Jin"
+      },
+      {
+        "family": "Taranu",
+        "given": "Zofia E"
+      },
+      {
+        "family": "Fortin",
+        "given": "Nathalie"
+      },
+      {
+        "family": "Martel",
+        "given": "Alexis"
+      },
+      {
+        "family": "Robbe",
+        "given": "Andrea"
+      },
+      {
+        "family": "Thaize",
+        "given": "Romane"
+      },
+      {
+        "family": "Castelli",
+        "given": "Mathieu"
+      },
+      {
+        "family": "Beckett",
+        "given": "Stephen J"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothee"
+      },
+      {
+        "family": "Buckling",
+        "given": "Angus"
+      },
+      {
+        "family": "Shapiro",
+        "given": "B Jesse"
+      },
+      {
+        "family": "Tromas",
+        "given": "Nicolas"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "id": "Stern2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ]
+    },
+    "page": "2025.02.19.639072",
+    "title": "Deciphering the dynamics of cyanobacteria-phage in a natural lake: Insights from a decade-long investigation",
+    "title-short": "Deciphering the dynamics of cyanobacteria-phage in a natural lake",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1098/rsbl.2010.0774",
     "author": [
       {

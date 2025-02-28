@@ -1,220 +1,56 @@
 [
   {
-    "DOI": "10.1016/S2666-5247(21)00245-7",
     "author": [
-      {
-        "family": "Becker",
-        "given": "Daniel J"
-      },
-      {
-        "family": "Albery",
-        "given": "Gregory F"
-      },
-      {
-        "family": "Sjodin",
-        "given": "Anna R"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Bergner",
-        "given": "Laura M"
-      },
-      {
-        "family": "Chen",
-        "given": "Binqi"
-      },
-      {
-        "family": "Cohen",
-        "given": "Lily E"
-      },
-      {
-        "family": "Dallas",
-        "given": "Tad A"
-      },
-      {
-        "family": "Eskew",
-        "given": "Evan A"
-      },
-      {
-        "family": "Fagre",
-        "given": "Anna C"
-      },
-      {
-        "family": "Farrell",
-        "given": "Maxwell J"
-      },
-      {
-        "family": "Guth",
-        "given": "Sarah"
-      },
-      {
-        "family": "Han",
-        "given": "Barbara A"
-      },
-      {
-        "family": "Simmons",
-        "given": "Nancy B"
-      },
-      {
-        "family": "Stock",
-        "given": "Michiel"
-      },
-      {
-        "family": "Teeling",
-        "given": "Emma C"
-      },
-      {
-        "family": "Carlson",
-        "given": "Colin J"
-      }
-    ],
-    "container-title": "The Lancet. Microbe",
-    "id": "Becker2022",
-    "issued": {
-      "date-parts": [
-        [
-          2022,
-          8,
-          1
-        ]
-      ]
-    },
-    "page": "e625-e637",
-    "publisher": "Elsevier BV",
-    "title": "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs",
-    "type": "article-journal",
-    "volume": "3"
-  },
-  {
-    "DOI": "10.1016/j.scitotenv.2024.173837",
-    "author": [
-      {
-        "family": "Madeira",
-        "given": "Diana"
-      },
-      {
-        "family": "Madeira",
-        "given": "Carolina"
-      },
-      {
-        "family": "Calosi",
-        "given": "Piero"
-      },
-      {
-        "family": "Vermandele",
-        "given": "Fanny"
-      },
-      {
-        "family": "Carrier-Belleau",
-        "given": "Charlotte"
-      },
-      {
-        "family": "Barria-Araya",
-        "given": "Aura"
-      },
-      {
-        "family": "Daigle",
-        "given": "Remi"
-      },
-      {
-        "family": "Findlay",
-        "given": "Helen S"
-      },
       {
         "family": "Poisot",
         "given": "Timothée"
       }
     ],
-    "container-title": "The Science of the total environment",
-    "id": "Madeira2024",
+    "id": "Poisot2024d",
     "issued": {
       "date-parts": [
         [
           2024,
-          6,
-          10
-        ]
-      ]
-    },
-    "page": "173837",
-    "publisher": "Elsevier BV",
-    "title": "Multilayer biological networks to upscale marine research to global change-smart management and sustainable resource use",
-    "type": "article-journal"
-  },
-  {
-    "DOI": "10.1038/s41559-021-01547-4",
-    "author": [
-      {
-        "family": "Simmons",
-        "given": "Benno I"
-      },
-      {
-        "family": "Blyth",
-        "given": "Penelope S A"
-      },
-      {
-        "family": "Blanchard",
-        "given": "Julia L"
-      },
-      {
-        "family": "Clegg",
-        "given": "Tom"
-      },
-      {
-        "family": "Delmas",
-        "given": "Eva"
-      },
-      {
-        "family": "Garnier",
-        "given": "Aurélie"
-      },
-      {
-        "family": "Griffiths",
-        "given": "Christopher A"
-      },
-      {
-        "family": "Jacob",
-        "given": "Ute"
-      },
-      {
-        "family": "Pennekamp",
-        "given": "Frank"
-      },
-      {
-        "family": "Petchey",
-        "given": "Owen L"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Webb",
-        "given": "Thomas J"
-      },
-      {
-        "family": "Beckerman",
-        "given": "Andrew P"
-      }
-    ],
-    "container-title": "Nature ecology & evolution",
-    "id": "Simmons2021",
-    "issued": {
-      "date-parts": [
-        [
-          2021,
+          11,
           11
         ]
       ]
     },
-    "page": "1478-1489",
-    "publisher": "Springer Science; Business Media LLC",
-    "title": "Refocusing multiple stressor research around the targets and scales of ecological impacts",
-    "type": "article-journal",
-    "volume": "5"
+    "publisher": "EcoEvoRxiv",
+    "title": "Conformal prediction quantifies the uncertainty of species distribution models",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Stern",
+        "given": "Kiri"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "NeurIPS (AI for earth sciences)",
+    "event": "NeurIPS",
+    "event-date": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "id": "Stern2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher-place": "Montréal",
+    "title": "Meta-modeling large-scale spatial data using convolutional neural networks",
+    "type": "paper-conference"
   },
   {
     "DOI": "10.1038/s41559-023-02171-0",
@@ -546,77 +382,494 @@
     "type": "article-journal"
   },
   {
-    "DOI": "10.1038/s44358-024-00005-w",
+    "DOI": "10.1016/S2666-5247(21)00245-7",
     "author": [
-      {
-        "family": "Carlson",
-        "given": "Colin J"
-      },
-      {
-        "family": "Brookson",
-        "given": "Cole B"
-      },
       {
         "family": "Becker",
         "given": "Daniel J"
       },
       {
-        "family": "Cummings",
-        "given": "Caroline A"
+        "family": "Albery",
+        "given": "Gregory F"
       },
       {
-        "family": "Gibb",
-        "given": "Rory"
+        "family": "Sjodin",
+        "given": "Anna R"
       },
       {
-        "family": "Halliday",
-        "given": "Fletcher W"
+        "family": "Poisot",
+        "given": "Timothée"
       },
       {
-        "family": "Heckley",
-        "given": "Alexis M"
+        "family": "Bergner",
+        "given": "Laura M"
       },
       {
-        "family": "Huang",
-        "given": "Zheng Y X"
+        "family": "Chen",
+        "given": "Binqi"
       },
       {
-        "family": "Lavelle",
-        "given": "Torre"
+        "family": "Cohen",
+        "given": "Lily E"
       },
       {
-        "family": "Robertson",
-        "given": "Hailey"
+        "family": "Dallas",
+        "given": "Tad A"
       },
       {
-        "family": "Vicente-Santos",
-        "given": "Amanda"
+        "family": "Eskew",
+        "given": "Evan A"
       },
       {
-        "family": "Weets",
-        "given": "Ciara M"
+        "family": "Fagre",
+        "given": "Anna C"
+      },
+      {
+        "family": "Farrell",
+        "given": "Maxwell J"
+      },
+      {
+        "family": "Guth",
+        "given": "Sarah"
+      },
+      {
+        "family": "Han",
+        "given": "Barbara A"
+      },
+      {
+        "family": "Simmons",
+        "given": "Nancy B"
+      },
+      {
+        "family": "Stock",
+        "given": "Michiel"
+      },
+      {
+        "family": "Teeling",
+        "given": "Emma C"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "container-title": "The Lancet. Microbe",
+    "id": "Becker2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          1
+        ]
+      ]
+    },
+    "page": "e625-e637",
+    "publisher": "Elsevier BV",
+    "title": "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Braga",
+        "given": "João"
+      },
+      {
+        "family": "Ficetola",
+        "given": "Gentile Francesco"
+      },
+      {
+        "family": "Galiana",
+        "given": "Nuría"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Maiorano",
+        "given": "Luigi"
+      },
+      {
+        "family": "Montoya",
+        "given": "José M"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Louise"
+      },
+      {
+        "family": "Pollock",
+        "given": "Laura J"
+      },
+      {
+        "family": "Thuiller",
+        "given": "Wilfried"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Barros",
+        "given": "Ceres"
+      }
+    ],
+    "id": "Dansereau2024a",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          27
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "Overcoming the disconnect between interaction networks and biodiversity conservation and management",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.21105/joss.02872",
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
       },
       {
         "family": "Poisot",
         "given": "Timothée"
       }
     ],
-    "container-title": "Nature Reviews Biodiversity",
-    "id": "Carlson2025-kn",
+    "container-title": "Journal of open source software",
+    "id": "Dansereau2021",
     "issued": {
       "date-parts": [
         [
-          2025,
+          2021,
           1,
-          15
+          27
         ]
       ]
     },
-    "page": "32-49",
-    "publisher": "Nature Publishing Group",
-    "title": "Pathogens and planetary change",
+    "page": "2872",
+    "publisher": "The Open Journal",
+    "title": "SimpleSDMLayers.jl and GBIF.jl: A framework for species distribution modeling in julia",
+    "title-short": "SimpleSDMLayers.jl and GBIF.jl",
     "type": "article-journal",
-    "volume": "1"
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1111/oik.09063",
+    "author": [
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Legendre",
+        "given": "Pierre"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Oikos (Copenhagen, Denmark)",
+    "id": "Dansereau2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          1
+        ]
+      ]
+    },
+    "page": "e09063",
+    "publisher": "Wiley",
+    "title": "Evaluating ecological uniqueness over broad spatial extents using species distribution modelling",
+    "type": "article-journal",
+    "volume": "2022"
+  },
+  {
+    "DOI": "10.1038/s41559-021-01547-4",
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "Benno I"
+      },
+      {
+        "family": "Blyth",
+        "given": "Penelope S A"
+      },
+      {
+        "family": "Blanchard",
+        "given": "Julia L"
+      },
+      {
+        "family": "Clegg",
+        "given": "Tom"
+      },
+      {
+        "family": "Delmas",
+        "given": "Eva"
+      },
+      {
+        "family": "Garnier",
+        "given": "Aurélie"
+      },
+      {
+        "family": "Griffiths",
+        "given": "Christopher A"
+      },
+      {
+        "family": "Jacob",
+        "given": "Ute"
+      },
+      {
+        "family": "Pennekamp",
+        "given": "Frank"
+      },
+      {
+        "family": "Petchey",
+        "given": "Owen L"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Webb",
+        "given": "Thomas J"
+      },
+      {
+        "family": "Beckerman",
+        "given": "Andrew P"
+      }
+    ],
+    "container-title": "Nature ecology & evolution",
+    "id": "Simmons2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "page": "1478-1489",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Refocusing multiple stressor research around the targets and scales of ecological impacts",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "DOI": "10.3389/fenvs.2019.00197",
+    "author": [
+      {
+        "family": "Makiola",
+        "given": "Andreas"
+      },
+      {
+        "family": "Compson",
+        "given": "Zacchaeus G"
+      },
+      {
+        "family": "Baird",
+        "given": "Donald J"
+      },
+      {
+        "family": "Barnes",
+        "given": "Matthew A"
+      },
+      {
+        "family": "Boerlijst",
+        "given": "Sam P"
+      },
+      {
+        "family": "Bouchez",
+        "given": "Agnès"
+      },
+      {
+        "family": "Brennan",
+        "given": "Georgina"
+      },
+      {
+        "family": "Bush",
+        "given": "Alex"
+      },
+      {
+        "family": "Canard",
+        "given": "Elsa"
+      },
+      {
+        "family": "Cordier",
+        "given": "Tristan"
+      },
+      {
+        "family": "Creer",
+        "given": "Simon"
+      },
+      {
+        "family": "Curry",
+        "given": "R Allen"
+      },
+      {
+        "family": "David",
+        "given": "Patrice"
+      },
+      {
+        "family": "Dumbrell",
+        "given": "Alex J"
+      },
+      {
+        "family": "Gravel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Hajibabaei",
+        "given": "Mehrdad"
+      },
+      {
+        "family": "Hayden",
+        "given": "Brian"
+      },
+      {
+        "dropping-particle": "van der",
+        "family": "Hoorn",
+        "given": "Berry"
+      },
+      {
+        "family": "Jarne",
+        "given": "Philippe"
+      },
+      {
+        "family": "Jones",
+        "given": "J Iwan"
+      },
+      {
+        "family": "Karimi",
+        "given": "Battle"
+      },
+      {
+        "family": "Keck",
+        "given": "Francois"
+      },
+      {
+        "family": "Kelly",
+        "given": "Martyn"
+      },
+      {
+        "family": "Knot",
+        "given": "Ineke E"
+      },
+      {
+        "family": "Krol",
+        "given": "Louie"
+      },
+      {
+        "family": "Massol",
+        "given": "Francois"
+      },
+      {
+        "family": "Monk",
+        "given": "Wendy A"
+      },
+      {
+        "family": "Murphy",
+        "given": "John"
+      },
+      {
+        "family": "Pawlowski",
+        "given": "Jan"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Porter",
+        "given": "Teresita M"
+      },
+      {
+        "family": "Randall",
+        "given": "Kate C"
+      },
+      {
+        "family": "Ransome",
+        "given": "Emma"
+      },
+      {
+        "family": "Ravigné",
+        "given": "Virginie"
+      },
+      {
+        "family": "Raybould",
+        "given": "Alan"
+      },
+      {
+        "family": "Robin",
+        "given": "Stephane"
+      },
+      {
+        "family": "Schrama",
+        "given": "Maarten"
+      },
+      {
+        "family": "Schatz",
+        "given": "Bertrand"
+      },
+      {
+        "family": "Tamaddoni-Nezhad",
+        "given": "Alireza"
+      },
+      {
+        "family": "Trimbos",
+        "given": "Krijn B"
+      },
+      {
+        "family": "Vacher",
+        "given": "Corinne"
+      },
+      {
+        "family": "Vasselon",
+        "given": "Valentin"
+      },
+      {
+        "family": "Wood",
+        "given": "Susie"
+      },
+      {
+        "family": "Woodward",
+        "given": "Guy"
+      },
+      {
+        "family": "Bohan",
+        "given": "David A"
+      }
+    ],
+    "container-title": "Frontiers in environmental science",
+    "id": "Makiola2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          9
+        ]
+      ]
+    },
+    "publisher": "Frontiers Media SA",
+    "title": "Key questions for next-generation biomonitoring",
+    "type": "article-journal",
+    "volume": "7"
   },
   {
     "DOI": "10.1098/rsos.190883",
@@ -682,6 +935,46 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.3389/frym.2021.595275",
+    "author": [
+      {
+        "family": "Higino",
+        "given": "Gracielle Teixeira"
+      },
+      {
+        "family": "Forero",
+        "given": "Norma"
+      },
+      {
+        "family": "Banville",
+        "given": "Francis"
+      },
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Frontiers for young minds",
+    "id": "Higino2021b",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          24
+        ]
+      ]
+    },
+    "publisher": "Frontiers Media SA",
+    "title": "Computers can help us find raccoons and other living creatures",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
     "DOI": "10.1111/ecog.06609",
     "author": [
       {
@@ -710,67 +1003,60 @@
     "volume": "2023"
   },
   {
-    "DOI": "10.1111/oik.09063",
+    "DOI": "10.1016/j.scitotenv.2024.173837",
     "author": [
       {
-        "family": "Dansereau",
-        "given": "Gabriel"
+        "family": "Madeira",
+        "given": "Diana"
       },
       {
-        "family": "Legendre",
-        "given": "Pierre"
+        "family": "Madeira",
+        "given": "Carolina"
+      },
+      {
+        "family": "Calosi",
+        "given": "Piero"
+      },
+      {
+        "family": "Vermandele",
+        "given": "Fanny"
+      },
+      {
+        "family": "Carrier-Belleau",
+        "given": "Charlotte"
+      },
+      {
+        "family": "Barria-Araya",
+        "given": "Aura"
+      },
+      {
+        "family": "Daigle",
+        "given": "Remi"
+      },
+      {
+        "family": "Findlay",
+        "given": "Helen S"
       },
       {
         "family": "Poisot",
         "given": "Timothée"
       }
     ],
-    "container-title": "Oikos (Copenhagen, Denmark)",
-    "id": "Dansereau2022",
+    "container-title": "The Science of the total environment",
+    "id": "Madeira2024",
     "issued": {
       "date-parts": [
         [
-          2022,
-          5,
-          1
+          2024,
+          6,
+          10
         ]
       ]
     },
-    "page": "e09063",
-    "publisher": "Wiley",
-    "title": "Evaluating ecological uniqueness over broad spatial extents using species distribution modelling",
-    "type": "article-journal",
-    "volume": "2022"
-  },
-  {
-    "DOI": "10.21105/joss.02872",
-    "author": [
-      {
-        "family": "Dansereau",
-        "given": "Gabriel"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "Journal of open source software",
-    "id": "Dansereau2021",
-    "issued": {
-      "date-parts": [
-        [
-          2021,
-          1,
-          27
-        ]
-      ]
-    },
-    "page": "2872",
-    "publisher": "The Open Journal",
-    "title": "SimpleSDMLayers.jl and GBIF.jl: A framework for species distribution modeling in julia",
-    "title-short": "SimpleSDMLayers.jl and GBIF.jl",
-    "type": "article-journal",
-    "volume": "6"
+    "page": "173837",
+    "publisher": "Elsevier BV",
+    "title": "Multilayer biological networks to upscale marine research to global change-smart management and sustainable resource use",
+    "type": "article-journal"
   },
   {
     "DOI": "10.32942/X2M320",
@@ -992,363 +1278,77 @@
     "type": "article-journal"
   },
   {
-    "DOI": "10.3389/fenvs.2019.00197",
+    "DOI": "10.1038/s44358-024-00005-w",
     "author": [
       {
-        "family": "Makiola",
-        "given": "Andreas"
+        "family": "Carlson",
+        "given": "Colin J"
       },
       {
-        "family": "Compson",
-        "given": "Zacchaeus G"
+        "family": "Brookson",
+        "given": "Cole B"
       },
       {
-        "family": "Baird",
-        "given": "Donald J"
+        "family": "Becker",
+        "given": "Daniel J"
       },
       {
-        "family": "Barnes",
-        "given": "Matthew A"
+        "family": "Cummings",
+        "given": "Caroline A"
       },
       {
-        "family": "Boerlijst",
-        "given": "Sam P"
+        "family": "Gibb",
+        "given": "Rory"
       },
       {
-        "family": "Bouchez",
-        "given": "Agnès"
+        "family": "Halliday",
+        "given": "Fletcher W"
       },
       {
-        "family": "Brennan",
-        "given": "Georgina"
+        "family": "Heckley",
+        "given": "Alexis M"
       },
       {
-        "family": "Bush",
-        "given": "Alex"
+        "family": "Huang",
+        "given": "Zheng Y X"
       },
       {
-        "family": "Canard",
-        "given": "Elsa"
+        "family": "Lavelle",
+        "given": "Torre"
       },
       {
-        "family": "Cordier",
-        "given": "Tristan"
+        "family": "Robertson",
+        "given": "Hailey"
       },
       {
-        "family": "Creer",
-        "given": "Simon"
+        "family": "Vicente-Santos",
+        "given": "Amanda"
       },
       {
-        "family": "Curry",
-        "given": "R Allen"
-      },
-      {
-        "family": "David",
-        "given": "Patrice"
-      },
-      {
-        "family": "Dumbrell",
-        "given": "Alex J"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Hajibabaei",
-        "given": "Mehrdad"
-      },
-      {
-        "family": "Hayden",
-        "given": "Brian"
-      },
-      {
-        "dropping-particle": "van der",
-        "family": "Hoorn",
-        "given": "Berry"
-      },
-      {
-        "family": "Jarne",
-        "given": "Philippe"
-      },
-      {
-        "family": "Jones",
-        "given": "J Iwan"
-      },
-      {
-        "family": "Karimi",
-        "given": "Battle"
-      },
-      {
-        "family": "Keck",
-        "given": "Francois"
-      },
-      {
-        "family": "Kelly",
-        "given": "Martyn"
-      },
-      {
-        "family": "Knot",
-        "given": "Ineke E"
-      },
-      {
-        "family": "Krol",
-        "given": "Louie"
-      },
-      {
-        "family": "Massol",
-        "given": "Francois"
-      },
-      {
-        "family": "Monk",
-        "given": "Wendy A"
-      },
-      {
-        "family": "Murphy",
-        "given": "John"
-      },
-      {
-        "family": "Pawlowski",
-        "given": "Jan"
+        "family": "Weets",
+        "given": "Ciara M"
       },
       {
         "family": "Poisot",
         "given": "Timothée"
-      },
-      {
-        "family": "Porter",
-        "given": "Teresita M"
-      },
-      {
-        "family": "Randall",
-        "given": "Kate C"
-      },
-      {
-        "family": "Ransome",
-        "given": "Emma"
-      },
-      {
-        "family": "Ravigné",
-        "given": "Virginie"
-      },
-      {
-        "family": "Raybould",
-        "given": "Alan"
-      },
-      {
-        "family": "Robin",
-        "given": "Stephane"
-      },
-      {
-        "family": "Schrama",
-        "given": "Maarten"
-      },
-      {
-        "family": "Schatz",
-        "given": "Bertrand"
-      },
-      {
-        "family": "Tamaddoni-Nezhad",
-        "given": "Alireza"
-      },
-      {
-        "family": "Trimbos",
-        "given": "Krijn B"
-      },
-      {
-        "family": "Vacher",
-        "given": "Corinne"
-      },
-      {
-        "family": "Vasselon",
-        "given": "Valentin"
-      },
-      {
-        "family": "Wood",
-        "given": "Susie"
-      },
-      {
-        "family": "Woodward",
-        "given": "Guy"
-      },
-      {
-        "family": "Bohan",
-        "given": "David A"
       }
     ],
-    "container-title": "Frontiers in environmental science",
-    "id": "Makiola2020",
+    "container-title": "Nature Reviews Biodiversity",
+    "id": "Carlson2025-kn",
     "issued": {
       "date-parts": [
         [
-          2020,
+          2025,
           1,
-          9
+          15
         ]
       ]
     },
-    "publisher": "Frontiers Media SA",
-    "title": "Key questions for next-generation biomonitoring",
+    "page": "32-49",
+    "publisher": "Nature Publishing Group",
+    "title": "Pathogens and planetary change",
     "type": "article-journal",
-    "volume": "7"
-  },
-  {
-    "DOI": "10.3389/frym.2021.595275",
-    "author": [
-      {
-        "family": "Higino",
-        "given": "Gracielle Teixeira"
-      },
-      {
-        "family": "Forero",
-        "given": "Norma"
-      },
-      {
-        "family": "Banville",
-        "given": "Francis"
-      },
-      {
-        "family": "Dansereau",
-        "given": "Gabriel"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "Frontiers for young minds",
-    "id": "Higino2021b",
-    "issued": {
-      "date-parts": [
-        [
-          2021,
-          6,
-          24
-        ]
-      ]
-    },
-    "publisher": "Frontiers Media SA",
-    "title": "Computers can help us find raccoons and other living creatures",
-    "type": "article-journal",
-    "volume": "9"
-  },
-  {
-    "author": [
-      {
-        "family": "Stern",
-        "given": "Kiri"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "NeurIPS (AI for earth sciences)",
-    "event": "NeurIPS",
-    "event-date": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "id": "Stern2020",
-    "issued": {
-      "date-parts": [
-        [
-          2020
-        ]
-      ]
-    },
-    "publisher-place": "Montréal",
-    "title": "Meta-modeling large-scale spatial data using convolutional neural networks",
-    "type": "paper-conference"
-  },
-  {
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "id": "Poisot2024d",
-    "issued": {
-      "date-parts": [
-        [
-          2024,
-          11,
-          11
-        ]
-      ]
-    },
-    "publisher": "EcoEvoRxiv",
-    "title": "Conformal prediction quantifies the uncertainty of species distribution models",
-    "type": "article-journal"
-  },
-  {
-    "author": [
-      {
-        "family": "Dansereau",
-        "given": "Gabriel"
-      },
-      {
-        "family": "Braga",
-        "given": "João"
-      },
-      {
-        "family": "Ficetola",
-        "given": "Gentile Francesco"
-      },
-      {
-        "family": "Galiana",
-        "given": "Nuría"
-      },
-      {
-        "family": "Gravel",
-        "given": "Dominique"
-      },
-      {
-        "family": "Maiorano",
-        "given": "Luigi"
-      },
-      {
-        "family": "Montoya",
-        "given": "José M"
-      },
-      {
-        "family": "O’Connor",
-        "given": "Louise"
-      },
-      {
-        "family": "Pollock",
-        "given": "Laura J"
-      },
-      {
-        "family": "Thuiller",
-        "given": "Wilfried"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      },
-      {
-        "family": "Barros",
-        "given": "Ceres"
-      }
-    ],
-    "id": "Dansereau2024a",
-    "issued": {
-      "date-parts": [
-        [
-          2024,
-          11,
-          27
-        ]
-      ]
-    },
-    "publisher": "EcoEvoRxiv",
-    "title": "Overcoming the disconnect between interaction networks and biodiversity conservation and management",
-    "type": "article-journal"
+    "volume": "1"
   },
   {
     "author": [
