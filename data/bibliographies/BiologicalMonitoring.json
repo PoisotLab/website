@@ -1351,6 +1351,7 @@
     "volume": "1"
   },
   {
+    "DOI": "10.32942/X2405R",
     "author": [
       {
         "family": "Poisot",
@@ -1369,6 +1370,7 @@
         "given": "Michael D"
       }
     ],
+    "container-title": "EcoEvoRxiv",
     "id": "Poisot2025",
     "issued": {
       "date-parts": [

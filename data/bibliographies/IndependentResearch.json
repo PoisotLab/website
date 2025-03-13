@@ -342,5 +342,46 @@
     "title": "Ten simple rules for teaching yourself R",
     "type": "article-journal",
     "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "Higino",
+        "given": "Gracielle"
+      },
+      {
+        "family": "Anujan",
+        "given": "Krishna"
+      },
+      {
+        "family": "Boakye",
+        "given": "Mickey"
+      },
+      {
+        "family": "Eugenia Degano",
+        "given": "M"
+      },
+      {
+        "family": "Forero-Muñoz",
+        "given": "Norma-Rocio"
+      },
+      {
+        "family": "Strydom",
+        "given": "Tanya"
+      }
+    ],
+    "id": "Higino2023a",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          23
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "Designing a collective prototype of future (sub)tropical science",
+    "type": "article-journal"
   }
 ]
