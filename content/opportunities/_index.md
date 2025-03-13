@@ -2,92 +2,83 @@
 title: Join the group!
 ---
 
-We currently have one opening at the post-doctoral level (one year, with a
-possible extension until Nov. 2025), to work on the development of spatial
-indicators to monitor processes at the biodiversity/disease interface in space
-and under climate change scenarios.
+# Stages de premier cycle (Honor, introduction à la recherche)
 
-By working closely with the [GEO BON](https://geobon.org/) secretariat, and the
-[viral emergence research initiative](https://www.viralemergence.org/), this
-work will **support the development of a methodology to provide information on
-optimal Essential Biodiversity Variables (EBV)** for disease monitoring, with a specific focus on
-the monitoring of host-virus systems.
+Les sujets de stage suivant sont disponibles pour les étudiant-e-s de premier cycle en sciences biologiques à l'Université de Montréal. Vous pouvez appliquer par courriel (`timothee.poisot AT umontreal.ca`)
 
-Ultimately, this project will result in an **assessment of the feasibility of
-multi-purpose spatial networks of locations that can inform on statuses and
-trends for biodiversity**, with a special interest for zoonotic diseases,
-showing how the methodology of ecosystem sciences translates to ecosystem
-conservation and global health.
+## Est-ce que la biodiversité dilue le risque de maladies infectieuses?
 
-## Details on the position
+On a souvent supposé que plus de diversité animale était une protection contre le
+risque de maladies infectieuses (l'effet de dilution): plus la diversité augmente, plus
+les chances de trouver des hôtes compétents pour un pathogène diminue. Cet effet
+est devenu une des justifications centrales de la prise en compte de la diversité
+biologique dans la prévention des zoonoses virales. Cependant, les résultats
+empiriques sont contradictoires.
+Une des raisons possibles est qu'une espèce résistante à un pathogène donné peut
+être un réservoir d'autres pathogènes, créant une augmentation du risque infectieux
+quand la diversité augmente. Pour résoudre ce paradoxe, il faut examiner la
+structure du réseau d'infections entre les hôtes et les virus: est-ce que l'effet de
+dilution se produit quand les espèces portent des virus similaires? Quand la
+complémentarité des virus est élevée?
+À travers des simulations de modèles d'individus, l'objectif de ce stage est de
+déterminer si certaines structures du réseau hôte-virus provoquent/empêchent un
+effet de dilution. En initialisant ces simulations à partir de données empiriques sur les
+maladies de la faune, ce projet permettra de mieux comprendre le rôle de la
+biodiversité dans la prévention des maladies infectieuses.
 
-The position will be hosted at the Université de Montréal, and includes a travel
-allowance as well as budget for a laptop, both on a per-need basis. Université
-de Montréal is a francophone institution; the Computational Ecology Research
-Group is a multi-lingual laboratory.
+## Biopiraterie et biodiversité chez les chiroptères hôtes de maladies zoonotiques
 
-Post-doctoral researchers at Université de Montréal are part of a union with a
-set salary scale; the yearly salary for this position is 59241 CAD annually,
-which corresponds to the maximal allowed amount, with union-mandated yearly
-increases. Overtime is paid at 1.5 times the hourly rate (but is not expected to
-be required as part of this project).
+Les pays à forts revenus (HIC) vont souvent exporter les ressources biologiques et
+génétiques des pays à revenus faibles et intermédiaires (LMIC), ce qui renforce les
+inégalités globales dans l'accès à la science, et entretient des logiques coloniales.
+Dans le cadre de ce projet, nous étudierons les pratiques de publication de données
+sur les occurrences de chiroptères à l'échelle globale, en nous appuyant sur les
+données publiées par le Global Biodiversity Information Facility. En utilisant
+l'information sur le pays d'origine, et le pays qui publie la donnée, nous pourrons
+quantifier les flux de ressources biologiques entre les différents pays. Ces données
+seront analysées pour
+(i) identifier quels pays contribuent le plus à l'extraction de données à partir des
+LMIC
+(ii) identifier quelles espèces sont les plus publiées hors de leur pays d'origine
+(iii) identifier si les dynamiques de republication des données sont les mêmes pour
+les chiroptères qui hébergent plus de virus zoonotiques
+(iv) identifier si ces dynamiques sont les mêmes pour les données de séquençage,
+d'observation, et les spécimens
 
-The position is a **one year** (renewable) appointment, with a starting date to
-be discussed (ideally July/August). We are specifically aiming to hire a
-*junior* post-doc (*i.e.* within a year of defending their *Ph.D.*). Because of
-the deadlines of this specific grant, priority will be given to applicants that
-are already eligible to work in Canada (including US citizens who can apply for a work permit rapidly), and have already defended their *Ph.D.*.
+## Amplification et accélération de la propagation des maladies dans les méta-populations
 
-### Required qualifications
 
-*Required* qualifications are used to triage applications -- applicants who do
-not possess these qualifications will not be considered.
+La structure spatiale des méta-populations (un ensemble de populations connectées
+par de la dispersion) peut avoir un impact majeur sur les processus biologiques
+émergents, en permettant des contacts entre individus de différents groupes.
+L'objectif de ce projet est d'étudier si certaines structures spatiales peuvent servir
+d'amplificateurs ou d'accélérateurs des processus épidémiques.
+Via la modélisation de systèmes stochastiques de la famille
+Susceptible-Exposé-Infectieux-Remis (SEIRS), nous identifierons des conditions qui
+amplifient les processus épidémiologiques (une infection initialement rare est plus à
+même de se propager), et des conditions qui accélèrent l'épidémie (l'équilibre
+endémique est atteint plus rapidement).
+En comparant les résultats à une version non-spatiale du modèle, nous pourrons de
+plus identifier si certaines structures jouent un double rôle, amplifiant et accélérant
+les épidémies. Ces résultats sont importants pour identifier les populations qui
+peuvent rapidement propager un agent infectieux au reste de leur espèce.
 
-- strong quantitative background in disease ecology *or* spatial ecology
-- above average programming skills
-- *Ph.D.* in disease ecology *or* wildlife epidemiology *or* spatial/landscape ecology
+## Modernisation d'un outil logiciel pour l'écologie du paysage : LandscapeMetrics.jl
 
-### Desired qualifications
-
-*Desired* qualifications for the position are listed below. *Desired*
-qualifications means that it would be nice for the applicant to have them, but
-they can be picked up rapidly by a motivated scientist.
-
-The desired qualifications, listed in no specific order, are:
-
-- development, maintenance, or significant contributions to software packages,
-  showing good practices in software engineering
-- contribution to a "Software Note" or "Application" article
-- experience in using distributed computing systems (CPU and/or GPU)
-- expertise in using a version control system (`git` in particular)
-- knowledge of the *Julia* programming language, or strong willingness to learn
-- global understanding of contemporary issues in biodiversity governance
-- a commitment to open science as a practice -- because we recognize that not
-  everyone can safely contribute to open science, this will be assessed both by
-  looking at realizations, or by the narrative in the letter of presentation
-
-## How to apply
-
-Applications should be send by email directly to `timothee.poisot@umontreal.ca`,
-with the subject line "Ecosystems post-doc: FIRST AND LAST NAMES". Applications
-will be reviewed starting immediately and continue until the position is filled.
-
-The application should contain a two-pages letter of presentation
-(`name-letter.pdf`) containing a brief overview of past research, a description
-of how you meet the required and desired qualifications, and a statement of
-interest for the position and the project. The application should also contain a
-*short* resume (`name-resume.pdf`; no more than three pages), focusing on
-professional accomplishments (grades and funding history, as they are strongly
-biased against under-represented minorities, will not be evaluated, and do not
-need to be mentioned).
-
-The interview process involves three steps that are typically completed within
-two weeks:
-
-- a one-hour discussion with Timothée to talk about qualifications and
-motivation
-- a discussion with self-nominated current and former group members,
-to get a sense of what life is like in the lab, the department, the university,
-etc.
-- a discussion to go through the logistics and to prepare the
-offer.
+L'activité humaine, comme l'urbanisation, la déforestation et l'expansion de
+l'agriculture, modifie rapidement les paysages de la Terre, les rendant de plus
+en plus fragmentés et inégaux. Prévoir les conséquences de ce changement pour
+les écosystèmes est crucial pour la conservation de la biodiversité. Depuis
+plusieurs décennies, les écologistes du paysage utilisent un programme appelé
+FRAGSTATS pour quantifier les propriétés de la structure du paysage. Cependant,
+les développeurs initiaux de ce projet ont commencé à prendre leur retraite et,
+compte tenu de son ancienneté, son interface utilisateur n'est pas
+particulièrement conviviale pour les utilisateurs typiques de 2025. Nous
+souhaitons développer une version moderne de FragStats, appelée
+LandscapeMetrics.jl, dans le langage Julia pour l'informatique scientifique. Ce
+projet serait une excellente occasion d'apprendre le langage Julia, de
+développer des compétences en matière de développement de logiciels
+scientifiques et de mettre à la disposition des écologistes des outils pour
+l'écologie du paysage. Le travail effectué pendant ce projet sera intégré à
+BON-in-a-Box, une nouvelle plateforme infonuagique opérée par GEOBON, qui aide
+les pays à suivre leurs obligations en matière de protection de la biodiversité.
