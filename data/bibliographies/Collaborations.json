@@ -388,5 +388,83 @@
     "title-short": "Disease ecology and pathogeography",
     "type": "article-journal",
     "volume": "2024"
+  },
+  {
+    "DOI": "10.1093/biosci/biaf008",
+    "author": [
+      {
+        "family": "Boudreau LeBlanc",
+        "given": "Antoine"
+      },
+      {
+        "family": "Pelletier",
+        "given": "Jérôme"
+      },
+      {
+        "family": "Aenishaenslin",
+        "given": "Cécile"
+      },
+      {
+        "family": "Beauchet",
+        "given": "Olivier"
+      },
+      {
+        "family": "Boiteux",
+        "given": "Manon"
+      },
+      {
+        "family": "Bouchard",
+        "given": "Michèle"
+      },
+      {
+        "family": "Chung",
+        "given": "Ryoa"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Leeuw",
+        "given": "Evelyne"
+      },
+      {
+        "family": "Dupras",
+        "given": "Charles"
+      },
+      {
+        "family": "Gravend-Tirole",
+        "given": "Xavier"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothé"
+      },
+      {
+        "family": "Rocheleau",
+        "given": "Jean-Philippe"
+      },
+      {
+        "family": "Macia",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Stafford",
+        "given": "Luc"
+      }
+    ],
+    "container-title": "Bioscience",
+    "id": "BoudreauLeBlanc2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          31
+        ]
+      ]
+    },
+    "page": "biaf008",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Bridging one health and sustainability: The anatomy of a socioethical issue",
+    "title-short": "Bridging one health and sustainability",
+    "type": "article-journal"
   }
 ]
