@@ -251,53 +251,37 @@
   {
     "author": [
       {
-        "family": "Jørgensen",
-        "given": "P"
+        "family": "Rgensen",
+        "given": "Peter Sø Jø"
       },
       {
         "family": "Bonhomme",
         "given": "Vincent"
       },
       {
-        "family": "Thomas",
-        "given": "H G E"
-      },
-      {
-        "family": "Thomas",
-        "given": "H G E"
+        "family": "Ezard",
+        "given": "Thomas H G"
       },
       {
         "family": "Hayes",
-        "given": "R"
-      },
-      {
-        "family": "Poisot",
-        "given": "T"
-      },
-      {
-        "family": "Salguero‐Gómez",
-        "given": "R"
-      },
-      {
-        "family": "Vizzini",
-        "given": "S"
+        "given": "Andrew R"
       },
       {
         "family": "Zimmerman",
-        "given": "Naupaka B"
+        "given": "Naupaka"
       }
     ],
-    "id": "Jorgensen2011",
+    "id": "Rgensen2011",
     "issued": {
       "date-parts": [
         [
           2011,
           6,
-          30
+          1
         ]
       ]
     },
-    "page": "3-5",
+    "page": "4-6",
     "publisher": "unknown",
     "title": "A global network of next generation ecologists",
     "type": "article-journal",

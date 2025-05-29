@@ -1,37 +1,23 @@
 [
   {
-    "DOI": "10.32942/X2405R",
     "author": [
       {
         "family": "Poisot",
         "given": "Timothée"
-      },
-      {
-        "family": "Bussières-Fournel",
-        "given": "Ariane"
-      },
-      {
-        "family": "Dansereau",
-        "given": "Gabriel"
-      },
-      {
-        "family": "Catchen",
-        "given": "Michael D"
       }
     ],
-    "container-title": "EcoEvoRxiv",
-    "id": "Poisot2025",
+    "id": "Poisot2024d",
     "issued": {
       "date-parts": [
         [
-          2025,
-          2,
-          18
+          2024,
+          11,
+          11
         ]
       ]
     },
     "publisher": "EcoEvoRxiv",
-    "title": "A julia toolkit for species distribution data",
+    "title": "Conformal prediction quantifies the uncertainty of species distribution models",
     "type": "article-journal"
   },
   {
@@ -65,83 +51,6 @@
     "publisher-place": "Montréal",
     "title": "Meta-modeling large-scale spatial data using convolutional neural networks",
     "type": "paper-conference"
-  },
-  {
-    "DOI": "10.1016/j.scitotenv.2024.173837",
-    "author": [
-      {
-        "family": "Madeira",
-        "given": "Diana"
-      },
-      {
-        "family": "Madeira",
-        "given": "Carolina"
-      },
-      {
-        "family": "Calosi",
-        "given": "Piero"
-      },
-      {
-        "family": "Vermandele",
-        "given": "Fanny"
-      },
-      {
-        "family": "Carrier-Belleau",
-        "given": "Charlotte"
-      },
-      {
-        "family": "Barria-Araya",
-        "given": "Aura"
-      },
-      {
-        "family": "Daigle",
-        "given": "Remi"
-      },
-      {
-        "family": "Findlay",
-        "given": "Helen S"
-      },
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "container-title": "The Science of the total environment",
-    "id": "Madeira2024",
-    "issued": {
-      "date-parts": [
-        [
-          2024,
-          6,
-          10
-        ]
-      ]
-    },
-    "page": "173837",
-    "publisher": "Elsevier BV",
-    "title": "Multilayer biological networks to upscale marine research to global change-smart management and sustainable resource use",
-    "type": "article-journal"
-  },
-  {
-    "author": [
-      {
-        "family": "Poisot",
-        "given": "Timothée"
-      }
-    ],
-    "id": "Poisot2024d",
-    "issued": {
-      "date-parts": [
-        [
-          2024,
-          11,
-          11
-        ]
-      ]
-    },
-    "publisher": "EcoEvoRxiv",
-    "title": "Conformal prediction quantifies the uncertainty of species distribution models",
-    "type": "article-journal"
   },
   {
     "DOI": "10.1038/s41559-023-02171-0",
@@ -1094,6 +1003,62 @@
     "volume": "2023"
   },
   {
+    "DOI": "10.1016/j.scitotenv.2024.173837",
+    "author": [
+      {
+        "family": "Madeira",
+        "given": "Diana"
+      },
+      {
+        "family": "Madeira",
+        "given": "Carolina"
+      },
+      {
+        "family": "Calosi",
+        "given": "Piero"
+      },
+      {
+        "family": "Vermandele",
+        "given": "Fanny"
+      },
+      {
+        "family": "Carrier-Belleau",
+        "given": "Charlotte"
+      },
+      {
+        "family": "Barria-Araya",
+        "given": "Aura"
+      },
+      {
+        "family": "Daigle",
+        "given": "Remi"
+      },
+      {
+        "family": "Findlay",
+        "given": "Helen S"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "The Science of the total environment",
+    "id": "Madeira2024",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          10
+        ]
+      ]
+    },
+    "page": "173837",
+    "publisher": "Elsevier BV",
+    "title": "Multilayer biological networks to upscale marine research to global change-smart management and sustainable resource use",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.32942/X2M320",
     "author": [
       {
@@ -1384,5 +1349,90 @@
     "title": "Pathogens and planetary change",
     "type": "article-journal",
     "volume": "1"
+  },
+  {
+    "DOI": "10.32942/X2405R",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Bussières-Fournel",
+        "given": "Ariane"
+      },
+      {
+        "family": "Dansereau",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Catchen",
+        "given": "Michael D"
+      }
+    ],
+    "container-title": "EcoEvoRxiv",
+    "id": "Poisot2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "publisher": "EcoEvoRxiv",
+    "title": "A julia toolkit for species distribution data",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.32942/x2s92m",
+    "author": [
+      {
+        "family": "Arce Plata",
+        "given": "Maria"
+      },
+      {
+        "family": "Norden",
+        "given": "Natalia"
+      },
+      {
+        "family": "Burbano Girón",
+        "given": "Jaime"
+      },
+      {
+        "family": "Larocque",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Diaz-Corzo",
+        "given": "María Camilla"
+      },
+      {
+        "family": "Rodríguez Buriticá",
+        "given": "Susana"
+      },
+      {
+        "family": "Corzo",
+        "given": "Germán"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "EcoEvoRxiv",
+    "id": "ArcePlata2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          27
+        ]
+      ]
+    },
+    "title": "Assessing the species habitats in colombia’s tropical dry forest over a 20 years period",
+    "type": "article-journal"
   }
 ]
