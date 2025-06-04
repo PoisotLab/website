@@ -1434,5 +1434,31 @@
     },
     "title": "Assessing the species habitats in colombia’s tropical dry forest over a 20 years period",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.32942/x22k9h",
+    "author": [
+      {
+        "family": "Beasley",
+        "given": "Emily"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "EcoEvoRxiv",
+    "id": "Beasley2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ]
+    },
+    "title": "Vaccination and immigration rates influence raccoon rabies elimination and recolonization in simulated urban-suburban landscapes",
+    "type": "article-journal"
   }
 ]
