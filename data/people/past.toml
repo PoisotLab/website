@@ -1,3 +1,18 @@
+[arianebussieresfournel]
+name = "Ariane Bussières-Fournel"
+mugshot = "mugshots/arianebussieresfournel.jpg"
+text = [
+    "2024, B.Sc. research assistant. Sero-prevalence of Canine Distemper Virus over an urbanisation gradient.",
+    "2025, B.Sc. Hons. Extension of the range of raccoon rabies virus under climate change.",
+]
+
+[mathisgoyat]
+name = "Mathis Goyat"
+mugshot = "mugshots/mathisgoyat.jpeg"
+text = [
+    "2025, B.Sc. research assistant. Best practices for SDM validation reporting."
+]
+
 [nereamontesperez]
 name = "Nerea Montes Perez"
 mugshot = "mugshots/nereamontesperez.jpeg"
