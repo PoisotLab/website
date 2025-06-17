@@ -77,13 +77,6 @@ text = [
 [emilybeasley.social]
 www = "https://beasley015.github.io"
 
-[arianebussieresfournel]
-name = "Ariane Bussières-Fournel"
-mugshot = "mugshots/arianebussieresfournel.jpg"
-text = [
-    "2024, B.Sc. research assistant. Sero-prevalence of Canine Distemper Virus over an urbanisation gradient.",
-]
-
 [michaelcatchen]
 name = "Michael D. Catchen"
 mugshot = "mugshots/michaelcatchen.jpg"
@@ -107,11 +100,4 @@ name = "Marianne Houle"
 mugshot = "mugshots/mariannehoule.jpg"
 text = [
     "2025-, M.Sc. Interpretable ML for the identification of zoonotic reservoirs."
-]
-
-[mathisgoyat]
-name = "Mathis Goyat"
-mugshot = "mugshots/mathisgoyat.jpeg"
-text = [
-    "2025-, B.Sc. research assistant. Best practices for SDM validation reporting."
 ]
