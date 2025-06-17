@@ -466,5 +466,63 @@
     "title": "Bridging one health and sustainability: The anatomy of a socioethical issue",
     "title-short": "Bridging one health and sustainability",
     "type": "article-journal"
+  },
+  {
+    "DOI": "10.1038/s41467-025-60450-9",
+    "author": [
+      {
+        "family": "Burke",
+        "given": "Ariane"
+      },
+      {
+        "family": "Grove",
+        "given": "Matt"
+      },
+      {
+        "family": "Maier",
+        "given": "Andreas"
+      },
+      {
+        "family": "Wren",
+        "given": "Colin"
+      },
+      {
+        "family": "Drapeau",
+        "given": "Michelle"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Moine",
+        "given": "Olivier"
+      },
+      {
+        "family": "Boisard",
+        "given": "Solène"
+      },
+      {
+        "family": "Bruxelles",
+        "given": "Laurent"
+      }
+    ],
+    "container-title": "Nature communications",
+    "id": "Burke2025-eu",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          13
+        ]
+      ]
+    },
+    "page": "1-11",
+    "publisher": "Nature Publishing Group",
+    "title": "The archaeology of climate change: A blueprint for integrating environmental and cultural systems",
+    "title-short": "The archaeology of climate change",
+    "type": "article-journal",
+    "volume": "16"
   }
 ]
