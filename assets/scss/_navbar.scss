@@ -3,18 +3,15 @@ nav#topbar {
     position: fixed;
     top: 0;
     margin: 0px 0px;
-    padding: 20px 20px;
-    line-height: 60px;
+    padding: 40px 40px;
+    line-height: 40px;
     height: 100px;
     width: 100vw;
     background-color: $background-color;
     z-index: 1000;
     &.scrolled {
-        box-shadow: 0px 0px 4px 0px $grey-light;
-        background-color: $background-color;
-        transition: 0.2s;
-        transition-timing-function: ease-out;
         z-index: 100;
+        background-color: $nav-background-color;
         a {
             color: black;
             b {
@@ -34,7 +31,7 @@ nav#topbar {
         clear: both;
         img {
             margin: 0px 0px;
-            height: 60px;
+            height: 40px;
             float: left;
         }
         .tagline {
@@ -42,7 +39,6 @@ nav#topbar {
             color: $lab-blue;
             font-weight: 380;
             text-transform: uppercase;
-            line-height: 18px;
             left: 18px;
             top: -12px;
             position: relative;
