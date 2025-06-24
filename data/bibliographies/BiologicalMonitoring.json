@@ -1059,7 +1059,7 @@
     "type": "article-journal"
   },
   {
-    "DOI": "10.32942/X2M320",
+    "DOI": "10.32942/x2m320",
     "author": [
       {
         "family": "Griffith",
@@ -1071,15 +1071,15 @@
       },
       {
         "family": "Catchen",
-        "given": "Michael D"
+        "given": "Michael"
       },
       {
         "family": "Arce-Plata",
-        "given": "Maria Isabel"
+        "given": "Maria"
       },
       {
-        "family": "Bohorquez",
-        "given": "Manuel Fernandez Galvez"
+        "family": "Galvez Bohorquez",
+        "given": "Manuel"
       },
       {
         "family": "Chandramohan",
@@ -1094,8 +1094,8 @@
         "given": "Dominique"
       },
       {
-        "family": "Gonzalez",
-        "given": "Luis Fernando Urbina"
+        "family": "Urbina Gonzalez",
+        "given": "Luis Fernando"
       },
       {
         "family": "Gutiérrez",
@@ -1111,7 +1111,7 @@
       },
       {
         "family": "Kass",
-        "given": "Jamie M"
+        "given": "Jamie"
       },
       {
         "family": "Laroque",
@@ -1151,7 +1151,7 @@
       },
       {
         "family": "Rincón-Parra",
-        "given": "Víctor J"
+        "given": "Víctor"
       },
       {
         "family": "Pahls",
@@ -1159,7 +1159,7 @@
       },
       {
         "family": "Peres-Neto",
-        "given": "Pedro R"
+        "given": "Pedro"
       },
       {
         "family": "Perreira",
@@ -1171,11 +1171,11 @@
       },
       {
         "family": "Pollock",
-        "given": "Laura J"
+        "given": "Laura"
       },
       {
-        "family": "Rodríguez",
-        "given": "María Helena Olaya"
+        "family": "Olaya Rodríguez",
+        "given": "María Helena"
       },
       {
         "family": "Röösli",
@@ -1191,7 +1191,7 @@
       },
       {
         "family": "Schuman",
-        "given": "Meredith Christine"
+        "given": "Meredith"
       },
       {
         "family": "Selmoni",
@@ -1212,7 +1212,7 @@
       },
       {
         "family": "Valencia",
-        "given": "Erika Suarez"
+        "given": "Erika"
       },
       {
         "family": "Valentin",
@@ -1227,14 +1227,15 @@
         "given": "Juan"
       },
       {
-        "family": "Murcia",
-        "given": "María Cecilia Londoño"
+        "family": "Londoño Murcia",
+        "given": "María Cecilia"
       },
       {
         "family": "Gonzalez",
         "given": "Andrew"
       }
     ],
+    "container-title": "EcoEvoRxiv",
     "id": "Griffith2024",
     "issued": {
       "date-parts": [
@@ -1245,7 +1246,6 @@
         ]
       ]
     },
-    "publisher": "EcoEvoRxiv",
     "title": "BON in a box: An open and collaborative platform for biodiversity monitoring, indicator calculation, and reporting",
     "title-short": "BON in a box",
     "type": "article-journal"
@@ -1459,6 +1459,175 @@
       ]
     },
     "title": "Vaccination and immigration rates influence raccoon rabies elimination and recolonization in simulated urban-suburban landscapes",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1038/s41597-025-05332-x",
+    "author": [
+      {
+        "family": "Schwantes",
+        "given": "Collin J"
+      },
+      {
+        "family": "Sánchez",
+        "given": "Cecilia A"
+      },
+      {
+        "family": "Stevens",
+        "given": "Tess"
+      },
+      {
+        "family": "Zimmerman",
+        "given": "Ryan"
+      },
+      {
+        "family": "Albery",
+        "given": "Greg"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Brookson",
+        "given": "Cole B"
+      },
+      {
+        "family": "Kading",
+        "given": "Rebekah C"
+      },
+      {
+        "family": "Keiser",
+        "given": "Carl N"
+      },
+      {
+        "family": "Khandelwal",
+        "given": "Shashank"
+      },
+      {
+        "family": "Kramer-Schadt",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Krut-Landau",
+        "given": "Raphael"
+      },
+      {
+        "family": "McKee",
+        "given": "Clifton"
+      },
+      {
+        "family": "Montecino-Latorre",
+        "given": "Diego"
+      },
+      {
+        "family": "O’Donoghue",
+        "given": "Zoe"
+      },
+      {
+        "family": "Olson",
+        "given": "Sarah H"
+      },
+      {
+        "family": "O’Shea",
+        "given": "Mika"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Robertson",
+        "given": "Hailey"
+      },
+      {
+        "family": "Ryan",
+        "given": "Sadie J"
+      },
+      {
+        "family": "Seifert",
+        "given": "Stephanie N"
+      },
+      {
+        "family": "Simons",
+        "given": "David"
+      },
+      {
+        "family": "Vicente-Santos",
+        "given": "Amanda"
+      },
+      {
+        "family": "Wood",
+        "given": "Chelsea L"
+      },
+      {
+        "family": "Graeden",
+        "given": "Ellie"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "container-title": "Scientific data",
+    "id": "Schwantes2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          21
+        ]
+      ]
+    },
+    "page": "1-9",
+    "publisher": "Nature Publishing Group",
+    "title": "A minimum data standard for wildlife disease research and surveillance",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "DOI": "10.1093/biosci/biaf091",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Becker",
+        "given": "Daniel J"
+      },
+      {
+        "family": "Catchen",
+        "given": "Michael D"
+      },
+      {
+        "family": "Gibb",
+        "given": "Rory"
+      },
+      {
+        "family": "Shimabukuro",
+        "given": "Paloma H F"
+      },
+      {
+        "family": "Carlson",
+        "given": "Colin J"
+      }
+    ],
+    "container-title": "Bioscience",
+    "id": "Poisot2025a",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          24
+        ]
+      ]
+    },
+    "page": "biaf091",
+    "publisher": "Oxford University Press",
+    "title": "Biodiversity science and biosurveillance are fellow travelers",
     "type": "article-journal"
   }
 ]
