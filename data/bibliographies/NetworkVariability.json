@@ -1,6 +1,5 @@
 [
   {
-    "DOI": "10.32942/x28g8z",
     "author": [
       {
         "family": "Banville",
@@ -51,17 +50,18 @@
         "given": "Timothée"
       }
     ],
-    "container-title": "EcoEvoRxiv",
-    "id": "Banville2024",
+    "container-title": "Ecology letters",
+    "id": "Banville2025",
     "issued": {
       "date-parts": [
         [
-          2024,
-          7,
-          23
+          2025,
+          6,
+          26
         ]
       ]
     },
+    "publisher": "California Digital Library (CDL)",
     "title": "Deciphering probabilistic species interaction networks",
     "type": "article-journal"
   },
