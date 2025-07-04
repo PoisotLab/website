@@ -25,6 +25,38 @@
     "volume": "1"
   },
   {
+    "DOI": "10.24072/pci.ecology.100765",
+    "author": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "container-title": "Peer community in ecology",
+    "editor": [
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      }
+    ],
+    "id": "Poisot2025b",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          4
+        ]
+      ]
+    },
+    "page": "100765",
+    "publisher": "Peer Community In",
+    "title": "Recommendation of: Trait matching without traits: Using correspondence analysis to investigate the latent structure of interaction networks",
+    "title-short": "Recommendation of",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
     "DOI": "10.1080/01621459.2024.2343459",
     "author": [
       {
